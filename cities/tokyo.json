@@ -1,43 +1,85 @@
 {
-  "destination": "Tokyo",
-  "travelStyle": "Cultural",
-  "weatherCondition": "Cloudy",
-  "days": [
+  "id": "city-tokyo-001",
+  "cityName": "Tokyo",
+  "country": "Japan",
+  "activities": [
     {
-      "dayNumber": 1,
-      "theme": "Arrival and Akihabara",
-      "activities": [
-        {
-          "time": "Afternoon",
-          "description": "Explore Akihabara Electric Town",
-          "location": "Akihabara",
-          "recommendedItems": ["Comfortable Shoes", "Camera", "Yen Cash"]
-        },
-        {
-          "time": "Evening",
-          "description": "Dinner at a local Izakaya",
-          "location": "Shinjuku",
-          "recommendedItems": ["Light Jacket"]
-        }
-      ]
+      "id": "act-tok-001",
+      "activityName": "Akihabara Electric Town",
+      "category": "shopping",
+      "timeBlock": "afternoon",
+      "durationMinutes": 180,
+      "budgetScore": 7,
+      "relaxedScore": 4,
+      "adventureScore": 6,
+      "familyScore": 8,
+      "balancedScore": 8,
+      "packingTags": ["comfortable shoes", "camera", "yen cash"]
     },
     {
-      "dayNumber": 2,
-      "theme": "Traditional Tokyo",
-      "activities": [
-        {
-          "time": "Morning",
-          "description": "Visit Senso-ji Temple",
-          "location": "Asakusa",
-          "recommendedItems": ["Modest Clothing", "Water Bottle"]
-        },
-        {
-          "time": "Afternoon",
-          "description": "Stroll through Ueno Park",
-          "location": "Ueno",
-          "recommendedItems": ["Walking Shoes", "Sunglasses"]
-        }
-      ]
+      "id": "act-tok-002",
+      "activityName": "Senso-ji Temple",
+      "category": "culture",
+      "timeBlock": "morning",
+      "durationMinutes": 90,
+      "budgetScore": 9,
+      "relaxedScore": 6,
+      "adventureScore": 2,
+      "familyScore": 9,
+      "balancedScore": 8,
+      "packingTags": ["modest clothing", "camera"]
+    },
+    {
+      "id": "act-tok-003",
+      "activityName": "Shinjuku Gyoen National Garden",
+      "category": "relaxation",
+      "timeBlock": "afternoon",
+      "durationMinutes": 120,
+      "budgetScore": 8,
+      "relaxedScore": 10,
+      "adventureScore": 2,
+      "familyScore": 9,
+      "balancedScore": 7,
+      "packingTags": ["walking shoes", "sunglasses"]
+    },
+    {
+      "id": "act-tok-004",
+      "activityName": "Shibuya Crossing",
+      "category": "sightseeing",
+      "timeBlock": "evening",
+      "durationMinutes": 45,
+      "budgetScore": 10,
+      "relaxedScore": 3,
+      "adventureScore": 5,
+      "familyScore": 8,
+      "balancedScore": 8,
+      "packingTags": ["camera"]
+    },
+    {
+      "id": "act-tok-005",
+      "activityName": "Meiji Jingu Shrine",
+      "category": "culture",
+      "timeBlock": "morning",
+      "durationMinutes": 90,
+      "budgetScore": 9,
+      "relaxedScore": 8,
+      "adventureScore": 3,
+      "familyScore": 9,
+      "balancedScore": 8,
+      "packingTags": ["comfortable shoes"]
+    },
+    {
+      "id": "act-tok-006",
+      "activityName": "Tsukiji Outer Market",
+      "category": "food",
+      "timeBlock": "morning",
+      "durationMinutes": 120,
+      "budgetScore": 7,
+      "relaxedScore": 5,
+      "adventureScore": 4,
+      "familyScore": 8,
+      "balancedScore": 7,
+      "packingTags": ["yen cash"]
     }
   ]
 }

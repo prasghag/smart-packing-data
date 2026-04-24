@@ -1,25 +1,85 @@
 {
-  "destination": "Paris",
-  "travelStyle": "Romantic",
-  "weatherCondition": "Sunny",
-  "days": [
+  "id": "city-paris-001",
+  "cityName": "Paris",
+  "country": "France",
+  "activities": [
     {
-      "dayNumber": 1,
-      "theme": "Eiffel and Seine",
-      "activities": [
-        {
-          "time": "Morning",
-          "description": "Visit the Eiffel Tower",
-          "location": "Champ de Mars",
-          "recommendedItems": ["Camera", "Comfortable Shoes"]
-        },
-        {
-          "time": "Evening",
-          "description": "Seine River Cruise",
-          "location": "Port de la Bourdonnais",
-          "recommendedItems": ["Light Jacket", "Scarf"]
-        }
-      ]
+      "id": "act-par-001",
+      "activityName": "Eiffel Tower Visit",
+      "category": "sightseeing",
+      "timeBlock": "morning",
+      "durationMinutes": 120,
+      "budgetScore": 7,
+      "relaxedScore": 5,
+      "adventureScore": 3,
+      "familyScore": 9,
+      "balancedScore": 8,
+      "packingTags": ["camera", "comfortable shoes"]
+    },
+    {
+      "id": "act-par-002",
+      "activityName": "Louvre Museum Tour",
+      "category": "culture",
+      "timeBlock": "afternoon",
+      "durationMinutes": 180,
+      "budgetScore": 6,
+      "relaxedScore": 4,
+      "adventureScore": 2,
+      "familyScore": 8,
+      "balancedScore": 7,
+      "packingTags": ["comfortable shoes"]
+    },
+    {
+      "id": "act-par-003",
+      "activityName": "Seine River Cruise",
+      "category": "sightseeing",
+      "timeBlock": "evening",
+      "durationMinutes": 60,
+      "budgetScore": 5,
+      "relaxedScore": 9,
+      "adventureScore": 3,
+      "familyScore": 8,
+      "balancedScore": 8,
+      "packingTags": ["light jacket", "camera"]
+    },
+    {
+      "id": "act-par-004",
+      "activityName": "Notre-Dame Cathedral",
+      "category": "sightseeing",
+      "timeBlock": "morning",
+      "durationMinutes": 60,
+      "budgetScore": 9,
+      "relaxedScore": 6,
+      "adventureScore": 2,
+      "familyScore": 7,
+      "balancedScore": 7,
+      "packingTags": ["modest clothing"]
+    },
+    {
+      "id": "act-par-005",
+      "activityName": "Montmartre Walk",
+      "category": "sightseeing",
+      "timeBlock": "afternoon",
+      "durationMinutes": 120,
+      "budgetScore": 8,
+      "relaxedScore": 6,
+      "adventureScore": 5,
+      "familyScore": 7,
+      "balancedScore": 7,
+      "packingTags": ["comfortable shoes"]
+    },
+    {
+      "id": "act-par-006",
+      "activityName": "Arc de Triomphe",
+      "category": "sightseeing",
+      "timeBlock": "morning",
+      "durationMinutes": 45,
+      "budgetScore": 8,
+      "relaxedScore": 5,
+      "adventureScore": 4,
+      "familyScore": 8,
+      "balancedScore": 7,
+      "packingTags": ["camera"]
     }
   ]
 }
