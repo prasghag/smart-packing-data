@@ -1,0 +1,183 @@
+{
+  "city_name": "Singapore",
+  "country": "Singapore",
+  "activities": [
+    {
+      "activity_name": "Gardens by the Bay",
+      "category": "Sightseeing",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "water bottle",
+        "light jacket"
+      ]
+    },
+    {
+      "activity_name": "Hawker Centre Food Tour (e.g., Maxwell Food Centre)",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 1,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable clothes",
+        "cash",
+        "water bottle",
+        "wet wipes"
+      ]
+    },
+    {
+      "activity_name": "Universal Studios Singapore",
+      "category": "Adventure",
+      "duration_minutes": 360,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 5,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "hat",
+        "sunscreen",
+        "water bottle",
+        "quick-dry clothes"
+      ]
+    },
+    {
+      "activity_name": "Relax on Sentosa Island Beaches (Palawan/Siloso)",
+      "category": "Relaxation",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "towel",
+        "sunscreen",
+        "hat",
+        "sunglasses",
+        "flip-flops"
+      ]
+    },
+    {
+      "activity_name": "Shopping Spree on Orchard Road",
+      "category": "Shopping",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "credit cards",
+        "reusable shopping bag",
+        "light jacket"
+      ]
+    },
+    {
+      "activity_name": "Explore Chinatown Heritage Centre & Area",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "water bottle"
+      ]
+    },
+    {
+      "activity_name": "Marina Bay Sands Skypark Observation Deck",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable shoes"
+      ]
+    },
+    {
+      "activity_name": "Night Safari at Singapore Zoo",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "insect repellent",
+        "camera",
+        "light rain jacket"
+      ]
+    },
+    {
+      "activity_name": "Discover Peranakan Culture in Joo Chiat/Katong",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "water bottle",
+        "light umbrella"
+      ]
+    },
+    {
+      "activity_name": "Ride the Singapore Flyer",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "city_name": "Chennai",
+  "country": "India",
+  "activities": [
+    {
+      "activity_name": "Explore Marina Beach",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 1,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "sunscreen",
+        "hat",
+        "comfortable shoes"
+      ]
+    },
+    {
+      "activity_name": "Visit Kapaleeshwarar Temple",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 1,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest clothing",
+        "camera",
+        "water bottle"
+      ]
+    },
+    {
+      "activity_name": "Authentic South Indian Breakfast",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 1,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "cash",
+        "empty stomach"
+      ]
+    },
+    {
+      "activity_name": "Discover Fort St. George & Museums",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "water bottle",
+        "comfortable shoes"
+      ]
+    },
+    {
+      "activity_name": "Bargain Hunt at T. Nagar",
+      "category": "Shopping",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "shopping bag",
+        "cash",
+        "comfortable shoes"
+      ]
+    },
+    {
+      "activity_name": "Ayurvedic Spa Treatment",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 1,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable clothes"
+      ]
+    },
+    {
+      "activity_name": "Attend a Bharatanatyam Performance",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "dressy casual wear",
+        "camera (check policy)"
+      ]
+    },
+    {
+      "activity_name": "Kayaking at Muttukadu Boathouse",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "swimwear",
+        "sunscreen",
+        "change of clothes",
+        "water bottle"
+      ]
+    },
+    {
+      "activity_name": "Seafood Dinner at ECR Beachside",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "casual wear",
+        "cash/card"
+      ]
+    },
+    {
+      "activity_name": "Stroll through San Thome Basilica",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 1,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest clothing",
+        "camera"
+      ]
+    }
+  ]
+}

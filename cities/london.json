@@ -1,0 +1,179 @@
+{
+  "city_name": "London",
+  "country": "United Kingdom",
+  "activities": [
+    {
+      "activity_name": "Explore the Tower of London & Crown Jewels",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "water bottle",
+        "rain jacket"
+      ]
+    },
+    {
+      "activity_name": "Indulge at Borough Market",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "reusable bag",
+        "appetite",
+        "cash/card",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Thames River Speedboat Adventure",
+      "category": "Adventure",
+      "duration_minutes": 50,
+      "scores": {
+        "budget": 4,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "secure clothing",
+        "waterproof jacket",
+        "camera (secure strap)"
+      ]
+    },
+    {
+      "activity_name": "Stroll through Regent's Park & Rose Garden",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "picnic blanket",
+        "book",
+        "sunscreen",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Explore Oxford & Regent Street Shops",
+      "category": "Shopping",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "reusable shopping bag",
+        "card/cash",
+        "rain jacket"
+      ]
+    },
+    {
+      "activity_name": "Discover Ancient Wonders at the British Museum",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 1,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "water bottle",
+        "camera",
+        "small backpack"
+      ]
+    },
+    {
+      "activity_name": "See London from the London Eye",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "camera",
+        "booking confirmation"
+      ]
+    },
+    {
+      "activity_name": "Enjoy Traditional Afternoon Tea",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "smart casual attire",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Climb The O2 for Panoramic Views",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable closed-toe shoes",
+        "camera (secure)",
+        "layered clothing"
+      ]
+    },
+    {
+      "activity_name": "Experience a West End Theatre Show",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "smart casual attire",
+        "ticket confirmation"
+      ]
+    }
+  ]
+}

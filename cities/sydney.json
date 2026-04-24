@@ -1,0 +1,181 @@
+{
+  "city_name": "Sydney",
+  "country": "Australia",
+  "activities": [
+    {
+      "activity_name": "Explore Sydney Opera House & Harbour Bridge",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "water bottle"
+      ]
+    },
+    {
+      "activity_name": "Bondi to Coogee Coastal Walk",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 1,
+        "relaxed": 3,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "sunscreen",
+        "hat",
+        "swimsuit",
+        "water bottle"
+      ]
+    },
+    {
+      "activity_name": "Culinary Journey in The Rocks & Circular Quay",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "smart casual attire",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Stroll Through Royal Botanic Garden Sydney",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "hat",
+        "sunscreen",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Shopping & Architecture at Queen Victoria Building",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "credit card",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Immerse in Art at Art Gallery of New South Wales",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "notebook"
+      ]
+    },
+    {
+      "activity_name": "Wildlife Encounter at Taronga Zoo Sydney",
+      "category": "Sightseeing",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "sunscreen",
+        "hat",
+        "camera",
+        "water bottle"
+      ]
+    },
+    {
+      "activity_name": "Conquer the Sydney Harbour Bridge Climb",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable clothes",
+        "closed-toe shoes"
+      ]
+    },
+    {
+      "activity_name": "Fresh Seafood Feast at Sydney Fish Market",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "casual clothes",
+        "cash/card",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Relax at Manly Beach via Scenic Ferry",
+      "category": "Relaxation",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "swimsuit",
+        "towel",
+        "sunscreen",
+        "hat",
+        "comfortable shoes",
+        "ferry ticket/Opal card"
+      ]
+    }
+  ]
+}

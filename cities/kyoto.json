@@ -1,0 +1,172 @@
+{
+  "city_name": "Kyoto",
+  "country": "Japan",
+  "activities": [
+    {
+      "activity_name": "Kinkaku-ji (Golden Pavilion) Visit",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable shoes"
+      ]
+    },
+    {
+      "activity_name": "Nishiki Market Food Exploration",
+      "category": "Food",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "reusable bag",
+        "empty stomach"
+      ]
+    },
+    {
+      "activity_name": "Fushimi Inari-taisha Shrine Hike",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "water bottle",
+        "sunscreen",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Arashiyama Bamboo Grove & Tenryu-ji Temple",
+      "category": "Relaxation",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable shoes",
+        "insect repellent"
+      ]
+    },
+    {
+      "activity_name": "Gion District Evening Stroll & Geisha Spotting",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "camera",
+        "respectful attire"
+      ]
+    },
+    {
+      "activity_name": "Traditional Japanese Tea Ceremony Experience",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "open mind",
+        "empty stomach"
+      ]
+    },
+    {
+      "activity_name": "Kiyomizu-dera Temple & Higashiyama District Exploration",
+      "category": "Sightseeing",
+      "duration_minutes": 210,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "reusable water bottle"
+      ]
+    },
+    {
+      "activity_name": "Kyoto Handicraft Center Shopping",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "cash",
+        "credit card",
+        "shopping bag"
+      ]
+    },
+    {
+      "activity_name": "Enjoy a Kaiseki Multi-Course Dinner",
+      "category": "Food",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "smart casual attire",
+        "appetite"
+      ]
+    },
+    {
+      "activity_name": "Visit Ryoan-ji Temple Zen Garden",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "meditative mood",
+        "camera (optional)"
+      ]
+    }
+  ]
+}

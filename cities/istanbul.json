@@ -1,0 +1,176 @@
+{
+  "city_name": "Istanbul",
+  "country": "Turkey",
+  "activities": [
+    {
+      "activity_name": "Visit Hagia Sophia & Blue Mosque",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "modest clothing",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Explore the Grand Bazaar",
+      "category": "Shopping",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "shopping bag",
+        "negotiation skills"
+      ]
+    },
+    {
+      "activity_name": "Bosphorus Sunset Cruise",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "light jacket",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Experience a Traditional Turkish Hamam",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "change of clothes",
+        "modesty"
+      ]
+    },
+    {
+      "activity_name": "Street Food Tour & Spice Bazaar Exploration",
+      "category": "Food",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "empty stomach",
+        "comfortable shoes",
+        "small bag"
+      ]
+    },
+    {
+      "activity_name": "Discover Topkapi Palace & Harem",
+      "category": "Culture",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "modest clothing"
+      ]
+    },
+    {
+      "activity_name": "Attend a Whirling Dervishes Performance",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "respectful attire",
+        "quiet demeanor"
+      ]
+    },
+    {
+      "activity_name": "Day Trip to Princes' Islands (Büyükada)",
+      "category": "Adventure",
+      "duration_minutes": 480,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "sunscreen",
+        "hat",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Galata Tower Climb & Surrounding Neighborhood Exploration",
+      "category": "Sightseeing",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "water bottle"
+      ]
+    },
+    {
+      "activity_name": "Kadikoy Market & Asian Side Ferry Ride",
+      "category": "Food",
+      "duration_minutes": 300,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "reusable bag",
+        "camera",
+        "appetite"
+      ]
+    }
+  ]
+}

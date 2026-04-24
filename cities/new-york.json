@@ -1,0 +1,182 @@
+{
+  "city_name": "New York",
+  "country": "United States",
+  "activities": [
+    {
+      "activity_name": "Visit Statue of Liberty & Ellis Island",
+      "category": "Sightseeing",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "water bottle",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Greenwich Village Food Tour",
+      "category": "Food",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "walking shoes",
+        "empty stomach",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Kayaking on the Hudson River (seasonal)",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "swimsuit",
+        "water shoes",
+        "towel",
+        "change of clothes",
+        "waterproof phone case"
+      ]
+    },
+    {
+      "activity_name": "Picnic and Stroll in Central Park",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "picnic blanket",
+        "book",
+        "snacks",
+        "comfortable shoes",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Shopping in SoHo Boutiques",
+      "category": "Shopping",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "credit card",
+        "comfortable shoes",
+        "reusable shopping bag"
+      ]
+    },
+    {
+      "activity_name": "Explore The Metropolitan Museum of Art (The Met)",
+      "category": "Culture",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "water bottle",
+        "small backpack"
+      ]
+    },
+    {
+      "activity_name": "Visit Top of the Rock Observation Deck",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "jacket (can be windy)",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Taste of Chelsea Market",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "reusable bag",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Attend a Broadway Show",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "nice attire (optional)",
+        "tickets",
+        "small bag"
+      ]
+    },
+    {
+      "activity_name": "Walk the Brooklyn Bridge & Explore DUMBO",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 1,
+        "relaxed": 3,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "water bottle",
+        "sunglasses"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "city_name": "Kolkata",
+  "country": "India",
+  "activities": [
+    {
+      "activity_name": "Victoria Memorial Hall Visit",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable shoes",
+        "water bottle",
+        "ID card"
+      ]
+    },
+    {
+      "activity_name": "Kolkata Street Food Tour (New Market/Dacres Lane)",
+      "category": "Food",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 1,
+        "relaxed": 3,
+        "adventure": 3,
+        "family": 3,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "wet wipes",
+        "small change",
+        "antacid (optional)",
+        "empty stomach"
+      ]
+    },
+    {
+      "activity_name": "Kumartuli Potters' Village Exploration",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 1,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable shoes",
+        "notebook",
+        "modest attire"
+      ]
+    },
+    {
+      "activity_name": "Howrah Bridge and Malik Ghat Flower Market Walk",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 1,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable shoes",
+        "water bottle",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Acharya Jagadish Chandra Bose Indian Botanic Garden Leisure",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hat",
+        "sunglasses",
+        "water bottle",
+        "insect repellent",
+        "picnic mat"
+      ]
+    },
+    {
+      "activity_name": "Gariahat Market Shopping Spree",
+      "category": "Shopping",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "shopping bags",
+        "small change",
+        "comfortable shoes",
+        "bargaining skills"
+      ]
+    },
+    {
+      "activity_name": "Authentic Bengali Fine Dining Experience",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "smart casual attire",
+        "appetite",
+        "reservation (recommended)"
+      ]
+    },
+    {
+      "activity_name": "North Kolkata Heritage Walk & Photography Tour",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 1,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "water bottle",
+        "camera",
+        "guidebook/map"
+      ]
+    },
+    {
+      "activity_name": "Indian Museum Exploration",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "water bottle",
+        "notebook",
+        "audio guide"
+      ]
+    },
+    {
+      "activity_name": "Eco Park Boating and Leisure Activities",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hat",
+        "sunglasses",
+        "water bottle",
+        "camera",
+        "snacks"
+      ]
+    }
+  ]
+}

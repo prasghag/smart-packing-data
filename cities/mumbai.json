@@ -1,0 +1,177 @@
+{
+  "city_name": "Mumbai",
+  "country": "India",
+  "activities": [
+    {
+      "activity_name": "Explore Gateway of India & Taj Mahal Palace Hotel",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable shoes",
+        "water bottle"
+      ]
+    },
+    {
+      "activity_name": "Visit Elephanta Caves via Ferry",
+      "category": "Culture",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "sun hat",
+        "comfortable shoes",
+        "water bottle",
+        "camera",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Indulge in a Mumbai Street Food Tour",
+      "category": "Food",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "hand sanitizer",
+        "comfortable shoes"
+      ]
+    },
+    {
+      "activity_name": "Stroll along Marine Drive (Queen's Necklace)",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Shop at Colaba Causeway Market",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "shopping bag",
+        "bargaining skills",
+        "comfortable shoes"
+      ]
+    },
+    {
+      "activity_name": "Explore Sanjay Gandhi National Park & Kanheri Caves",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "insect repellent",
+        "sturdy shoes",
+        "water bottle",
+        "binoculars",
+        "sun hat"
+      ]
+    },
+    {
+      "activity_name": "Discover Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (CSMVS Museum)",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "curiosity"
+      ]
+    },
+    {
+      "activity_name": "Admire Chhatrapati Shivaji Terminus (CST) Architecture",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable shoes",
+        "guide book"
+      ]
+    },
+    {
+      "activity_name": "Experience Fine Dining at an Upscale Restaurant",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 1,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "smart casual attire",
+        "reservation"
+      ]
+    },
+    {
+      "activity_name": "Attend a Yoga or Meditation Session",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable attire",
+        "open mind"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "city_name": "Shimla",
+  "country": "India",
+  "activities": [
+    {
+      "activity_name": "Explore The Ridge and Christ Church",
+      "category": "Sightseeing",
+      "duration_minutes": 100,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "Comfortable shoes",
+        "Camera",
+        "Light jacket"
+      ]
+    },
+    {
+      "activity_name": "Visit Jakhu Temple (Hanuman Temple)",
+      "category": "Sightseeing",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "Comfortable shoes",
+        "Water bottle",
+        "Camera",
+        "Sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Local Food Walk on Mall Road",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "Empty stomach",
+        "Small bag",
+        "Cash"
+      ]
+    },
+    {
+      "activity_name": "Experience Kalka-Shimla Toy Train Ride",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "Camera",
+        "Snacks",
+        "Warm layers",
+        "Book"
+      ]
+    },
+    {
+      "activity_name": "Relax with a Spa and Wellness Session",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "Comfortable clothes",
+        "Toiletries",
+        "Booking confirmation"
+      ]
+    },
+    {
+      "activity_name": "Shop for Wooden Crafts at Lakkar Bazaar",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "Cash",
+        "Shopping bag",
+        "Bargaining skills"
+      ]
+    },
+    {
+      "activity_name": "Explore Indian Institute of Advanced Study",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "Camera",
+        "Walking shoes",
+        "ID",
+        "Light jacket"
+      ]
+    },
+    {
+      "activity_name": "Trek to Chadwick Falls",
+      "category": "Adventure",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 2,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "Hiking shoes",
+        "Water bottle",
+        "Rain jacket",
+        "Camera",
+        "Insect repellent"
+      ]
+    },
+    {
+      "activity_name": "Savor a Traditional Himachali Thali",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "Empty stomach",
+        "Cash"
+      ]
+    },
+    {
+      "activity_name": "Enjoy an Evening Stroll on Mall Road",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "Light jacket",
+        "Comfortable shoes",
+        "Camera"
+      ]
+    }
+  ]
+}

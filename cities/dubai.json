@@ -1,0 +1,174 @@
+{
+  "city_name": "Dubai",
+  "country": "United Arab Emirates",
+  "activities": [
+    {
+      "activity_name": "Visit Burj Khalifa At The Top Observation Deck",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable shoes"
+      ]
+    },
+    {
+      "activity_name": "Desert Safari with Dune Bashing, Camel Ride & BBQ Dinner",
+      "category": "Adventure",
+      "duration_minutes": 360,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunglasses",
+        "hat",
+        "light clothing",
+        "camera",
+        "closed-toe shoes"
+      ]
+    },
+    {
+      "activity_name": "Shopping Extravaganza at The Dubai Mall",
+      "category": "Shopping",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "credit card",
+        "shopping bag"
+      ]
+    },
+    {
+      "activity_name": "Explore Al Fahidi Historical Neighborhood & Dubai Museum",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "water bottle"
+      ]
+    },
+    {
+      "activity_name": "Relaxation Day at Jumeirah Public Beach",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimsuit",
+        "sunscreen",
+        "towel",
+        "hat",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Experience Traditional Emirati Cuisine",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable attire",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Watch The Dubai Fountain Show",
+      "category": "Sightseeing",
+      "duration_minutes": 30,
+      "scores": {
+        "budget": 1,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Skydiving over Palm Jumeirah with Skydive Dubai",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 1,
+        "balanced": 2
+      },
+      "packing_tags": [
+        "comfortable athletic clothing",
+        "closed-toe shoes"
+      ]
+    },
+    {
+      "activity_name": "Indulge in a Luxury Spa Treatment",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 1,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable clothing",
+        "swimsuit (for facilities)"
+      ]
+    },
+    {
+      "activity_name": "Dhow Cruise Dinner on Dubai Creek",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "light jacket (evenings)",
+        "comfortable attire"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "city_name": "Goa",
+  "country": "India",
+  "activities": [
+    {
+      "activity_name": "Explore Old Goa Churches",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "hat",
+        "water bottle"
+      ]
+    },
+    {
+      "activity_name": "Dinner at a Beach Shack",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "light clothing",
+        "cash",
+        "mosquito repellent"
+      ]
+    },
+    {
+      "activity_name": "Water Sports at Baga Beach",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "swimsuit",
+        "sunscreen",
+        "towel",
+        "extra change of clothes"
+      ]
+    },
+    {
+      "activity_name": "Rejuvenating Spa Day or Yoga Session",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable clothes",
+        "yoga mat (optional)",
+        "water bottle"
+      ]
+    },
+    {
+      "activity_name": "Shopping at Anjuna Flea Market",
+      "category": "Shopping",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "cash",
+        "reusable bag",
+        "sunglasses",
+        "hat",
+        "comfortable shoes"
+      ]
+    },
+    {
+      "activity_name": "Goan Spice Plantation Tour",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "insect repellent",
+        "hat",
+        "water bottle"
+      ]
+    },
+    {
+      "activity_name": "Dudhsagar Waterfalls Excursion",
+      "category": "Sightseeing",
+      "duration_minutes": 480,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 3,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "swimsuit",
+        "towel",
+        "waterproof bag",
+        "snacks",
+        "camera",
+        "comfortable shoes"
+      ]
+    },
+    {
+      "activity_name": "Savor a Traditional Goan Thali",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "empty stomach",
+        "camera (for food pics)"
+      ]
+    },
+    {
+      "activity_name": "Scuba Diving or Snorkeling at Grand Island",
+      "category": "Adventure",
+      "duration_minutes": 360,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "swimsuit",
+        "sunscreen",
+        "towel",
+        "change of clothes",
+        "waterproof phone case"
+      ]
+    },
+    {
+      "activity_name": "Mandovi River Sunset Cruise",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "light jacket (for evening breeze)",
+        "cash"
+      ]
+    }
+  ]
+}
