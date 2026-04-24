@@ -1,0 +1,25 @@
+{
+  "destination": "Paris",
+  "travelStyle": "Romantic",
+  "weatherCondition": "Sunny",
+  "days": [
+    {
+      "dayNumber": 1,
+      "theme": "Eiffel and Seine",
+      "activities": [
+        {
+          "time": "Morning",
+          "description": "Visit the Eiffel Tower",
+          "location": "Champ de Mars",
+          "recommendedItems": ["Camera", "Comfortable Shoes"]
+        },
+        {
+          "time": "Evening",
+          "description": "Seine River Cruise",
+          "location": "Port de la Bourdonnais",
+          "recommendedItems": ["Light Jacket", "Scarf"]
+        }
+      ]
+    }
+  ]
+}

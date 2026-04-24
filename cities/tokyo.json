@@ -1,0 +1,43 @@
+{
+  "destination": "Tokyo",
+  "travelStyle": "Cultural",
+  "weatherCondition": "Cloudy",
+  "days": [
+    {
+      "dayNumber": 1,
+      "theme": "Arrival and Akihabara",
+      "activities": [
+        {
+          "time": "Afternoon",
+          "description": "Explore Akihabara Electric Town",
+          "location": "Akihabara",
+          "recommendedItems": ["Comfortable Shoes", "Camera", "Yen Cash"]
+        },
+        {
+          "time": "Evening",
+          "description": "Dinner at a local Izakaya",
+          "location": "Shinjuku",
+          "recommendedItems": ["Light Jacket"]
+        }
+      ]
+    },
+    {
+      "dayNumber": 2,
+      "theme": "Traditional Tokyo",
+      "activities": [
+        {
+          "time": "Morning",
+          "description": "Visit Senso-ji Temple",
+          "location": "Asakusa",
+          "recommendedItems": ["Modest Clothing", "Water Bottle"]
+        },
+        {
+          "time": "Afternoon",
+          "description": "Stroll through Ueno Park",
+          "location": "Ueno",
+          "recommendedItems": ["Walking Shoes", "Sunglasses"]
+        }
+      ]
+    }
+  ]
+}
