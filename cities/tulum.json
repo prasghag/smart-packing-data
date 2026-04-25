@@ -1,0 +1,174 @@
+{
+  "city_name": "Tulum",
+  "country": "Mexico",
+  "activities": [
+    {
+      "activity_name": "Tulum Archaeological Ruins",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "sunscreen",
+        "hat",
+        "water_bottle",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Gran Cenote Snorkeling",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "snorkel_gear",
+        "towel"
+      ]
+    },
+    {
+      "activity_name": "Sian Ka'an Biosphere Reserve Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 360,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunscreen",
+        "camera",
+        "mosquito_repellent"
+      ]
+    },
+    {
+      "activity_name": "Playa Paraiso Beach Day",
+      "category": "Relaxation",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "swimwear",
+        "beach_towel",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Coba Ruins Jungle Bike Ride",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sportswear",
+        "water_bottle",
+        "mosquito_repellent"
+      ]
+    },
+    {
+      "activity_name": "Tulum Beach Club Relaxation",
+      "category": "Relaxation",
+      "duration_minutes": 300,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "swimwear",
+        "sunglasses",
+        "credit_card"
+      ]
+    },
+    {
+      "activity_name": "Matcha Cafe Hopping",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "casual_wear",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Boutique Shopping along Beach Road",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "credit_card",
+        "tote_bag"
+      ]
+    },
+    {
+      "activity_name": "Kaan Luum Lagoon Swimming",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "towel",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Cenote Dos Ojos Scuba Diving",
+      "category": "Adventure",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 2,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 1,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "swimwear",
+        "diving_certification"
+      ]
+    }
+  ]
+}

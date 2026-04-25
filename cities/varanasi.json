@@ -1,0 +1,165 @@
+{
+  "city_name": "Varanasi",
+  "country": "India",
+  "activities": [
+    {
+      "activity_name": "Dashashwamedh Ghat Evening Aarti",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "camera",
+        "hand_sanitizer"
+      ]
+    },
+    {
+      "activity_name": "Sunrise Boat Ride on the Ganges",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "camera",
+        "light_jacket"
+      ]
+    },
+    {
+      "activity_name": "Kashi Vishwanath Temple",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "passport"
+      ]
+    },
+    {
+      "activity_name": "Sarnath Day Tour (Buddha's First Sermon)",
+      "category": "Culture",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "sunscreen",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Banarasi Silk Weaver Village Walk",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Assi Ghat Evening Walk",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Blue Lassi Shop Visit",
+      "category": "Food",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Ramnagar Fort",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Manikarnika Ghat (Respectful Observation)",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 2,
+        "family": 1,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "no_camera_policy"
+      ]
+    },
+    {
+      "activity_name": "Banaras Hindu University (BHU) Campus Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes"
+      ]
+    }
+  ]
+}

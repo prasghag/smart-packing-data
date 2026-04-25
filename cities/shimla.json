@@ -3,177 +3,165 @@
   "country": "India",
   "activities": [
     {
-      "activity_name": "Explore The Ridge and Christ Church",
-      "category": "Sightseeing",
-      "duration_minutes": 100,
-      "scores": {
-        "budget": 2,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "Comfortable shoes",
-        "Camera",
-        "Light jacket"
-      ]
-    },
-    {
-      "activity_name": "Visit Jakhu Temple (Hanuman Temple)",
+      "activity_name": "Mall Road & The Ridge Walk",
       "category": "Sightseeing",
       "duration_minutes": 150,
       "scores": {
-        "budget": 2,
-        "relaxed": 3,
-        "adventure": 2,
-        "family": 3,
-        "balanced": 3
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
       },
       "packing_tags": [
-        "Comfortable shoes",
-        "Water bottle",
-        "Camera",
-        "Sunscreen"
+        "comfortable_shoes",
+        "camera",
+        "light_jacket"
       ]
     },
     {
-      "activity_name": "Local Food Walk on Mall Road",
-      "category": "Food",
+      "activity_name": "Jakhoo Temple Hike",
+      "category": "Adventure",
       "duration_minutes": 120,
       "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_shoes",
+        "water_bottle",
+        "monkey_awareness"
+      ]
+    },
+    {
+      "activity_name": "Kalka-Shimla Toy Train Ride",
+      "category": "Sightseeing",
+      "duration_minutes": 300,
+      "scores": {
         "budget": 3,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "camera",
+        "snacks",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Viceregal Lodge Tour",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
         "relaxed": 4,
         "adventure": 1,
         "family": 4,
         "balanced": 4
       },
       "packing_tags": [
-        "Empty stomach",
-        "Small bag",
-        "Cash"
+        "camera",
+        "comfortable_shoes"
       ]
     },
     {
-      "activity_name": "Experience Kalka-Shimla Toy Train Ride",
-      "category": "Adventure",
-      "duration_minutes": 180,
+      "activity_name": "Christ Church View",
+      "category": "Culture",
+      "duration_minutes": 30,
       "scores": {
-        "budget": 3,
-        "relaxed": 4,
-        "adventure": 3,
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "Camera",
-        "Snacks",
-        "Warm layers",
-        "Book"
+        "camera"
       ]
     },
     {
-      "activity_name": "Relax with a Spa and Wellness Session",
-      "category": "Relaxation",
-      "duration_minutes": 90,
+      "activity_name": "Chadwick Falls Trek",
+      "category": "Adventure",
+      "duration_minutes": 150,
       "scores": {
-        "budget": 4,
-        "relaxed": 5,
-        "adventure": 1,
-        "family": 2,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "Comfortable clothes",
-        "Toiletries",
-        "Booking confirmation"
-      ]
-    },
-    {
-      "activity_name": "Shop for Wooden Crafts at Lakkar Bazaar",
-      "category": "Shopping",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 3,
-        "relaxed": 3,
-        "adventure": 1,
-        "family": 3,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "Cash",
-        "Shopping bag",
-        "Bargaining skills"
-      ]
-    },
-    {
-      "activity_name": "Explore Indian Institute of Advanced Study",
-      "category": "Culture",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 2,
-        "relaxed": 3,
-        "adventure": 1,
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 4,
         "family": 3,
         "balanced": 4
       },
       "packing_tags": [
-        "Camera",
-        "Walking shoes",
-        "ID",
-        "Light jacket"
+        "hiking_shoes",
+        "water_bottle"
       ]
     },
     {
-      "activity_name": "Trek to Chadwick Falls",
+      "activity_name": "Kufri Snow & Adventure Day Trip",
       "category": "Adventure",
-      "duration_minutes": 150,
+      "duration_minutes": 360,
       "scores": {
-        "budget": 2,
+        "budget": 3,
         "relaxed": 2,
         "adventure": 4,
-        "family": 3,
-        "balanced": 3
+        "family": 5,
+        "balanced": 4
       },
       "packing_tags": [
-        "Hiking shoes",
-        "Water bottle",
-        "Rain jacket",
-        "Camera",
-        "Insect repellent"
+        "warm_sweater",
+        "sunglasses",
+        "gloves"
       ]
     },
     {
-      "activity_name": "Savor a Traditional Himachali Thali",
+      "activity_name": "Lakkar Bazaar Wooden Crafts Shopping",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag"
+      ]
+    },
+    {
+      "activity_name": "Green Valley Viewpoint",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "binoculars"
+      ]
+    },
+    {
+      "activity_name": "Cafe Simla Times Dining",
       "category": "Food",
       "duration_minutes": 90,
       "scores": {
         "budget": 3,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "Empty stomach",
-        "Cash"
-      ]
-    },
-    {
-      "activity_name": "Enjoy an Evening Stroll on Mall Road",
-      "category": "Relaxation",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 2,
         "relaxed": 5,
         "adventure": 1,
         "family": 4,
         "balanced": 4
       },
       "packing_tags": [
-        "Light jacket",
-        "Comfortable shoes",
-        "Camera"
+        "casual_wear"
       ]
     }
   ]

@@ -1,0 +1,172 @@
+{
+  "city_name": "Rishikesh",
+  "country": "India",
+  "activities": [
+    {
+      "activity_name": "Ganga Aarti at Triveni Ghat",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "camera",
+        "slip_on_shoes"
+      ]
+    },
+    {
+      "activity_name": "White Water Rafting",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "water_shoes",
+        "towel",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Beatles Ashram (Chaurasi Kutia)",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "camera",
+        "mosquito_repellent"
+      ]
+    },
+    {
+      "activity_name": "Laxman Jhula & Ram Jhula Walk",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Bungee Jumping at Mohan Chatti",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 1,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 1,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "closed_toe_shoes",
+        "comfortable_clothing",
+        "courage"
+      ]
+    },
+    {
+      "activity_name": "Yoga & Meditation Class",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_clothes",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Neer Garh Waterfall Hike",
+      "category": "Adventure",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_shoes",
+        "swimwear",
+        "towel"
+      ]
+    },
+    {
+      "activity_name": "Cafe Hopping by the Ganges",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "casual_wear",
+        "book"
+      ]
+    },
+    {
+      "activity_name": "Parmarth Niketan Ashram Visit",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing"
+      ]
+    },
+    {
+      "activity_name": "Kunjapuri Sunrise Trek",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_shoes",
+        "warm_sweater",
+        "flashlight"
+      ]
+    }
+  ]
+}

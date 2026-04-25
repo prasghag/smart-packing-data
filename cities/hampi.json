@@ -1,0 +1,170 @@
+{
+  "city_name": "Hampi",
+  "country": "India",
+  "activities": [
+    {
+      "activity_name": "Virupaksha Temple",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "camera",
+        "slip_on_shoes"
+      ]
+    },
+    {
+      "activity_name": "Vijaya Vittala Temple & Stone Chariot",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "sunscreen",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Matanga Hill Sunrise Trek",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 2,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_shoes",
+        "flashlight",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Hampi Bazaar Walk",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Elephant Stables",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Lotus Mahal Visit",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Coracle Ride on Tungabhadra River",
+      "category": "Adventure",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunglasses",
+        "hat",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Hippie Island (Anegundi) Exploration",
+      "category": "Relaxation",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 3,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "casual_wear",
+        "sunglasses",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Hemakuta Hill Sunset",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Queen's Bath Tour",
+      "category": "Culture",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "camera"
+      ]
+    }
+  ]
+}

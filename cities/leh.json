@@ -3,181 +3,165 @@
   "country": "India",
   "activities": [
     {
-      "activity_name": "Leh Palace & Shanti Stupa Tour",
-      "category": "Sightseeing",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 3,
-        "relaxed": 4,
-        "adventure": 2,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "Camera",
-        "Comfortable shoes",
-        "Water bottle",
-        "Sunscreen"
-      ]
-    },
-    {
-      "activity_name": "Visit Thiksey Monastery for Morning Prayer",
-      "category": "Culture",
-      "duration_minutes": 240,
-      "scores": {
-        "budget": 3,
-        "relaxed": 5,
-        "adventure": 1,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "Scarf",
-        "Camera",
-        "Water bottle",
-        "Warm layers"
-      ]
-    },
-    {
-      "activity_name": "Ladakhi Cuisine Food Tasting & Cafe Hopping",
-      "category": "Food",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 2,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 3,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "Empty stomach",
-        "Cash",
-        "Smartphone"
-      ]
-    },
-    {
-      "activity_name": "Day Trip to Khardung La Pass (World's Highest Motorable Road)",
-      "category": "Adventure",
-      "duration_minutes": 480,
-      "scores": {
-        "budget": 4,
-        "relaxed": 2,
-        "adventure": 5,
-        "family": 3,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "Warm clothes",
-        "Oxygen canister (optional)",
-        "Camera",
-        "Sunscreen",
-        "Water bottle"
-      ]
-    },
-    {
-      "activity_name": "Full Day Excursion to Pangong Lake",
+      "activity_name": "Pangong Tso Lake Day Trip",
       "category": "Sightseeing",
       "duration_minutes": 720,
       "scores": {
-        "budget": 4,
-        "relaxed": 4,
-        "adventure": 3,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "Warm layers",
-        "Sunglasses",
-        "Camera",
-        "Water bottle",
-        "Snacks"
-      ]
-    },
-    {
-      "activity_name": "White Water Rafting in Zanskar or Indus River",
-      "category": "Adventure",
-      "duration_minutes": 240,
-      "scores": {
-        "budget": 4,
-        "relaxed": 1,
-        "adventure": 5,
-        "family": 2,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "Swimsuit",
-        "Quick-dry clothes",
-        "Towel",
-        "Waterproof bag"
-      ]
-    },
-    {
-      "activity_name": "Exploring Leh Main Bazaar for Souvenirs & Handicrafts",
-      "category": "Shopping",
-      "duration_minutes": 150,
-      "scores": {
         "budget": 2,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 3,
-        "balanced": 4
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 5
       },
       "packing_tags": [
-        "Shopping bag",
-        "Cash",
-        "Bargaining skills"
+        "thermal_layers",
+        "sunglasses",
+        "camera",
+        "water_bottle"
       ]
     },
     {
-      "activity_name": "Traditional Ladakhi Cooking Class Experience",
-      "category": "Food",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 3,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 3,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "Apron (optional)",
-        "Notebook",
-        "Camera"
-      ]
-    },
-    {
-      "activity_name": "Yoga and Meditation Session with Mountain Views",
-      "category": "Relaxation",
+      "activity_name": "Shanti Stupa Sunset View",
+      "category": "Sightseeing",
       "duration_minutes": 90,
       "scores": {
-        "budget": 3,
-        "relaxed": 5,
-        "adventure": 1,
-        "family": 3,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "Yoga mat (if personal)",
-        "Comfortable clothing",
-        "Water bottle"
-      ]
-    },
-    {
-      "activity_name": "Visit Hemis Monastery & Museum",
-      "category": "Culture",
-      "duration_minutes": 240,
-      "scores": {
-        "budget": 3,
+        "budget": 5,
         "relaxed": 4,
         "adventure": 2,
         "family": 4,
         "balanced": 4
       },
       "packing_tags": [
-        "Camera",
-        "Scarf",
-        "Comfortable shoes",
-        "Water bottle"
+        "camera",
+        "windbreaker",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Leh Palace Tour",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Khardung La Pass Drive",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 2,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "heavy_jacket",
+        "gloves",
+        "altitude_medication"
+      ]
+    },
+    {
+      "activity_name": "Nubra Valley Double-Humped Camel Safari",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunscreen",
+        "sunglasses",
+        "hat"
+      ]
+    },
+    {
+      "activity_name": "Magnetic Hill Experience",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Thiksey Monastery Visit",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Hemis Monastery",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing"
+      ]
+    },
+    {
+      "activity_name": "Main Bazaar Shopping (Pashmina & Silver)",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag"
+      ]
+    },
+    {
+      "activity_name": "Tibetan Food Walk (Momos & Thukpa)",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "casual_wear"
       ]
     }
   ]

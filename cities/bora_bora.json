@@ -1,0 +1,171 @@
+{
+  "city_name": "Bora Bora",
+  "country": "French Polynesia",
+  "activities": [
+    {
+      "activity_name": "Mount Otemanu Boat Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "camera",
+        "sunscreen",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Shark & Ray Lagoon Snorkel",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "swimwear",
+        "snorkel_gear",
+        "underwater_camera"
+      ]
+    },
+    {
+      "activity_name": "Matira Beach Relaxation",
+      "category": "Relaxation",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "beach_towel",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Overwater Bungalow Lounging",
+      "category": "Relaxation",
+      "duration_minutes": 300,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "swimwear",
+        "book",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Jet Ski Island Tour",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 1,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "swimwear",
+        "sunglasses",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Sunset Catamaran Cruise",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "light_jacket"
+      ]
+    },
+    {
+      "activity_name": "Vaitape Village Shopping",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag"
+      ]
+    },
+    {
+      "activity_name": "Traditional Polynesian Dinner Show",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 1,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "casual_wear",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Scuba Diving the Reefs",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 1,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "swimwear",
+        "diving_certification"
+      ]
+    },
+    {
+      "activity_name": "Bloody Mary's Restaurant Dinner",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "casual_wear",
+        "appetite"
+      ]
+    }
+  ]
+}

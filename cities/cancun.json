@@ -1,0 +1,175 @@
+{
+  "city_name": "Cancun",
+  "country": "Mexico",
+  "activities": [
+    {
+      "activity_name": "Chichen Itza Day Trip",
+      "category": "Culture",
+      "duration_minutes": 600,
+      "scores": {
+        "budget": 2,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "sunscreen",
+        "hat",
+        "comfortable_shoes",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Isla Mujeres Catamaran Sail",
+      "category": "Relaxation",
+      "duration_minutes": 480,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "sunscreen",
+        "towel",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Cenote Swimming",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "towel",
+        "water_shoes"
+      ]
+    },
+    {
+      "activity_name": "Coco Bongo Nightclub Show",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 1,
+        "relaxed": 1,
+        "adventure": 4,
+        "family": 1,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "party_outfit",
+        "credit_card"
+      ]
+    },
+    {
+      "activity_name": "Hotel Zone Beach Relaxation",
+      "category": "Relaxation",
+      "duration_minutes": 300,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "beach_towel",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Xcaret Eco Theme Park",
+      "category": "Adventure",
+      "duration_minutes": 600,
+      "scores": {
+        "budget": 1,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "water_shoes",
+        "sunscreen",
+        "change_of_clothes"
+      ]
+    },
+    {
+      "activity_name": "Mercado 28 Shopping",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag",
+        "negotiation_skills"
+      ]
+    },
+    {
+      "activity_name": "Underwater Museum (MUSA) Snorkel",
+      "category": "Adventure",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "snorkel_gear",
+        "towel"
+      ]
+    },
+    {
+      "activity_name": "Tacos al Pastor Street Food",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "cash",
+        "appetite"
+      ]
+    },
+    {
+      "activity_name": "Interactive Aquarium",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "camera"
+      ]
+    }
+  ]
+}
