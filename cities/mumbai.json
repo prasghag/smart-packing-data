@@ -3,62 +3,25 @@
   "country": "India",
   "activities": [
     {
-      "activity_name": "Explore Gateway of India & Taj Mahal Palace Hotel",
+      "activity_name": "Gateway of India & Taj Palace",
       "category": "Sightseeing",
       "duration_minutes": 90,
       "scores": {
-        "budget": 3,
+        "budget": 5,
         "relaxed": 4,
         "adventure": 1,
-        "family": 4,
-        "balanced": 4
+        "family": 5,
+        "balanced": 5
       },
       "packing_tags": [
         "camera",
-        "comfortable shoes",
-        "water bottle"
+        "sunglasses"
       ]
     },
     {
-      "activity_name": "Visit Elephanta Caves via Ferry",
-      "category": "Culture",
-      "duration_minutes": 240,
-      "scores": {
-        "budget": 3,
-        "relaxed": 3,
-        "adventure": 2,
-        "family": 3,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "sun hat",
-        "comfortable shoes",
-        "water bottle",
-        "camera",
-        "sunscreen"
-      ]
-    },
-    {
-      "activity_name": "Indulge in a Mumbai Street Food Tour",
-      "category": "Food",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 4,
-        "relaxed": 2,
-        "adventure": 3,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "appetite",
-        "hand sanitizer",
-        "comfortable shoes"
-      ]
-    },
-    {
-      "activity_name": "Stroll along Marine Drive (Queen's Necklace)",
+      "activity_name": "Marine Drive Evening Stroll",
       "category": "Relaxation",
-      "duration_minutes": 60,
+      "duration_minutes": 120,
       "scores": {
         "budget": 5,
         "relaxed": 5,
@@ -67,110 +30,138 @@
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable shoes",
-        "camera"
+        "camera",
+        "light_jacket"
       ]
     },
     {
-      "activity_name": "Shop at Colaba Causeway Market",
-      "category": "Shopping",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 3,
-        "relaxed": 3,
-        "adventure": 1,
-        "family": 3,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "shopping bag",
-        "bargaining skills",
-        "comfortable shoes"
-      ]
-    },
-    {
-      "activity_name": "Explore Sanjay Gandhi National Park & Kanheri Caves",
-      "category": "Adventure",
+      "activity_name": "Elephanta Caves Ferry & Tour",
+      "category": "Culture",
       "duration_minutes": 240,
       "scores": {
         "budget": 3,
-        "relaxed": 2,
-        "adventure": 4,
+        "relaxed": 3,
+        "adventure": 3,
         "family": 4,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "insect repellent",
-        "sturdy shoes",
-        "water bottle",
-        "binoculars",
-        "sun hat"
-      ]
-    },
-    {
-      "activity_name": "Discover Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (CSMVS Museum)",
-      "category": "Culture",
-      "duration_minutes": 150,
-      "scores": {
-        "budget": 3,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 3,
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable shoes",
-        "camera",
-        "curiosity"
+        "comfortable_shoes",
+        "sunscreen",
+        "water_bottle"
       ]
     },
     {
-      "activity_name": "Admire Chhatrapati Shivaji Terminus (CST) Architecture",
-      "category": "Sightseeing",
-      "duration_minutes": 60,
+      "activity_name": "Colaba Causeway Shopping",
+      "category": "Shopping",
+      "duration_minutes": 150,
       "scores": {
         "budget": 4,
         "relaxed": 3,
         "adventure": 1,
-        "family": 3,
+        "family": 4,
         "balanced": 3
       },
       "packing_tags": [
-        "camera",
-        "comfortable shoes",
-        "guide book"
+        "cash",
+        "tote_bag",
+        "negotiation_skills"
       ]
     },
     {
-      "activity_name": "Experience Fine Dining at an Upscale Restaurant",
+      "activity_name": "Juhu Beach Street Food (Vada Pav)",
       "category": "Food",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 1,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 2,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "smart casual attire",
-        "reservation"
-      ]
-    },
-    {
-      "activity_name": "Attend a Yoga or Meditation Session",
-      "category": "Relaxation",
       "duration_minutes": 90,
       "scores": {
-        "budget": 3,
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "hand_sanitizer"
+      ]
+    },
+    {
+      "activity_name": "Siddhivinayak Temple",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "slip_on_shoes"
+      ]
+    },
+    {
+      "activity_name": "Bandra Bandstand Walk",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
         "relaxed": 5,
         "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunglasses",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Dharavi Slum Guided Tour",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 3,
         "family": 2,
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable attire",
-        "open mind"
+        "comfortable_shoes",
+        "respectful_attitude"
+      ]
+    },
+    {
+      "activity_name": "Haji Ali Dargah",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "headscarf"
+      ]
+    },
+    {
+      "activity_name": "Sanjay Gandhi National Park Safari",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "water_bottle"
       ]
     }
   ]

@@ -3,173 +3,162 @@
   "country": "India",
   "activities": [
     {
-      "activity_name": "Explore Amber Fort & Palace",
-      "category": "Sightseeing",
-      "duration_minutes": 180,
+      "activity_name": "Amer Fort Tour",
+      "category": "Culture",
+      "duration_minutes": 240,
       "scores": {
         "budget": 3,
         "relaxed": 3,
         "adventure": 2,
         "family": 5,
-        "balanced": 4
+        "balanced": 5
       },
       "packing_tags": [
-        "Water bottle",
-        "Comfortable shoes",
-        "Camera",
-        "Sunscreen"
+        "comfortable_shoes",
+        "sunscreen",
+        "water_bottle",
+        "camera"
       ]
     },
     {
-      "activity_name": "Indulge in a Traditional Rajasthani Thali",
-      "category": "Food",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 3,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 5,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "Empty stomach",
-        "Comfortable clothes"
-      ]
-    },
-    {
-      "activity_name": "Visit Hawa Mahal (Palace of Winds)",
-      "category": "Culture",
+      "activity_name": "Hawa Mahal View",
+      "category": "Sightseeing",
       "duration_minutes": 60,
       "scores": {
-        "budget": 2,
+        "budget": 5,
         "relaxed": 4,
         "adventure": 1,
         "family": 4,
         "balanced": 4
       },
       "packing_tags": [
-        "Camera",
-        "Hat",
-        "Light clothing"
+        "camera"
       ]
     },
     {
-      "activity_name": "Shop for Gems and Jewelry at Johari Bazaar",
-      "category": "Shopping",
-      "duration_minutes": 120,
+      "activity_name": "City Palace Museum",
+      "category": "Culture",
+      "duration_minutes": 150,
       "scores": {
         "budget": 3,
         "relaxed": 4,
         "adventure": 1,
-        "family": 3,
-        "balanced": 3
+        "family": 5,
+        "balanced": 4
       },
       "packing_tags": [
-        "Cash",
-        "Bargaining skills",
-        "Shopping bag"
+        "camera",
+        "comfortable_shoes"
       ]
     },
     {
-      "activity_name": "Sunrise Hot Air Balloon Ride over Jaipur",
-      "category": "Relaxation",
+      "activity_name": "Jantar Mantar Observatory",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunscreen",
+        "hat"
+      ]
+    },
+    {
+      "activity_name": "Nahargarh Fort Sunset View",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "windbreaker"
+      ]
+    },
+    {
+      "activity_name": "Albert Hall Museum",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Chokhi Dhani Traditional Dinner",
+      "category": "Food",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "appetite",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Johari Bazaar Shopping",
+      "category": "Shopping",
       "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag",
+        "negotiation_skills"
+      ]
+    },
+    {
+      "activity_name": "Jal Mahal Photo Stop",
+      "category": "Sightseeing",
+      "duration_minutes": 30,
       "scores": {
         "budget": 5,
         "relaxed": 5,
-        "adventure": 3,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "Warm layer",
-        "Camera",
-        "Binoculars"
-      ]
-    },
-    {
-      "activity_name": "Sunset Views from Nahargarh Fort",
-      "category": "Adventure",
-      "duration_minutes": 150,
-      "scores": {
-        "budget": 2,
-        "relaxed": 3,
-        "adventure": 4,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "Comfortable shoes",
-        "Water bottle",
-        "Camera",
-        "Sunscreen"
-      ]
-    },
-    {
-      "activity_name": "Explore Jantar Mantar Observatory",
-      "category": "Culture",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 2,
-        "relaxed": 3,
-        "adventure": 1,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "Camera",
-        "Guidebook",
-        "Water bottle"
-      ]
-    },
-    {
-      "activity_name": "Jaipur Street Food Tour",
-      "category": "Food",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 2,
-        "relaxed": 3,
-        "adventure": 2,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "Appetite",
-        "Cash",
-        "Wet wipes"
-      ]
-    },
-    {
-      "activity_name": "Discover City Palace Museum",
-      "category": "Sightseeing",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 3,
-        "relaxed": 4,
         "adventure": 1,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "Camera",
-        "Light clothing"
+        "camera"
       ]
     },
     {
-      "activity_name": "Bargain for Textiles and Mojaris at Bapu Bazaar",
-      "category": "Shopping",
-      "duration_minutes": 90,
+      "activity_name": "Patrika Gate Walk",
+      "category": "Culture",
+      "duration_minutes": 60,
       "scores": {
-        "budget": 2,
-        "relaxed": 4,
+        "budget": 5,
+        "relaxed": 5,
         "adventure": 1,
-        "family": 3,
-        "balanced": 3
+        "family": 4,
+        "balanced": 4
       },
       "packing_tags": [
-        "Cash",
-        "Shopping bag",
-        "Bargaining skills"
+        "camera"
       ]
     }
   ]

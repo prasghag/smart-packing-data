@@ -3,174 +3,163 @@
   "country": "India",
   "activities": [
     {
-      "activity_name": "Explore Bangalore Palace",
-      "category": "Sightseeing",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 3,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 4,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "camera",
-        "comfortable shoes",
-        "water bottle"
-      ]
-    },
-    {
-      "activity_name": "Sunrise Trek/Drive to Nandi Hills",
-      "category": "Adventure",
-      "duration_minutes": 300,
-      "scores": {
-        "budget": 3,
-        "relaxed": 2,
-        "adventure": 4,
-        "family": 3,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "jacket",
-        "camera",
-        "trekking shoes",
-        "water bottle",
-        "snacks"
-      ]
-    },
-    {
-      "activity_name": "Authentic South Indian Breakfast at MTR",
-      "category": "Food",
-      "duration_minutes": 60,
-      "scores": {
-        "budget": 2,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "appetite",
-        "cash"
-      ]
-    },
-    {
-      "activity_name": "Rejuvenating Ayurvedic Spa Session",
+      "activity_name": "Lalbagh Botanical Garden",
       "category": "Relaxation",
-      "duration_minutes": 90,
+      "duration_minutes": 150,
       "scores": {
-        "budget": 4,
-        "relaxed": 5,
-        "adventure": 1,
-        "family": 2,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "comfortable clothes"
-      ]
-    },
-    {
-      "activity_name": "Shopping Spree at Commercial Street",
-      "category": "Shopping",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 3,
-        "relaxed": 3,
-        "adventure": 2,
-        "family": 3,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "reusable shopping bag",
-        "comfortable shoes",
-        "cash/cards",
-        "water bottle"
-      ]
-    },
-    {
-      "activity_name": "Stroll through Lalbagh Botanical Garden",
-      "category": "Culture",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 2,
+        "budget": 5,
         "relaxed": 5,
         "adventure": 1,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "sunscreen",
-        "hat",
-        "comfortable shoes",
-        "water bottle",
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Bangalore Palace Tour",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Cubbon Park Weekend Walk",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "water_bottle",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Commercial Street Shopping",
+      "category": "Shopping",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Vidhana Soudha View",
+      "category": "Sightseeing",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
         "camera"
       ]
     },
     {
-      "activity_name": "Visit Tipu Sultan's Summer Palace & Fort",
-      "category": "Sightseeing",
-      "duration_minutes": 90,
+      "activity_name": "Nandi Hills Sunrise Drive",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "light_jacket",
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Bannerghatta Biological Park",
+      "category": "Adventure",
+      "duration_minutes": 300,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "sunscreen",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Indiranagar Brewery Hopping",
+      "category": "Food",
+      "duration_minutes": 180,
       "scores": {
         "budget": 2,
         "relaxed": 4,
         "adventure": 1,
-        "family": 4,
+        "family": 1,
         "balanced": 3
       },
       "packing_tags": [
-        "camera",
-        "sunscreen",
-        "comfortable shoes"
+        "smart_casual_outfit",
+        "credit_card"
       ]
     },
     {
-      "activity_name": "Bengaluru Craft Brewery Experience",
+      "activity_name": "ISKCON Temple Visit",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing"
+      ]
+    },
+    {
+      "activity_name": "Visvesvaraya Industrial & Tech Museum",
       "category": "Culture",
       "duration_minutes": 150,
       "scores": {
         "budget": 4,
         "relaxed": 4,
-        "adventure": 2,
-        "family": 1,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "ID",
-        "comfortable clothes"
-      ]
-    },
-    {
-      "activity_name": "VV Puram Street Food Tour (Thindi Beedi)",
-      "category": "Food",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 2,
-        "relaxed": 3,
-        "adventure": 2,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "appetite",
-        "cash",
-        "wet wipes"
-      ]
-    },
-    {
-      "activity_name": "Leisurely Walk in Cubbon Park",
-      "category": "Relaxation",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 1,
-        "relaxed": 5,
         "adventure": 1,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable shoes",
-        "water bottle",
-        "camera"
+        "comfortable_shoes"
       ]
     }
   ]

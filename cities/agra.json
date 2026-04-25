@@ -7,22 +7,21 @@
       "category": "Sightseeing",
       "duration_minutes": 180,
       "scores": {
-        "budget": 4,
-        "relaxed": 3,
+        "budget": 3,
+        "relaxed": 4,
         "adventure": 1,
         "family": 5,
         "balanced": 5
       },
       "packing_tags": [
         "camera",
-        "comfortable shoes",
-        "water bottle",
-        "sunglasses"
+        "passport",
+        "comfortable_shoes"
       ]
     },
     {
-      "activity_name": "Agra Fort Exploration",
-      "category": "Sightseeing",
+      "activity_name": "Agra Fort Tour",
+      "category": "Culture",
       "duration_minutes": 150,
       "scores": {
         "budget": 3,
@@ -32,147 +31,135 @@
         "balanced": 4
       },
       "packing_tags": [
-        "camera",
-        "comfortable shoes",
-        "hat",
-        "guidebook"
+        "comfortable_shoes",
+        "sunscreen",
+        "water_bottle"
       ]
     },
     {
-      "activity_name": "Agra Street Food & Sweet Tasting Tour",
-      "category": "Food",
-      "duration_minutes": 120,
+      "activity_name": "Fatehpur Sikri Day Trip",
+      "category": "Culture",
+      "duration_minutes": 300,
       "scores": {
-        "budget": 2,
-        "relaxed": 4,
-        "adventure": 3,
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 2,
         "family": 4,
-        "balanced": 5
+        "balanced": 4
       },
       "packing_tags": [
-        "hand sanitizer",
-        "wet wipes",
-        "small change"
+        "sunscreen",
+        "hat",
+        "comfortable_shoes"
       ]
     },
     {
-      "activity_name": "Itmad-ud-Daulah's Tomb (Baby Taj) Visit",
-      "category": "Culture",
+      "activity_name": "Mehtab Bagh Sunset View",
+      "category": "Relaxation",
       "duration_minutes": 90,
       "scores": {
-        "budget": 2,
-        "relaxed": 4,
+        "budget": 4,
+        "relaxed": 5,
         "adventure": 1,
         "family": 4,
         "balanced": 4
       },
       "packing_tags": [
         "camera",
-        "guidebook",
-        "light clothing"
+        "mosquito_repellent"
       ]
     },
     {
-      "activity_name": "Kinari Bazaar Bargaining & Exploration",
+      "activity_name": "Itmad-ud-Daulah (Baby Taj)",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Kinari Bazaar Walk",
       "category": "Shopping",
       "duration_minutes": 120,
       "scores": {
-        "budget": 2,
+        "budget": 4,
         "relaxed": 3,
         "adventure": 2,
-        "family": 4,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "cash",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Agra Petha Tasting at Sadar Bazaar",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
         "balanced": 4
       },
       "packing_tags": [
         "cash",
-        "reusable bag",
-        "negotiation skills"
+        "sweet_tooth"
       ]
     },
     {
-      "activity_name": "Mehtab Bagh Sunset View & Picnic",
-      "category": "Relaxation",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 2,
-        "relaxed": 5,
-        "adventure": 1,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "blanket",
-        "snacks",
-        "camera",
-        "insect repellent"
-      ]
-    },
-    {
-      "activity_name": "Cycling Tour of Rural Agra Villages",
+      "activity_name": "Wildlife SOS Bear Sanctuary",
       "category": "Adventure",
       "duration_minutes": 180,
       "scores": {
         "budget": 3,
-        "relaxed": 2,
-        "adventure": 5,
-        "family": 3,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "helmet",
-        "water bottle",
-        "sunscreen",
-        "comfortable activewear"
-      ]
-    },
-    {
-      "activity_name": "Mughlai Cuisine Cooking Class",
-      "category": "Food",
-      "duration_minutes": 240,
-      "scores": {
-        "budget": 4,
-        "relaxed": 3,
-        "adventure": 2,
-        "family": 4,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 5,
         "balanced": 5
       },
       "packing_tags": [
-        "apron (optional)",
-        "notebook",
-        "appetite"
+        "camera",
+        "comfortable_shoes"
       ]
     },
     {
-      "activity_name": "Kalakriti Cultural Show (e.g., Mohabbat The Taj)",
+      "activity_name": "Kalakriti Cultural Show",
       "category": "Culture",
-      "duration_minutes": 150,
+      "duration_minutes": 120,
       "scores": {
-        "budget": 4,
-        "relaxed": 4,
+        "budget": 2,
+        "relaxed": 5,
         "adventure": 1,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "dressy casual",
-        "camera (pre-show only)",
-        "ticket"
+        "camera"
       ]
     },
     {
-      "activity_name": "Traditional Ayurvedic Massage",
-      "category": "Relaxation",
-      "duration_minutes": 90,
+      "activity_name": "Jama Masjid Agra",
+      "category": "Culture",
+      "duration_minutes": 60,
       "scores": {
-        "budget": 4,
-        "relaxed": 5,
+        "budget": 5,
+        "relaxed": 4,
         "adventure": 1,
-        "family": 2,
+        "family": 4,
         "balanced": 3
       },
       "packing_tags": [
-        "comfortable clothes",
-        "open mind"
+        "modest_clothing"
       ]
     }
   ]

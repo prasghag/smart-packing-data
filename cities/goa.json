@@ -3,181 +3,168 @@
   "country": "India",
   "activities": [
     {
-      "activity_name": "Explore Old Goa Churches",
-      "category": "Sightseeing",
+      "activity_name": "Baga Beach Water Sports",
+      "category": "Adventure",
       "duration_minutes": 180,
       "scores": {
-        "budget": 2,
+        "budget": 3,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "sunscreen",
+        "water_shoes"
+      ]
+    },
+    {
+      "activity_name": "Dudhsagar Waterfalls Trek",
+      "category": "Adventure",
+      "duration_minutes": 480,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_shoes",
+        "swimwear",
+        "water_bottle",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Basilica of Bom Jesus",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
         "relaxed": 4,
         "adventure": 1,
         "family": 4,
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable shoes",
-        "camera",
-        "hat",
-        "water bottle"
+        "modest_clothing",
+        "camera"
       ]
     },
     {
-      "activity_name": "Dinner at a Beach Shack",
-      "category": "Food",
-      "duration_minutes": 120,
+      "activity_name": "Anjuna Flea Market",
+      "category": "Shopping",
+      "duration_minutes": 150,
       "scores": {
-        "budget": 3,
-        "relaxed": 5,
-        "adventure": 1,
-        "family": 4,
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 3,
         "balanced": 4
       },
       "packing_tags": [
-        "light clothing",
         "cash",
-        "mosquito repellent"
+        "tote_bag",
+        "sunglasses"
       ]
     },
     {
-      "activity_name": "Water Sports at Baga Beach",
-      "category": "Adventure",
-      "duration_minutes": 180,
+      "activity_name": "Aguada Fort Exploration",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
       "scores": {
-        "budget": 3,
-        "relaxed": 2,
-        "adventure": 5,
-        "family": 4,
-        "balanced": 3
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
       },
       "packing_tags": [
-        "swimsuit",
+        "camera",
         "sunscreen",
-        "towel",
-        "extra change of clothes"
+        "comfortable_shoes"
       ]
     },
     {
-      "activity_name": "Rejuvenating Spa Day or Yoga Session",
+      "activity_name": "Palolem Beach Sunset & Kayaking",
       "category": "Relaxation",
       "duration_minutes": 180,
       "scores": {
-        "budget": 4,
-        "relaxed": 5,
-        "adventure": 1,
-        "family": 2,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "comfortable clothes",
-        "yoga mat (optional)",
-        "water bottle"
-      ]
-    },
-    {
-      "activity_name": "Shopping at Anjuna Flea Market",
-      "category": "Shopping",
-      "duration_minutes": 240,
-      "scores": {
         "budget": 3,
-        "relaxed": 3,
-        "adventure": 1,
-        "family": 3,
-        "balanced": 3
+        "relaxed": 5,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 5
       },
       "packing_tags": [
-        "cash",
-        "reusable bag",
+        "swimwear",
         "sunglasses",
-        "hat",
-        "comfortable shoes"
+        "water_proof_bag"
       ]
     },
     {
-      "activity_name": "Goan Spice Plantation Tour",
-      "category": "Culture",
+      "activity_name": "Spice Plantation Tour & Lunch",
+      "category": "Food",
       "duration_minutes": 180,
       "scores": {
         "budget": 3,
         "relaxed": 4,
         "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "mosquito_repellent",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Mandovi River Casino Cruise",
+      "category": "Relaxation",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 1,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 1,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "smart_casual_outfit",
+        "credit_card"
+      ]
+    },
+    {
+      "activity_name": "Fontainhas Latin Quarter Walk",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
         "family": 4,
         "balanced": 4
       },
       "packing_tags": [
         "camera",
-        "insect repellent",
-        "hat",
-        "water bottle"
+        "comfortable_shoes"
       ]
     },
     {
-      "activity_name": "Dudhsagar Waterfalls Excursion",
-      "category": "Sightseeing",
-      "duration_minutes": 480,
-      "scores": {
-        "budget": 4,
-        "relaxed": 2,
-        "adventure": 3,
-        "family": 3,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "swimsuit",
-        "towel",
-        "waterproof bag",
-        "snacks",
-        "camera",
-        "comfortable shoes"
-      ]
-    },
-    {
-      "activity_name": "Savor a Traditional Goan Thali",
-      "category": "Food",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 2,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 5,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "empty stomach",
-        "camera (for food pics)"
-      ]
-    },
-    {
-      "activity_name": "Scuba Diving or Snorkeling at Grand Island",
+      "activity_name": "Tito's Lane Nightlife",
       "category": "Adventure",
-      "duration_minutes": 360,
+      "duration_minutes": 240,
       "scores": {
-        "budget": 5,
+        "budget": 2,
         "relaxed": 2,
-        "adventure": 5,
-        "family": 3,
+        "adventure": 4,
+        "family": 1,
         "balanced": 3
       },
       "packing_tags": [
-        "swimsuit",
-        "sunscreen",
-        "towel",
-        "change of clothes",
-        "waterproof phone case"
-      ]
-    },
-    {
-      "activity_name": "Mandovi River Sunset Cruise",
-      "category": "Relaxation",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 2,
-        "relaxed": 5,
-        "adventure": 1,
-        "family": 5,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "camera",
-        "light jacket (for evening breeze)",
+        "party_outfit",
         "cash"
       ]
     }

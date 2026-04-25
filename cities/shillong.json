@@ -1,0 +1,170 @@
+{
+  "city_name": "Shillong",
+  "country": "India",
+  "activities": [
+    {
+      "activity_name": "Umiam Lake Boating",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses",
+        "windbreaker"
+      ]
+    },
+    {
+      "activity_name": "Elephant Falls",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes",
+        "umbrella"
+      ]
+    },
+    {
+      "activity_name": "Shillong Peak View",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "light_jacket",
+        "passport"
+      ]
+    },
+    {
+      "activity_name": "Don Bosco Museum",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Police Bazar Shopping",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag",
+        "negotiation_skills"
+      ]
+    },
+    {
+      "activity_name": "Ward's Lake Stroll",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Laitlum Canyons Trip",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "windbreaker",
+        "camera",
+        "hiking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Mawphlang Sacred Grove Walk",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "mosquito_repellent"
+      ]
+    },
+    {
+      "activity_name": "Khasi Food Tasting at Trattoria",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "appetite"
+      ]
+    },
+    {
+      "activity_name": "David Scott Trail Trek",
+      "category": "Adventure",
+      "duration_minutes": 300,
+      "scores": {
+        "budget": 5,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "hiking_boots",
+        "water_bottle",
+        "rain_jacket"
+      ]
+    }
+  ]
+}

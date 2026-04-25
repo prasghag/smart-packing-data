@@ -1,91 +1,122 @@
 {
-  "city_name": "Delhi",
+  "city_name": "Hyderabad",
   "country": "India",
   "activities": [
     {
-      "activity_name": "Red Fort (Lal Qila) Tour",
+      "activity_name": "Charminar & Laad Bazaar",
       "category": "Culture",
       "duration_minutes": 150,
       "scores": {
         "budget": 4,
         "relaxed": 3,
         "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Golconda Fort & Light Show",
+      "category": "Culture",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 3,
         "family": 5,
         "balanced": 5
       },
       "packing_tags": [
+        "water_bottle",
         "comfortable_shoes",
-        "sunscreen",
-        "water_bottle"
+        "mosquito_repellent"
       ]
     },
     {
-      "activity_name": "India Gate & Rajpath Walk",
-      "category": "Sightseeing",
-      "duration_minutes": 90,
+      "activity_name": "Ramoji Film City Tour",
+      "category": "Adventure",
+      "duration_minutes": 480,
       "scores": {
-        "budget": 5,
+        "budget": 2,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunscreen",
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Salar Jung Museum",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Hussain Sagar Lake Boating",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
         "relaxed": 5,
         "adventure": 1,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "camera",
-        "sunglasses"
+        "sunglasses",
+        "camera"
       ]
     },
     {
-      "activity_name": "Qutub Minar Complex",
-      "category": "Culture",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 4,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "camera",
-        "comfortable_shoes"
-      ]
-    },
-    {
-      "activity_name": "Chandni Chowk Food Walk",
+      "activity_name": "Paradise Biryani Feast",
       "category": "Food",
-      "duration_minutes": 150,
+      "duration_minutes": 90,
       "scores": {
-        "budget": 4,
-        "relaxed": 2,
-        "adventure": 3,
-        "family": 3,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "cash",
-        "hand_sanitizer",
-        "appetite"
-      ]
-    },
-    {
-      "activity_name": "Humayun's Tomb",
-      "category": "Culture",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 4,
-        "relaxed": 4,
+        "budget": 3,
+        "relaxed": 5,
         "adventure": 1,
-        "family": 4,
+        "family": 5,
         "balanced": 5
       },
       "packing_tags": [
-        "camera",
-        "comfortable_shoes"
+        "appetite",
+        "casual_wear"
       ]
     },
     {
-      "activity_name": "Lotus Temple",
+      "activity_name": "Chowmahalla Palace",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Birla Mandir Sunrise",
       "category": "Sightseeing",
       "duration_minutes": 60,
       "scores": {
@@ -97,47 +128,15 @@
       },
       "packing_tags": [
         "modest_clothing",
-        "slip_on_shoes"
+        "camera"
       ]
     },
     {
-      "activity_name": "Akshardham Temple Exhibition",
-      "category": "Culture",
-      "duration_minutes": 240,
-      "scores": {
-        "budget": 3,
-        "relaxed": 3,
-        "adventure": 1,
-        "family": 5,
-        "balanced": 5
-      },
-      "packing_tags": [
-        "modest_clothing",
-        "no_camera_policy"
-      ]
-    },
-    {
-      "activity_name": "Hauz Khas Village Nightlife",
-      "category": "Food",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 2,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 1,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "smart_casual_outfit",
-        "credit_card"
-      ]
-    },
-    {
-      "activity_name": "Dilli Haat Handicraft Shopping",
+      "activity_name": "Shilparamam Arts Village",
       "category": "Shopping",
       "duration_minutes": 150,
       "scores": {
-        "budget": 3,
+        "budget": 4,
         "relaxed": 4,
         "adventure": 1,
         "family": 5,
@@ -149,19 +148,18 @@
       ]
     },
     {
-      "activity_name": "Lodhi Gardens Picnic",
+      "activity_name": "Lumbini Park Laser Show",
       "category": "Relaxation",
-      "duration_minutes": 120,
+      "duration_minutes": 90,
       "scores": {
-        "budget": 5,
-        "relaxed": 5,
+        "budget": 4,
+        "relaxed": 4,
         "adventure": 1,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "picnic_blanket",
-        "book"
+        "light_jacket"
       ]
     }
   ]

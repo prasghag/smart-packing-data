@@ -3,174 +3,161 @@
   "country": "India",
   "activities": [
     {
-      "activity_name": "Explore Fort Kochi & Chinese Fishing Nets",
+      "activity_name": "Fort Kochi Chinese Fishing Nets",
       "category": "Sightseeing",
-      "duration_minutes": 180,
+      "duration_minutes": 60,
       "scores": {
-        "budget": 2,
+        "budget": 5,
         "relaxed": 4,
         "adventure": 1,
-        "family": 4,
-        "balanced": 4
+        "family": 5,
+        "balanced": 5
       },
       "packing_tags": [
-        "comfortable shoes",
         "camera",
-        "sunscreen",
-        "hat"
+        "sunglasses"
       ]
     },
     {
-      "activity_name": "Experience a Kathakali Performance",
+      "activity_name": "Mattancherry Palace (Dutch Palace)",
       "category": "Culture",
-      "duration_minutes": 150,
-      "scores": {
-        "budget": 3,
-        "relaxed": 3,
-        "adventure": 1,
-        "family": 3,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "camera",
-        "light jacket"
-      ]
-    },
-    {
-      "activity_name": "Attend a Keralan Culinary Class",
-      "category": "Food",
-      "duration_minutes": 240,
-      "scores": {
-        "budget": 3,
-        "relaxed": 3,
-        "adventure": 2,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "apron (if desired)",
-        "notebook",
-        "camera"
-      ]
-    },
-    {
-      "activity_name": "Indulge in an Ayurvedic Massage",
-      "category": "Relaxation",
       "duration_minutes": 90,
       "scores": {
         "budget": 4,
-        "relaxed": 5,
-        "adventure": 1,
-        "family": 2,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "comfortable clothes",
-        "towel (optional)"
-      ]
-    },
-    {
-      "activity_name": "Shop for Antiques in Jew Town",
-      "category": "Shopping",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 3,
         "relaxed": 4,
         "adventure": 1,
-        "family": 3,
+        "family": 4,
         "balanced": 4
       },
       "packing_tags": [
-        "shopping bag",
-        "comfortable shoes",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Paradesi Synagogue",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
         "camera"
       ]
     },
     {
-      "activity_name": "Kayaking through Kochi's Backwaters",
-      "category": "Adventure",
-      "duration_minutes": 180,
+      "activity_name": "Jew Town Spice Shopping",
+      "category": "Shopping",
+      "duration_minutes": 120,
       "scores": {
-        "budget": 4,
-        "relaxed": 3,
-        "adventure": 5,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "quick-dry clothes",
-        "water shoes",
-        "sunscreen",
-        "hat",
-        "water bottle"
-      ]
-    },
-    {
-      "activity_name": "Visit Mattancherry Palace & Paradesi Synagogue",
-      "category": "Sightseeing",
-      "duration_minutes": 150,
-      "scores": {
-        "budget": 2,
+        "budget": 3,
         "relaxed": 3,
         "adventure": 1,
         "family": 3,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "camera",
-        "modest attire"
-      ]
-    },
-    {
-      "activity_name": "Embark on a Street Food Tour",
-      "category": "Food",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 2,
-        "relaxed": 3,
-        "adventure": 2,
-        "family": 4,
         "balanced": 4
       },
       "packing_tags": [
         "cash",
-        "wet wipes",
-        "water bottle"
+        "tote_bag"
       ]
     },
     {
-      "activity_name": "Enjoy a Sunset Cruise in Kochi Harbour",
+      "activity_name": "Marine Drive Evening Cruise",
       "category": "Relaxation",
       "duration_minutes": 90,
       "scores": {
-        "budget": 3,
+        "budget": 4,
         "relaxed": 5,
-        "adventure": 2,
+        "adventure": 1,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
         "camera",
-        "light jacket",
-        "mosquito repellent"
+        "light_jacket"
       ]
     },
     {
-      "activity_name": "Explore St. Francis Church & Santa Cruz Basilica",
+      "activity_name": "Kathakali Center Performance",
       "category": "Culture",
-      "duration_minutes": 90,
+      "duration_minutes": 120,
       "scores": {
-        "budget": 1,
-        "relaxed": 3,
+        "budget": 3,
+        "relaxed": 5,
         "adventure": 1,
-        "family": 3,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Kerala Folklore Museum",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "glasses"
+      ]
+    },
+    {
+      "activity_name": "Hill Palace Museum",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Vypin Island Lighthouse & Beach",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunscreen",
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Lulu Mall Shopping",
+      "category": "Shopping",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
         "balanced": 3
       },
       "packing_tags": [
-        "comfortable shoes",
-        "camera",
-        "modest attire"
+        "credit_card",
+        "comfortable_shoes"
       ]
     }
   ]
