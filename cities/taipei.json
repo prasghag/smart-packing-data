@@ -1,0 +1,16 @@
+{
+  "city_name": "Taipei",
+  "country": "Taiwan",
+  "activities": [
+    { "activity_name": "Taipei 101 Observatory", "category": "Sightseeing", "duration_minutes": 120, "scores": { "budget": 2, "relaxed": 4, "adventure": 1, "family": 5, "balanced": 5 }, "packing_tags": ["camera"] },
+    { "activity_name": "Shilin Night Market", "category": "Food", "duration_minutes": 150, "scores": { "budget": 4, "relaxed": 3, "adventure": 2, "family": 4, "balanced": 5 }, "packing_tags": ["cash", "hand_sanitizer", "comfortable_shoes"] },
+    { "activity_name": "Elephant Mountain Hike", "category": "Adventure", "duration_minutes": 90, "scores": { "budget": 5, "relaxed": 1, "adventure": 5, "family": 3, "balanced": 4 }, "packing_tags": ["water_bottle", "hiking_shoes", "mosquito_repellent"] },
+    { "activity_name": "National Palace Museum", "category": "Culture", "duration_minutes": 180, "scores": { "budget": 3, "relaxed": 4, "adventure": 1, "family": 3, "balanced": 4 }, "packing_tags": ["comfortable_shoes", "light_jacket"] },
+    { "activity_name": "Chiang Kai-shek Memorial Hall", "category": "Sightseeing", "duration_minutes": 90, "scores": { "budget": 5, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["sunscreen", "camera"] },
+    { "activity_name": "Beitou Hot Springs", "category": "Relaxation", "duration_minutes": 180, "scores": { "budget": 3, "relaxed": 5, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["swimwear", "towel"] },
+    { "activity_name": "Ximending Shopping District", "category": "Shopping", "duration_minutes": 180, "scores": { "budget": 3, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["tote_bag", "credit_card"] },
+    { "activity_name": "Longshan Temple", "category": "Culture", "duration_minutes": 60, "scores": { "budget": 5, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["modest_clothing"] },
+    { "activity_name": "Maokong Gondola & Tea House", "category": "Relaxation", "duration_minutes": 180, "scores": { "budget": 3, "relaxed": 5, "adventure": 2, "family": 4, "balanced": 4 }, "packing_tags": ["camera", "light_jacket"] },
+    { "activity_name": "Jiufen Old Street Day Trip", "category": "Sightseeing", "duration_minutes": 360, "scores": { "budget": 3, "relaxed": 3, "adventure": 2, "family": 4, "balanced": 4 }, "packing_tags": ["umbrella", "comfortable_shoes", "camera"] }
+  ]
+}

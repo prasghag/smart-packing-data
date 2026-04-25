@@ -1,0 +1,175 @@
+{
+  "city_name": "Austin",
+  "country": "United States",
+  "activities": [
+    {
+      "activity_name": "Texas State Capitol Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 1,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Austin BBQ Experience",
+      "category": "Food",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "wet wipes",
+        "comfortable clothes"
+      ]
+    },
+    {
+      "activity_name": "Kayaking or Paddleboarding on Lady Bird Lake",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimsuit",
+        "sunscreen",
+        "water bottle",
+        "waterproof phone case"
+      ]
+    },
+    {
+      "activity_name": "Relax at Zilker Metropolitan Park",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "blanket",
+        "book",
+        "sunscreen",
+        "frisbee"
+      ]
+    },
+    {
+      "activity_name": "Shopping on South Congress Avenue (SoCo)",
+      "category": "Shopping",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "wallet",
+        "comfortable shoes",
+        "reusable shopping bag"
+      ]
+    },
+    {
+      "activity_name": "The Bullock Texas State History Museum",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Bat Watching at Congress Avenue Bridge",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 1,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "light jacket (evenings)"
+      ]
+    },
+    {
+      "activity_name": "Explore Austin's Food Truck Scene",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash/card",
+        "open mind",
+        "wet wipes"
+      ]
+    },
+    {
+      "activity_name": "Swim at Barton Springs Pool",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimsuit",
+        "towel",
+        "sunscreen",
+        "water bottle"
+      ]
+    },
+    {
+      "activity_name": "Live Music Experience on 6th Street or Red River Cultural District",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 2,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "ID",
+        "comfortable shoes",
+        "earplugs (optional)"
+      ]
+    }
+  ]
+}

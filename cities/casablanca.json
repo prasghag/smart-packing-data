@@ -1,0 +1,16 @@
+{
+  "city_name": "Casablanca",
+  "country": "Morocco",
+  "activities": [
+    { "activity_name": "Hassan II Mosque Tour", "category": "Culture", "duration_minutes": 120, "scores": { "budget": 3, "relaxed": 4, "adventure": 1, "family": 5, "balanced": 5 }, "packing_tags": ["modest_clothing", "camera"] },
+    { "activity_name": "Old Medina Walk", "category": "Shopping", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 2, "adventure": 3, "family": 3, "balanced": 4 }, "packing_tags": ["cash", "comfortable_shoes", "tote_bag"] },
+    { "activity_name": "Ain Diab Corniche Stroll", "category": "Relaxation", "duration_minutes": 120, "scores": { "budget": 5, "relaxed": 5, "adventure": 1, "family": 5, "balanced": 4 }, "packing_tags": ["sunglasses", "light_jacket"] },
+    { "activity_name": "Rick's Cafe Dinner", "category": "Food", "duration_minutes": 120, "scores": { "budget": 1, "relaxed": 4, "adventure": 1, "family": 2, "balanced": 3 }, "packing_tags": ["smart_casual_outfit", "credit_card"] },
+    { "activity_name": "Quartier Habous (New Medina)", "category": "Culture", "duration_minutes": 150, "scores": { "budget": 4, "relaxed": 4, "adventure": 2, "family": 4, "balanced": 4 }, "packing_tags": ["camera", "comfortable_shoes"] },
+    { "activity_name": "Mahkama du Pacha", "category": "Sightseeing", "duration_minutes": 60, "scores": { "budget": 4, "relaxed": 3, "adventure": 1, "family": 3, "balanced": 4 }, "packing_tags": ["camera"] },
+    { "activity_name": "Morocco Mall Shopping", "category": "Shopping", "duration_minutes": 180, "scores": { "budget": 2, "relaxed": 4, "adventure": 1, "family": 5, "balanced": 3 }, "packing_tags": ["credit_card"] },
+    { "activity_name": "Villa des Arts Exhibition", "category": "Culture", "duration_minutes": 90, "scores": { "budget": 4, "relaxed": 4, "adventure": 1, "family": 3, "balanced": 3 }, "packing_tags": ["glasses"] },
+    { "activity_name": "Central Market Seafood Tasting", "category": "Food", "duration_minutes": 90, "scores": { "budget": 4, "relaxed": 3, "adventure": 2, "family": 3, "balanced": 4 }, "packing_tags": ["cash", "hand_sanitizer"] },
+    { "activity_name": "Arab League Park", "category": "Relaxation", "duration_minutes": 90, "scores": { "budget": 5, "relaxed": 5, "adventure": 1, "family": 5, "balanced": 4 }, "packing_tags": ["sunglasses"] }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "city_name": "Beijing",
+  "country": "China",
+  "activities": [
+    { "activity_name": "Mutianyu Great Wall Hike", "category": "Adventure", "duration_minutes": 360, "scores": { "budget": 3, "relaxed": 1, "adventure": 5, "family": 4, "balanced": 5 }, "packing_tags": ["hiking_shoes", "water_bottle", "sunscreen"] },
+    { "activity_name": "Forbidden City Tour", "category": "Culture", "duration_minutes": 240, "scores": { "budget": 4, "relaxed": 2, "adventure": 1, "family": 3, "balanced": 4 }, "packing_tags": ["comfortable_shoes", "passport", "water_bottle"] },
+    { "activity_name": "Summer Palace Walk", "category": "Sightseeing", "duration_minutes": 180, "scores": { "budget": 4, "relaxed": 4, "adventure": 1, "family": 5, "balanced": 5 }, "packing_tags": ["camera", "comfortable_shoes"] },
+    { "activity_name": "Temple of Heaven", "category": "Culture", "duration_minutes": 120, "scores": { "budget": 5, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["sunscreen", "camera"] },
+    { "activity_name": "Peking Duck Dinner", "category": "Food", "duration_minutes": 120, "scores": { "budget": 2, "relaxed": 5, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["smart_casual_outfit", "credit_card"] },
+    { "activity_name": "Wangfujing Snack Street", "category": "Food", "duration_minutes": 90, "scores": { "budget": 4, "relaxed": 2, "adventure": 4, "family": 3, "balanced": 3 }, "packing_tags": ["cash", "hand_sanitizer"] },
+    { "activity_name": "798 Art District", "category": "Culture", "duration_minutes": 180, "scores": { "budget": 5, "relaxed": 4, "adventure": 1, "family": 3, "balanced": 4 }, "packing_tags": ["camera", "day_bag"] },
+    { "activity_name": "Rickshaw Tour in Hutongs", "category": "Sightseeing", "duration_minutes": 120, "scores": { "budget": 3, "relaxed": 4, "adventure": 2, "family": 5, "balanced": 4 }, "packing_tags": ["camera"] },
+    { "activity_name": "Silk Market Shopping", "category": "Shopping", "duration_minutes": 150, "scores": { "budget": 3, "relaxed": 3, "adventure": 2, "family": 3, "balanced": 3 }, "packing_tags": ["cash", "tote_bag"] },
+    { "activity_name": "Beihai Park Boating", "category": "Relaxation", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 5, "adventure": 1, "family": 5, "balanced": 4 }, "packing_tags": ["sunglasses", "sunscreen"] }
+  ]
+}

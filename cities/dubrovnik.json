@@ -1,0 +1,176 @@
+{
+  "city_name": "Dubrovnik",
+  "country": "Croatia",
+  "activities": [
+    {
+      "activity_name": "Walk the Ancient City Walls",
+      "category": "Sightseeing",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "water bottle",
+        "hat",
+        "sunglasses",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Dubrovnik Cable Car to Mount Srd",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "light jacket"
+      ]
+    },
+    {
+      "activity_name": "Sea Kayaking around Lokrum Island",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "swimsuit",
+        "sunscreen",
+        "water shoes",
+        "hat",
+        "waterproof bag"
+      ]
+    },
+    {
+      "activity_name": "Dine at a Traditional Konoba",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "smart casual attire"
+      ]
+    },
+    {
+      "activity_name": "Explore Lokrum Island Nature Reserve",
+      "category": "Culture",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimsuit",
+        "towel",
+        "comfortable shoes",
+        "water",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Stroll and Explore Stradun (Old Town)",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "small backpack"
+      ]
+    },
+    {
+      "activity_name": "Wine Tasting in Konavle Valley",
+      "category": "Food",
+      "duration_minutes": 300,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable clothes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Souvenir Shopping in the Old Town",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "reusable bag",
+        "wallet"
+      ]
+    },
+    {
+      "activity_name": "Sunset Cruise Along the Coastline",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "light jacket",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Game of Thrones Walking Tour",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "fan memorabilia"
+      ]
+    }
+  ]
+}

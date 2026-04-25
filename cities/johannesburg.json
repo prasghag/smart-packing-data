@@ -1,0 +1,16 @@
+{
+  "city_name": "Johannesburg",
+  "country": "South Africa",
+  "activities": [
+    { "activity_name": "Apartheid Museum", "category": "Culture", "duration_minutes": 180, "scores": { "budget": 4, "relaxed": 2, "adventure": 1, "family": 2, "balanced": 5 }, "packing_tags": ["tissues", "comfortable_shoes"] },
+    { "activity_name": "Soweto Bicycle Tour", "category": "Adventure", "duration_minutes": 240, "scores": { "budget": 3, "relaxed": 2, "adventure": 4, "family": 3, "balanced": 4 }, "packing_tags": ["sportswear", "water_bottle", "sunscreen"] },
+    { "activity_name": "Maboneng Precinct Walk", "category": "Culture", "duration_minutes": 150, "scores": { "budget": 4, "relaxed": 3, "adventure": 2, "family": 3, "balanced": 4 }, "packing_tags": ["camera", "cash"] },
+    { "activity_name": "Cradle of Humankind (Maropeng)", "category": "Culture", "duration_minutes": 300, "scores": { "budget": 3, "relaxed": 3, "adventure": 3, "family": 5, "balanced": 4 }, "packing_tags": ["comfortable_shoes", "camera"] },
+    { "activity_name": "Gold Reef City Theme Park", "category": "Adventure", "duration_minutes": 360, "scores": { "budget": 2, "relaxed": 1, "adventure": 5, "family": 5, "balanced": 3 }, "packing_tags": ["sunscreen", "day_bag"] },
+    { "activity_name": "Constitution Hill Human Rights Precinct", "category": "Culture", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 3, "adventure": 1, "family": 3, "balanced": 4 }, "packing_tags": ["comfortable_shoes"] },
+    { "activity_name": "Lion & Safari Park", "category": "Adventure", "duration_minutes": 240, "scores": { "budget": 2, "relaxed": 3, "adventure": 4, "family": 5, "balanced": 4 }, "packing_tags": ["camera", "sunscreen", "binoculars"] },
+    { "activity_name": "Neighbourgoods Market Braamfontein", "category": "Food", "duration_minutes": 120, "scores": { "budget": 3, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["cash", "appetite"] },
+    { "activity_name": "Johannesburg Botanical Garden", "category": "Relaxation", "duration_minutes": 120, "scores": { "budget": 5, "relaxed": 5, "adventure": 1, "family": 5, "balanced": 4 }, "packing_tags": ["picnic_blanket", "sunglasses"] },
+    { "activity_name": "Vilakazi Street (Mandela House)", "category": "Culture", "duration_minutes": 90, "scores": { "budget": 4, "relaxed": 3, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["camera"] }
+  ]
+}

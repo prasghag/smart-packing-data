@@ -1,0 +1,180 @@
+{
+  "city_name": "Valencia",
+  "country": "Spain",
+  "activities": [
+    {
+      "activity_name": "Explore the City of Arts and Sciences",
+      "category": "Sightseeing",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Authentic Paella Cooking Class",
+      "category": "Food",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "apron (optional)",
+        "appetite",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Climb Miguelete Bell Tower and Visit Valencia Cathedral",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 3,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "water bottle"
+      ]
+    },
+    {
+      "activity_name": "Relaxing Stroll through Turia Gardens",
+      "category": "Relaxation",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "water bottle",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Explore the Vibrant Central Market (Mercado Central)",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "reusable bag",
+        "camera",
+        "small bills"
+      ]
+    },
+    {
+      "activity_name": "Bike Ride to El Saler Beach and Albufera Natural Park",
+      "category": "Adventure",
+      "duration_minutes": 300,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "bike shorts",
+        "water bottle",
+        "sunscreen",
+        "swimsuit",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Wander through the Historic Barrio del Carmen",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 1,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "map"
+      ]
+    },
+    {
+      "activity_name": "Evening Tapas Crawl in Ruzafa District",
+      "category": "Food",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "small bills",
+        "comfortable shoes"
+      ]
+    },
+    {
+      "activity_name": "Relaxing Beach Day at Malvarrosa Beach",
+      "category": "Relaxation",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimsuit",
+        "towel",
+        "sunscreen",
+        "book",
+        "hat"
+      ]
+    },
+    {
+      "activity_name": "Experience a Traditional Flamenco Show",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "smart casual attire",
+        "camera (check policy)",
+        "open mind"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "city_name": "Jerusalem",
+  "country": "Israel",
+  "activities": [
+    { "activity_name": "Old City Walking Tour", "category": "Culture", "duration_minutes": 240, "scores": { "budget": 4, "relaxed": 2, "adventure": 2, "family": 4, "balanced": 5 }, "packing_tags": ["comfortable_shoes", "modest_clothing", "water_bottle"] },
+    { "activity_name": "Western Wall Visit", "category": "Culture", "duration_minutes": 60, "scores": { "budget": 5, "relaxed": 3, "adventure": 1, "family": 4, "balanced": 5 }, "packing_tags": ["modest_clothing", "passport"] },
+    { "activity_name": "Church of the Holy Sepulchre", "category": "Culture", "duration_minutes": 90, "scores": { "budget": 5, "relaxed": 3, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["modest_clothing", "camera"] },
+    { "activity_name": "Dome of the Rock (Temple Mount)", "category": "Culture", "duration_minutes": 90, "scores": { "budget": 5, "relaxed": 3, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["modest_clothing", "passport"] },
+    { "activity_name": "Mahane Yehuda Market", "category": "Food", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 3, "adventure": 2, "family": 4, "balanced": 4 }, "packing_tags": ["cash", "hand_sanitizer"] },
+    { "activity_name": "Mount of Olives Viewpoint", "category": "Sightseeing", "duration_minutes": 90, "scores": { "budget": 5, "relaxed": 4, "adventure": 2, "family": 4, "balanced": 4 }, "packing_tags": ["camera", "sunscreen"] },
+    { "activity_name": "Yad Vashem Holocaust Memorial", "category": "Culture", "duration_minutes": 180, "scores": { "budget": 5, "relaxed": 2, "adventure": 1, "family": 2, "balanced": 4 }, "packing_tags": ["tissues", "comfortable_shoes"] },
+    { "activity_name": "Tower of David Museum", "category": "Culture", "duration_minutes": 120, "scores": { "budget": 3, "relaxed": 3, "adventure": 2, "family": 4, "balanced": 4 }, "packing_tags": ["comfortable_shoes"] },
+    { "activity_name": "Dead Sea Day Trip", "category": "Relaxation", "duration_minutes": 360, "scores": { "budget": 2, "relaxed": 5, "adventure": 3, "family": 4, "balanced": 4 }, "packing_tags": ["swimwear", "towel", "water_shoes"] },
+    { "activity_name": "City of David Tunnels", "category": "Adventure", "duration_minutes": 120, "scores": { "budget": 3, "relaxed": 2, "adventure": 4, "family": 3, "balanced": 3 }, "packing_tags": ["water_shoes", "flashlight"] }
+  ]
+}

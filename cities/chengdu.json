@@ -1,0 +1,16 @@
+{
+  "city_name": "Chengdu",
+  "country": "China",
+  "activities": [
+    { "activity_name": "Giant Panda Breeding Research Base", "category": "Sightseeing", "duration_minutes": 240, "scores": { "budget": 3, "relaxed": 4, "adventure": 1, "family": 5, "balanced": 5 }, "packing_tags": ["comfortable_shoes", "camera", "water_bottle"] },
+    { "activity_name": "Sichuan Hot Pot Dinner", "category": "Food", "duration_minutes": 120, "scores": { "budget": 3, "relaxed": 3, "adventure": 4, "family": 3, "balanced": 4 }, "packing_tags": ["casual_wear", "tissues"] },
+    { "activity_name": "Jinli Ancient Street", "category": "Culture", "duration_minutes": 150, "scores": { "budget": 5, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["camera", "comfortable_shoes"] },
+    { "activity_name": "People's Park Teahouse", "category": "Relaxation", "duration_minutes": 120, "scores": { "budget": 5, "relaxed": 5, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["sunglasses"] },
+    { "activity_name": "Leshan Giant Buddha Day Trip", "category": "Sightseeing", "duration_minutes": 480, "scores": { "budget": 3, "relaxed": 2, "adventure": 3, "family": 4, "balanced": 4 }, "packing_tags": ["comfortable_shoes", "sunscreen", "camera"] },
+    { "activity_name": "Sichuan Opera (Face Changing Show)", "category": "Culture", "duration_minutes": 120, "scores": { "budget": 2, "relaxed": 5, "adventure": 1, "family": 5, "balanced": 4 }, "packing_tags": ["camera"] },
+    { "activity_name": "Kuanzhai Alley Walking", "category": "Shopping", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["camera", "tote_bag"] },
+    { "activity_name": "Wuhou Shrine", "category": "Culture", "duration_minutes": 90, "scores": { "budget": 4, "relaxed": 4, "adventure": 1, "family": 3, "balanced": 4 }, "packing_tags": ["comfortable_shoes"] },
+    { "activity_name": "Dujiangyan Irrigation System", "category": "Sightseeing", "duration_minutes": 240, "scores": { "budget": 3, "relaxed": 3, "adventure": 2, "family": 4, "balanced": 4 }, "packing_tags": ["comfortable_shoes", "water_bottle"] },
+    { "activity_name": "Mount Emei Hike", "category": "Adventure", "duration_minutes": 600, "scores": { "budget": 2, "relaxed": 1, "adventure": 5, "family": 2, "balanced": 3 }, "packing_tags": ["hiking_boots", "rain_jacket", "water_bottle"] }
+  ]
+}

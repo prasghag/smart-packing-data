@@ -1,0 +1,16 @@
+{
+  "city_name": "Luxor",
+  "country": "Egypt",
+  "activities": [
+    { "activity_name": "Karnak Temple Complex", "category": "Culture", "duration_minutes": 180, "scores": { "budget": 3, "relaxed": 3, "adventure": 3, "family": 4, "balanced": 5 }, "packing_tags": ["sunscreen", "water_bottle", "comfortable_shoes", "hat"] },
+    { "activity_name": "Valley of the Kings", "category": "Culture", "duration_minutes": 240, "scores": { "budget": 2, "relaxed": 2, "adventure": 4, "family": 4, "balanced": 5 }, "packing_tags": ["sunscreen", "water_bottle", "comfortable_shoes", "hat"] },
+    { "activity_name": "Luxor Temple Evening Visit", "category": "Culture", "duration_minutes": 120, "scores": { "budget": 3, "relaxed": 4, "adventure": 2, "family": 5, "balanced": 5 }, "packing_tags": ["camera", "comfortable_shoes"] },
+    { "activity_name": "Hot Air Balloon over Luxor", "category": "Adventure", "duration_minutes": 180, "scores": { "budget": 1, "relaxed": 4, "adventure": 5, "family": 3, "balanced": 4 }, "packing_tags": ["camera", "light_jacket", "sunglasses"] },
+    { "activity_name": "Temple of Hatshepsut", "category": "Culture", "duration_minutes": 120, "scores": { "budget": 3, "relaxed": 3, "adventure": 3, "family": 4, "balanced": 4 }, "packing_tags": ["sunscreen", "water_bottle", "comfortable_shoes", "hat"] },
+    { "activity_name": "Felucca Ride on the Nile", "category": "Relaxation", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 5, "adventure": 2, "family": 5, "balanced": 4 }, "packing_tags": ["sunglasses", "sunscreen", "camera"] },
+    { "activity_name": "Luxor Museum", "category": "Culture", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 3 }, "packing_tags": ["comfortable_shoes"] },
+    { "activity_name": "Colossi of Memnon", "category": "Sightseeing", "duration_minutes": 30, "scores": { "budget": 5, "relaxed": 5, "adventure": 1, "family": 5, "balanced": 4 }, "packing_tags": ["camera"] },
+    { "activity_name": "Mortuary Temple of Ramses III (Medinet Habu)", "category": "Culture", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 3, "adventure": 2, "family": 4, "balanced": 4 }, "packing_tags": ["sunscreen", "water_bottle"] },
+    { "activity_name": "Banana Island (Gezira el-Moz)", "category": "Sightseeing", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 5, "adventure": 2, "family": 5, "balanced": 4 }, "packing_tags": ["mosquito_repellent", "camera"] }
+  ]
+}

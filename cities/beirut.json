@@ -1,0 +1,16 @@
+{
+  "city_name": "Beirut",
+  "country": "Lebanon",
+  "activities": [
+    { "activity_name": "Pigeon Rocks at Raouche", "category": "Sightseeing", "duration_minutes": 90, "scores": { "budget": 5, "relaxed": 4, "adventure": 2, "family": 5, "balanced": 5 }, "packing_tags": ["camera", "sunglasses"] },
+    { "activity_name": "National Museum of Beirut", "category": "Culture", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 4, "adventure": 1, "family": 3, "balanced": 4 }, "packing_tags": ["comfortable_shoes"] },
+    { "activity_name": "Zaitunay Bay Promenade", "category": "Relaxation", "duration_minutes": 120, "scores": { "budget": 3, "relaxed": 5, "adventure": 1, "family": 5, "balanced": 4 }, "packing_tags": ["casual_wear", "sunglasses"] },
+    { "activity_name": "Mohammad Al-Amin Mosque", "category": "Culture", "duration_minutes": 60, "scores": { "budget": 5, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["modest_clothing", "camera"] },
+    { "activity_name": "Sursock Museum", "category": "Culture", "duration_minutes": 90, "scores": { "budget": 4, "relaxed": 4, "adventure": 1, "family": 3, "balanced": 4 }, "packing_tags": ["camera"] },
+    { "activity_name": "Gemmayzeh & Mar Mikhael Walk", "category": "Food", "duration_minutes": 180, "scores": { "budget": 3, "relaxed": 4, "adventure": 2, "family": 2, "balanced": 4 }, "packing_tags": ["smart_casual_outfit", "cash"] },
+    { "activity_name": "Jeita Grotto Day Trip", "category": "Adventure", "duration_minutes": 240, "scores": { "budget": 3, "relaxed": 3, "adventure": 4, "family": 5, "balanced": 5 }, "packing_tags": ["light_jacket", "comfortable_shoes"] },
+    { "activity_name": "Byblos (Jbeil) Excursion", "category": "Culture", "duration_minutes": 300, "scores": { "budget": 3, "relaxed": 4, "adventure": 2, "family": 4, "balanced": 5 }, "packing_tags": ["camera", "sunscreen"] },
+    { "activity_name": "Souk el Tayeb Farmer's Market", "category": "Food", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 3, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["cash", "tote_bag"] },
+    { "activity_name": "Baalbek Roman Ruins Trip", "category": "Culture", "duration_minutes": 420, "scores": { "budget": 2, "relaxed": 2, "adventure": 4, "family": 3, "balanced": 4 }, "packing_tags": ["sunscreen", "water_bottle", "comfortable_shoes"] }
+  ]
+}

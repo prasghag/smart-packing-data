@@ -1,0 +1,176 @@
+{
+  "city_name": "Budapest",
+  "country": "Hungary",
+  "activities": [
+    {
+      "activity_name": "Parliament Building Guided Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "ID"
+      ]
+    },
+    {
+      "activity_name": "Central Market Hall Exploration & Hungarian Food Tasting",
+      "category": "Food",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "reusable bag",
+        "appetite",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Pál-völgyi Cave System Tour",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "sturdy shoes",
+        "comfortable clothes",
+        "water bottle"
+      ]
+    },
+    {
+      "activity_name": "Széchenyi Thermal Bath Experience",
+      "category": "Relaxation",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimsuit",
+        "towel",
+        "slippers",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Váci Street Stroll & Souvenir Hunting",
+      "category": "Shopping",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "reusable bag",
+        "cash/card"
+      ]
+    },
+    {
+      "activity_name": "Hungarian State Opera House Guided Tour",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "smart casual attire",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Explore Buda Castle District & Matthias Church",
+      "category": "Sightseeing",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "water bottle"
+      ]
+    },
+    {
+      "activity_name": "Ruin Bar Hopping (e.g., Szimpla Kert)",
+      "category": "Food",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 3,
+        "family": 1,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "ID",
+        "cash",
+        "casual clothes"
+      ]
+    },
+    {
+      "activity_name": "Danube River Sightseeing Cruise",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "light jacket",
+        "comfortable clothes"
+      ]
+    },
+    {
+      "activity_name": "House of Terror Museum Visit",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "respectful attire",
+        "water bottle"
+      ]
+    }
+  ]
+}

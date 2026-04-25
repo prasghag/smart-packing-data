@@ -1,0 +1,176 @@
+{
+  "city_name": "Seville",
+  "country": "Spain",
+  "activities": [
+    {
+      "activity_name": "Explore the Royal Alcázar of Seville",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "sunscreen",
+        "water bottle"
+      ]
+    },
+    {
+      "activity_name": "Climb the Giralda at Seville Cathedral",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 2,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "hat"
+      ]
+    },
+    {
+      "activity_name": "Indulge in a Triana Tapas Crawl",
+      "category": "Food",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "empty stomach",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Experience a Traditional Flamenco Show",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "nice attire",
+        "camera (if allowed)"
+      ]
+    },
+    {
+      "activity_name": "Relax at Parque de María Luisa and Plaza de España",
+      "category": "Relaxation",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "water bottle",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Paddle the Guadalquivir River by Kayak",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "swimsuit",
+        "waterproof bag",
+        "sunscreen",
+        "water shoes"
+      ]
+    },
+    {
+      "activity_name": "Shop for Local Crafts and Fashion",
+      "category": "Shopping",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "reusable shopping bag",
+        "cash/card",
+        "comfortable shoes"
+      ]
+    },
+    {
+      "activity_name": "Panoramic Views from Metropol Parasol",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Learn Andalusian Cuisine in a Cooking Class",
+      "category": "Food",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "apron (usually provided)",
+        "comfortable shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Relax at Hammam Al Ándalus Arab Baths",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "swimsuit",
+        "towel (usually provided)"
+      ]
+    }
+  ]
+}

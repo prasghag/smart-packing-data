@@ -1,0 +1,16 @@
+{
+  "city_name": "Kathmandu",
+  "country": "Nepal",
+  "activities": [
+    { "activity_name": "Swayambhunath (Monkey Temple)", "category": "Culture", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 3, "adventure": 2, "family": 4, "balanced": 5 }, "packing_tags": ["camera", "comfortable_shoes", "water_bottle"] },
+    { "activity_name": "Boudhanath Stupa", "category": "Culture", "duration_minutes": 90, "scores": { "budget": 4, "relaxed": 4, "adventure": 1, "family": 5, "balanced": 4 }, "packing_tags": ["camera", "modest_clothing"] },
+    { "activity_name": "Kathmandu Durbar Square", "category": "Culture", "duration_minutes": 150, "scores": { "budget": 4, "relaxed": 3, "adventure": 1, "family": 4, "balanced": 5 }, "packing_tags": ["comfortable_shoes", "sunscreen"] },
+    { "activity_name": "Thamel District Shopping", "category": "Shopping", "duration_minutes": 180, "scores": { "budget": 4, "relaxed": 3, "adventure": 2, "family": 3, "balanced": 4 }, "packing_tags": ["cash", "tote_bag", "comfortable_shoes"] },
+    { "activity_name": "Pashupatinath Temple", "category": "Culture", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 2, "adventure": 1, "family": 3, "balanced": 4 }, "packing_tags": ["modest_clothing", "camera"] },
+    { "activity_name": "Momo Making Class", "category": "Food", "duration_minutes": 150, "scores": { "budget": 3, "relaxed": 4, "adventure": 1, "family": 5, "balanced": 4 }, "packing_tags": ["camera"] },
+    { "activity_name": "Garden of Dreams", "category": "Relaxation", "duration_minutes": 90, "scores": { "budget": 4, "relaxed": 5, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["sunglasses", "book"] },
+    { "activity_name": "Chandragiri Hills Cable Car", "category": "Sightseeing", "duration_minutes": 180, "scores": { "budget": 3, "relaxed": 4, "adventure": 2, "family": 5, "balanced": 4 }, "packing_tags": ["camera", "warm_sweater"] },
+    { "activity_name": "Everest Scenic Flight", "category": "Adventure", "duration_minutes": 120, "scores": { "budget": 1, "relaxed": 3, "adventure": 5, "family": 4, "balanced": 3 }, "packing_tags": ["camera", "passport", "sunglasses"] },
+    { "activity_name": "Asan Bazaar Walk", "category": "Shopping", "duration_minutes": 90, "scores": { "budget": 5, "relaxed": 2, "adventure": 2, "family": 3, "balanced": 3 }, "packing_tags": ["cash", "day_bag"] }
+  ]
+}

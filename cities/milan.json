@@ -1,0 +1,180 @@
+{
+  "city_name": "Milan",
+  "country": "Italy",
+  "activities": [
+    {
+      "activity_name": "Duomo di Milano & Rooftop Climb",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "Comfortable shoes",
+        "Camera",
+        "Sunscreen",
+        "Light jacket"
+      ]
+    },
+    {
+      "activity_name": "Leonardo da Vinci's Last Supper Viewing",
+      "category": "Culture",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "Booking confirmation",
+        "Respectful attire",
+        "Quiet demeanor"
+      ]
+    },
+    {
+      "activity_name": "Aperitivo in Navigli District",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "Stylish attire",
+        "Camera",
+        "Small purse/wallet"
+      ]
+    },
+    {
+      "activity_name": "Luxury Shopping in Quadrilatero della Moda",
+      "category": "Shopping",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 1,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 2,
+        "balanced": 2
+      },
+      "packing_tags": [
+        "Comfortable shoes",
+        "Credit cards",
+        "Stylish attire"
+      ]
+    },
+    {
+      "activity_name": "Relaxation at Parco Sempione",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "Comfortable shoes",
+        "Picnic blanket",
+        "Book",
+        "Water bottle"
+      ]
+    },
+    {
+      "activity_name": "Explore Brera District's Art Galleries & Boutiques",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "Comfortable shoes",
+        "Camera",
+        "Small bag"
+      ]
+    },
+    {
+      "activity_name": "Milanese Cooking Class",
+      "category": "Food",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "Comfortable clothing",
+        "Camera",
+        "Appetite"
+      ]
+    },
+    {
+      "activity_name": "Sforza Castle and Civic Museums",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "Comfortable shoes",
+        "Camera",
+        "Water bottle"
+      ]
+    },
+    {
+      "activity_name": "Electric Bike Tour of Milan's Modern Architecture",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "Comfortable clothing",
+        "Helmet (if not provided)",
+        "Water bottle",
+        "Small backpack"
+      ]
+    },
+    {
+      "activity_name": "QC Termemilano Spa Experience",
+      "category": "Relaxation",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 1,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "Swimsuit",
+        "Flip-flops",
+        "Towel (if not provided)",
+        "Robe (if not provided)"
+      ]
+    }
+  ]
+}

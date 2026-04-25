@@ -1,0 +1,170 @@
+{
+  "city_name": "Dublin",
+  "country": "Ireland",
+  "activities": [
+    {
+      "activity_name": "Guinness Storehouse Tour & Tasting",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Explore Trinity College & The Book of Kells",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "reading glasses"
+      ]
+    },
+    {
+      "activity_name": "Dublin Food Walking Tour",
+      "category": "Food",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "appetite",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Kayaking on the River Liffey",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "waterproof jacket",
+        "comfortable clothes",
+        "change of clothes",
+        "water bottle"
+      ]
+    },
+    {
+      "activity_name": "Stroll through St. Stephen's Green Park",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Shopping on Grafton Street",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "credit card",
+        "shopping bag"
+      ]
+    },
+    {
+      "activity_name": "Visit Dublin Castle",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable shoes"
+      ]
+    },
+    {
+      "activity_name": "Experience a Traditional Irish Music Session",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 2,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable clothes",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Enjoy an Authentic Full Irish Breakfast",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite"
+      ]
+    },
+    {
+      "activity_name": "Leisurely Walk along the Grand Canal",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "water bottle"
+      ]
+    }
+  ]
+}

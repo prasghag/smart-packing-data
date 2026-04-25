@@ -1,0 +1,16 @@
+{
+  "city_name": "Muscat",
+  "country": "Oman",
+  "activities": [
+    { "activity_name": "Sultan Qaboos Grand Mosque", "category": "Culture", "duration_minutes": 120, "scores": { "budget": 5, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 5 }, "packing_tags": ["modest_clothing", "headscarf", "camera"] },
+    { "activity_name": "Mutrah Souq", "category": "Shopping", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 3, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["cash", "comfortable_shoes"] },
+    { "activity_name": "Royal Opera House Tour", "category": "Culture", "duration_minutes": 90, "scores": { "budget": 3, "relaxed": 4, "adventure": 1, "family": 2, "balanced": 3 }, "packing_tags": ["smart_casual_outfit"] },
+    { "activity_name": "Al Jalali & Al Mirani Forts", "category": "Sightseeing", "duration_minutes": 90, "scores": { "budget": 5, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["camera", "sunscreen"] },
+    { "activity_name": "Wadi Shab Day Hike", "category": "Adventure", "duration_minutes": 480, "scores": { "budget": 3, "relaxed": 1, "adventure": 5, "family": 2, "balanced": 4 }, "packing_tags": ["swimwear", "hiking_shoes", "water_shoes"] },
+    { "activity_name": "Bimah Sinkhole Visit", "category": "Sightseeing", "duration_minutes": 60, "scores": { "budget": 5, "relaxed": 4, "adventure": 3, "family": 5, "balanced": 4 }, "packing_tags": ["swimwear", "towel", "camera"] },
+    { "activity_name": "Daymaniyat Islands Snorkeling", "category": "Adventure", "duration_minutes": 360, "scores": { "budget": 2, "relaxed": 3, "adventure": 5, "family": 4, "balanced": 4 }, "packing_tags": ["swimwear", "sunscreen", "towel"] },
+    { "activity_name": "Omani Halwa & Coffee Tasting", "category": "Food", "duration_minutes": 60, "scores": { "budget": 4, "relaxed": 5, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["casual_wear"] },
+    { "activity_name": "Qurum Beach Stroll", "category": "Relaxation", "duration_minutes": 90, "scores": { "budget": 5, "relaxed": 5, "adventure": 1, "family": 5, "balanced": 4 }, "packing_tags": ["sunglasses", "sunscreen"] },
+    { "activity_name": "National Museum of Oman", "category": "Culture", "duration_minutes": 150, "scores": { "budget": 3, "relaxed": 3, "adventure": 1, "family": 3, "balanced": 4 }, "packing_tags": ["comfortable_shoes"] }
+  ]
+}

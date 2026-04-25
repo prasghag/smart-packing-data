@@ -1,0 +1,176 @@
+{
+  "city_name": "New Orleans",
+  "country": "United States",
+  "activities": [
+    {
+      "activity_name": "French Quarter Architectural Walking Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "water bottle",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Beignets and Cafe Au Lait at Cafe Du Monde",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "napkins",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Live Jazz and Blues on Frenchmen Street",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 2,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "ID",
+        "comfortable shoes",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Jean Lafitte Swamp and Bayou Tour",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "insect repellent",
+        "sunscreen",
+        "hat",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "St. Charles Avenue Streetcar Ride",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "Jazzy Pass or small bills"
+      ]
+    },
+    {
+      "activity_name": "Shopping and Gallery Hopping on Magazine Street",
+      "category": "Shopping",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "credit card",
+        "tote bag"
+      ]
+    },
+    {
+      "activity_name": "Garden District Mansion and Cemetery Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "water bottle",
+        "camera",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "New Orleans Creole & Cajun Cooking Class",
+      "category": "Food",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 1,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "appetite",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "French Quarter Ghost and Vampire Walking Tour",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "water bottle",
+        "camera (night mode)",
+        "light jacket"
+      ]
+    },
+    {
+      "activity_name": "Explore New Orleans Museum of Art (NOMA) and Sculpture Garden",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "small bag",
+        "camera"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "city_name": "Cartagena",
+  "country": "Colombia",
+  "activities": [
+    { "activity_name": "Walled City Walk", "category": "Sightseeing", "duration_minutes": 120, "scores": { "budget": 5, "relaxed": 4, "adventure": 1, "family": 5, "balanced": 5 }, "packing_tags": ["light_clothing", "comfortable_shoes", "hat"] },
+    { "activity_name": "Castillo de San Felipe", "category": "Culture", "duration_minutes": 120, "scores": { "budget": 3, "relaxed": 2, "adventure": 3, "family": 4, "balanced": 4 }, "packing_tags": ["water_bottle", "sunscreen"] },
+    { "activity_name": "Rosario Islands Boat Trip", "category": "Relaxation", "duration_minutes": 480, "scores": { "budget": 2, "relaxed": 5, "adventure": 3, "family": 4, "balanced": 5 }, "packing_tags": ["swimwear", "sunscreen", "towel"] },
+    { "activity_name": "Getsemani Street Art Tour", "category": "Culture", "duration_minutes": 90, "scores": { "budget": 5, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["camera", "comfortable_shoes"] },
+    { "activity_name": "Cafe del Mar Sunset", "category": "Relaxation", "duration_minutes": 90, "scores": { "budget": 2, "relaxed": 5, "adventure": 1, "family": 3, "balanced": 4 }, "packing_tags": ["sunglasses", "camera"] },
+    { "activity_name": "Playa Blanca Beach Day", "category": "Relaxation", "duration_minutes": 300, "scores": { "budget": 3, "relaxed": 4, "adventure": 2, "family": 5, "balanced": 4 }, "packing_tags": ["swimwear", "beach_bag", "sunglasses"] },
+    { "activity_name": "Salsa Dancing at Cafe Havana", "category": "Culture", "duration_minutes": 180, "scores": { "budget": 2, "relaxed": 2, "adventure": 2, "family": 1, "balanced": 3 }, "packing_tags": ["dancing_shoes", "smart_casual_outfit"] },
+    { "activity_name": "Ceviche Tasting", "category": "Food", "duration_minutes": 60, "scores": { "budget": 2, "relaxed": 4, "adventure": 2, "family": 3, "balanced": 3 }, "packing_tags": ["casual_wear"] },
+    { "activity_name": "Mud Volcano (Totumo)", "category": "Adventure", "duration_minutes": 180, "scores": { "budget": 3, "relaxed": 2, "adventure": 4, "family": 3, "balanced": 3 }, "packing_tags": ["old_swimwear", "towel"] },
+    { "activity_name": "Palenque Heritage Tour", "category": "Culture", "duration_minutes": 240, "scores": { "budget": 3, "relaxed": 3, "adventure": 2, "family": 4, "balanced": 4 }, "packing_tags": ["comfortable_shoes", "water_bottle"] }
+  ]
+}

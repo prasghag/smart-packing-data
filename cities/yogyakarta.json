@@ -1,0 +1,16 @@
+{
+  "city_name": "Yogyakarta",
+  "country": "Indonesia",
+  "activities": [
+    { "activity_name": "Borobudur Sunrise Tour", "category": "Culture", "duration_minutes": 240, "scores": { "budget": 3, "relaxed": 2, "adventure": 3, "family": 4, "balanced": 5 }, "packing_tags": ["camera", "comfortable_shoes", "light_jacket"] },
+    { "activity_name": "Prambanan Temple", "category": "Culture", "duration_minutes": 180, "scores": { "budget": 3, "relaxed": 3, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["sunscreen", "hat", "water_bottle"] },
+    { "activity_name": "Mount Merapi Jeep Safari", "category": "Adventure", "duration_minutes": 180, "scores": { "budget": 3, "relaxed": 1, "adventure": 5, "family": 3, "balanced": 4 }, "packing_tags": ["sunglasses", "dust_mask", "camera"] },
+    { "activity_name": "Malioboro Street Shopping", "category": "Shopping", "duration_minutes": 150, "scores": { "budget": 5, "relaxed": 3, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["cash", "tote_bag"] },
+    { "activity_name": "Kraton (Sultan's Palace)", "category": "Culture", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["modest_clothing", "camera"] },
+    { "activity_name": "Taman Sari Water Castle", "category": "Sightseeing", "duration_minutes": 90, "scores": { "budget": 4, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["camera"] },
+    { "activity_name": "Jomblang Cave Descent", "category": "Adventure", "duration_minutes": 360, "scores": { "budget": 2, "relaxed": 1, "adventure": 5, "family": 1, "balanced": 3 }, "packing_tags": ["old_clothes", "change_of_clothes", "water_shoes"] },
+    { "activity_name": "Gudeg Food Tasting", "category": "Food", "duration_minutes": 60, "scores": { "budget": 5, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["hand_sanitizer"] },
+    { "activity_name": "Pinus Pengger Forest", "category": "Relaxation", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 5, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["camera", "light_jacket"] },
+    { "activity_name": "Ramayana Ballet Performance", "category": "Culture", "duration_minutes": 150, "scores": { "budget": 3, "relaxed": 5, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["camera"] }
+  ]
+}

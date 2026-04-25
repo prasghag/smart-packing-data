@@ -1,0 +1,173 @@
+{
+  "city_name": "Queenstown",
+  "country": "New Zealand",
+  "activities": [
+    {
+      "activity_name": "Milford Sound Day Cruise",
+      "category": "Sightseeing",
+      "duration_minutes": 600,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "warm_sweater",
+        "rain_jacket",
+        "camera",
+        "motion_sickness_pills"
+      ]
+    },
+    {
+      "activity_name": "Skyline Gondola & Luge",
+      "category": "Adventure",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "sunglasses",
+        "closed_toe_shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Shotover Jet Boat Ride",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "windbreaker",
+        "sunglasses",
+        "water_proof_bag"
+      ]
+    },
+    {
+      "activity_name": "AJ Hackett Kawarau Bridge Bungy",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 1,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable_clothing",
+        "courage",
+        "closed_toe_shoes"
+      ]
+    },
+    {
+      "activity_name": "Lake Wakatipu Scenic Cruise",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "warm_sweater"
+      ]
+    },
+    {
+      "activity_name": "Remarkables Ski Area (Seasonal)",
+      "category": "Adventure",
+      "duration_minutes": 480,
+      "scores": {
+        "budget": 1,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "ski_gear",
+        "thermal_layers",
+        "goggles"
+      ]
+    },
+    {
+      "activity_name": "Queenstown Gardens Walk",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Fergburger Tasting",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "casual_wear",
+        "patience_for_queues"
+      ]
+    },
+    {
+      "activity_name": "Central Otago Wine Tour",
+      "category": "Food",
+      "duration_minutes": 300,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 1,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "smart_casual_outfit",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Coronet Peak Paragliding",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 1,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "windbreaker",
+        "sunglasses",
+        "action_camera"
+      ]
+    }
+  ]
+}

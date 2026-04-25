@@ -1,0 +1,16 @@
+{
+  "city_name": "Chiang Mai",
+  "country": "Thailand",
+  "activities": [
+    { "activity_name": "Doi Suthep Temple", "category": "Sightseeing", "duration_minutes": 180, "scores": { "budget": 4, "relaxed": 3, "adventure": 2, "family": 4, "balanced": 5 }, "packing_tags": ["modest_clothing", "comfortable_shoes", "camera"] },
+    { "activity_name": "Ethical Elephant Sanctuary", "category": "Adventure", "duration_minutes": 480, "scores": { "budget": 2, "relaxed": 2, "adventure": 4, "family": 5, "balanced": 4 }, "packing_tags": ["old_clothes", "swimwear", "sunscreen", "mosquito_repellent"] },
+    { "activity_name": "Sunday Night Walking Street", "category": "Shopping", "duration_minutes": 180, "scores": { "budget": 5, "relaxed": 3, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["cash", "tote_bag", "comfortable_shoes"] },
+    { "activity_name": "Khao Soi Tasting", "category": "Food", "duration_minutes": 60, "scores": { "budget": 5, "relaxed": 4, "adventure": 1, "family": 5, "balanced": 5 }, "packing_tags": ["casual_wear"] },
+    { "activity_name": "Sticky Waterfalls (Bua Tong)", "category": "Adventure", "duration_minutes": 240, "scores": { "budget": 4, "relaxed": 2, "adventure": 5, "family": 4, "balanced": 4 }, "packing_tags": ["swimwear", "water_shoes", "towel"] },
+    { "activity_name": "Traditional Thai Massage", "category": "Relaxation", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 5, "adventure": 1, "family": 2, "balanced": 4 }, "packing_tags": ["comfortable_clothes"] },
+    { "activity_name": "Doi Inthanon National Park", "category": "Sightseeing", "duration_minutes": 480, "scores": { "budget": 3, "relaxed": 2, "adventure": 3, "family": 4, "balanced": 4 }, "packing_tags": ["light_jacket", "comfortable_shoes", "camera"] },
+    { "activity_name": "Nimman Road Cafe Hopping", "category": "Relaxation", "duration_minutes": 150, "scores": { "budget": 3, "relaxed": 5, "adventure": 1, "family": 3, "balanced": 3 }, "packing_tags": ["sunglasses", "day_bag"] },
+    { "activity_name": "Lanna Folklife Museum", "category": "Culture", "duration_minutes": 90, "scores": { "budget": 5, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 3 }, "packing_tags": ["glasses"] },
+    { "activity_name": "Muay Thai Match", "category": "Culture", "duration_minutes": 180, "scores": { "budget": 3, "relaxed": 2, "adventure": 4, "family": 2, "balanced": 3 }, "packing_tags": ["casual_wear"] }
+  ]
+}

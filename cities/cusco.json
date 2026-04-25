@@ -1,0 +1,16 @@
+{
+  "city_name": "Cusco",
+  "country": "Peru",
+  "activities": [
+    { "activity_name": "Plaza de Armas", "category": "Sightseeing", "duration_minutes": 60, "scores": { "budget": 5, "relaxed": 4, "adventure": 1, "family": 5, "balanced": 4 }, "packing_tags": ["camera", "warm_sweater"] },
+    { "activity_name": "Sacsayhuaman Ruins", "category": "Culture", "duration_minutes": 120, "scores": { "budget": 3, "relaxed": 2, "adventure": 4, "family": 4, "balanced": 5 }, "packing_tags": ["hiking_shoes", "water_bottle", "sunscreen"] },
+    { "activity_name": "San Pedro Market", "category": "Food", "duration_minutes": 90, "scores": { "budget": 5, "relaxed": 3, "adventure": 2, "family": 3, "balanced": 4 }, "packing_tags": ["cash", "hand_sanitizer"] },
+    { "activity_name": "Qorikancha Temple", "category": "Culture", "duration_minutes": 90, "scores": { "budget": 3, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["comfortable_shoes"] },
+    { "activity_name": "San Blas Artisan Neighborhood", "category": "Shopping", "duration_minutes": 120, "scores": { "budget": 3, "relaxed": 4, "adventure": 1, "family": 3, "balanced": 3 }, "packing_tags": ["comfortable_shoes", "day_bag"] },
+    { "activity_name": "Rainbow Mountain Trek", "category": "Adventure", "duration_minutes": 720, "scores": { "budget": 2, "relaxed": 1, "adventure": 5, "family": 1, "balanced": 3 }, "packing_tags": ["hiking_boots", "thermal_layers", "altitude_medication"] },
+    { "activity_name": "Sacred Valley Tour", "category": "Sightseeing", "duration_minutes": 480, "scores": { "budget": 2, "relaxed": 3, "adventure": 3, "family": 4, "balanced": 5 }, "packing_tags": ["day_bag", "camera", "water_bottle"] },
+    { "activity_name": "Alpaca Farm Visit", "category": "Relaxation", "duration_minutes": 90, "scores": { "budget": 4, "relaxed": 5, "adventure": 1, "family": 5, "balanced": 3 }, "packing_tags": ["camera"] },
+    { "activity_name": "Pisco Sour Tasting", "category": "Food", "duration_minutes": 60, "scores": { "budget": 2, "relaxed": 5, "adventure": 1, "family": 1, "balanced": 3 }, "packing_tags": ["smart_casual_outfit"] },
+    { "activity_name": "Machu Picchu Day Trip", "category": "Culture", "duration_minutes": 840, "scores": { "budget": 1, "relaxed": 1, "adventure": 4, "family": 3, "balanced": 5 }, "packing_tags": ["passport", "hiking_shoes", "rain_jacket"] }
+  ]
+}

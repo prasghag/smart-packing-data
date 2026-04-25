@@ -1,0 +1,169 @@
+{
+  "city_name": "Granada",
+  "country": "Spain",
+  "activities": [
+    {
+      "activity_name": "Explore the Alhambra and Generalife",
+      "category": "Sightseeing",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "water bottle",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Tapas Crawl in Realejo or Albaicín",
+      "category": "Food",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "appetite"
+      ]
+    },
+    {
+      "activity_name": "Flamenco Show in Sacromonte Caves",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "light jacket",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Relax at Hammam Al Ándalus (Arab Baths)",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "swimsuit"
+      ]
+    },
+    {
+      "activity_name": "Wander through Albaicín and Mirador de San Nicolás",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 1,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "water bottle"
+      ]
+    },
+    {
+      "activity_name": "Day Trip to Sierra Nevada (Hiking/Skiing)",
+      "category": "Adventure",
+      "duration_minutes": 480,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "hiking boots",
+        "warm layers",
+        "sunscreen",
+        "water"
+      ]
+    },
+    {
+      "activity_name": "Shopping in Alcaicería (Old Silk Market)",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "small bag",
+        "cash/card"
+      ]
+    },
+    {
+      "activity_name": "Andalusian Cooking Class",
+      "category": "Food",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "comfortable clothes"
+      ]
+    },
+    {
+      "activity_name": "Visit Granada Cathedral and Royal Chapel",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "respectful attire",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Stroll through Carmen de los Mártires Gardens",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera"
+      ]
+    }
+  ]
+}

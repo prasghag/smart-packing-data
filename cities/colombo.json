@@ -1,0 +1,16 @@
+{
+  "city_name": "Colombo",
+  "country": "Sri Lanka",
+  "activities": [
+    { "activity_name": "Gangaramaya Temple", "category": "Culture", "duration_minutes": 90, "scores": { "budget": 5, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["modest_clothing", "slip_on_shoes"] },
+    { "activity_name": "Galle Face Green Sunset", "category": "Relaxation", "duration_minutes": 90, "scores": { "budget": 5, "relaxed": 5, "adventure": 1, "family": 5, "balanced": 4 }, "packing_tags": ["camera", "sunglasses"] },
+    { "activity_name": "Pettah Floating Market", "category": "Shopping", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 3, "adventure": 2, "family": 3, "balanced": 4 }, "packing_tags": ["cash", "tote_bag", "comfortable_shoes"] },
+    { "activity_name": "National Museum of Colombo", "category": "Culture", "duration_minutes": 150, "scores": { "budget": 4, "relaxed": 3, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["camera"] },
+    { "activity_name": "Ministry of Crab Dinner", "category": "Food", "duration_minutes": 120, "scores": { "budget": 1, "relaxed": 4, "adventure": 1, "family": 3, "balanced": 3 }, "packing_tags": ["smart_casual_outfit", "credit_card"] },
+    { "activity_name": "Viharamahadevi Park", "category": "Relaxation", "duration_minutes": 60, "scores": { "budget": 5, "relaxed": 5, "adventure": 1, "family": 5, "balanced": 4 }, "packing_tags": ["sunscreen", "water_bottle"] },
+    { "activity_name": "Mount Lavinia Beach", "category": "Relaxation", "duration_minutes": 180, "scores": { "budget": 4, "relaxed": 5, "adventure": 2, "family": 5, "balanced": 4 }, "packing_tags": ["swimwear", "sunglasses", "towel"] },
+    { "activity_name": "Independence Memorial Hall", "category": "Sightseeing", "duration_minutes": 60, "scores": { "budget": 5, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["camera"] },
+    { "activity_name": "Red Mosque (Jami Ul-Alfar)", "category": "Culture", "duration_minutes": 60, "scores": { "budget": 5, "relaxed": 4, "adventure": 1, "family": 3, "balanced": 4 }, "packing_tags": ["modest_clothing", "camera"] },
+    { "activity_name": "Tuk-Tuk City Tour", "category": "Adventure", "duration_minutes": 150, "scores": { "budget": 3, "relaxed": 3, "adventure": 4, "family": 4, "balanced": 4 }, "packing_tags": ["camera", "sunglasses"] }
+  ]
+}

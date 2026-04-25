@@ -1,0 +1,180 @@
+{
+  "city_name": "Mykonos",
+  "country": "Greece",
+  "activities": [
+    {
+      "activity_name": "Explore Mykonos Town (Chora) and Little Venice",
+      "category": "Sightseeing",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "water bottle",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Visit the iconic Windmills of Mykonos (Kato Mili)",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses",
+        "hat"
+      ]
+    },
+    {
+      "activity_name": "Enjoy a traditional Greek meal at a local taverna",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "appetite",
+        "light clothing"
+      ]
+    },
+    {
+      "activity_name": "Participate in a Mykonian cooking class",
+      "category": "Food",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "apron (often provided)",
+        "camera",
+        "comfortable shoes"
+      ]
+    },
+    {
+      "activity_name": "Go Scuba Diving or Snorkeling in the Aegean Sea",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "swimsuit",
+        "towel",
+        "sunscreen",
+        "hat"
+      ]
+    },
+    {
+      "activity_name": "Experience Jet Skiing or other Water Sports at Elia Beach",
+      "category": "Adventure",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 2
+      },
+      "packing_tags": [
+        "swimsuit",
+        "sunscreen",
+        "towel"
+      ]
+    },
+    {
+      "activity_name": "Relax and sunbathe at Psarou Beach or Super Paradise Beach",
+      "category": "Relaxation",
+      "duration_minutes": 360,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimsuit",
+        "towel",
+        "sunscreen",
+        "hat",
+        "book"
+      ]
+    },
+    {
+      "activity_name": "Shop for fashion and souvenirs in Mykonos Chora's boutiques",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "wallet",
+        "comfortable shoes",
+        "reusable shopping bag"
+      ]
+    },
+    {
+      "activity_name": "Take a day trip to the ancient archaeological site of Delos",
+      "category": "Culture",
+      "duration_minutes": 300,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "hat",
+        "sunscreen",
+        "water bottle",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Visit the iconic Panagia Paraportiani Church",
+      "category": "Culture",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses"
+      ]
+    }
+  ]
+}

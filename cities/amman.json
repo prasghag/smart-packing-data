@@ -1,0 +1,16 @@
+{
+  "city_name": "Amman",
+  "country": "Jordan",
+  "activities": [
+    { "activity_name": "Amman Citadel (Jabal al-Qal'a)", "category": "Sightseeing", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 3, "adventure": 2, "family": 4, "balanced": 5 }, "packing_tags": ["sunscreen", "camera", "comfortable_shoes"] },
+    { "activity_name": "Roman Theater Visit", "category": "Culture", "duration_minutes": 60, "scores": { "budget": 4, "relaxed": 4, "adventure": 1, "family": 5, "balanced": 4 }, "packing_tags": ["camera"] },
+    { "activity_name": "Rainbow Street Stroll", "category": "Food", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["casual_wear", "cash"] },
+    { "activity_name": "Hashem Restaurant Falafel Tasting", "category": "Food", "duration_minutes": 60, "scores": { "budget": 5, "relaxed": 4, "adventure": 1, "family": 5, "balanced": 5 }, "packing_tags": ["hand_sanitizer"] },
+    { "activity_name": "The Jordan Museum", "category": "Culture", "duration_minutes": 120, "scores": { "budget": 3, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["comfortable_shoes"] },
+    { "activity_name": "King Abdullah Mosque", "category": "Culture", "duration_minutes": 60, "scores": { "budget": 4, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["modest_clothing"] },
+    { "activity_name": "Souq Jara Market", "category": "Shopping", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 3, "adventure": 1, "family": 4, "balanced": 3 }, "packing_tags": ["tote_bag", "cash"] },
+    { "activity_name": "Jerash Day Trip", "category": "Culture", "duration_minutes": 360, "scores": { "budget": 3, "relaxed": 2, "adventure": 3, "family": 4, "balanced": 5 }, "packing_tags": ["sunscreen", "water_bottle", "comfortable_shoes"] },
+    { "activity_name": "Petra Day Tour", "category": "Adventure", "duration_minutes": 720, "scores": { "budget": 1, "relaxed": 1, "adventure": 5, "family": 3, "balanced": 4 }, "packing_tags": ["hiking_boots", "sunscreen", "water_bottle", "camera"] },
+    { "activity_name": "Royal Automobile Museum", "category": "Culture", "duration_minutes": 90, "scores": { "budget": 4, "relaxed": 4, "adventure": 1, "family": 5, "balanced": 3 }, "packing_tags": ["camera"] }
+  ]
+}

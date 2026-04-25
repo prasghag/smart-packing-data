@@ -1,0 +1,177 @@
+{
+  "city_name": "Copenhagen",
+  "country": "Denmark",
+  "activities": [
+    {
+      "activity_name": "Explore Nyhavn and The Little Mermaid",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "light jacket"
+      ]
+    },
+    {
+      "activity_name": "Visit Reffen - Copenhagen Street Food",
+      "category": "Food",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "cash/card",
+        "casual attire"
+      ]
+    },
+    {
+      "activity_name": "Canal Tour from Nyhavn",
+      "category": "Adventure",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "light jacket",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Stroll through Tivoli Gardens",
+      "category": "Relaxation",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "light jacket"
+      ]
+    },
+    {
+      "activity_name": "Shopping on Strøget",
+      "category": "Shopping",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "reusable shopping bag",
+        "payment cards"
+      ]
+    },
+    {
+      "activity_name": "Discover Danish History at the National Museum of Denmark",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "curiosity",
+        "light backpack"
+      ]
+    },
+    {
+      "activity_name": "Explore Rosenborg Castle and The King's Garden",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "light jacket"
+      ]
+    },
+    {
+      "activity_name": "Culinary Exploration of Nørrebro",
+      "category": "Food",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "appetite",
+        "payment cards"
+      ]
+    },
+    {
+      "activity_name": "Kayaking in Copenhagen Canals",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "waterproof bag",
+        "change of clothes",
+        "sunscreen",
+        "water bottle"
+      ]
+    },
+    {
+      "activity_name": "Relax in the Copenhagen Botanical Garden",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable shoes",
+        "water bottle"
+      ]
+    }
+  ]
+}

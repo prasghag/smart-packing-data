@@ -1,0 +1,181 @@
+{
+  "city_name": "San Francisco",
+  "country": "USA",
+  "activities": [
+    {
+      "activity_name": "Walk or bike across the Golden Gate Bridge",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "jacket",
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Explore the Ferry Building Marketplace",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "reusable shopping bag",
+        "appetite",
+        "cash/card"
+      ]
+    },
+    {
+      "activity_name": "Tour Alcatraz Island",
+      "category": "Adventure",
+      "duration_minutes": 210,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "pre-booked ticket",
+        "jacket",
+        "comfortable shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Picnic and stroll in Golden Gate Park",
+      "category": "Relaxation",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "picnic blanket",
+        "snacks",
+        "water bottle",
+        "comfortable shoes"
+      ]
+    },
+    {
+      "activity_name": "Retail therapy in Union Square",
+      "category": "Shopping",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 2
+      },
+      "packing_tags": [
+        "credit card",
+        "reusable shopping bag",
+        "comfortable shoes"
+      ]
+    },
+    {
+      "activity_name": "Visit SFMOMA (San Francisco Museum of Modern Art)",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "ticket",
+        "quiet shoes",
+        "curiosity"
+      ]
+    },
+    {
+      "activity_name": "Ride a Cable Car and explore Fisherman's Wharf & Lombard Street",
+      "category": "Sightseeing",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "jacket",
+        "comfortable shoes",
+        "camera",
+        "small backpack"
+      ]
+    },
+    {
+      "activity_name": "Enjoy Dim Sum in Chinatown",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "cash",
+        "open mind"
+      ]
+    },
+    {
+      "activity_name": "Hike Twin Peaks for panoramic views",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 1,
+        "relaxed": 2,
+        "adventure": 3,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "jacket",
+        "camera",
+        "water bottle"
+      ]
+    },
+    {
+      "activity_name": "Find serenity at the Japanese Tea Garden",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "camera",
+        "quiet shoes",
+        "peace of mind"
+      ]
+    }
+  ]
+}

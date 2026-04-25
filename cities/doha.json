@@ -1,0 +1,16 @@
+{
+  "city_name": "Doha",
+  "country": "Qatar",
+  "activities": [
+    { "activity_name": "Museum of Islamic Art", "category": "Culture", "duration_minutes": 180, "scores": { "budget": 4, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 5 }, "packing_tags": ["modest_clothing", "camera", "comfortable_shoes"] },
+    { "activity_name": "Souq Waqif Evening Walk", "category": "Shopping", "duration_minutes": 150, "scores": { "budget": 4, "relaxed": 3, "adventure": 2, "family": 5, "balanced": 5 }, "packing_tags": ["cash", "tote_bag", "camera"] },
+    { "activity_name": "Doha Corniche Walk", "category": "Relaxation", "duration_minutes": 90, "scores": { "budget": 5, "relaxed": 4, "adventure": 1, "family": 5, "balanced": 4 }, "packing_tags": ["sunglasses", "sunscreen"] },
+    { "activity_name": "Katara Cultural Village", "category": "Culture", "duration_minutes": 120, "scores": { "budget": 5, "relaxed": 4, "adventure": 1, "family": 5, "balanced": 4 }, "packing_tags": ["camera"] },
+    { "activity_name": "Desert Safari at Inland Sea", "category": "Adventure", "duration_minutes": 360, "scores": { "budget": 2, "relaxed": 1, "adventure": 5, "family": 4, "balanced": 4 }, "packing_tags": ["sunglasses", "light_jacket", "water_bottle"] },
+    { "activity_name": "National Museum of Qatar", "category": "Culture", "duration_minutes": 150, "scores": { "budget": 3, "relaxed": 3, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["comfortable_shoes", "camera"] },
+    { "activity_name": "The Pearl-Qatar Dining", "category": "Food", "duration_minutes": 120, "scores": { "budget": 1, "relaxed": 4, "adventure": 1, "family": 3, "balanced": 3 }, "packing_tags": ["smart_casual_outfit", "credit_card"] },
+    { "activity_name": "Aspire Park Relaxation", "category": "Relaxation", "duration_minutes": 90, "scores": { "budget": 5, "relaxed": 5, "adventure": 1, "family": 5, "balanced": 4 }, "packing_tags": ["picnic_blanket", "sunglasses"] },
+    { "activity_name": "Dhow Cruise in the Bay", "category": "Relaxation", "duration_minutes": 120, "scores": { "budget": 2, "relaxed": 5, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["light_jacket", "camera"] },
+    { "activity_name": "Falcon Souq Visit", "category": "Culture", "duration_minutes": 60, "scores": { "budget": 5, "relaxed": 3, "adventure": 1, "family": 4, "balanced": 3 }, "packing_tags": ["camera"] }
+  ]
+}

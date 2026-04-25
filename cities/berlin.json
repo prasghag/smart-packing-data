@@ -1,0 +1,184 @@
+{
+  "city_name": "Berlin",
+  "country": "Germany",
+  "activities": [
+    {
+      "activity_name": "Brandenburg Gate & Reichstag Building Visit",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "water bottle",
+        "ID (for Reichstag)"
+      ]
+    },
+    {
+      "activity_name": "Explore Museum Island",
+      "category": "Culture",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "backpack",
+        "museum pass (optional)",
+        "earphones"
+      ]
+    },
+    {
+      "activity_name": "Street Food Market at Markthalle Neun (Thursdays)",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "empty stomach",
+        "cash (some vendors)",
+        "reusable bag"
+      ]
+    },
+    {
+      "activity_name": "Teufelsberg Spy Station Exploration",
+      "category": "Adventure",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "sturdy shoes",
+        "camera",
+        "flashlight",
+        "jacket"
+      ]
+    },
+    {
+      "activity_name": "Relaxing Stroll through Tiergarten Park & Boat Ride",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "sunscreen",
+        "sunglasses",
+        "picnic blanket (optional)"
+      ]
+    },
+    {
+      "activity_name": "Shopping Spree on Kurfürstendamm (Ku'damm)",
+      "category": "Shopping",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "credit card",
+        "reusable shopping bag",
+        "stylish attire (optional)"
+      ]
+    },
+    {
+      "activity_name": "East Side Gallery & Berlin Wall Memorial Visit",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 1,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "water bottle",
+        "audio guide (optional)"
+      ]
+    },
+    {
+      "activity_name": "Traditional German Dinner at a Local Kneipe",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "empty stomach",
+        "smart casual attire",
+        "app for translations (optional)"
+      ]
+    },
+    {
+      "activity_name": "Biking Tour along the Berlin Wall Trail",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable clothing",
+        "biking shoes",
+        "water bottle",
+        "helmet (if renting)",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Spa & Thermal Bath Experience at Liquidrom",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "swimsuit",
+        "towel (can rent)",
+        "flip-flops",
+        "book/magazine"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "city_name": "Florence",
+  "country": "Italy",
+  "activities": [
+    {
+      "activity_name": "Climb Brunelleschi's Dome (Duomo)",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 3,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "water bottle",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Authentic Tuscan Cooking Class",
+      "category": "Food",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "apron (optional)",
+        "notebook",
+        "appetite"
+      ]
+    },
+    {
+      "activity_name": "Hike to Fiesole for panoramic views",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 1,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "hiking shoes",
+        "water bottle",
+        "camera",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Stroll through the Boboli Gardens",
+      "category": "Relaxation",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "hat",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Browse artisan shops on Ponte Vecchio",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "cash/card",
+        "shopping bag",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Explore the Uffizi Gallery",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "earbuds (for audio guide)",
+        "water bottle"
+      ]
+    },
+    {
+      "activity_name": "Culinary Exploration at Mercato Centrale",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "reusable bag (for purchases)"
+      ]
+    },
+    {
+      "activity_name": "Sunset Views from Piazzale Michelangelo",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "camera",
+        "light jacket (evenings)",
+        "comfortable shoes"
+      ]
+    },
+    {
+      "activity_name": "Romantic Rowboat Ride on the Arno River",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses",
+        "hat"
+      ]
+    },
+    {
+      "activity_name": "Visit the Scuola del Cuoio (Leather School)",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 1,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "cash/card (for souvenirs)",
+        "curiosity"
+      ]
+    }
+  ]
+}

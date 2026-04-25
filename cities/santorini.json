@@ -1,0 +1,187 @@
+{
+  "city_name": "Santorini",
+  "country": "Greece",
+  "activities": [
+    {
+      "activity_name": "Witness the Iconic Oia Sunset",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "light jacket",
+        "comfortable shoes",
+        "water bottle"
+      ]
+    },
+    {
+      "activity_name": "Excursion to Nea Kameni Volcano & Palea Kameni Hot Springs",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "swimsuit",
+        "towel",
+        "sunscreen",
+        "water shoes",
+        "hat"
+      ]
+    },
+    {
+      "activity_name": "Discover Santorini's Unique Volcanic Wines",
+      "category": "Food",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "smart casual attire",
+        "camera",
+        "notebook"
+      ]
+    },
+    {
+      "activity_name": "Stroll Through Fira Town and Admire Caldera Views",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "hat",
+        "water bottle"
+      ]
+    },
+    {
+      "activity_name": "Unwind on the Volcanic Black Sands of Perissa Beach",
+      "category": "Relaxation",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "swimsuit",
+        "towel",
+        "sunscreen",
+        "beach sandals",
+        "book"
+      ]
+    },
+    {
+      "activity_name": "Explore the Ancient Minoan City of Akrotiri",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "hat",
+        "water bottle",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Learn to Cook Traditional Santorini Dishes",
+      "category": "Food",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable clothes",
+        "apron (often provided)",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Scenic Hike from Fira to Oia Along the Caldera Rim",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 1,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "sturdy hiking shoes",
+        "water bottle",
+        "hat",
+        "sunscreen",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Luxurious Catamaran Cruise with Swimming & Dinner",
+      "category": "Relaxation",
+      "duration_minutes": 300,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimsuit",
+        "towel",
+        "sunscreen",
+        "sunglasses",
+        "light jacket"
+      ]
+    },
+    {
+      "activity_name": "Indulge in Retail Therapy at Oia and Fira Boutiques",
+      "category": "Shopping",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "shopping bag",
+        "comfortable shoes",
+        "wallet"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "city_name": "Osaka",
+  "country": "Japan",
+  "activities": [
+    { "activity_name": "Dotonbori Street Food", "category": "Food", "duration_minutes": 150, "scores": { "budget": 3, "relaxed": 4, "adventure": 2, "family": 4, "balanced": 5 }, "packing_tags": ["casual_wear", "camera", "cash"] },
+    { "activity_name": "Osaka Castle", "category": "Sightseeing", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 4, "adventure": 1, "family": 5, "balanced": 4 }, "packing_tags": ["comfortable_shoes", "camera"] },
+    { "activity_name": "Universal Studios Japan", "category": "Adventure", "duration_minutes": 480, "scores": { "budget": 1, "relaxed": 1, "adventure": 5, "family": 5, "balanced": 3 }, "packing_tags": ["day_bag", "water_bottle", "comfortable_shoes"] },
+    { "activity_name": "Kuromon Ichiba Market", "category": "Food", "duration_minutes": 90, "scores": { "budget": 3, "relaxed": 3, "adventure": 2, "family": 4, "balanced": 4 }, "packing_tags": ["cash", "hand_sanitizer"] },
+    { "activity_name": "Umeda Sky Building", "category": "Sightseeing", "duration_minutes": 90, "scores": { "budget": 3, "relaxed": 5, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["camera"] },
+    { "activity_name": "Shinsaibashi Shopping", "category": "Shopping", "duration_minutes": 180, "scores": { "budget": 2, "relaxed": 3, "adventure": 1, "family": 3, "balanced": 3 }, "packing_tags": ["tote_bag", "credit_card"] },
+    { "activity_name": "Sumiyoshi Taisha Shrine", "category": "Culture", "duration_minutes": 60, "scores": { "budget": 5, "relaxed": 5, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["modest_clothing"] },
+    { "activity_name": "Osaka Aquarium Kaiyukan", "category": "Sightseeing", "duration_minutes": 150, "scores": { "budget": 2, "relaxed": 4, "adventure": 1, "family": 5, "balanced": 4 }, "packing_tags": ["camera"] },
+    { "activity_name": "Spa World Onsen", "category": "Relaxation", "duration_minutes": 180, "scores": { "budget": 3, "relaxed": 5, "adventure": 2, "family": 3, "balanced": 4 }, "packing_tags": ["change_of_clothes"] },
+    { "activity_name": "Shinsekai Retro District", "category": "Culture", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 4, "adventure": 2, "family": 4, "balanced": 4 }, "packing_tags": ["camera"] }
+  ]
+}

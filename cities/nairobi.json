@@ -1,0 +1,16 @@
+{
+  "city_name": "Nairobi",
+  "country": "Kenya",
+  "activities": [
+    { "activity_name": "Nairobi National Park Safari", "category": "Adventure", "duration_minutes": 300, "scores": { "budget": 3, "relaxed": 3, "adventure": 5, "family": 5, "balanced": 5 }, "packing_tags": ["camera", "binoculars", "sunscreen", "safari_clothing"] },
+    { "activity_name": "David Sheldrick Elephant Orphanage", "category": "Sightseeing", "duration_minutes": 60, "scores": { "budget": 4, "relaxed": 4, "adventure": 2, "family": 5, "balanced": 5 }, "packing_tags": ["camera", "sunscreen"] },
+    { "activity_name": "Giraffe Centre", "category": "Sightseeing", "duration_minutes": 90, "scores": { "budget": 4, "relaxed": 4, "adventure": 2, "family": 5, "balanced": 5 }, "packing_tags": ["camera"] },
+    { "activity_name": "Karen Blixen Museum", "category": "Culture", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 4, "adventure": 1, "family": 3, "balanced": 4 }, "packing_tags": ["comfortable_shoes", "camera"] },
+    { "activity_name": "Maasai Market Shopping", "category": "Shopping", "duration_minutes": 150, "scores": { "budget": 3, "relaxed": 2, "adventure": 3, "family": 4, "balanced": 4 }, "packing_tags": ["cash", "tote_bag", "negotiation_skills"] },
+    { "activity_name": "Carnivore Restaurant Dinner", "category": "Food", "duration_minutes": 120, "scores": { "budget": 2, "relaxed": 4, "adventure": 3, "family": 4, "balanced": 4 }, "packing_tags": ["appetite", "casual_wear"] },
+    { "activity_name": "Nairobi National Museum", "category": "Culture", "duration_minutes": 150, "scores": { "budget": 4, "relaxed": 3, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["comfortable_shoes"] },
+    { "activity_name": "Karura Forest Walk/Bike", "category": "Relaxation", "duration_minutes": 180, "scores": { "budget": 4, "relaxed": 5, "adventure": 3, "family": 5, "balanced": 4 }, "packing_tags": ["sportswear", "water_bottle"] },
+    { "activity_name": "Bomas of Kenya Cultural Show", "category": "Culture", "duration_minutes": 180, "scores": { "budget": 3, "relaxed": 4, "adventure": 2, "family": 5, "balanced": 4 }, "packing_tags": ["camera"] },
+    { "activity_name": "Kenyatta International Convention Centre View", "category": "Sightseeing", "duration_minutes": 60, "scores": { "budget": 4, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 3 }, "packing_tags": ["camera"] }
+  ]
+}

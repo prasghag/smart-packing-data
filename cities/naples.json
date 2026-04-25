@@ -1,0 +1,179 @@
+{
+  "city_name": "Naples",
+  "country": "Italy",
+  "activities": [
+    {
+      "activity_name": "Explore the Historic Centre (Spaccanapoli)",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "water bottle"
+      ]
+    },
+    {
+      "activity_name": "Authentic Neapolitan Pizza Tasting",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "appetite",
+        "cash",
+        "napkins"
+      ]
+    },
+    {
+      "activity_name": "Visit the National Archaeological Museum of Naples (MANN)",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "water bottle",
+        "guidebook"
+      ]
+    },
+    {
+      "activity_name": "Explore Napoli Sotterranea (Underground Naples)",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "light jacket",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Sunset Stroll along Lungomare Caracciolo",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "light jacket"
+      ]
+    },
+    {
+      "activity_name": "Shopping at Galleria Umberto I",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "shopping bag",
+        "credit card",
+        "comfortable shoes"
+      ]
+    },
+    {
+      "activity_name": "Day Trip to Pompeii Archaeological Park",
+      "category": "Sightseeing",
+      "duration_minutes": 420,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunscreen",
+        "hat",
+        "comfortable shoes",
+        "water bottle",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Indulge in Neapolitan Pastries (Sfogliatella & Babà)",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "appetite",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Attend a Performance at Teatro di San Carlo",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "smart casual attire",
+        "ticket",
+        "opera glasses (optional)"
+      ]
+    },
+    {
+      "activity_name": "Hike Mount Vesuvius",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "hiking shoes",
+        "water bottle",
+        "sunscreen",
+        "hat",
+        "camera"
+      ]
+    }
+  ]
+}

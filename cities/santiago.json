@@ -1,0 +1,16 @@
+{
+  "city_name": "Santiago",
+  "country": "Chile",
+  "activities": [
+    { "activity_name": "Cerro San Cristobal", "category": "Sightseeing", "duration_minutes": 180, "scores": { "budget": 4, "relaxed": 3, "adventure": 2, "family": 5, "balanced": 5 }, "packing_tags": ["comfortable_shoes", "water_bottle", "camera"] },
+    { "activity_name": "Sky Costanera Viewpoint", "category": "Sightseeing", "duration_minutes": 90, "scores": { "budget": 2, "relaxed": 5, "adventure": 1, "family": 4, "balanced": 3 }, "packing_tags": ["camera", "light_jacket"] },
+    { "activity_name": "Plaza de Armas", "category": "Culture", "duration_minutes": 60, "scores": { "budget": 5, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["sunglasses"] },
+    { "activity_name": "Mercado Central Seafood", "category": "Food", "duration_minutes": 90, "scores": { "budget": 3, "relaxed": 3, "adventure": 2, "family": 3, "balanced": 4 }, "packing_tags": ["casual_wear"] },
+    { "activity_name": "Museum of Memory and Human Rights", "category": "Culture", "duration_minutes": 150, "scores": { "budget": 5, "relaxed": 2, "adventure": 1, "family": 2, "balanced": 4 }, "packing_tags": ["tissues"] },
+    { "activity_name": "Barrio Bellavista Nightlife", "category": "Food", "duration_minutes": 180, "scores": { "budget": 2, "relaxed": 3, "adventure": 1, "family": 1, "balanced": 3 }, "packing_tags": ["smart_casual_outfit", "credit_card"] },
+    { "activity_name": "Concha y Toro Wine Tour", "category": "Relaxation", "duration_minutes": 240, "scores": { "budget": 2, "relaxed": 5, "adventure": 1, "family": 1, "balanced": 4 }, "packing_tags": ["smart_casual_outfit", "camera"] },
+    { "activity_name": "Cerro Santa Lucia", "category": "Relaxation", "duration_minutes": 90, "scores": { "budget": 5, "relaxed": 4, "adventure": 2, "family": 4, "balanced": 4 }, "packing_tags": ["comfortable_shoes"] },
+    { "activity_name": "Cajon del Maipo Trek", "category": "Adventure", "duration_minutes": 480, "scores": { "budget": 2, "relaxed": 1, "adventure": 5, "family": 2, "balanced": 3 }, "packing_tags": ["hiking_boots", "warm_sweater", "water_bottle"] },
+    { "activity_name": "Pueblito Los Dominicos", "category": "Shopping", "duration_minutes": 120, "scores": { "budget": 3, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 3 }, "packing_tags": ["tote_bag", "cash"] }
+  ]
+}

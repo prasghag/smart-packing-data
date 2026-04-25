@@ -1,0 +1,175 @@
+{
+  "city_name": "Nice",
+  "country": "France",
+  "activities": [
+    {
+      "activity_name": "Explore Castle Hill (Colline du Château)",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 1,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking shoes",
+        "water bottle",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Indulge at Cours Saleya Market",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "reusable bag",
+        "cash",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Visit the Matisse Museum",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "museum ticket"
+      ]
+    },
+    {
+      "activity_name": "Relax on a Private Beach (e.g., Castel Plage)",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimsuit",
+        "towel",
+        "sunscreen",
+        "book"
+      ]
+    },
+    {
+      "activity_name": "Shop in Vieux Nice Boutiques",
+      "category": "Shopping",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "reusable bag",
+        "comfortable shoes",
+        "credit card"
+      ]
+    },
+    {
+      "activity_name": "Hike Mont Boron for Panoramic Views",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 1,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "hiking shoes",
+        "water bottle",
+        "hat",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Stroll the Promenade des Anglais",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 1,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Taste Authentic Niçoise Socca",
+      "category": "Food",
+      "duration_minutes": 30,
+      "scores": {
+        "budget": 1,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "appetite"
+      ]
+    },
+    {
+      "activity_name": "Explore the Russian Orthodox Cathedral",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "respectful attire",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Enjoy a Wine Tasting Tour in Bellet Vineyards",
+      "category": "Relaxation",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable attire",
+        "camera",
+        "ID"
+      ]
+    }
+  ]
+}

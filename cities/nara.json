@@ -1,0 +1,16 @@
+{
+  "city_name": "Nara",
+  "country": "Japan",
+  "activities": [
+    { "activity_name": "Nara Park Deer Feeding", "category": "Sightseeing", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 4, "adventure": 2, "family": 5, "balanced": 5 }, "packing_tags": ["hand_sanitizer", "camera"] },
+    { "activity_name": "Todai-ji Temple (Great Buddha)", "category": "Culture", "duration_minutes": 90, "scores": { "budget": 4, "relaxed": 3, "adventure": 1, "family": 5, "balanced": 5 }, "packing_tags": ["comfortable_shoes", "modest_clothing"] },
+    { "activity_name": "Kasuga Taisha Shrine", "category": "Culture", "duration_minutes": 90, "scores": { "budget": 4, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["comfortable_shoes"] },
+    { "activity_name": "Isuien Garden", "category": "Relaxation", "duration_minutes": 60, "scores": { "budget": 3, "relaxed": 5, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["camera"] },
+    { "activity_name": "Nara National Museum", "category": "Culture", "duration_minutes": 120, "scores": { "budget": 3, "relaxed": 4, "adventure": 1, "family": 3, "balanced": 3 }, "packing_tags": ["glasses"] },
+    { "activity_name": "Wakakusayama Hill Hike", "category": "Adventure", "duration_minutes": 150, "scores": { "budget": 4, "relaxed": 2, "adventure": 4, "family": 3, "balanced": 4 }, "packing_tags": ["hiking_shoes", "water_bottle"] },
+    { "activity_name": "Higashimuki Shopping Street", "category": "Shopping", "duration_minutes": 90, "scores": { "budget": 3, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 3 }, "packing_tags": ["tote_bag", "cash"] },
+    { "activity_name": "Mochi Pounding at Nakatanidou", "category": "Food", "duration_minutes": 30, "scores": { "budget": 5, "relaxed": 4, "adventure": 1, "family": 5, "balanced": 4 }, "packing_tags": ["camera", "cash"] },
+    { "activity_name": "Naramachi Traditional District", "category": "Culture", "duration_minutes": 120, "scores": { "budget": 5, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["comfortable_shoes"] },
+    { "activity_name": "Sake Tasting Brewery Tour", "category": "Food", "duration_minutes": 60, "scores": { "budget": 3, "relaxed": 4, "adventure": 1, "family": 1, "balanced": 3 }, "packing_tags": ["passport"] }
+  ]
+}

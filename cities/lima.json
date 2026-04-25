@@ -1,0 +1,16 @@
+{
+  "city_name": "Lima",
+  "country": "Peru",
+  "activities": [
+    { "activity_name": "Miraflores Boardwalk", "category": "Relaxation", "duration_minutes": 120, "scores": { "budget": 5, "relaxed": 5, "adventure": 1, "family": 5, "balanced": 4 }, "packing_tags": ["light_jacket", "comfortable_shoes"] },
+    { "activity_name": "Historic Centre Tour", "category": "Sightseeing", "duration_minutes": 180, "scores": { "budget": 4, "relaxed": 2, "adventure": 1, "family": 4, "balanced": 5 }, "packing_tags": ["camera", "day_bag"] },
+    { "activity_name": "Ceviche Tasting in Barranco", "category": "Food", "duration_minutes": 90, "scores": { "budget": 2, "relaxed": 5, "adventure": 2, "family": 3, "balanced": 4 }, "packing_tags": ["casual_wear"] },
+    { "activity_name": "Huaca Pucllana Ruins", "category": "Culture", "duration_minutes": 90, "scores": { "budget": 3, "relaxed": 3, "adventure": 2, "family": 4, "balanced": 4 }, "packing_tags": ["sunscreen", "hat"] },
+    { "activity_name": "Larco Museum", "category": "Culture", "duration_minutes": 150, "scores": { "budget": 2, "relaxed": 4, "adventure": 1, "family": 2, "balanced": 4 }, "packing_tags": ["comfortable_shoes"] },
+    { "activity_name": "Paragliding Costa Verde", "category": "Adventure", "duration_minutes": 60, "scores": { "budget": 1, "relaxed": 1, "adventure": 5, "family": 1, "balanced": 2 }, "packing_tags": ["windbreaker", "sunglasses"] },
+    { "activity_name": "Magic Water Circuit", "category": "Sightseeing", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 3, "adventure": 1, "family": 5, "balanced": 4 }, "packing_tags": ["light_jacket", "camera"] },
+    { "activity_name": "Kennedy Park (Cat Park)", "category": "Relaxation", "duration_minutes": 60, "scores": { "budget": 5, "relaxed": 5, "adventure": 1, "family": 5, "balanced": 3 }, "packing_tags": ["hand_sanitizer"] },
+    { "activity_name": "Surfing at Makaha Beach", "category": "Adventure", "duration_minutes": 120, "scores": { "budget": 3, "relaxed": 1, "adventure": 5, "family": 2, "balanced": 3 }, "packing_tags": ["swimwear", "towel"] },
+    { "activity_name": "Mercado Surquillo No. 1", "category": "Food", "duration_minutes": 90, "scores": { "budget": 4, "relaxed": 2, "adventure": 3, "family": 3, "balanced": 4 }, "packing_tags": ["cash", "reusable_bag"] }
+  ]
+}

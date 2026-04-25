@@ -1,0 +1,176 @@
+{
+  "city_name": "Warsaw",
+  "country": "Poland",
+  "activities": [
+    {
+      "activity_name": "Explore Warsaw Old Town & Royal Castle",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "light jacket"
+      ]
+    },
+    {
+      "activity_name": "Visit POLIN Museum of the History of Polish Jews",
+      "category": "Culture",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "water bottle",
+        "ID"
+      ]
+    },
+    {
+      "activity_name": "Traditional Polish Pierogi Cooking Class",
+      "category": "Food",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "apron (optional)",
+        "camera",
+        "appetite"
+      ]
+    },
+    {
+      "activity_name": "Panoramic Views from Palace of Culture and Science Observation Deck",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "camera",
+        "binoculars (optional)",
+        "ticket"
+      ]
+    },
+    {
+      "activity_name": "Relaxing Stroll through Łazienki Park & Palace on the Isle",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "sunscreen",
+        "picnic blanket"
+      ]
+    },
+    {
+      "activity_name": "Immersive Experience at Warsaw Uprising Museum",
+      "category": "Culture",
+      "duration_minutes": 210,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 3,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "tissue (emotional)",
+        "ID"
+      ]
+    },
+    {
+      "activity_name": "Shopping Spree at Złote Tarasy Mall",
+      "category": "Shopping",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "shopping bag",
+        "credit card",
+        "comfortable shoes"
+      ]
+    },
+    {
+      "activity_name": "Authentic Polish Dinner Experience",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "dressy casual clothes",
+        "appetite",
+        "phone for photos"
+      ]
+    },
+    {
+      "activity_name": "Discover Fryderyk Chopin Museum",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "audio guide",
+        "headphones (optional)",
+        "ID"
+      ]
+    },
+    {
+      "activity_name": "Warsaw Segway Tour: Old Town & Vistula Boulevards",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "helmet (provided)",
+        "sunglasses"
+      ]
+    }
+  ]
+}

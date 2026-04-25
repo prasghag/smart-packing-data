@@ -1,0 +1,16 @@
+{
+  "city_name": "Hoi An",
+  "country": "Vietnam",
+  "activities": [
+    { "activity_name": "Ancient Town Lantern Walk", "category": "Sightseeing", "duration_minutes": 120, "scores": { "budget": 5, "relaxed": 4, "adventure": 1, "family": 5, "balanced": 5 }, "packing_tags": ["camera", "comfortable_shoes"] },
+    { "activity_name": "Custom Tailor Fitting", "category": "Shopping", "duration_minutes": 90, "scores": { "budget": 2, "relaxed": 3, "adventure": 1, "family": 2, "balanced": 3 }, "packing_tags": ["credit_card", "inspiration_photos"] },
+    { "activity_name": "An Bang Beach Day", "category": "Relaxation", "duration_minutes": 240, "scores": { "budget": 4, "relaxed": 5, "adventure": 2, "family": 5, "balanced": 4 }, "packing_tags": ["swimwear", "sunscreen", "towel", "sunglasses"] },
+    { "activity_name": "My Son Sanctuary Sunrise Tour", "category": "Culture", "duration_minutes": 300, "scores": { "budget": 3, "relaxed": 2, "adventure": 3, "family": 3, "balanced": 4 }, "packing_tags": ["comfortable_shoes", "hat", "sunscreen"] },
+    { "activity_name": "Thu Bon River Boat Ride", "category": "Relaxation", "duration_minutes": 60, "scores": { "budget": 4, "relaxed": 5, "adventure": 1, "family": 5, "balanced": 4 }, "packing_tags": ["camera"] },
+    { "activity_name": "Vietnamese Cooking Class", "category": "Food", "duration_minutes": 180, "scores": { "budget": 3, "relaxed": 4, "adventure": 2, "family": 5, "balanced": 4 }, "packing_tags": ["camera"] },
+    { "activity_name": "Japanese Covered Bridge", "category": "Sightseeing", "duration_minutes": 30, "scores": { "budget": 5, "relaxed": 4, "adventure": 1, "family": 5, "balanced": 4 }, "packing_tags": ["camera"] },
+    { "activity_name": "Tra Que Vegetable Village Cycling", "category": "Adventure", "duration_minutes": 150, "scores": { "budget": 4, "relaxed": 3, "adventure": 3, "family": 4, "balanced": 4 }, "packing_tags": ["sportswear", "water_bottle", "sunscreen"] },
+    { "activity_name": "Basket Boat Ride in Coconut Forest", "category": "Adventure", "duration_minutes": 90, "scores": { "budget": 3, "relaxed": 3, "adventure": 4, "family": 5, "balanced": 4 }, "packing_tags": ["sunscreen", "hat", "camera"] },
+    { "activity_name": "Hoi An Night Market", "category": "Shopping", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 4, "adventure": 1, "family": 5, "balanced": 4 }, "packing_tags": ["cash", "tote_bag"] }
+  ]
+}

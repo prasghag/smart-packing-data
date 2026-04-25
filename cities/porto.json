@@ -1,0 +1,173 @@
+{
+  "city_name": "Porto",
+  "country": "Portugal",
+  "activities": [
+    {
+      "activity_name": "Explore Livraria Lello",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable shoes",
+        "small bag"
+      ]
+    },
+    {
+      "activity_name": "Port Wine Cellar Tour & Tasting (e.g., Taylor's or Graham's)",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "light jacket",
+        "camera",
+        "identification"
+      ]
+    },
+    {
+      "activity_name": "Douro River 'Six Bridges' Cruise",
+      "category": "Adventure",
+      "duration_minutes": 50,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunglasses",
+        "hat",
+        "camera",
+        "light jacket"
+      ]
+    },
+    {
+      "activity_name": "Relax at Palácio de Cristal Gardens",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "water bottle"
+      ]
+    },
+    {
+      "activity_name": "Explore and Shop at Mercado do Bolhão",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "reusable bag",
+        "cash",
+        "comfortable shoes"
+      ]
+    },
+    {
+      "activity_name": "Experience an Authentic Fado Show",
+      "category": "Culture",
+      "duration_minutes": 75,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "smart casual attire",
+        "open mind"
+      ]
+    },
+    {
+      "activity_name": "Climb Clérigos Tower for Panoramic Views",
+      "category": "Sightseeing",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 2,
+        "relaxed": 2,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "water bottle"
+      ]
+    },
+    {
+      "activity_name": "Indulge in a Traditional Francesinha",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "hungry stomach"
+      ]
+    },
+    {
+      "activity_name": "Relax on the Beaches of Foz do Douro",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "towel",
+        "sunscreen",
+        "comfortable shoes"
+      ]
+    },
+    {
+      "activity_name": "Admire the Azulejos at São Bento Railway Station",
+      "category": "Culture",
+      "duration_minutes": 30,
+      "scores": {
+        "budget": 1,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "city_name": "Salzburg",
+  "country": "Austria",
+  "activities": [
+    {
+      "activity_name": "Explore Hohensalzburg Fortress",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "comfortable shoes",
+        "camera",
+        "light jacket"
+      ]
+    },
+    {
+      "activity_name": "Visit Mozart's Birthplace and Residence",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "reading glasses"
+      ]
+    },
+    {
+      "activity_name": "Stroll through Mirabell Palace and Gardens",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Shop and Wander in Getreidegasse & Old Town",
+      "category": "Shopping",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "reusable shopping bag",
+        "comfortable shoes"
+      ]
+    },
+    {
+      "activity_name": "Embark on a Salt Mine Tour (Salzbergwerk Hallein)",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "warm layers",
+        "comfortable shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Experience an Austrian Coffee House (e.g., Café Tomaselli)",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "book",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Take The Sound of Music Tour",
+      "category": "Culture",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses",
+        "sing-along spirit"
+      ]
+    },
+    {
+      "activity_name": "Hike Mönchsberg or Kapuzinerberg for panoramic views",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 1,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "water bottle",
+        "comfortable shoes",
+        "camera",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Discover Hellbrunn Palace and Trick Fountains",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "waterproof jacket",
+        "camera",
+        "comfortable shoes"
+      ]
+    },
+    {
+      "activity_name": "Indulge in a Spa Day at a Thermal Spa (e.g., Rupertus Therme)",
+      "category": "Relaxation",
+      "duration_minutes": 300,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "swimsuit",
+        "towel",
+        "flip-flops",
+        "book"
+      ]
+    }
+  ]
+}

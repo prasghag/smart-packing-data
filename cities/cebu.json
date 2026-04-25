@@ -1,0 +1,16 @@
+{
+  "city_name": "Cebu",
+  "country": "Philippines",
+  "activities": [
+    { "activity_name": "Kawasan Falls Canyoneering", "category": "Adventure", "duration_minutes": 360, "scores": { "budget": 3, "relaxed": 1, "adventure": 5, "family": 2, "balanced": 4 }, "packing_tags": ["swimwear", "water_shoes", "dry_bag", "action_camera"] },
+    { "activity_name": "Magellan's Cross & Basilica", "category": "Culture", "duration_minutes": 90, "scores": { "budget": 5, "relaxed": 4, "adventure": 1, "family": 5, "balanced": 4 }, "packing_tags": ["modest_clothing", "camera"] },
+    { "activity_name": "Moalboal Sardine Run", "category": "Adventure", "duration_minutes": 180, "scores": { "budget": 3, "relaxed": 2, "adventure": 5, "family": 3, "balanced": 4 }, "packing_tags": ["swimwear", "snorkel_gear", "towel"] },
+    { "activity_name": "Cebu Lechon Tasting", "category": "Food", "duration_minutes": 60, "scores": { "budget": 4, "relaxed": 4, "adventure": 1, "family": 5, "balanced": 5 }, "packing_tags": ["casual_wear"] },
+    { "activity_name": "Tops Lookout", "category": "Sightseeing", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["camera", "light_jacket"] },
+    { "activity_name": "Temple of Leah", "category": "Sightseeing", "duration_minutes": 90, "scores": { "budget": 3, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["camera"] },
+    { "activity_name": "Sirao Flower Garden", "category": "Relaxation", "duration_minutes": 120, "scores": { "budget": 3, "relaxed": 5, "adventure": 1, "family": 5, "balanced": 4 }, "packing_tags": ["camera", "sunglasses"] },
+    { "activity_name": "Mactan Island Beach Day", "category": "Relaxation", "duration_minutes": 360, "scores": { "budget": 3, "relaxed": 5, "adventure": 2, "family": 5, "balanced": 4 }, "packing_tags": ["swimwear", "sunscreen", "beach_towel"] },
+    { "activity_name": "Oslob Whale Shark Watching", "category": "Adventure", "duration_minutes": 180, "scores": { "budget": 2, "relaxed": 2, "adventure": 5, "family": 4, "balanced": 4 }, "packing_tags": ["swimwear", "dry_bag", "towel"] },
+    { "activity_name": "Ayala Center Shopping", "category": "Shopping", "duration_minutes": 180, "scores": { "budget": 3, "relaxed": 3, "adventure": 1, "family": 4, "balanced": 3 }, "packing_tags": ["credit_card", "tote_bag"] }
+  ]
+}
