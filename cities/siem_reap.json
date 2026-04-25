@@ -1,0 +1,170 @@
+{
+  "city_name": "Siem Reap",
+  "country": "Cambodia",
+  "activities": [
+    {
+      "activity_name": "Angkor Wat Sunrise Tour",
+      "category": "Culture",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 2,
+        "relaxed": 2,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "camera",
+        "flashlight",
+        "modest_clothing",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Bayon Temple (Angkor Thom)",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "hat",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Ta Prohm (Tomb Raider Temple)",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "mosquito_repellent"
+      ]
+    },
+    {
+      "activity_name": "Pub Street Nightlife",
+      "category": "Food",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 2,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "casual_wear"
+      ]
+    },
+    {
+      "activity_name": "Tonle Sap Floating Village Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunscreen",
+        "camera",
+        "hat"
+      ]
+    },
+    {
+      "activity_name": "Angkor Night Market",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag",
+        "negotiation_skills"
+      ]
+    },
+    {
+      "activity_name": "Phare, The Cambodian Circus",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Khmer Cooking Class",
+      "category": "Food",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "appetite"
+      ]
+    },
+    {
+      "activity_name": "Kulen Mountain Waterfall Trek",
+      "category": "Adventure",
+      "duration_minutes": 360,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_shoes",
+        "swimwear",
+        "towel"
+      ]
+    },
+    {
+      "activity_name": "Artisans Angkor Workshop",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "credit_card"
+      ]
+    }
+  ]
+}

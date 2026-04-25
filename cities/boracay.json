@@ -1,0 +1,177 @@
+{
+  "city_name": "Boracay",
+  "country": "Philippines",
+  "activities": [
+    {
+      "activity_name": "White Beach Relaxation",
+      "category": "Relaxation",
+      "duration_minutes": 300,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "swimwear",
+        "beach_towel",
+        "sunscreen",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Ariel's Point Cliff Jumping",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 2,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 1,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "swimwear",
+        "water_shoes",
+        "courage",
+        "towel"
+      ]
+    },
+    {
+      "activity_name": "Paraw Sailing at Sunset",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "water_proof_bag",
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "D'Mall Shopping & Dining",
+      "category": "Shopping",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "credit_card",
+        "casual_wear"
+      ]
+    },
+    {
+      "activity_name": "Puka Shell Beach Trip",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "sunscreen",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Mount Luho Viewpoint",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Island Hopping & Snorkeling",
+      "category": "Adventure",
+      "duration_minutes": 360,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "snorkel_gear",
+        "dry_bag"
+      ]
+    },
+    {
+      "activity_name": "Seafood Dampa Dining (Talipapa)",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "negotiation_skills",
+        "hand_sanitizer"
+      ]
+    },
+    {
+      "activity_name": "Willy's Rock Photo Op",
+      "category": "Culture",
+      "duration_minutes": 30,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "water_shoes"
+      ]
+    },
+    {
+      "activity_name": "Bulabog Beach Kite Surfing",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "swimwear",
+        "rash_guard",
+        "sunscreen"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "city_name": "Krabi",
+  "country": "Thailand",
+  "activities": [
+    {
+      "activity_name": "Railay Beach Rock Climbing",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "sportswear",
+        "water_bottle",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Phi Phi Islands Speedboat Tour",
+      "category": "Adventure",
+      "duration_minutes": 480,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "swimwear",
+        "towel",
+        "snorkel_gear",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Tiger Cave Temple Trek",
+      "category": "Adventure",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 5,
+        "relaxed": 1,
+        "adventure": 4,
+        "family": 2,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_shoes",
+        "water_bottle",
+        "modest_clothing"
+      ]
+    },
+    {
+      "activity_name": "Emerald Pool & Hot Springs",
+      "category": "Relaxation",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "towel",
+        "mosquito_repellent"
+      ]
+    },
+    {
+      "activity_name": "Ao Nang Beach Sunset",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "camera",
+        "beach_towel"
+      ]
+    },
+    {
+      "activity_name": "Krabi Night Market",
+      "category": "Food",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "hand_sanitizer",
+        "appetite"
+      ]
+    },
+    {
+      "activity_name": "Thung Teao Forest Natural Park Walk",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "camera",
+        "mosquito_repellent"
+      ]
+    },
+    {
+      "activity_name": "Hong Island Longtail Boat Trip",
+      "category": "Sightseeing",
+      "duration_minutes": 360,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "swimwear",
+        "dry_bag",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Khao Khanab Nam Caves",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Phra Nang Cave Beach",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "camera"
+      ]
+    }
+  ]
+}

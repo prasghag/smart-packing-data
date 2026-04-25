@@ -1,0 +1,176 @@
+{
+  "city_name": "Palawan",
+  "country": "Philippines",
+  "activities": [
+    {
+      "activity_name": "Puerto Princesa Underground River",
+      "category": "Adventure",
+      "duration_minutes": 360,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "dry_bag",
+        "mosquito_repellent",
+        "camera",
+        "comfortable_clothing"
+      ]
+    },
+    {
+      "activity_name": "El Nido Island Hopping Tour A",
+      "category": "Sightseeing",
+      "duration_minutes": 480,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "swimwear",
+        "sunscreen",
+        "water_shoes",
+        "snorkel_gear"
+      ]
+    },
+    {
+      "activity_name": "Nacpan Beach Relaxation",
+      "category": "Relaxation",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "beach_towel",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Coron Twin Lagoon Swim",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "life_vest",
+        "water_proof_camera"
+      ]
+    },
+    {
+      "activity_name": "Kayangan Lake Viewpoint & Swim",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "camera",
+        "swimwear",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Ugong Rock Adventures (Spelunking & Zipline)",
+      "category": "Adventure",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "closed_toe_shoes",
+        "sportswear",
+        "courage"
+      ]
+    },
+    {
+      "activity_name": "Baker's Hill Treat Tasting",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "sweet_tooth"
+      ]
+    },
+    {
+      "activity_name": "Batak Tribe Village Cultural Tour",
+      "category": "Culture",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "mosquito_repellent",
+        "respectful_attitude"
+      ]
+    },
+    {
+      "activity_name": "San Jose Market Pearls Shopping",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "cash",
+        "negotiation_skills"
+      ]
+    },
+    {
+      "activity_name": "Honda Bay Island Hopping",
+      "category": "Adventure",
+      "duration_minutes": 420,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "sunscreen",
+        "dry_bag"
+      ]
+    }
+  ]
+}

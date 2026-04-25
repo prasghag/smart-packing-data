@@ -1,0 +1,170 @@
+{
+  "city_name": "Ayutthaya",
+  "country": "Thailand",
+  "activities": [
+    {
+      "activity_name": "Wat Mahathat (Buddha Head in Tree)",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "camera",
+        "modest_clothing",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Wat Chaiwatthanaram Sunset",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "mosquito_repellent",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Ayutthaya Historical Park Bicycle Tour",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sportswear",
+        "water_bottle",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Boat Tour Around the Island",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sunscreen",
+        "hat"
+      ]
+    },
+    {
+      "activity_name": "Wat Phra Si Sanphet",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Ayutthaya Night Market",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "hand_sanitizer",
+        "appetite"
+      ]
+    },
+    {
+      "activity_name": "Chao Sam Phraya National Museum",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "glasses",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Wat Yai Chai Mongkhon",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Elephant Camp (Observation Only)",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Roti Sai Mai Tasting",
+      "category": "Food",
+      "duration_minutes": 30,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "sweet_tooth"
+      ]
+    }
+  ]
+}

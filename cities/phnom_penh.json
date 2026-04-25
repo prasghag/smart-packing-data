@@ -1,0 +1,167 @@
+{
+  "city_name": "Phnom Penh",
+  "country": "Cambodia",
+  "activities": [
+    {
+      "activity_name": "Royal Palace & Silver Pagoda",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "camera",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Tuol Sleng Genocide Museum (S-21)",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 1,
+        "family": 1,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "tissues",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Choeung Ek Killing Fields",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 1,
+        "family": 1,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Central Market (Phsar Thmei)",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag"
+      ]
+    },
+    {
+      "activity_name": "Mekong River Sunset Cruise",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "camera",
+        "light_jacket"
+      ]
+    },
+    {
+      "activity_name": "National Museum of Cambodia",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Wat Phnom",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "monkey_awareness"
+      ]
+    },
+    {
+      "activity_name": "Russian Market (Toul Tom Poung)",
+      "category": "Shopping",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "cash",
+        "light_clothing",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Riverside Promenade Walk",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunglasses",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Khmer Street Food Tour",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "hand_sanitizer"
+      ]
+    }
+  ]
+}

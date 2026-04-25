@@ -1,0 +1,175 @@
+{
+  "city_name": "Siargao",
+  "country": "Philippines",
+  "activities": [
+    {
+      "activity_name": "Cloud 9 Surfing",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "rash_guard",
+        "sunscreen",
+        "reef_safe_sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Sugba Lagoon Trip",
+      "category": "Relaxation",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "swimwear",
+        "towel",
+        "dry_bag",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Magpupungko Rock Pools",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "water_shoes",
+        "swimwear",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Island Hopping (Naked, Daku, Guyam)",
+      "category": "Sightseeing",
+      "duration_minutes": 360,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "swimwear",
+        "sunscreen",
+        "dry_bag",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Maasin River Wakeboarding & Swing",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "towel",
+        "mosquito_repellent"
+      ]
+    },
+    {
+      "activity_name": "General Luna Cafe Hopping",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "casual_wear",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Pacifico Beach Relaxation",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "beach_towel",
+        "book",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Coconut Trees Viewpoint Deck",
+      "category": "Sightseeing",
+      "duration_minutes": 30,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Tayangban Cave Pool",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "water_shoes",
+        "swimwear",
+        "headlamp"
+      ]
+    },
+    {
+      "activity_name": "Kermit Surf Resort Evening Drinks",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "casual_wear",
+        "mosquito_repellent"
+      ]
+    }
+  ]
+}
