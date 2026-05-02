@@ -3,167 +3,168 @@
   "country": "Ireland",
   "activities": [
     {
-      "activity_name": "Guinness Storehouse Tour & Tasting",
-      "category": "Sightseeing",
-      "duration_minutes": 180,
+      "activity_name": "Guinness Storehouse Tour & Pint",
+      "category": "Culture",
+      "duration_minutes": 150,
       "scores": {
-        "budget": 3,
-        "relaxed": 3,
-        "adventure": 2,
-        "family": 3,
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 2,
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable shoes",
-        "camera"
+        "id_proof",
+        "camera",
+        "advance_tickets"
       ]
     },
     {
-      "activity_name": "Explore Trinity College & The Book of Kells",
+      "activity_name": "Trinity College & Book of Kells",
       "category": "Culture",
       "duration_minutes": 90,
       "scores": {
         "budget": 3,
         "relaxed": 4,
         "adventure": 1,
-        "family": 3,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "camera",
-        "reading glasses"
-      ]
-    },
-    {
-      "activity_name": "Dublin Food Walking Tour",
-      "category": "Food",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 2,
-        "relaxed": 4,
-        "adventure": 3,
         "family": 4,
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable shoes",
-        "appetite",
+        "camera",
+        "glasses"
+      ]
+    },
+    {
+      "activity_name": "Temple Bar District Walk",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "casual_wear",
         "camera"
       ]
     },
     {
-      "activity_name": "Kayaking on the River Liffey",
+      "activity_name": "Phoenix Park Deer Spotting",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera_with_zoom",
+        "light_jacket"
+      ]
+    },
+    {
+      "activity_name": "Cliffs of Moher Day Trip",
       "category": "Adventure",
-      "duration_minutes": 120,
+      "duration_minutes": 600,
       "scores": {
         "budget": 3,
         "relaxed": 2,
         "adventure": 5,
-        "family": 3,
-        "balanced": 3
+        "family": 4,
+        "balanced": 5
       },
       "packing_tags": [
-        "waterproof jacket",
-        "comfortable clothes",
-        "change of clothes",
-        "water bottle"
+        "windbreaker",
+        "sturdy_shoes",
+        "camera",
+        "water_bottle"
       ]
     },
     {
-      "activity_name": "Stroll through St. Stephen's Green Park",
-      "category": "Relaxation",
+      "activity_name": "Dublin Castle Exploration",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "St Patrick's Cathedral",
+      "category": "Culture",
       "duration_minutes": 60,
       "scores": {
-        "budget": 5,
-        "relaxed": 5,
+        "budget": 4,
+        "relaxed": 4,
         "adventure": 1,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable shoes",
+        "modest_clothing",
         "camera"
       ]
     },
     {
-      "activity_name": "Shopping on Grafton Street",
+      "activity_name": "Grafton Street Shopping",
       "category": "Shopping",
       "duration_minutes": 120,
       "scores": {
         "budget": 2,
-        "relaxed": 3,
-        "adventure": 2,
-        "family": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
         "balanced": 3
       },
       "packing_tags": [
-        "comfortable shoes",
-        "credit card",
-        "shopping bag"
+        "credit_card",
+        "tote_bag",
+        "umbrella"
       ]
     },
     {
-      "activity_name": "Visit Dublin Castle",
-      "category": "Sightseeing",
-      "duration_minutes": 90,
+      "activity_name": "Traditional Irish Pub Music Night",
+      "category": "Relaxation",
+      "duration_minutes": 150,
       "scores": {
         "budget": 3,
-        "relaxed": 4,
-        "adventure": 2,
-        "family": 3,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "camera",
-        "comfortable shoes"
-      ]
-    },
-    {
-      "activity_name": "Experience a Traditional Irish Music Session",
-      "category": "Culture",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 3,
-        "relaxed": 4,
-        "adventure": 2,
+        "relaxed": 5,
+        "adventure": 1,
         "family": 2,
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable clothes",
+        "casual_wear",
         "cash"
       ]
     },
     {
-      "activity_name": "Enjoy an Authentic Full Irish Breakfast",
-      "category": "Food",
-      "duration_minutes": 60,
-      "scores": {
-        "budget": 4,
-        "relaxed": 4,
-        "adventure": 3,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "appetite"
-      ]
-    },
-    {
-      "activity_name": "Leisurely Walk along the Grand Canal",
-      "category": "Relaxation",
+      "activity_name": "Jameson Distillery Bow St. Tour",
+      "category": "Culture",
       "duration_minutes": 90,
       "scores": {
-        "budget": 5,
-        "relaxed": 5,
+        "budget": 3,
+        "relaxed": 4,
         "adventure": 1,
-        "family": 4,
-        "balanced": 4
+        "family": 1,
+        "balanced": 3
       },
       "packing_tags": [
-        "comfortable shoes",
-        "camera",
-        "water bottle"
+        "id_proof",
+        "advance_tickets"
       ]
     }
   ]

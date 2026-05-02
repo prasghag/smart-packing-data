@@ -1,0 +1,168 @@
+{
+  "city_name": "Dapoli",
+  "country": "India",
+  "activities": [
+    {
+      "activity_name": "Karde Beach Dolphin Spotting",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "binoculars",
+        "camera",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Suvarnadurg Fort Sea Trip",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "water_shoes",
+        "hat",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Ladghar Beach Relaxation",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "beach_towel",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Anjarle Ganesh Temple",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Harnas Fish Auction",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 3,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "closed_toe_shoes",
+        "hand_sanitizer"
+      ]
+    },
+    {
+      "activity_name": "Panhalekaji Caves Exploration",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "flashlight",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Unhavare Hot Springs",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "towel",
+        "change_of_clothes"
+      ]
+    },
+    {
+      "activity_name": "Murud Beach Water Sports",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Local Cashew and Kokum Shopping",
+      "category": "Shopping",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag"
+      ]
+    },
+    {
+      "activity_name": "Konkani Fish Curry Dinner",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "cash"
+      ]
+    }
+  ]
+}

@@ -1,143 +1,47 @@
 {
   "city_name": "Edinburgh",
-  "country": "Scotland",
+  "country": "United Kingdom",
   "activities": [
     {
-      "activity_name": "Explore Edinburgh Castle",
-      "category": "Sightseeing",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 2,
-        "relaxed": 3,
-        "adventure": 2,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "camera",
-        "light jacket"
-      ]
-    },
-    {
-      "activity_name": "Wander the Royal Mile and visit St Giles' Cathedral",
+      "activity_name": "Edinburgh Castle Exploration",
       "category": "Culture",
-      "duration_minutes": 150,
-      "scores": {
-        "budget": 4,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 3,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "camera"
-      ]
-    },
-    {
-      "activity_name": "Scotch Whisky Experience Tour and Tasting",
-      "category": "Food",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 2,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 2,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "ID",
-        "camera"
-      ]
-    },
-    {
-      "activity_name": "Hike to the summit of Arthur's Seat",
-      "category": "Adventure",
-      "duration_minutes": 150,
-      "scores": {
-        "budget": 5,
-        "relaxed": 1,
-        "adventure": 5,
-        "family": 3,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "hiking shoes",
-        "water bottle",
-        "windproof jacket",
-        "sunscreen"
-      ]
-    },
-    {
-      "activity_name": "Relaxing stroll through Princes Street Gardens",
-      "category": "Relaxation",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 5,
-        "relaxed": 5,
-        "adventure": 1,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "camera",
-        "book (optional)"
-      ]
-    },
-    {
-      "activity_name": "Boutique shopping on Victoria Street and Grassmarket",
-      "category": "Shopping",
-      "duration_minutes": 120,
+      "duration_minutes": 180,
       "scores": {
         "budget": 3,
         "relaxed": 3,
-        "adventure": 1,
-        "family": 3,
-        "balanced": 3
+        "adventure": 2,
+        "family": 5,
+        "balanced": 5
       },
       "packing_tags": [
-        "reusable shopping bag",
-        "wallet",
-        "comfortable shoes"
+        "comfortable_shoes",
+        "windbreaker",
+        "camera",
+        "advance_tickets"
       ]
     },
     {
-      "activity_name": "Tour the Palace of Holyroodhouse and Holyrood Park",
-      "category": "Sightseeing",
+      "activity_name": "Arthur's Seat Hike",
+      "category": "Adventure",
       "duration_minutes": 180,
       "scores": {
-        "budget": 2,
-        "relaxed": 4,
-        "adventure": 2,
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 5,
         "family": 3,
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable shoes",
-        "camera",
-        "light jacket"
+        "hiking_boots",
+        "water_bottle",
+        "heavy_jacket",
+        "camera"
       ]
     },
     {
-      "activity_name": "Indulge in a Traditional Afternoon Tea",
-      "category": "Food",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 2,
-        "relaxed": 5,
-        "adventure": 1,
-        "family": 3,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "smart casual attire"
-      ]
-    },
-    {
-      "activity_name": "Explore the National Museum of Scotland",
-      "category": "Culture",
-      "duration_minutes": 180,
+      "activity_name": "Royal Mile & Victoria Street Walk",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
       "scores": {
         "budget": 5,
         "relaxed": 4,
@@ -146,25 +50,118 @@
         "balanced": 5
       },
       "packing_tags": [
-        "comfortable shoes",
-        "camera (no flash)"
+        "walking_shoes",
+        "camera"
       ]
     },
     {
-      "activity_name": "Experience an Edinburgh Underground Ghost Tour",
+      "activity_name": "Palace of Holyroodhouse",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "National Museum of Scotland",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Princes Street Gardens Picnic",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "picnic_blanket",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Camera Obscura & World of Illusions",
       "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Scotch Whisky Experience Tour",
+      "category": "Food",
       "duration_minutes": 90,
       "scores": {
         "budget": 2,
-        "relaxed": 2,
-        "adventure": 4,
-        "family": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 1,
         "balanced": 3
       },
       "packing_tags": [
-        "warm layers",
-        "comfortable shoes",
-        "sense of humor"
+        "id_proof",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Calton Hill Sunset View",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "windbreaker"
+      ]
+    },
+    {
+      "activity_name": "Underground Vaults Ghost Tour",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "courage",
+        "warm_layer"
       ]
     }
   ]

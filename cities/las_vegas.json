@@ -1,0 +1,171 @@
+{
+  "city_name": "Las Vegas",
+  "country": "United States",
+  "activities": [
+    {
+      "activity_name": "The Las Vegas Strip Walk & Casino Hopping",
+      "category": "Sightseeing",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 2,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "cash",
+        "id_proof",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Bellagio Fountains Show",
+      "category": "Sightseeing",
+      "duration_minutes": 30,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Fremont Street Experience",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "High Roller Observation Wheel",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "advance_tickets"
+      ]
+    },
+    {
+      "activity_name": "Cirque du Soleil Show",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "advance_tickets_essential",
+        "smart_casual_outfit"
+      ]
+    },
+    {
+      "activity_name": "Red Rock Canyon Day Trip",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_shoes",
+        "water_bottle",
+        "sunscreen",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "The Neon Museum",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "advance_tickets"
+      ]
+    },
+    {
+      "activity_name": "Grand Canal Shoppes at The Venetian",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "credit_card",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Hoover Dam Helicopter Tour",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 1,
+        "relaxed": 3,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses",
+        "motion_sickness_pills"
+      ]
+    },
+    {
+      "activity_name": "Luxury Buffet Dining",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "credit_card",
+        "smart_casual_outfit"
+      ]
+    }
+  ]
+}

@@ -3,179 +3,166 @@
   "country": "Spain",
   "activities": [
     {
-      "activity_name": "Visit Sagrada Familia",
-      "category": "Sightseeing",
-      "duration_minutes": 180,
+      "activity_name": "Sagrada Familia Tour",
+      "category": "Culture",
+      "duration_minutes": 150,
       "scores": {
-        "budget": 4,
+        "budget": 2,
         "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "advance_tickets",
+        "camera",
+        "modest_clothing"
+      ]
+    },
+    {
+      "activity_name": "Park G\u00fcell Exploration",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "sunscreen",
+        "water_bottle",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Casa Batll\u00f3 Architecture",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
         "adventure": 1,
         "family": 4,
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable shoes",
-        "camera",
-        "light jacket"
+        "camera"
       ]
     },
     {
-      "activity_name": "Explore La Boqueria Market",
-      "category": "Food",
-      "duration_minutes": 90,
+      "activity_name": "La Rambla & Gothic Quarter Walk",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
       "scores": {
-        "budget": 2,
-        "relaxed": 3,
+        "budget": 5,
+        "relaxed": 4,
         "adventure": 2,
         "family": 4,
         "balanced": 4
       },
       "packing_tags": [
-        "reusable bag",
-        "camera",
-        "comfortable shoes"
+        "comfortable_shoes",
+        "anti_theft_bag",
+        "camera"
       ]
     },
     {
-      "activity_name": "Montjuïc Cable Car & Castle Exploration",
-      "category": "Adventure",
-      "duration_minutes": 240,
+      "activity_name": "Mercado de La Boqueria Tasting",
+      "category": "Food",
+      "duration_minutes": 90,
       "scores": {
         "budget": 3,
-        "relaxed": 3,
-        "adventure": 3,
-        "family": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable shoes",
-        "water bottle",
-        "camera",
-        "sunscreen"
+        "cash",
+        "appetite"
       ]
     },
     {
-      "activity_name": "Relax on Barceloneta Beach",
+      "activity_name": "Barceloneta Beach Relaxation",
       "category": "Relaxation",
       "duration_minutes": 180,
       "scores": {
-        "budget": 1,
+        "budget": 5,
         "relaxed": 5,
         "adventure": 1,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "swimsuit",
-        "towel",
+        "swimwear",
         "sunscreen",
-        "book",
-        "hat"
-      ]
-    },
-    {
-      "activity_name": "Shopping on Passeig de Gràcia",
-      "category": "Shopping",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 5,
-        "relaxed": 3,
-        "adventure": 1,
-        "family": 3,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "shopping bag",
-        "wallet",
-        "stylish outfit"
-      ]
-    },
-    {
-      "activity_name": "Wander the Gothic Quarter",
-      "category": "Culture",
-      "duration_minutes": 150,
-      "scores": {
-        "budget": 1,
-        "relaxed": 4,
-        "adventure": 2,
-        "family": 4,
-        "balanced": 5
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "camera",
-        "map"
-      ]
-    },
-    {
-      "activity_name": "Traditional Tapas Bar Crawl",
-      "category": "Food",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 3,
-        "relaxed": 4,
-        "adventure": 2,
-        "family": 3,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "cash",
-        "appetite"
-      ]
-    },
-    {
-      "activity_name": "Visit Park Güell",
-      "category": "Sightseeing",
-      "duration_minutes": 150,
-      "scores": {
-        "budget": 3,
-        "relaxed": 3,
-        "adventure": 2,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "camera",
-        "water bottle",
-        "sunscreen"
-      ]
-    },
-    {
-      "activity_name": "E-Bike Tour of Barcelona",
-      "category": "Adventure",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 3,
-        "relaxed": 2,
-        "adventure": 4,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable clothing",
-        "closed-toe shoes",
-        "water bottle",
+        "beach_towel",
         "sunglasses"
       ]
     },
     {
-      "activity_name": "Attend a Flamenco Show",
+      "activity_name": "Camp Nou Stadium Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Montju\u00efc Cable Car & Castle",
+      "category": "Sightseeing",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "windbreaker"
+      ]
+    },
+    {
+      "activity_name": "Casa Mil\u00e0 (La Pedrera)",
       "category": "Culture",
       "duration_minutes": 90,
       "scores": {
-        "budget": 4,
+        "budget": 2,
         "relaxed": 4,
         "adventure": 1,
-        "family": 3,
-        "balanced": 3
+        "family": 4,
+        "balanced": 4
       },
       "packing_tags": [
-        "smart casual attire",
-        "camera (check venue rules)",
-        "cash"
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Tapas & Sangria Evening",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "casual_wear",
+        "credit_card"
       ]
     }
   ]

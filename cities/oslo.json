@@ -3,175 +3,165 @@
   "country": "Norway",
   "activities": [
     {
-      "activity_name": "Vigeland Sculpture Park",
+      "activity_name": "Vigeland Sculpture Park Walk",
       "category": "Sightseeing",
       "duration_minutes": 120,
       "scores": {
         "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes",
+        "light_jacket"
+      ]
+    },
+    {
+      "activity_name": "Viking Ship Museum (Fram Museum)",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
         "relaxed": 4,
         "adventure": 1,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable shoes",
         "camera",
-        "water bottle"
+        "comfortable_shoes"
       ]
     },
     {
-      "activity_name": "Munch Museum Visit",
-      "category": "Culture",
-      "duration_minutes": 150,
+      "activity_name": "Oslofjord Sightseeing Cruise",
+      "category": "Relaxation",
+      "duration_minutes": 120,
       "scores": {
-        "budget": 2,
-        "relaxed": 3,
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "windbreaker",
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Munch Museum Art Tour",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
         "adventure": 1,
         "family": 3,
         "balanced": 4
       },
       "packing_tags": [
-        "small bag",
-        "comfortable shoes",
-        "camera"
+        "glasses",
+        "advance_tickets"
       ]
     },
     {
-      "activity_name": "Oslo Opera House Rooftop Walk",
-      "category": "Sightseeing",
-      "duration_minutes": 75,
+      "activity_name": "Holmenkollen Ski Jump Viewpoint",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "windbreaker"
+      ]
+    },
+    {
+      "activity_name": "Akershus Fortress Exploration",
+      "category": "Culture",
+      "duration_minutes": 120,
       "scores": {
         "budget": 5,
         "relaxed": 4,
         "adventure": 2,
         "family": 4,
-        "balanced": 5
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "camera",
-        "light jacket"
-      ]
-    },
-    {
-      "activity_name": "Oslofjord Fjord Cruise",
-      "category": "Adventure",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 2,
-        "relaxed": 4,
-        "adventure": 3,
-        "family": 4,
         "balanced": 4
       },
       "packing_tags": [
-        "warm jacket",
-        "camera",
-        "sunglasses",
-        "hat"
+        "walking_shoes",
+        "camera"
       ]
     },
     {
-      "activity_name": "Mathallen Food Hall Exploration",
+      "activity_name": "Oslo Opera House Roof Walk",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Bygd\u00f8y Peninsula Nature Trail",
+      "category": "Relaxation",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Karl Johan Gate Shopping",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "credit_card",
+        "tote_bag"
+      ]
+    },
+    {
+      "activity_name": "Mathallen Food Hall Tasting",
       "category": "Food",
       "duration_minutes": 90,
       "scores": {
         "budget": 3,
         "relaxed": 4,
         "adventure": 2,
-        "family": 4,
+        "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "reusable shopping bag",
-        "appetite",
-        "wallet"
-      ]
-    },
-    {
-      "activity_name": "Akershus Fortress & Castle Grounds",
-      "category": "Culture",
-      "duration_minutes": 150,
-      "scores": {
-        "budget": 4,
-        "relaxed": 4,
-        "adventure": 2,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "camera",
-        "windbreaker"
-      ]
-    },
-    {
-      "activity_name": "Grünerløkka Boutique Shopping & Cafe Hopping",
-      "category": "Shopping",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 3,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 3,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "reusable shopping bag",
-        "wallet"
-      ]
-    },
-    {
-      "activity_name": "Fram Museum (Polar Exploration)",
-      "category": "Culture",
-      "duration_minutes": 150,
-      "scores": {
-        "budget": 2,
-        "relaxed": 3,
-        "adventure": 3,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "camera",
-        "small bag"
-      ]
-    },
-    {
-      "activity_name": "Holmenkollen Ski Jump & Museum",
-      "category": "Adventure",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 2,
-        "relaxed": 2,
-        "adventure": 4,
-        "family": 4,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "warm layers",
-        "camera"
-      ]
-    },
-    {
-      "activity_name": "Fjord Sauna & Cold Bathing (e.g., KOK Oslo)",
-      "category": "Relaxation",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 2,
-        "relaxed": 5,
-        "adventure": 3,
-        "family": 2,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "swimsuit",
-        "towel",
-        "flip-flops",
-        "warm clothes"
+        "credit_card",
+        "appetite"
       ]
     }
   ]

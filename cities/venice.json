@@ -3,171 +3,167 @@
   "country": "Italy",
   "activities": [
     {
-      "activity_name": "Gondola Serenade",
-      "category": "Sightseeing",
+      "activity_name": "St. Mark's Basilica & Square",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Doge's Palace (Palazzo Ducale)",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes",
+        "advance_tickets"
+      ]
+    },
+    {
+      "activity_name": "Grand Canal Gondola Ride",
+      "category": "Relaxation",
       "duration_minutes": 45,
       "scores": {
         "budget": 2,
         "relaxed": 5,
         "adventure": 1,
-        "family": 4,
-        "balanced": 3
+        "family": 5,
+        "balanced": 4
       },
       "packing_tags": [
         "camera",
-        "comfortable shoes"
+        "sunglasses",
+        "cash"
       ]
     },
     {
-      "activity_name": "Doge's Palace and St. Mark's Basilica Tour",
-      "category": "Culture",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 2,
-        "relaxed": 3,
-        "adventure": 2,
-        "family": 3,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "modest clothing",
-        "water bottle"
-      ]
-    },
-    {
-      "activity_name": "Traditional Cicchetti Bar Crawl",
-      "category": "Food",
-      "duration_minutes": 150,
-      "scores": {
-        "budget": 3,
-        "relaxed": 4,
-        "adventure": 3,
-        "family": 2,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "cash",
-        "camera"
-      ]
-    },
-    {
-      "activity_name": "Murano and Burano Island Hopping",
+      "activity_name": "Rialto Bridge Walk & Market",
       "category": "Sightseeing",
-      "duration_minutes": 360,
-      "scores": {
-        "budget": 3,
-        "relaxed": 4,
-        "adventure": 2,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "camera",
-        "sunscreen",
-        "water bottle"
-      ]
-    },
-    {
-      "activity_name": "Rialto Market Visit and Venetian Cooking Class",
-      "category": "Food",
-      "duration_minutes": 240,
-      "scores": {
-        "budget": 1,
-        "relaxed": 3,
-        "adventure": 4,
-        "family": 3,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "camera",
-        "appetite"
-      ]
-    },
-    {
-      "activity_name": "Explore Dorsoduro & Peggy Guggenheim Collection",
-      "category": "Culture",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 2,
-        "relaxed": 4,
-        "adventure": 2,
-        "family": 3,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "camera",
-        "water bottle"
-      ]
-    },
-    {
-      "activity_name": "Venetian Mask Making Workshop",
-      "category": "Culture",
       "duration_minutes": 90,
       "scores": {
-        "budget": 2,
+        "budget": 5,
         "relaxed": 4,
-        "adventure": 2,
-        "family": 4,
+        "adventure": 1,
+        "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "creative spirit"
+        "camera",
+        "comfortable_shoes"
       ]
     },
     {
-      "activity_name": "Vaporetto Ride Down Grand Canal",
-      "category": "Sightseeing",
-      "duration_minutes": 60,
+      "activity_name": "Murano Island Glass Blowing Tour",
+      "category": "Culture",
+      "duration_minutes": 180,
       "scores": {
         "budget": 3,
-        "relaxed": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunglasses",
+        "camera",
+        "credit_card"
+      ]
+    },
+    {
+      "activity_name": "Burano Island Lace & Color Houses",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Peggy Guggenheim Collection",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "glasses"
+      ]
+    },
+    {
+      "activity_name": "Libreria Acqua Alta Visit",
+      "category": "Sightseeing",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
         "adventure": 1,
         "family": 4,
         "balanced": 4
       },
       "packing_tags": [
         "camera",
-        "water bottle",
-        "sunglasses"
+        "respectful_attitude"
       ]
     },
     {
-      "activity_name": "Relaxation Day at Lido Beach",
-      "category": "Relaxation",
-      "duration_minutes": 300,
+      "activity_name": "Cicchetti & Wine Tasting Tour",
+      "category": "Food",
+      "duration_minutes": 120,
       "scores": {
         "budget": 3,
-        "relaxed": 5,
+        "relaxed": 4,
         "adventure": 2,
-        "family": 5,
-        "balanced": 4
+        "family": 3,
+        "balanced": 5
       },
       "packing_tags": [
-        "swimsuit",
-        "towel",
-        "sunscreen",
-        "water bottle"
+        "cash",
+        "appetite"
       ]
     },
     {
-      "activity_name": "Climb San Giorgio Maggiore Bell Tower",
-      "category": "Adventure",
-      "duration_minutes": 60,
+      "activity_name": "Teatro La Fenice Opera",
+      "category": "Culture",
+      "duration_minutes": 180,
       "scores": {
-        "budget": 3,
-        "relaxed": 3,
-        "adventure": 3,
-        "family": 4,
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 3,
         "balanced": 4
       },
       "packing_tags": [
-        "camera",
-        "comfortable shoes"
+        "formal_wear",
+        "advance_tickets"
       ]
     }
   ]

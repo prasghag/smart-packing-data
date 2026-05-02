@@ -3,57 +3,121 @@
   "country": "Spain",
   "activities": [
     {
-      "activity_name": "Visit the Prado Museum",
-      "category": "Sightseeing",
+      "activity_name": "Prado Museum Masterpieces",
+      "category": "Culture",
       "duration_minutes": 180,
       "scores": {
         "budget": 3,
         "relaxed": 3,
         "adventure": 1,
-        "family": 3,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "camera",
-        "water bottle"
-      ]
-    },
-    {
-      "activity_name": "Tapas Tour in La Latina",
-      "category": "Food",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 4,
-        "relaxed": 4,
-        "adventure": 2,
         "family": 4,
         "balanced": 5
       },
       "packing_tags": [
-        "appetite",
-        "comfortable shoes",
-        "small bag"
+        "advance_tickets",
+        "comfortable_shoes",
+        "glasses"
       ]
     },
     {
-      "activity_name": "Experience a Flamenco Show",
+      "activity_name": "Royal Palace of Madrid Tour",
       "category": "Culture",
       "duration_minutes": 150,
       "scores": {
-        "budget": 2,
+        "budget": 3,
         "relaxed": 4,
         "adventure": 1,
-        "family": 3,
+        "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "smart casual attire",
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Retiro Park Boating & Stroll",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "sunglasses",
+        "sunscreen",
         "camera"
       ]
     },
     {
-      "activity_name": "Boat Ride in Retiro Park",
+      "activity_name": "Plaza Mayor Architecture Walk",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "anti_theft_bag"
+      ]
+    },
+    {
+      "activity_name": "Mercado de San Miguel Tapas",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "appetite"
+      ]
+    },
+    {
+      "activity_name": "Santiago Bernab\u00e9u Stadium Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "advance_tickets"
+      ]
+    },
+    {
+      "activity_name": "Gran V\u00eda Shopping & Architecture",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "credit_card",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Temple of Debod Sunset Views",
       "category": "Relaxation",
       "duration_minutes": 60,
       "scores": {
@@ -64,109 +128,40 @@
         "balanced": 4
       },
       "packing_tags": [
-        "sunglasses",
-        "hat",
-        "sunscreen"
+        "camera",
+        "light_jacket"
       ]
     },
     {
-      "activity_name": "Explore El Rastro Flea Market",
-      "category": "Shopping",
+      "activity_name": "La Latina Tapas Crawl",
+      "category": "Food",
       "duration_minutes": 180,
       "scores": {
-        "budget": 4,
-        "relaxed": 3,
-        "adventure": 3,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "small bills",
-        "reusable bag"
-      ]
-    },
-    {
-      "activity_name": "Day Trip to Toledo by High-Speed Train",
-      "category": "Adventure",
-      "duration_minutes": 480,
-      "scores": {
-        "budget": 2,
-        "relaxed": 2,
-        "adventure": 4,
-        "family": 4,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "water bottle",
-        "camera",
-        "daypack"
-      ]
-    },
-    {
-      "activity_name": "Tour the Royal Palace of Madrid",
-      "category": "Sightseeing",
-      "duration_minutes": 120,
-      "scores": {
         "budget": 3,
-        "relaxed": 3,
-        "adventure": 1,
-        "family": 3,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "camera"
-      ]
-    },
-    {
-      "activity_name": "Churros with Chocolate at Chocolateria San Ginés",
-      "category": "Food",
-      "duration_minutes": 45,
-      "scores": {
-        "budget": 5,
-        "relaxed": 5,
-        "adventure": 1,
-        "family": 5,
-        "balanced": 5
-      },
-      "packing_tags": [
-        "napkins",
-        "appetite"
-      ]
-    },
-    {
-      "activity_name": "Wander the Literary Quarter (Barrio de las Letras)",
-      "category": "Culture",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 5,
         "relaxed": 4,
         "adventure": 2,
         "family": 3,
-        "balanced": 4
+        "balanced": 5
       },
       "packing_tags": [
-        "comfortable shoes",
-        "camera",
-        "guidebook"
+        "casual_wear",
+        "cash"
       ]
     },
     {
-      "activity_name": "Hammam Al Ándalus Arab Baths",
-      "category": "Relaxation",
-      "duration_minutes": 90,
+      "activity_name": "Reina Sofia Museum (Guernica)",
+      "category": "Culture",
+      "duration_minutes": 120,
       "scores": {
-        "budget": 2,
-        "relaxed": 5,
+        "budget": 3,
+        "relaxed": 4,
         "adventure": 1,
-        "family": 1,
-        "balanced": 3
+        "family": 4,
+        "balanced": 4
       },
       "packing_tags": [
-        "swimsuit",
-        "flip-flops"
+        "glasses",
+        "comfortable_shoes"
       ]
     }
   ]

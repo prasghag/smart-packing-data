@@ -3,25 +3,86 @@
   "country": "Belgium",
   "activities": [
     {
-      "activity_name": "Explore the Grand Place",
-      "category": "Sightseeing",
-      "duration_minutes": 90,
+      "activity_name": "Grand Place Architecture Walk",
+      "category": "Culture",
+      "duration_minutes": 60,
       "scores": {
-        "budget": 2,
-        "relaxed": 4,
+        "budget": 5,
+        "relaxed": 5,
         "adventure": 1,
-        "family": 4,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Atomium Panorama & Exhibits",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable shoes",
+        "camera",
+        "advance_tickets"
+      ]
+    },
+    {
+      "activity_name": "Manneken Pis Photo Op",
+      "category": "Sightseeing",
+      "duration_minutes": 30,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 3
+      },
+      "packing_tags": [
         "camera"
       ]
     },
     {
-      "activity_name": "Indulge in a Traditional Belgian Waffle",
-      "category": "Food",
-      "duration_minutes": 60,
+      "activity_name": "Magritte Museum Surrealist Art",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "glasses"
+      ]
+    },
+    {
+      "activity_name": "Royal Palace of Brussels Tour",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Belgian Comic Strip Center",
+      "category": "Culture",
+      "duration_minutes": 90,
       "scores": {
         "budget": 3,
         "relaxed": 4,
@@ -30,137 +91,71 @@
         "balanced": 4
       },
       "packing_tags": [
-        "napkins",
-        "cash"
+        "camera"
       ]
     },
     {
-      "activity_name": "Visit the Atomium and Design Museum",
-      "category": "Culture",
+      "activity_name": "Belgian Chocolate Making Workshop",
+      "category": "Food",
       "duration_minutes": 150,
       "scores": {
-        "budget": 3,
-        "relaxed": 3,
+        "budget": 2,
+        "relaxed": 4,
         "adventure": 2,
-        "family": 4,
-        "balanced": 3
+        "family": 5,
+        "balanced": 5
       },
       "packing_tags": [
-        "camera",
-        "comfortable shoes"
+        "apron",
+        "sweet_tooth"
       ]
     },
     {
-      "activity_name": "Stroll through Cinquantenaire Park",
-      "category": "Relaxation",
-      "duration_minutes": 120,
+      "activity_name": "Galeries Royales Saint-Hubert Walk",
+      "category": "Shopping",
+      "duration_minutes": 60,
       "scores": {
-        "budget": 1,
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "credit_card",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Cinquantenaire Park Stroll",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
         "relaxed": 5,
         "adventure": 1,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable shoes",
-        "picnic blanket"
-      ]
-    },
-    {
-      "activity_name": "Shop at Galeries Royales Saint-Hubert",
-      "category": "Shopping",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 4,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 3,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "wallet",
-        "stylish outfit"
-      ]
-    },
-    {
-      "activity_name": "Attend a Belgian Chocolate Workshop",
-      "category": "Food",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 4,
-        "relaxed": 3,
-        "adventure": 2,
-        "family": 4,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "apron",
-        "comfortable shoes"
-      ]
-    },
-    {
-      "activity_name": "Hunt for Comic Strip Murals",
-      "category": "Adventure",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 1,
-        "relaxed": 3,
-        "adventure": 3,
-        "family": 5,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable walking shoes",
-        "map/smartphone",
+        "comfortable_shoes",
         "camera"
       ]
     },
     {
-      "activity_name": "Explore the Royal Museums of Fine Arts",
-      "category": "Culture",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 3,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 3,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "respectful attire"
-      ]
-    },
-    {
-      "activity_name": "Discover Manneken Pis and Jeanneke Pis",
-      "category": "Sightseeing",
+      "activity_name": "Authentic Belgian Waffle & Beer Tasting",
+      "category": "Food",
       "duration_minutes": 60,
       "scores": {
-        "budget": 1,
-        "relaxed": 4,
+        "budget": 3,
+        "relaxed": 5,
         "adventure": 1,
-        "family": 5,
-        "balanced": 4
+        "family": 4,
+        "balanced": 5
       },
       "packing_tags": [
-        "camera",
-        "sense of humor"
-      ]
-    },
-    {
-      "activity_name": "Experience a Belgian Beer Tasting Tour",
-      "category": "Food",
-      "duration_minutes": 150,
-      "scores": {
-        "budget": 4,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 2,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "ID",
-        "open mind"
+        "cash",
+        "appetite"
       ]
     }
   ]

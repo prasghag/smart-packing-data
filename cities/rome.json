@@ -3,131 +3,159 @@
   "country": "Italy",
   "activities": [
     {
-      "activity_name": "Colosseum, Roman Forum & Palatine Hill Exploration",
-      "category": "Sightseeing",
+      "activity_name": "Colosseum & Roman Forum",
+      "category": "Culture",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "sunscreen",
+        "water_bottle",
+        "advance_tickets"
+      ]
+    },
+    {
+      "activity_name": "Vatican Museums & Sistine Chapel",
+      "category": "Culture",
       "duration_minutes": 240,
       "scores": {
         "budget": 2,
-        "relaxed": 1,
-        "adventure": 3,
-        "family": 3,
-        "balanced": 3
+        "relaxed": 2,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 5
       },
       "packing_tags": [
-        "comfortable shoes",
-        "water bottle",
-        "sunscreen",
-        "camera"
+        "modest_clothing",
+        "comfortable_shoes",
+        "advance_tickets"
       ]
     },
     {
-      "activity_name": "Vatican Museums & Sistine Chapel Tour",
-      "category": "Culture",
-      "duration_minutes": 300,
+      "activity_name": "Trevi Fountain Coin Toss",
+      "category": "Sightseeing",
+      "duration_minutes": 45,
       "scores": {
-        "budget": 2,
-        "relaxed": 1,
-        "adventure": 2,
-        "family": 3,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "modest attire",
-        "comfortable shoes",
-        "water bottle",
-        "camera (where allowed)"
-      ]
-    },
-    {
-      "activity_name": "Roman Pasta Making Class",
-      "category": "Food",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 3,
+        "budget": 5,
         "relaxed": 4,
-        "adventure": 2,
+        "adventure": 1,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "apron (often provided)",
-        "comfortable clothing",
-        "camera"
+        "camera",
+        "cash",
+        "anti_theft_bag"
       ]
     },
     {
-      "activity_name": "Relax at Villa Borghese Gardens",
-      "category": "Relaxation",
-      "duration_minutes": 180,
+      "activity_name": "Pantheon Architecture",
+      "category": "Culture",
+      "duration_minutes": 60,
       "scores": {
-        "budget": 1,
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "modest_clothing"
+      ]
+    },
+    {
+      "activity_name": "Piazza Navona Evening Walk",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "light_jacket"
+      ]
+    },
+    {
+      "activity_name": "Spanish Steps Stroll",
+      "category": "Sightseeing",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Trastevere Authentic Italian Dining",
+      "category": "Food",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "appetite",
+        "casual_wear",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Villa Borghese Gardens Picnic",
+      "category": "Relaxation",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
         "relaxed": 5,
         "adventure": 2,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable shoes",
-        "picnic blanket",
-        "sunscreen",
-        "book"
+        "picnic_blanket",
+        "camera",
+        "comfortable_shoes"
       ]
     },
     {
-      "activity_name": "Shopping on Via del Corso",
-      "category": "Shopping",
-      "duration_minutes": 150,
+      "activity_name": "Authentic Gelato Tasting",
+      "category": "Food",
+      "duration_minutes": 30,
       "scores": {
         "budget": 4,
-        "relaxed": 3,
+        "relaxed": 5,
         "adventure": 1,
-        "family": 3,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "reusable shopping bag",
-        "wallet"
-      ]
-    },
-    {
-      "activity_name": "Catacombs of Callixtus Underground Tour",
-      "category": "Adventure",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 2,
-        "relaxed": 2,
-        "adventure": 4,
-        "family": 3,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "light jacket (cool underground)",
-        "comfortable shoes",
-        "respectful attire"
-      ]
-    },
-    {
-      "activity_name": "Trevi Fountain & Pantheon Visit",
-      "category": "Sightseeing",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 1,
-        "relaxed": 2,
-        "adventure": 1,
-        "family": 4,
+        "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "camera",
-        "small change (for Trevi coin)",
-        "comfortable shoes"
+        "cash",
+        "sweet_tooth"
       ]
     },
     {
-      "activity_name": "Trastevere Evening Food & Wine Tour",
-      "category": "Food",
-      "duration_minutes": 240,
+      "activity_name": "Castel Sant'Angelo Tour",
+      "category": "Culture",
+      "duration_minutes": 120,
       "scores": {
         "budget": 3,
         "relaxed": 4,
@@ -136,45 +164,8 @@
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable shoes",
-        "empty stomach",
-        "camera"
-      ]
-    },
-    {
-      "activity_name": "Galleria Borghese Art Museum Visit",
-      "category": "Culture",
-      "duration_minutes": 150,
-      "scores": {
-        "budget": 2,
-        "relaxed": 3,
-        "adventure": 1,
-        "family": 2,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "camera (where allowed, no flash)",
-        "small bag"
-      ]
-    },
-    {
-      "activity_name": "Cycling the Appian Way (Via Appia Antica)",
-      "category": "Relaxation",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 2,
-        "relaxed": 4,
-        "adventure": 3,
-        "family": 4,
-        "balanced": 5
-      },
-      "packing_tags": [
-        "comfortable clothes",
-        "water bottle",
-        "sunscreen",
-        "hat",
-        "comfortable shoes"
+        "camera",
+        "comfortable_shoes"
       ]
     }
   ]

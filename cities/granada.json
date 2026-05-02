@@ -3,165 +3,164 @@
   "country": "Spain",
   "activities": [
     {
-      "activity_name": "Explore the Alhambra and Generalife",
-      "category": "Sightseeing",
+      "activity_name": "Alhambra & Generalife Gardens Tour",
+      "category": "Culture",
       "duration_minutes": 240,
       "scores": {
-        "budget": 3,
+        "budget": 2,
         "relaxed": 3,
-        "adventure": 1,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "advance_tickets_essential",
+        "passport_for_id",
+        "comfortable_shoes",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Albaic\u00edn Neighborhood Walk",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 2,
         "family": 4,
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable shoes",
-        "water bottle",
-        "camera"
+        "walking_shoes",
+        "camera",
+        "water_bottle"
       ]
     },
     {
-      "activity_name": "Tapas Crawl in Realejo or Albaicín",
-      "category": "Food",
-      "duration_minutes": 180,
+      "activity_name": "Mirador de San Nicol\u00e1s Sunset",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
       "scores": {
-        "budget": 2,
-        "relaxed": 4,
-        "adventure": 2,
-        "family": 3,
-        "balanced": 4
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
       },
       "packing_tags": [
-        "comfortable shoes",
-        "appetite"
+        "camera",
+        "windbreaker"
       ]
     },
     {
-      "activity_name": "Flamenco Show in Sacromonte Caves",
+      "activity_name": "Granada Cathedral & Royal Chapel",
       "category": "Culture",
       "duration_minutes": 90,
       "scores": {
         "budget": 4,
-        "relaxed": 3,
-        "adventure": 2,
-        "family": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
         "balanced": 4
       },
       "packing_tags": [
-        "light jacket",
+        "modest_clothing",
         "camera"
       ]
     },
     {
-      "activity_name": "Relax at Hammam Al Ándalus (Arab Baths)",
-      "category": "Relaxation",
+      "activity_name": "Sacromonte Cave Flamenco",
+      "category": "Culture",
       "duration_minutes": 120,
-      "scores": {
-        "budget": 4,
-        "relaxed": 5,
-        "adventure": 1,
-        "family": 2,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "swimsuit"
-      ]
-    },
-    {
-      "activity_name": "Wander through Albaicín and Mirador de San Nicolás",
-      "category": "Sightseeing",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 1,
-        "relaxed": 4,
-        "adventure": 2,
-        "family": 3,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "camera",
-        "water bottle"
-      ]
-    },
-    {
-      "activity_name": "Day Trip to Sierra Nevada (Hiking/Skiing)",
-      "category": "Adventure",
-      "duration_minutes": 480,
-      "scores": {
-        "budget": 3,
-        "relaxed": 2,
-        "adventure": 5,
-        "family": 4,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "hiking boots",
-        "warm layers",
-        "sunscreen",
-        "water"
-      ]
-    },
-    {
-      "activity_name": "Shopping in Alcaicería (Old Silk Market)",
-      "category": "Shopping",
-      "duration_minutes": 90,
       "scores": {
         "budget": 2,
         "relaxed": 4,
-        "adventure": 1,
+        "adventure": 2,
         "family": 3,
-        "balanced": 3
+        "balanced": 4
       },
       "packing_tags": [
-        "small bag",
-        "cash/card"
+        "casual_wear",
+        "cash"
       ]
     },
     {
-      "activity_name": "Andalusian Cooking Class",
+      "activity_name": "Free Tapas Cultural Experience",
       "category": "Food",
-      "duration_minutes": 240,
+      "duration_minutes": 120,
       "scores": {
-        "budget": 4,
-        "relaxed": 3,
+        "budget": 5,
+        "relaxed": 4,
         "adventure": 2,
         "family": 4,
-        "balanced": 4
+        "balanced": 5
       },
       "packing_tags": [
         "appetite",
-        "comfortable clothes"
+        "cash"
       ]
     },
     {
-      "activity_name": "Visit Granada Cathedral and Royal Chapel",
-      "category": "Culture",
+      "activity_name": "Hammam Al \u00c1ndalus Arab Baths",
+      "category": "Relaxation",
       "duration_minutes": 90,
       "scores": {
         "budget": 2,
-        "relaxed": 4,
+        "relaxed": 5,
         "adventure": 1,
-        "family": 3,
+        "family": 2,
         "balanced": 4
       },
       "packing_tags": [
-        "respectful attire",
-        "camera"
+        "swimwear",
+        "towel"
       ]
     },
     {
-      "activity_name": "Stroll through Carmen de los Mártires Gardens",
-      "category": "Relaxation",
+      "activity_name": "Alcaicer\u00eda Arab Spice Market",
+      "category": "Shopping",
       "duration_minutes": 60,
       "scores": {
-        "budget": 1,
-        "relaxed": 5,
+        "budget": 5,
+        "relaxed": 4,
         "adventure": 1,
         "family": 4,
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable shoes",
+        "cash",
+        "tote_bag",
+        "negotiation_skills"
+      ]
+    },
+    {
+      "activity_name": "Science Park (Parque de las Ciencias)",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Paseo de los Tristes Stroll",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
         "camera"
       ]
     }

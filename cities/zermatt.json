@@ -1,0 +1,171 @@
+{
+  "city_name": "Zermatt",
+  "country": "Switzerland",
+  "activities": [
+    {
+      "activity_name": "Matterhorn Glacier Paradise Cable Car",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 1,
+        "relaxed": 3,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "heavy_jacket",
+        "snow_boots",
+        "sunglasses",
+        "altitude_medication"
+      ]
+    },
+    {
+      "activity_name": "Gornergrat Railway Scenic Ride",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses",
+        "warm_layer"
+      ]
+    },
+    {
+      "activity_name": "Sunnegga Funicular & Viewpoint",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Five Lakes Walk (Stellisee & Grindjisee)",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "hiking_boots",
+        "water_bottle",
+        "sunscreen",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Zermatt Matterhorn Skiing",
+      "category": "Adventure",
+      "duration_minutes": 480,
+      "scores": {
+        "budget": 1,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "ski_gear",
+        "snow_boots",
+        "waterproof_gloves",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Matterhorn Museum (Zermatlantis)",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "glasses"
+      ]
+    },
+    {
+      "activity_name": "Gorner Gorge Wooden Walkway",
+      "category": "Adventure",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "light_jacket"
+      ]
+    },
+    {
+      "activity_name": "Riffelsee Lake Matterhorn Reflection",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "camera",
+        "hiking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Hinterdorfstrasse Chalet Walk",
+      "category": "Culture",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Raclette & R\u00f6sti Alpine Dining",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "credit_card"
+      ]
+    }
+  ]
+}

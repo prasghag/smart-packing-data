@@ -3,132 +3,79 @@
   "country": "Spain",
   "activities": [
     {
-      "activity_name": "Explore the Royal Alcázar of Seville",
-      "category": "Sightseeing",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 2,
-        "relaxed": 3,
-        "adventure": 1,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "camera",
-        "sunscreen",
-        "water bottle"
-      ]
-    },
-    {
-      "activity_name": "Climb the Giralda at Seville Cathedral",
-      "category": "Sightseeing",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 2,
-        "relaxed": 2,
-        "adventure": 2,
-        "family": 3,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "camera",
-        "hat"
-      ]
-    },
-    {
-      "activity_name": "Indulge in a Triana Tapas Crawl",
-      "category": "Food",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 3,
-        "relaxed": 4,
-        "adventure": 2,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "empty stomach",
-        "cash"
-      ]
-    },
-    {
-      "activity_name": "Experience a Traditional Flamenco Show",
+      "activity_name": "Real Alc\u00e1zar Palace & Gardens",
       "category": "Culture",
-      "duration_minutes": 90,
+      "duration_minutes": 180,
       "scores": {
         "budget": 3,
         "relaxed": 4,
-        "adventure": 1,
-        "family": 3,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "nice attire",
-        "camera (if allowed)"
-      ]
-    },
-    {
-      "activity_name": "Relax at Parque de María Luisa and Plaza de España",
-      "category": "Relaxation",
-      "duration_minutes": 150,
-      "scores": {
-        "budget": 1,
-        "relaxed": 5,
         "adventure": 1,
         "family": 5,
-        "balanced": 4
+        "balanced": 5
       },
       "packing_tags": [
-        "comfortable shoes",
+        "advance_tickets",
         "camera",
-        "water bottle",
+        "comfortable_shoes",
         "sunscreen"
       ]
     },
     {
-      "activity_name": "Paddle the Guadalquivir River by Kayak",
-      "category": "Adventure",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 3,
-        "relaxed": 2,
-        "adventure": 5,
-        "family": 3,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "swimsuit",
-        "waterproof bag",
-        "sunscreen",
-        "water shoes"
-      ]
-    },
-    {
-      "activity_name": "Shop for Local Crafts and Fashion",
-      "category": "Shopping",
+      "activity_name": "Seville Cathedral & Giralda Tower Climb",
+      "category": "Culture",
       "duration_minutes": 150,
       "scores": {
         "budget": 3,
         "relaxed": 3,
-        "adventure": 1,
+        "adventure": 2,
         "family": 4,
-        "balanced": 3
+        "balanced": 5
       },
       "packing_tags": [
-        "reusable shopping bag",
-        "cash/card",
-        "comfortable shoes"
+        "modest_clothing",
+        "comfortable_shoes",
+        "water_bottle"
       ]
     },
     {
-      "activity_name": "Panoramic Views from Metropol Parasol",
+      "activity_name": "Plaza de Espa\u00f1a Boating",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Barrio Santa Cruz Flamenco Show",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "smart_casual_outfit",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Metropol Parasol (Las Setas) Viewpoint",
       "category": "Sightseeing",
       "duration_minutes": 60,
       "scores": {
-        "budget": 2,
+        "budget": 4,
         "relaxed": 4,
         "adventure": 1,
         "family": 4,
@@ -140,36 +87,84 @@
       ]
     },
     {
-      "activity_name": "Learn Andalusian Cuisine in a Cooking Class",
+      "activity_name": "Tapas & Wine Hopping",
       "category": "Food",
-      "duration_minutes": 240,
+      "duration_minutes": 150,
       "scores": {
-        "budget": 4,
-        "relaxed": 3,
+        "budget": 3,
+        "relaxed": 4,
         "adventure": 2,
-        "family": 3,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "cash",
+        "appetite",
+        "casual_wear"
+      ]
+    },
+    {
+      "activity_name": "Parque de Mar\u00eda Luisa Stroll",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "apron (usually provided)",
-        "comfortable shoes",
+        "camera",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Triana Neighborhood Pottery Shopping",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "credit_card",
+        "tote_bag",
+        "bubble_wrap"
+      ]
+    },
+    {
+      "activity_name": "Torre del Oro (Tower of Gold)",
+      "category": "Sightseeing",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
         "camera"
       ]
     },
     {
-      "activity_name": "Relax at Hammam Al Ándalus Arab Baths",
+      "activity_name": "Guadalquivir River Sunset Cruise",
       "category": "Relaxation",
       "duration_minutes": 90,
       "scores": {
-        "budget": 4,
+        "budget": 3,
         "relaxed": 5,
         "adventure": 1,
-        "family": 2,
-        "balanced": 3
+        "family": 5,
+        "balanced": 4
       },
       "packing_tags": [
-        "swimsuit",
-        "towel (usually provided)"
+        "camera",
+        "light_jacket"
       ]
     }
   ]

@@ -3,170 +3,161 @@
   "country": "Portugal",
   "activities": [
     {
-      "activity_name": "Explore Livraria Lello",
+      "activity_name": "Dom Luis I Bridge View",
       "category": "Sightseeing",
       "duration_minutes": 60,
       "scores": {
-        "budget": 3,
-        "relaxed": 3,
-        "adventure": 1,
-        "family": 3,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "camera",
-        "comfortable shoes",
-        "small bag"
-      ]
-    },
-    {
-      "activity_name": "Port Wine Cellar Tour & Tasting (e.g., Taylor's or Graham's)",
-      "category": "Food",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 4,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 2,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "light jacket",
-        "camera",
-        "identification"
-      ]
-    },
-    {
-      "activity_name": "Douro River 'Six Bridges' Cruise",
-      "category": "Adventure",
-      "duration_minutes": 50,
-      "scores": {
-        "budget": 3,
+        "budget": 5,
         "relaxed": 4,
         "adventure": 2,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes",
+        "windbreaker"
+      ]
+    },
+    {
+      "activity_name": "Ribeira District Walk",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Livraria Lello (Historic Bookstore)",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 1,
         "family": 4,
         "balanced": 4
       },
       "packing_tags": [
-        "sunglasses",
-        "hat",
         "camera",
-        "light jacket"
+        "advance_tickets"
       ]
     },
     {
-      "activity_name": "Relax at Palácio de Cristal Gardens",
-      "category": "Relaxation",
+      "activity_name": "Cl\u00e9rigos Tower Climb",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 3,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Port Wine Cellar Tasting",
+      "category": "Food",
       "duration_minutes": 90,
       "scores": {
-        "budget": 1,
+        "budget": 2,
         "relaxed": 5,
         "adventure": 1,
+        "family": 1,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "smart_casual_outfit",
+        "id_proof"
+      ]
+    },
+    {
+      "activity_name": "Pal\u00e1cio da Bolsa Tour",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
         "family": 4,
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable shoes",
-        "camera",
-        "water bottle"
+        "camera"
       ]
     },
     {
-      "activity_name": "Explore and Shop at Mercado do Bolhão",
-      "category": "Shopping",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 2,
-        "relaxed": 3,
-        "adventure": 2,
-        "family": 3,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "reusable bag",
-        "cash",
-        "comfortable shoes"
-      ]
-    },
-    {
-      "activity_name": "Experience an Authentic Fado Show",
+      "activity_name": "S\u00e3o Bento Railway Station Tiles",
       "category": "Culture",
-      "duration_minutes": 75,
+      "duration_minutes": 30,
       "scores": {
-        "budget": 4,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 2,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "smart casual attire",
-        "open mind"
-      ]
-    },
-    {
-      "activity_name": "Climb Clérigos Tower for Panoramic Views",
-      "category": "Sightseeing",
-      "duration_minutes": 45,
-      "scores": {
-        "budget": 2,
-        "relaxed": 2,
-        "adventure": 2,
-        "family": 3,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "camera",
-        "water bottle"
-      ]
-    },
-    {
-      "activity_name": "Indulge in a Traditional Francesinha",
-      "category": "Food",
-      "duration_minutes": 60,
-      "scores": {
-        "budget": 2,
-        "relaxed": 4,
-        "adventure": 2,
-        "family": 3,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "hungry stomach"
-      ]
-    },
-    {
-      "activity_name": "Relax on the Beaches of Foz do Douro",
-      "category": "Relaxation",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 1,
+        "budget": 5,
         "relaxed": 5,
         "adventure": 1,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "swimwear",
-        "towel",
-        "sunscreen",
-        "comfortable shoes"
+        "camera"
       ]
     },
     {
-      "activity_name": "Admire the Azulejos at São Bento Railway Station",
-      "category": "Culture",
-      "duration_minutes": 30,
+      "activity_name": "Douro River Six Bridges Cruise",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
       "scores": {
-        "budget": 1,
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Mercado do Bolh\u00e3o Market",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
         "relaxed": 4,
         "adventure": 1,
-        "family": 3,
+        "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "camera"
+        "tote_bag",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Francesinha Sandwich Tasting",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite"
       ]
     }
   ]

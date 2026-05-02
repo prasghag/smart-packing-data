@@ -3,173 +3,165 @@
   "country": "United States",
   "activities": [
     {
-      "activity_name": "Millennium Park & The Bean (Cloud Gate)",
+      "activity_name": "Millennium Park & Cloud Gate (The Bean)",
       "category": "Sightseeing",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 1,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 5,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "camera",
-        "comfortable shoes",
-        "sunglasses"
-      ]
-    },
-    {
-      "activity_name": "Explore the Art Institute of Chicago",
-      "category": "Culture",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 3,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "light jacket",
-        "water bottle"
-      ]
-    },
-    {
-      "activity_name": "Indulge in Chicago Deep Dish Pizza",
-      "category": "Food",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 3,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 5,
-        "balanced": 5
-      },
-      "packing_tags": [
-        "empty stomach",
-        "napkins"
-      ]
-    },
-    {
-      "activity_name": "Kayaking on the Chicago River",
-      "category": "Adventure",
-      "duration_minutes": 150,
-      "scores": {
-        "budget": 4,
-        "relaxed": 2,
-        "adventure": 5,
-        "family": 3,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "waterproof bag",
-        "sunscreen",
-        "change of clothes",
-        "water bottle"
-      ]
-    },
-    {
-      "activity_name": "Stroll through Lincoln Park Zoo & Conservatory",
-      "category": "Relaxation",
       "duration_minutes": 120,
       "scores": {
-        "budget": 1,
+        "budget": 5,
         "relaxed": 5,
-        "adventure": 2,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Willis Tower (Sears Tower) Skydeck",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 3,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
         "camera",
-        "comfortable shoes",
-        "water bottle"
+        "advance_tickets",
+        "courage"
       ]
     },
     {
-      "activity_name": "Shopping Excursion on Magnificent Mile",
-      "category": "Shopping",
+      "activity_name": "Navy Pier Amusements",
+      "category": "Adventure",
       "duration_minutes": 180,
       "scores": {
-        "budget": 4,
-        "relaxed": 3,
-        "adventure": 1,
-        "family": 3,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "credit card",
-        "comfortable shoes",
-        "shopping bag"
-      ]
-    },
-    {
-      "activity_name": "Architectural River Cruise",
-      "category": "Sightseeing",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 4,
+        "budget": 3,
         "relaxed": 4,
-        "adventure": 2,
-        "family": 4,
-        "balanced": 5
+        "adventure": 3,
+        "family": 5,
+        "balanced": 4
       },
       "packing_tags": [
-        "camera",
-        "light jacket",
-        "sunglasses"
+        "comfortable_shoes",
+        "sunscreen"
       ]
     },
     {
-      "activity_name": "Discover The Field Museum",
+      "activity_name": "Art Institute of Chicago",
       "category": "Culture",
       "duration_minutes": 240,
       "scores": {
         "budget": 3,
-        "relaxed": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "glasses",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Chicago River Architecture Cruise",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses",
+        "windbreaker"
+      ]
+    },
+    {
+      "activity_name": "Magnificent Mile Shopping",
+      "category": "Shopping",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 1,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "credit_card",
+        "tote_bag",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Field Museum of Natural History",
+      "category": "Culture",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Deep-Dish Pizza Dinner",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "appetite",
+        "credit_card"
+      ]
+    },
+    {
+      "activity_name": "Chicago Riverwalk",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Shedd Aquarium",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
         "adventure": 2,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable shoes",
-        "water bottle",
-        "backpack"
-      ]
-    },
-    {
-      "activity_name": "Culinary Tour of West Loop (Randolph Street)",
-      "category": "Food",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 5,
-        "relaxed": 3,
-        "adventure": 2,
-        "family": 3,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "empty stomach",
-        "comfortable shoes",
-        "credit card"
-      ]
-    },
-    {
-      "activity_name": "Skydeck Chicago at Willis Tower",
-      "category": "Sightseeing",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 4,
-        "relaxed": 2,
-        "adventure": 3,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
         "camera",
-        "courage",
-        "comfortable shoes"
+        "comfortable_shoes"
       ]
     }
   ]

@@ -3,47 +3,31 @@
   "country": "Austria",
   "activities": [
     {
-      "activity_name": "Explore Hohensalzburg Fortress",
-      "category": "Sightseeing",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 4,
-        "relaxed": 3,
-        "adventure": 2,
-        "family": 4,
-        "balanced": 5
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "camera",
-        "light jacket"
-      ]
-    },
-    {
-      "activity_name": "Visit Mozart's Birthplace and Residence",
+      "activity_name": "Hohensalzburg Fortress Funicular & Tour",
       "category": "Culture",
-      "duration_minutes": 90,
+      "duration_minutes": 180,
       "scores": {
         "budget": 3,
         "relaxed": 4,
-        "adventure": 1,
-        "family": 3,
-        "balanced": 4
+        "adventure": 2,
+        "family": 5,
+        "balanced": 5
       },
       "packing_tags": [
         "camera",
-        "reading glasses"
+        "comfortable_shoes",
+        "windbreaker"
       ]
     },
     {
-      "activity_name": "Stroll through Mirabell Palace and Gardens",
-      "category": "Sightseeing",
-      "duration_minutes": 60,
+      "activity_name": "Mirabell Palace and Gardens",
+      "category": "Relaxation",
+      "duration_minutes": 90,
       "scores": {
-        "budget": 1,
+        "budget": 5,
         "relaxed": 5,
         "adventure": 1,
-        "family": 4,
+        "family": 5,
         "balanced": 5
       },
       "packing_tags": [
@@ -52,122 +36,132 @@
       ]
     },
     {
-      "activity_name": "Shop and Wander in Getreidegasse & Old Town",
-      "category": "Shopping",
-      "duration_minutes": 150,
+      "activity_name": "Mozart's Birthplace Museum",
+      "category": "Culture",
+      "duration_minutes": 90,
       "scores": {
         "budget": 3,
         "relaxed": 4,
         "adventure": 1,
-        "family": 3,
+        "family": 4,
         "balanced": 4
       },
       "packing_tags": [
-        "reusable shopping bag",
-        "comfortable shoes"
-      ]
-    },
-    {
-      "activity_name": "Embark on a Salt Mine Tour (Salzbergwerk Hallein)",
-      "category": "Adventure",
-      "duration_minutes": 240,
-      "scores": {
-        "budget": 4,
-        "relaxed": 2,
-        "adventure": 4,
-        "family": 5,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "warm layers",
-        "comfortable shoes",
+        "glasses",
         "camera"
       ]
     },
     {
-      "activity_name": "Experience an Austrian Coffee House (e.g., Café Tomaselli)",
-      "category": "Food",
+      "activity_name": "Salzburg Cathedral Architecture",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Hellbrunn Palace Trick Fountains",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "water_proof_jacket",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Getreidegasse Historic Shopping",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "credit_card",
+        "tote_bag",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Makartplatz Walk",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Salzach River Boat Cruise",
+      "category": "Relaxation",
       "duration_minutes": 60,
       "scores": {
         "budget": 3,
         "relaxed": 5,
         "adventure": 1,
-        "family": 3,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "book",
-        "cash"
-      ]
-    },
-    {
-      "activity_name": "Take The Sound of Music Tour",
-      "category": "Culture",
-      "duration_minutes": 240,
-      "scores": {
-        "budget": 4,
-        "relaxed": 3,
-        "adventure": 2,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "camera",
         "sunglasses",
-        "sing-along spirit"
+        "camera"
       ]
     },
     {
-      "activity_name": "Hike Mönchsberg or Kapuzinerberg for panoramic views",
+      "activity_name": "Untersberg Cable Car Alpine View",
       "category": "Adventure",
-      "duration_minutes": 120,
+      "duration_minutes": 180,
       "scores": {
-        "budget": 1,
+        "budget": 2,
         "relaxed": 4,
-        "adventure": 3,
+        "adventure": 4,
         "family": 4,
-        "balanced": 4
+        "balanced": 5
       },
       "packing_tags": [
-        "water bottle",
-        "comfortable shoes",
-        "camera",
-        "sunscreen"
+        "heavy_jacket",
+        "sunglasses",
+        "camera"
       ]
     },
     {
-      "activity_name": "Discover Hellbrunn Palace and Trick Fountains",
-      "category": "Sightseeing",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 3,
-        "relaxed": 3,
-        "adventure": 2,
-        "family": 5,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "waterproof jacket",
-        "camera",
-        "comfortable shoes"
-      ]
-    },
-    {
-      "activity_name": "Indulge in a Spa Day at a Thermal Spa (e.g., Rupertus Therme)",
-      "category": "Relaxation",
-      "duration_minutes": 300,
+      "activity_name": "Mozartkugel Chocolate Tasting",
+      "category": "Food",
+      "duration_minutes": 30,
       "scores": {
         "budget": 4,
         "relaxed": 5,
         "adventure": 1,
-        "family": 3,
-        "balanced": 3
+        "family": 5,
+        "balanced": 4
       },
       "packing_tags": [
-        "swimsuit",
-        "towel",
-        "flip-flops",
-        "book"
+        "cash",
+        "sweet_tooth"
       ]
     }
   ]

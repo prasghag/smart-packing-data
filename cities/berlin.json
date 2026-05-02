@@ -3,80 +3,107 @@
   "country": "Germany",
   "activities": [
     {
-      "activity_name": "Brandenburg Gate & Reichstag Building Visit",
+      "activity_name": "Brandenburg Gate Photography",
       "category": "Sightseeing",
-      "duration_minutes": 180,
+      "duration_minutes": 45,
       "scores": {
-        "budget": 2,
-        "relaxed": 3,
+        "budget": 5,
+        "relaxed": 5,
         "adventure": 1,
-        "family": 4,
+        "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable shoes",
         "camera",
-        "water bottle",
-        "ID (for Reichstag)"
+        "comfortable_shoes"
       ]
     },
     {
-      "activity_name": "Explore Museum Island",
+      "activity_name": "East Side Gallery (Berlin Wall) Walk",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "camera",
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Reichstag Building Dome Tour",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "passport_for_id",
+        "advance_tickets_essential",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Museum Island Exploration",
       "category": "Culture",
       "duration_minutes": 240,
       "scores": {
         "budget": 3,
-        "relaxed": 4,
-        "adventure": 2,
-        "family": 3,
-        "balanced": 3
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 5
       },
       "packing_tags": [
-        "comfortable shoes",
-        "backpack",
-        "museum pass (optional)",
-        "earphones"
+        "comfortable_shoes",
+        "glasses",
+        "water_bottle"
       ]
     },
     {
-      "activity_name": "Street Food Market at Markthalle Neun (Thursdays)",
-      "category": "Food",
+      "activity_name": "Tiergarten Park Cycling",
+      "category": "Relaxation",
       "duration_minutes": 120,
       "scores": {
-        "budget": 2,
-        "relaxed": 4,
+        "budget": 4,
+        "relaxed": 5,
         "adventure": 2,
-        "family": 4,
+        "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "empty stomach",
-        "cash (some vendors)",
-        "reusable bag"
+        "sportswear",
+        "water_bottle"
       ]
     },
     {
-      "activity_name": "Teufelsberg Spy Station Exploration",
-      "category": "Adventure",
-      "duration_minutes": 150,
+      "activity_name": "Holocaust Memorial Reflection",
+      "category": "Culture",
+      "duration_minutes": 60,
       "scores": {
-        "budget": 3,
-        "relaxed": 2,
-        "adventure": 5,
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
         "family": 3,
         "balanced": 3
       },
       "packing_tags": [
-        "sturdy shoes",
-        "camera",
-        "flashlight",
-        "jacket"
+        "respectful_attitude",
+        "comfortable_shoes"
       ]
     },
     {
-      "activity_name": "Relaxing Stroll through Tiergarten Park & Boat Ride",
-      "category": "Relaxation",
-      "duration_minutes": 180,
+      "activity_name": "TV Tower (Fernsehturm) City View",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
       "scores": {
         "budget": 2,
         "relaxed": 5,
@@ -85,99 +112,56 @@
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable shoes",
-        "sunscreen",
-        "sunglasses",
-        "picnic blanket (optional)"
+        "advance_tickets",
+        "camera"
       ]
     },
     {
-      "activity_name": "Shopping Spree on Kurfürstendamm (Ku'damm)",
+      "activity_name": "Kurf\u00fcrstendamm Shopping",
       "category": "Shopping",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 4,
-        "relaxed": 3,
-        "adventure": 1,
-        "family": 3,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "credit card",
-        "reusable shopping bag",
-        "stylish attire (optional)"
-      ]
-    },
-    {
-      "activity_name": "East Side Gallery & Berlin Wall Memorial Visit",
-      "category": "Culture",
       "duration_minutes": 150,
       "scores": {
-        "budget": 1,
-        "relaxed": 3,
-        "adventure": 2,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "camera",
-        "water bottle",
-        "audio guide (optional)"
-      ]
-    },
-    {
-      "activity_name": "Traditional German Dinner at a Local Kneipe",
-      "category": "Food",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 3,
+        "budget": 2,
         "relaxed": 4,
         "adventure": 1,
         "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "empty stomach",
-        "smart casual attire",
-        "app for translations (optional)"
-      ]
-    },
-    {
-      "activity_name": "Biking Tour along the Berlin Wall Trail",
-      "category": "Adventure",
-      "duration_minutes": 240,
-      "scores": {
-        "budget": 3,
-        "relaxed": 2,
-        "adventure": 4,
-        "family": 3,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable clothing",
-        "biking shoes",
-        "water bottle",
-        "helmet (if renting)",
-        "sunscreen"
-      ]
-    },
-    {
-      "activity_name": "Spa & Thermal Bath Experience at Liquidrom",
-      "category": "Relaxation",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 4,
-        "relaxed": 5,
-        "adventure": 1,
-        "family": 2,
         "balanced": 3
       },
       "packing_tags": [
-        "swimsuit",
-        "towel (can rent)",
-        "flip-flops",
-        "book/magazine"
+        "credit_card",
+        "tote_bag"
+      ]
+    },
+    {
+      "activity_name": "Authentic Currywurst Tasting",
+      "category": "Food",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "hand_sanitizer"
+      ]
+    },
+    {
+      "activity_name": "Spree River Boat Tour",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "sunglasses",
+        "camera"
       ]
     }
   ]

@@ -3,9 +3,41 @@
   "country": "Sweden",
   "activities": [
     {
-      "activity_name": "Vasa Museum",
-      "category": "Sightseeing",
+      "activity_name": "Vasa Museum Maritime History",
+      "category": "Culture",
       "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Gamla Stan (Old Town) Walk",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Skansen Open-Air Museum",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
       "scores": {
         "budget": 3,
         "relaxed": 4,
@@ -14,155 +46,122 @@
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable shoes",
+        "comfortable_shoes",
+        "windbreaker",
         "camera"
       ]
     },
     {
-      "activity_name": "Explore Gamla Stan (Old Town)",
+      "activity_name": "ABBA The Museum",
       "category": "Culture",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 4,
-        "relaxed": 4,
-        "adventure": 2,
-        "family": 4,
-        "balanced": 5
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "camera",
-        "small backpack"
-      ]
-    },
-    {
-      "activity_name": "Traditional Swedish Fika",
-      "category": "Food",
-      "duration_minutes": 60,
-      "scores": {
-        "budget": 3,
-        "relaxed": 5,
-        "adventure": 1,
-        "family": 4,
-        "balanced": 5
-      },
-      "packing_tags": []
-    },
-    {
-      "activity_name": "Stockholm Archipelago Boat Tour",
-      "category": "Adventure",
-      "duration_minutes": 240,
+      "duration_minutes": 90,
       "scores": {
         "budget": 2,
-        "relaxed": 3,
-        "adventure": 4,
-        "family": 4,
-        "balanced": 3
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
       },
       "packing_tags": [
-        "camera",
-        "jacket",
-        "sunscreen"
+        "credit_card",
+        "camera"
       ]
     },
     {
-      "activity_name": "Fotografiska (Photography Museum)",
+      "activity_name": "Archipelago Boat Tour",
       "category": "Relaxation",
       "duration_minutes": 150,
       "scores": {
         "budget": 3,
         "relaxed": 5,
         "adventure": 1,
-        "family": 3,
-        "balanced": 4
+        "family": 5,
+        "balanced": 5
       },
       "packing_tags": [
-        "comfortable shoes",
+        "sunglasses",
+        "windbreaker",
         "camera"
       ]
     },
     {
-      "activity_name": "Shopping on Drottninggatan & NK",
-      "category": "Shopping",
+      "activity_name": "Royal Palace Tour & Guard Change",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Drottningholm Palace Trip",
+      "category": "Culture",
       "duration_minutes": 180,
       "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "light_jacket"
+      ]
+    },
+    {
+      "activity_name": "Djurg\u00e5rden Park Stroll",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Classic Swedish Meatballs Dining",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "credit_card"
+      ]
+    },
+    {
+      "activity_name": "\u00d6stermalm High-End Shopping",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
         "budget": 1,
-        "relaxed": 3,
+        "relaxed": 4,
         "adventure": 1,
         "family": 3,
         "balanced": 3
       },
       "packing_tags": [
-        "credit card",
-        "reusable bag",
-        "comfortable shoes"
-      ]
-    },
-    {
-      "activity_name": "Royal Palace & Changing of the Guard",
-      "category": "Sightseeing",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 3,
-        "relaxed": 3,
-        "adventure": 2,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "camera",
-        "warm layers"
-      ]
-    },
-    {
-      "activity_name": "ABBA The Museum",
-      "category": "Culture",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 2,
-        "relaxed": 3,
-        "adventure": 2,
-        "family": 5,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "camera"
-      ]
-    },
-    {
-      "activity_name": "Östermalms Saluhall (Food Hall)",
-      "category": "Food",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 2,
-        "relaxed": 4,
-        "adventure": 2,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "reusable bag",
-        "appetite"
-      ]
-    },
-    {
-      "activity_name": "Relax and Explore Djurgården Island",
-      "category": "Relaxation",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 5,
-        "relaxed": 5,
-        "adventure": 2,
-        "family": 5,
-        "balanced": 5
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "picnic blanket",
-        "water bottle",
-        "camera"
+        "credit_card",
+        "smart_casual_outfit"
       ]
     }
   ]
