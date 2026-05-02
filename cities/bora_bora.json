@@ -3,26 +3,9 @@
   "country": "French Polynesia",
   "activities": [
     {
-      "activity_name": "Mount Otemanu Boat Tour",
-      "category": "Sightseeing",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 2,
-        "relaxed": 4,
-        "adventure": 3,
-        "family": 4,
-        "balanced": 5
-      },
-      "packing_tags": [
-        "camera",
-        "sunscreen",
-        "sunglasses"
-      ]
-    },
-    {
-      "activity_name": "Shark & Ray Lagoon Snorkel",
+      "activity_name": "Shark and Ray Snorkel Safari",
       "category": "Adventure",
-      "duration_minutes": 180,
+      "duration_minutes": 150,
       "scores": {
         "budget": 2,
         "relaxed": 2,
@@ -32,14 +15,14 @@
       },
       "packing_tags": [
         "swimwear",
-        "snorkel_gear",
-        "underwater_camera"
+        "water_proof_camera",
+        "sunscreen"
       ]
     },
     {
       "activity_name": "Matira Beach Relaxation",
       "category": "Relaxation",
-      "duration_minutes": 240,
+      "duration_minutes": 180,
       "scores": {
         "budget": 5,
         "relaxed": 5,
@@ -48,43 +31,60 @@
         "balanced": 4
       },
       "packing_tags": [
-        "swimwear",
         "beach_towel",
-        "sunscreen"
+        "swimwear",
+        "sunglasses"
       ]
     },
     {
-      "activity_name": "Overwater Bungalow Lounging",
-      "category": "Relaxation",
-      "duration_minutes": 300,
+      "activity_name": "Mount Otemanu 4x4 Tour",
+      "category": "Adventure",
+      "duration_minutes": 180,
       "scores": {
-        "budget": 1,
-        "relaxed": 5,
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "bug_spray",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Bora Bora Lagoonarium",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "water_shoes",
+        "swimwear",
+        "towel"
+      ]
+    },
+    {
+      "activity_name": "Vaitape Boutique Shopping",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
         "adventure": 1,
         "family": 3,
         "balanced": 3
       },
       "packing_tags": [
-        "swimwear",
-        "book",
+        "reusable_bag",
+        "credit_card",
         "sunglasses"
-      ]
-    },
-    {
-      "activity_name": "Jet Ski Island Tour",
-      "category": "Adventure",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 1,
-        "relaxed": 2,
-        "adventure": 5,
-        "family": 3,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "swimwear",
-        "sunglasses",
-        "sunscreen"
       ]
     },
     {
@@ -92,79 +92,84 @@
       "category": "Relaxation",
       "duration_minutes": 120,
       "scores": {
-        "budget": 1,
+        "budget": 2,
         "relaxed": 5,
         "adventure": 1,
         "family": 4,
-        "balanced": 4
+        "balanced": 5
       },
       "packing_tags": [
+        "light_jacket",
         "camera",
-        "light_jacket"
+        "sunglasses"
       ]
     },
     {
-      "activity_name": "Vaitape Village Shopping",
-      "category": "Shopping",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 3,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 4,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "cash",
-        "tote_bag"
-      ]
-    },
-    {
-      "activity_name": "Traditional Polynesian Dinner Show",
+      "activity_name": "Traditional Polynesian Luau",
       "category": "Culture",
-      "duration_minutes": 150,
+      "duration_minutes": 180,
       "scores": {
-        "budget": 1,
+        "budget": 2,
         "relaxed": 4,
         "adventure": 1,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "casual_wear",
-        "camera"
+        "smart_casual_outfit",
+        "camera",
+        "bug_spray"
       ]
     },
     {
-      "activity_name": "Scuba Diving the Reefs",
-      "category": "Adventure",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 1,
-        "relaxed": 1,
-        "adventure": 5,
-        "family": 2,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "swimwear",
-        "diving_certification"
-      ]
-    },
-    {
-      "activity_name": "Bloody Mary's Restaurant Dinner",
+      "activity_name": "Motu Picnic Lunch",
       "category": "Food",
       "duration_minutes": 120,
       "scores": {
         "budget": 2,
-        "relaxed": 4,
+        "relaxed": 5,
         "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunscreen",
+        "sun_hat",
+        "swimwear"
+      ]
+    },
+    {
+      "activity_name": "Coral Garden Snorkeling",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 4,
         "family": 4,
         "balanced": 4
       },
       "packing_tags": [
-        "casual_wear",
-        "appetite"
+        "snorkel_gear",
+        "swimwear",
+        "water_proof_camera"
+      ]
+    },
+    {
+      "activity_name": "Tupitipiti Point Dive",
+      "category": "Adventure",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 1,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 1,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "dive_certification",
+        "swimwear",
+        "towel"
       ]
     }
   ]

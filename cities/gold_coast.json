@@ -5,53 +5,18 @@
     {
       "activity_name": "Surfers Paradise Beach",
       "category": "Relaxation",
-      "duration_minutes": 240,
+      "duration_minutes": 180,
       "scores": {
         "budget": 5,
         "relaxed": 5,
         "adventure": 3,
         "family": 5,
-        "balanced": 5
+        "balanced": 4
       },
       "packing_tags": [
         "swimwear",
-        "sunscreen",
-        "towel",
-        "sunglasses"
-      ]
-    },
-    {
-      "activity_name": "Currumbin Wildlife Sanctuary",
-      "category": "Sightseeing",
-      "duration_minutes": 240,
-      "scores": {
-        "budget": 3,
-        "relaxed": 4,
-        "adventure": 2,
-        "family": 5,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "camera",
-        "comfortable_shoes",
+        "beach_towel",
         "sunscreen"
-      ]
-    },
-    {
-      "activity_name": "Warner Bros. Movie World",
-      "category": "Adventure",
-      "duration_minutes": 480,
-      "scores": {
-        "budget": 1,
-        "relaxed": 2,
-        "adventure": 5,
-        "family": 5,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "day_bag",
-        "sunscreen",
-        "comfortable_shoes"
       ]
     },
     {
@@ -60,18 +25,69 @@
       "duration_minutes": 90,
       "scores": {
         "budget": 3,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 4,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
         "balanced": 4
       },
       "packing_tags": [
         "camera",
-        "credit_card"
+        "advance_tickets"
       ]
     },
     {
-      "activity_name": "Burleigh Heads National Park Walk",
+      "activity_name": "Warner Bros. Movie World",
+      "category": "Adventure",
+      "duration_minutes": 360,
+      "scores": {
+        "budget": 1,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "sun_hat",
+        "day_pack"
+      ]
+    },
+    {
+      "activity_name": "Currumbin Wildlife Sanctuary",
+      "category": "Sightseeing",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Pacific Fair Shopping Centre",
+      "category": "Shopping",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "credit_card",
+        "reusable_bag",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Burleigh Heads National Park Hike",
       "category": "Adventure",
       "duration_minutes": 120,
       "scores": {
@@ -84,63 +100,13 @@
       "packing_tags": [
         "hiking_shoes",
         "water_bottle",
-        "camera"
-      ]
-    },
-    {
-      "activity_name": "Cavill Avenue Shopping",
-      "category": "Shopping",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 3,
-        "relaxed": 3,
-        "adventure": 1,
-        "family": 4,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "credit_card",
-        "casual_wear"
-      ]
-    },
-    {
-      "activity_name": "Springbrook National Park Glow Worms",
-      "category": "Adventure",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 3,
-        "relaxed": 2,
-        "adventure": 4,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "flashlight",
-        "light_jacket",
-        "comfortable_shoes"
-      ]
-    },
-    {
-      "activity_name": "Dreamworld Theme Park",
-      "category": "Adventure",
-      "duration_minutes": 480,
-      "scores": {
-        "budget": 2,
-        "relaxed": 2,
-        "adventure": 5,
-        "family": 5,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "sunscreen",
-        "water_bottle",
-        "day_bag"
+        "bug_spray"
       ]
     },
     {
       "activity_name": "Miami Marketta Street Food",
       "category": "Food",
-      "duration_minutes": 150,
+      "duration_minutes": 120,
       "scores": {
         "budget": 3,
         "relaxed": 4,
@@ -150,25 +116,58 @@
       },
       "packing_tags": [
         "cash",
-        "appetite",
-        "casual_wear"
+        "casual_wear",
+        "light_jacket"
       ]
     },
     {
-      "activity_name": "Tamborine Mountain Rainforest Skywalk",
-      "category": "Relaxation",
-      "duration_minutes": 150,
+      "activity_name": "Sea World Gold Coast",
+      "category": "Sightseeing",
+      "duration_minutes": 300,
       "scores": {
-        "budget": 3,
-        "relaxed": 4,
+        "budget": 1,
+        "relaxed": 3,
         "adventure": 3,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "camera",
-        "comfortable_shoes",
-        "mosquito_repellent"
+        "sunscreen",
+        "day_pack",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "HOTA Gallery",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "indoor_footwear",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Dreamworld Theme Park",
+      "category": "Adventure",
+      "duration_minutes": 360,
+      "scores": {
+        "budget": 1,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "activewear",
+        "sneakers",
+        "sunscreen"
       ]
     }
   ]

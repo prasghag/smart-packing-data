@@ -2,15 +2,173 @@
   "city_name": "Maldives",
   "country": "Maldives",
   "activities": [
-    { "activity_name": "Snorkeling Safari", "category": "Adventure", "duration_minutes": 180, "scores": { "budget": 3, "relaxed": 2, "adventure": 5, "family": 4, "balanced": 4 }, "packing_tags": ["swimwear", "snorkel_gear", "sunscreen"] },
-    { "activity_name": "Sunset Dolphin Cruise", "category": "Relaxation", "duration_minutes": 120, "scores": { "budget": 2, "relaxed": 5, "adventure": 2, "family": 5, "balanced": 5 }, "packing_tags": ["camera", "sunglasses", "light_jacket"] },
-    { "activity_name": "Male Fish Market", "category": "Culture", "duration_minutes": 60, "scores": { "budget": 5, "relaxed": 3, "adventure": 1, "family": 3, "balanced": 3 }, "packing_tags": ["casual_wear", "camera"] },
-    { "activity_name": "Grand Friday Mosque", "category": "Culture", "duration_minutes": 60, "scores": { "budget": 5, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 3 }, "packing_tags": ["modest_clothing"] },
-    { "activity_name": "Submarine Tour", "category": "Adventure", "duration_minutes": 90, "scores": { "budget": 1, "relaxed": 4, "adventure": 4, "family": 5, "balanced": 4 }, "packing_tags": ["camera"] },
-    { "activity_name": "Private Sandbank Picnic", "category": "Relaxation", "duration_minutes": 240, "scores": { "budget": 1, "relaxed": 5, "adventure": 2, "family": 4, "balanced": 4 }, "packing_tags": ["swimwear", "sunscreen", "hat", "sunglasses"] },
-    { "activity_name": "Local Island Hopping", "category": "Sightseeing", "duration_minutes": 360, "scores": { "budget": 3, "relaxed": 4, "adventure": 2, "family": 4, "balanced": 4 }, "packing_tags": ["comfortable_shoes", "modest_clothing", "cash"] },
-    { "activity_name": "Scuba Diving at Banana Reef", "category": "Adventure", "duration_minutes": 240, "scores": { "budget": 2, "relaxed": 1, "adventure": 5, "family": 2, "balanced": 3 }, "packing_tags": ["swimwear", "diving_certification"] },
-    { "activity_name": "Overwater Spa Treatment", "category": "Relaxation", "duration_minutes": 120, "scores": { "budget": 1, "relaxed": 5, "adventure": 1, "family": 2, "balanced": 3 }, "packing_tags": ["comfortable_clothes"] },
-    { "activity_name": "Traditional Maldivian Dinner", "category": "Food", "duration_minutes": 120, "scores": { "budget": 2, "relaxed": 5, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["smart_casual_outfit"] }
+    {
+      "activity_name": "Coral Reef Snorkeling Safari",
+      "category": "Adventure",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "water_proof_camera",
+        "reef_safe_sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Male Fish Market",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "closed_toe_shoes",
+        "camera",
+        "modest_clothing"
+      ]
+    },
+    {
+      "activity_name": "Whale Submarine Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "advance_tickets"
+      ]
+    },
+    {
+      "activity_name": "Sunset Dolphin Cruise",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "light_jacket",
+        "camera",
+        "binoculars"
+      ]
+    },
+    {
+      "activity_name": "Private Sandbank Picnic",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "sun_hat",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Underwater Restaurant Dining",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "smart_casual",
+        "camera",
+        "advance_reservations"
+      ]
+    },
+    {
+      "activity_name": "Shipwreck Scuba Diving",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 1,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 1,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "dive_certification",
+        "swimwear",
+        "water_proof_camera"
+      ]
+    },
+    {
+      "activity_name": "Overwater Villa Spa Day",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "casual_wear",
+        "swimwear"
+      ]
+    },
+    {
+      "activity_name": "Majeedhee Magu Shopping",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "cash",
+        "reusable_bag",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Local Island Village Tour",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "walking_shoes",
+        "sun_hat"
+      ]
+    }
   ]
 }

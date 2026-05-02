@@ -3,7 +3,7 @@
   "country": "New Zealand",
   "activities": [
     {
-      "activity_name": "Museum of New Zealand Te Papa",
+      "activity_name": "Te Papa Tongarewa Museum",
       "category": "Culture",
       "duration_minutes": 240,
       "scores": {
@@ -15,88 +15,92 @@
       },
       "packing_tags": [
         "comfortable_shoes",
+        "day_pack",
         "camera"
-      ]
-    },
-    {
-      "activity_name": "Mount Victoria Lookout",
-      "category": "Sightseeing",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 5,
-        "relaxed": 3,
-        "adventure": 3,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "windbreaker",
-        "camera",
-        "comfortable_shoes"
       ]
     },
     {
       "activity_name": "Wellington Cable Car",
       "category": "Sightseeing",
-      "duration_minutes": 60,
+      "duration_minutes": 45,
       "scores": {
         "budget": 4,
         "relaxed": 5,
-        "adventure": 1,
-        "family": 5,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "camera"
-      ]
-    },
-    {
-      "activity_name": "W\u0113t\u0101 Workshop Tour",
-      "category": "Culture",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 3,
-        "relaxed": 3,
         "adventure": 2,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
         "camera",
-        "comfortable_shoes"
-      ]
-    },
-    {
-      "activity_name": "Cuba Street Bohemian Shopping",
-      "category": "Shopping",
-      "duration_minutes": 150,
-      "scores": {
-        "budget": 4,
-        "relaxed": 3,
-        "adventure": 1,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "casual_wear",
-        "tote_bag"
+        "windbreaker"
       ]
     },
     {
       "activity_name": "Zealandia Ecosanctuary",
-      "category": "Adventure",
+      "category": "Sightseeing",
       "duration_minutes": 180,
       "scores": {
         "budget": 3,
-        "relaxed": 3,
-        "adventure": 4,
+        "relaxed": 4,
+        "adventure": 3,
         "family": 5,
         "balanced": 5
       },
       "packing_tags": [
+        "walking_shoes",
+        "binoculars",
+        "rain_jacket"
+      ]
+    },
+    {
+      "activity_name": "Mount Victoria Lookout",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
         "hiking_shoes",
+        "windbreaker",
         "camera",
         "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Weta Workshop Tour",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "advance_tickets",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Cuba Street Shopping",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "reusable_bag",
+        "credit_card",
+        "comfortable_shoes"
       ]
     },
     {
@@ -106,19 +110,20 @@
       "scores": {
         "budget": 5,
         "relaxed": 5,
-        "adventure": 1,
+        "adventure": 2,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable_shoes",
-        "sunglasses"
+        "walking_shoes",
+        "sun_hat",
+        "camera"
       ]
     },
     {
-      "activity_name": "Oriental Bay Promenade",
+      "activity_name": "Oriental Bay Beach",
       "category": "Relaxation",
-      "duration_minutes": 90,
+      "duration_minutes": 120,
       "scores": {
         "budget": 5,
         "relaxed": 5,
@@ -127,14 +132,15 @@
         "balanced": 4
       },
       "packing_tags": [
-        "windbreaker",
-        "sunglasses"
+        "swimwear",
+        "sunscreen",
+        "beach_towel"
       ]
     },
     {
-      "activity_name": "Harbourside Market Food Tasting",
+      "activity_name": "Harbourside Market",
       "category": "Food",
-      "duration_minutes": 120,
+      "duration_minutes": 90,
       "scores": {
         "budget": 4,
         "relaxed": 4,
@@ -144,23 +150,24 @@
       },
       "packing_tags": [
         "cash",
-        "hand_sanitizer"
+        "reusable_bag",
+        "light_jacket"
       ]
     },
     {
       "activity_name": "Parliament Buildings Tour",
-      "category": "Culture",
-      "duration_minutes": 90,
+      "category": "Sightseeing",
+      "duration_minutes": 60,
       "scores": {
         "budget": 5,
-        "relaxed": 3,
+        "relaxed": 4,
         "adventure": 1,
         "family": 3,
         "balanced": 3
       },
       "packing_tags": [
-        "passport",
-        "modest_clothing"
+        "photo_id",
+        "smart_casual"
       ]
     }
   ]

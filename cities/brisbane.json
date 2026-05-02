@@ -5,7 +5,7 @@
     {
       "activity_name": "Lone Pine Koala Sanctuary",
       "category": "Sightseeing",
-      "duration_minutes": 240,
+      "duration_minutes": 180,
       "scores": {
         "budget": 3,
         "relaxed": 4,
@@ -16,13 +16,13 @@
       "packing_tags": [
         "camera",
         "comfortable_shoes",
-        "sunscreen"
+        "sun_hat"
       ]
     },
     {
       "activity_name": "South Bank Parklands",
       "category": "Relaxation",
-      "duration_minutes": 180,
+      "duration_minutes": 120,
       "scores": {
         "budget": 5,
         "relaxed": 5,
@@ -32,8 +32,8 @@
       },
       "packing_tags": [
         "swimwear",
-        "towel",
-        "sunglasses"
+        "sunscreen",
+        "walking_shoes"
       ]
     },
     {
@@ -49,28 +49,12 @@
       },
       "packing_tags": [
         "closed_toe_shoes",
-        "sportswear",
+        "activewear",
         "sunglasses"
       ]
     },
     {
-      "activity_name": "Mount Coot-tha Lookout",
-      "category": "Sightseeing",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 5,
-        "relaxed": 5,
-        "adventure": 1,
-        "family": 5,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "camera",
-        "light_jacket"
-      ]
-    },
-    {
-      "activity_name": "Gallery of Modern Art (GOMA)",
+      "activity_name": "Queensland Art Gallery & GOMA",
       "category": "Culture",
       "duration_minutes": 150,
       "scores": {
@@ -81,13 +65,82 @@
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable_shoes"
+        "indoor_footwear",
+        "day_pack"
+      ]
+    },
+    {
+      "activity_name": "Eat Street Northshore",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "cash",
+        "comfortable_shoes",
+        "light_jacket"
+      ]
+    },
+    {
+      "activity_name": "Mount Coot-tha Lookout",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "windbreaker",
+        "binoculars"
       ]
     },
     {
       "activity_name": "Brisbane River Cruise",
       "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunglasses",
+        "sunscreen",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Queen Street Mall",
+      "category": "Shopping",
       "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "credit_card",
+        "reusable_bag",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Wheel of Brisbane",
+      "category": "Sightseeing",
+      "duration_minutes": 30,
       "scores": {
         "budget": 3,
         "relaxed": 5,
@@ -97,73 +150,24 @@
       },
       "packing_tags": [
         "camera",
-        "sunscreen"
+        "day_pack"
       ]
     },
     {
-      "activity_name": "Eat Street Northshore",
-      "category": "Food",
-      "duration_minutes": 150,
-      "scores": {
-        "budget": 4,
-        "relaxed": 3,
-        "adventure": 2,
-        "family": 5,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "cash",
-        "casual_wear",
-        "appetite"
-      ]
-    },
-    {
-      "activity_name": "Moreton Island Day Trip",
+      "activity_name": "Kangaroo Point Cliffs Abseiling",
       "category": "Adventure",
-      "duration_minutes": 480,
+      "duration_minutes": 120,
       "scores": {
         "budget": 2,
-        "relaxed": 2,
+        "relaxed": 1,
         "adventure": 5,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "swimwear",
-        "sunscreen",
-        "water_bottle"
-      ]
-    },
-    {
-      "activity_name": "Queen Street Mall",
-      "category": "Shopping",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 3,
-        "relaxed": 3,
-        "adventure": 1,
-        "family": 4,
+        "family": 2,
         "balanced": 3
       },
       "packing_tags": [
-        "credit_card",
-        "comfortable_shoes"
-      ]
-    },
-    {
-      "activity_name": "City Botanic Gardens",
-      "category": "Relaxation",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 5,
-        "relaxed": 5,
-        "adventure": 1,
-        "family": 5,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "picnic_blanket",
-        "camera"
+        "activewear",
+        "sneakers",
+        "water_bottle"
       ]
     }
   ]
