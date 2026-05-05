@@ -1,0 +1,172 @@
+{
+  "city_name": "Luxembourg City",
+  "country": "Luxembourg",
+  "activities": [
+    {
+      "activity_name": "Bock Casemates",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "light_jacket",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Grand Ducal Palace",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Chemin de la Corniche",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses",
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Mudam Luxembourg",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "light_sweater"
+      ]
+    },
+    {
+      "activity_name": "Grund Neighborhood Walk",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Mullerthal Trail Day Trip",
+      "category": "Adventure",
+      "duration_minutes": 360,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_boots",
+        "water_bottle",
+        "rain_jacket"
+      ]
+    },
+    {
+      "activity_name": "Place Guillaume II Market",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag",
+        "appetite"
+      ]
+    },
+    {
+      "activity_name": "Notre-Dame Cathedral",
+      "category": "Sightseeing",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Moselle Wine Tasting",
+      "category": "Food",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "smart_casual",
+        "credit_card",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Parc Kinnekswiss Relaxation",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "picnic_blanket",
+        "sunglasses",
+        "camera"
+      ]
+    }
+  ]
+}

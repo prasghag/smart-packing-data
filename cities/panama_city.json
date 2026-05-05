@@ -1,0 +1,174 @@
+{
+  "city_name": "Panama City",
+  "country": "Panama",
+  "activities": [
+    {
+      "activity_name": "Panama Canal Miraflores Locks",
+      "category": "Sightseeing",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sun_hat",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Casco Viejo Stroll",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Amador Causeway Bike Ride",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sportswear",
+        "sunglasses",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Biomuseo",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Metropolitan Natural Park Hike",
+      "category": "Adventure",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_shoes",
+        "bug_spray",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Mercado de Mariscos",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Albrook Mall",
+      "category": "Shopping",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "credit_card",
+        "tote_bag"
+      ]
+    },
+    {
+      "activity_name": "Cinta Costera Walk",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "sunscreen",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Panama Viejo Ruins",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "sun_hat",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Ancon Hill Viewpoint",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "camera",
+        "water_bottle"
+      ]
+    }
+  ]
+}

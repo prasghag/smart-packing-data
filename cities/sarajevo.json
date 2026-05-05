@@ -1,0 +1,171 @@
+{
+  "city_name": "Sarajevo",
+  "country": "Bosnia and Herzegovina",
+  "activities": [
+    {
+      "activity_name": "Bascarsija Old Bazaar",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "comfortable_shoes",
+        "tote_bag"
+      ]
+    },
+    {
+      "activity_name": "Sebilj Fountain Photos",
+      "category": "Sightseeing",
+      "duration_minutes": 30,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Sarajevo Tunnel Museum",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "camera",
+        "light_jacket"
+      ]
+    },
+    {
+      "activity_name": "Latin Bridge Visit",
+      "category": "Sightseeing",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Trebevic Cable Car",
+      "category": "Adventure",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "windbreaker",
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Gazi Husrev-beg Mosque",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Traditional Cevabdzinica",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Yellow Fortress Sunset",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes",
+        "light_sweater"
+      ]
+    },
+    {
+      "activity_name": "Vrelo Bosne Park",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Sarajevo City Hall",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "city_name": "Mendoza",
+  "country": "Argentina",
+  "activities": [
+    {
+      "activity_name": "Uco Valley Wine Tasting",
+      "category": "Food",
+      "duration_minutes": 300,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 1,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "smart_casual",
+        "sunglasses",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Aconcagua Provincial Park",
+      "category": "Adventure",
+      "duration_minutes": 480,
+      "scores": {
+        "budget": 3,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 2,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_boots",
+        "warm_jacket",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Parque General San Martin",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "picnic_blanket",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Plaza Independencia Stroll",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Cerro de la Gloria",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "water_bottle",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Mercado Central Lunch",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Aristides Villanueva Nightlife",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "casual_chic",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Potrerillos Dam Kayaking",
+      "category": "Adventure",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "sunscreen",
+        "towel"
+      ]
+    },
+    {
+      "activity_name": "Olive Oil Factory Tour",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Peatonal Sarmiento Shopping",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "credit_card",
+        "tote_bag",
+        "comfortable_shoes"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "city_name": "Charleston",
+  "country": "United States",
+  "activities": [
+    {
+      "activity_name": "The Battery Promenade",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Fort Sumter National Monument",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sun_hat",
+        "windbreaker"
+      ]
+    },
+    {
+      "activity_name": "French Quarter Walk",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Charleston City Market",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Magnolia Plantation",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera",
+        "bug_spray"
+      ]
+    },
+    {
+      "activity_name": "Evening Ghost Tour",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "light_jacket"
+      ]
+    },
+    {
+      "activity_name": "King Street Shopping",
+      "category": "Shopping",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "credit_card",
+        "comfortable_shoes",
+        "tote_bag"
+      ]
+    },
+    {
+      "activity_name": "Rainbow Row Photography",
+      "category": "Sightseeing",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Lowcountry Cooking Class",
+      "category": "Food",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "camera",
+        "casual_wear"
+      ]
+    },
+    {
+      "activity_name": "Waterfront Park Relaxation",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses",
+        "water_bottle"
+      ]
+    }
+  ]
+}

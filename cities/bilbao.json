@@ -1,0 +1,169 @@
+{
+  "city_name": "Bilbao",
+  "country": "Spain",
+  "activities": [
+    {
+      "activity_name": "Guggenheim Museum",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Casco Viejo Exploration",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Mercado de la Ribera",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "cash",
+        "tote_bag"
+      ]
+    },
+    {
+      "activity_name": "Mount Artxanda Funicular",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Bilbao Fine Arts Museum",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "light_sweater"
+      ]
+    },
+    {
+      "activity_name": "San Mames Stadium Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Zubizuri Bridge Walk",
+      "category": "Sightseeing",
+      "duration_minutes": 30,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Pintxos Tasting Tour",
+      "category": "Food",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "cash",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Do\u00f1a Casilda Iturrizar Park",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "picnic_blanket",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Azkuna Zentroa Arts Center",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    }
+  ]
+}

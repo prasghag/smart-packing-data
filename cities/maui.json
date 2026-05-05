@@ -1,0 +1,175 @@
+{
+  "city_name": "Maui",
+  "country": "United States",
+  "activities": [
+    {
+      "activity_name": "Haleakala Sunrise Viewing",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "warm_layers",
+        "camera",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Road to Hana Drive",
+      "category": "Adventure",
+      "duration_minutes": 600,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "motion_sickness_pills",
+        "camera",
+        "snacks"
+      ]
+    },
+    {
+      "activity_name": "Kaanapali Beach Relaxation",
+      "category": "Relaxation",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "sunscreen",
+        "beach_towel"
+      ]
+    },
+    {
+      "activity_name": "Molokini Crater Snorkeling",
+      "category": "Adventure",
+      "duration_minutes": 300,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 5,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "towel",
+        "reef_safe_sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Lahaina Front Street",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "credit_card",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Iao Valley State Monument",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera",
+        "rain_jacket"
+      ]
+    },
+    {
+      "activity_name": "Traditional Hawaiian Luau",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 1,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "casual_chic",
+        "appetite",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Surfing Lesson",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "rash_guard",
+        "towel"
+      ]
+    },
+    {
+      "activity_name": "Maui Ocean Center",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Pineapple Farm Tour",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sun_hat",
+        "camera",
+        "appetite"
+      ]
+    }
+  ]
+}

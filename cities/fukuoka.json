@@ -1,0 +1,174 @@
+{
+  "city_name": "Fukuoka",
+  "country": "Japan",
+  "activities": [
+    {
+      "activity_name": "Ohori Park Walk",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "camera",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Kushida Shrine Visit",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Canal City Hakata",
+      "category": "Shopping",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "credit_card",
+        "comfortable_shoes",
+        "tote_bag"
+      ]
+    },
+    {
+      "activity_name": "Hakata Ramen Tasting",
+      "category": "Food",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Fukuoka Castle Ruins",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Yatai Food Stalls",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "appetite",
+        "casual_wear"
+      ]
+    },
+    {
+      "activity_name": "Momochi Seaside Park",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunglasses",
+        "beach_towel",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Dazaifu Tenmangu Shrine",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera",
+        "respectful_attire"
+      ]
+    },
+    {
+      "activity_name": "Tenjin Underground Mall",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "credit_card",
+        "tote_bag",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Nokonoshima Island Park",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sun_hat",
+        "comfortable_shoes"
+      ]
+    }
+  ]
+}

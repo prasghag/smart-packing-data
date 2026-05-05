@@ -1,0 +1,172 @@
+{
+  "city_name": "Ipoh",
+  "country": "Malaysia",
+  "activities": [
+    {
+      "activity_name": "Concubine Lane Walk",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "cash",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Kellie's Castle",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sun_hat",
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Perak Cave Temple",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Ipoh Heritage Walk",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "sun_hat",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "White Coffee Tasting",
+      "category": "Food",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Han Chin Pet Soo Museum",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Gunung Lang Recreational Park",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Qing Shui Ling Cultural Centre",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Dim Sum Breakfast",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Ipoh Mural Art Trail",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "walking_shoes",
+        "sun_hat"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "city_name": "Lyon",
+  "country": "France",
+  "activities": [
+    {
+      "activity_name": "Basilica of Notre-Dame de Fourviere",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes",
+        "modest_clothing"
+      ]
+    },
+    {
+      "activity_name": "Vieux Lyon Traboules Tour",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera",
+        "map"
+      ]
+    },
+    {
+      "activity_name": "Parc de la Tete d'Or",
+      "category": "Relaxation",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "picnic_blanket",
+        "comfortable_shoes",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Les Halles de Lyon Paul Bocuse",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "credit_card",
+        "tote_bag"
+      ]
+    },
+    {
+      "activity_name": "Musee des Confluences",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Presqu'ile Shopping",
+      "category": "Shopping",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "credit_card",
+        "stylish_outfit",
+        "tote_bag"
+      ]
+    },
+    {
+      "activity_name": "Gallo-Roman Museum",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Saone River Boat Trip",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "windbreaker",
+        "sunglasses",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Traditional Bouchon Meal",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Mont d'Or Hiking Trail",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_boots",
+        "water_bottle",
+        "sunscreen"
+      ]
+    }
+  ]
+}

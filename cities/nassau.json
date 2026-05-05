@@ -1,0 +1,176 @@
+{
+  "city_name": "Nassau",
+  "country": "Bahamas",
+  "activities": [
+    {
+      "activity_name": "Cable Beach Relaxation",
+      "category": "Relaxation",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "sunscreen",
+        "beach_towel"
+      ]
+    },
+    {
+      "activity_name": "Atlantis Aquaventure Park",
+      "category": "Adventure",
+      "duration_minutes": 300,
+      "scores": {
+        "budget": 1,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "water_shoes",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Queen's Staircase Walk",
+      "category": "Sightseeing",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "camera",
+        "bug_spray"
+      ]
+    },
+    {
+      "activity_name": "Straw Market Haggling",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Blue Lagoon Dolphin Swim",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 1,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "towel",
+        "waterproof_camera"
+      ]
+    },
+    {
+      "activity_name": "Fish Fry at Arawak Cay",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "casual_wear",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Fort Charlotte Exploration",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Stuart Cove Snorkeling",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "snorkel_gear",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "John Watling's Distillery",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "id_card",
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Clifton Heritage Park",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "sun_hat",
+        "camera"
+      ]
+    }
+  ]
+}

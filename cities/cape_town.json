@@ -1,0 +1,173 @@
+{
+  "city_name": "Cape Town",
+  "country": "South Africa",
+  "activities": [
+    {
+      "activity_name": "Table Mountain Aerial Cableway",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "warm_jacket",
+        "camera",
+        "sun_glasses"
+      ]
+    },
+    {
+      "activity_name": "Boulders Beach Penguin Colony",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sunscreen",
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "V&A Waterfront Exploration",
+      "category": "Shopping",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "credit_card"
+      ]
+    },
+    {
+      "activity_name": "Cape Point Nature Reserve",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_shoes",
+        "windbreaker",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Kirstenbosch Botanical Gardens",
+      "category": "Relaxation",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "picnic_blanket",
+        "camera",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Robben Island Museum",
+      "category": "Culture",
+      "duration_minutes": 210,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "motion_sickness_pills",
+        "sun_glasses",
+        "light_jacket"
+      ]
+    },
+    {
+      "activity_name": "Bo-Kaap Walking Tour",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Camps Bay Beach Time",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "swimwear",
+        "sunscreen",
+        "beach_towel"
+      ]
+    },
+    {
+      "activity_name": "Stellenbosch Wine Tasting",
+      "category": "Food",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "smart_casual",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Great White Shark Cage Diving",
+      "category": "Adventure",
+      "duration_minutes": 300,
+      "scores": {
+        "budget": 1,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 1,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "swimwear",
+        "warm_clothes",
+        "motion_sickness_pills"
+      ]
+    }
+  ]
+}

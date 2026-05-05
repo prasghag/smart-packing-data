@@ -1,0 +1,170 @@
+{
+  "city_name": "Montevideo",
+  "country": "Uruguay",
+  "activities": [
+    {
+      "activity_name": "Ciudad Vieja Walk",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Mercado del Puerto",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "cash",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Rambla de Montevideo",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "sunglasses",
+        "windbreaker"
+      ]
+    },
+    {
+      "activity_name": "Palacio Salvo",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Teatro Solis Tour",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "smart_casual"
+      ]
+    },
+    {
+      "activity_name": "Parque Rodo",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "picnic_blanket",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Tristan Narvaja Flea Market",
+      "category": "Shopping",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Plaza Independencia",
+      "category": "Sightseeing",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Museo Torres Garcia",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "light_sweater"
+      ]
+    },
+    {
+      "activity_name": "Bodega Bouza Wine Tasting",
+      "category": "Food",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "smart_casual",
+        "camera"
+      ]
+    }
+  ]
+}

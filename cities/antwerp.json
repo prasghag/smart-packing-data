@@ -1,0 +1,169 @@
+{
+  "city_name": "Antwerp",
+  "country": "Belgium",
+  "activities": [
+    {
+      "activity_name": "Antwerpen-Centraal Station",
+      "category": "Sightseeing",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Museum aan de Stroom",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Rubens House",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "light_sweater"
+      ]
+    },
+    {
+      "activity_name": "Cathedral of Our Lady",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "modest_clothing"
+      ]
+    },
+    {
+      "activity_name": "Diamond District Walking Tour",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Belgian Waffle Tasting",
+      "category": "Food",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Meir Shopping Street",
+      "category": "Shopping",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "credit_card",
+        "tote_bag",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Middelheim Sculpture Museum",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Antwerp Port Boat Tour",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "windbreaker",
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Red Star Line Museum",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "tissues"
+      ]
+    }
+  ]
+}

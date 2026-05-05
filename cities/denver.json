@@ -1,31 +1,80 @@
 {
-  "city_name": "Santiago",
-  "country": "Chile",
+  "city_name": "Denver",
+  "country": "United States",
   "activities": [
     {
-      "activity_name": "Cerro San Cristobal Funicular",
+      "activity_name": "Red Rocks Amphitheatre",
       "category": "Sightseeing",
       "duration_minutes": 120,
       "scores": {
-        "budget": 4,
+        "budget": 5,
         "relaxed": 4,
-        "adventure": 2,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Denver Art Museum",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Union Station Visit",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
         "camera",
-        "comfortable_shoes",
-        "sunglasses"
+        "appetite"
       ]
     },
     {
-      "activity_name": "Plaza de Armas Walk",
-      "category": "Culture",
-      "duration_minutes": 60,
+      "activity_name": "Larimer Square Shopping",
+      "category": "Shopping",
+      "duration_minutes": 120,
       "scores": {
-        "budget": 5,
+        "budget": 2,
         "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "credit_card",
+        "tote_bag",
+        "casual_chic"
+      ]
+    },
+    {
+      "activity_name": "Denver Botanic Gardens",
+      "category": "Relaxation",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
         "adventure": 1,
         "family": 5,
         "balanced": 4
@@ -33,129 +82,77 @@
       "packing_tags": [
         "camera",
         "sun_hat",
-        "water_bottle"
+        "walking_shoes"
       ]
     },
     {
-      "activity_name": "La Moneda Palace Viewing",
-      "category": "Sightseeing",
+      "activity_name": "Colorado State Capitol",
+      "category": "Culture",
       "duration_minutes": 60,
       "scores": {
         "budget": 5,
         "relaxed": 4,
         "adventure": 1,
-        "family": 4,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "comfortable_shoes",
-        "id_card",
-        "camera"
-      ]
-    },
-    {
-      "activity_name": "Mercado Central Seafood",
-      "category": "Food",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 3,
-        "relaxed": 3,
-        "adventure": 2,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "appetite",
-        "cash",
-        "hand_sanitizer"
-      ]
-    },
-    {
-      "activity_name": "Sky Costanera Observatory",
-      "category": "Sightseeing",
-      "duration_minutes": 60,
-      "scores": {
-        "budget": 3,
-        "relaxed": 5,
-        "adventure": 1,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
+        "camera",
+        "id_card"
+      ]
+    },
+    {
+      "activity_name": "Mount Blue Sky Drive",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "warm_jacket",
         "camera",
         "sunglasses"
       ]
     },
     {
-      "activity_name": "Barrio Bellavista Art Tour",
-      "category": "Culture",
-      "duration_minutes": 90,
+      "activity_name": "LoDo Craft Brewery Tour",
+      "category": "Food",
+      "duration_minutes": 180,
       "scores": {
-        "budget": 5,
+        "budget": 3,
         "relaxed": 4,
         "adventure": 1,
-        "family": 4,
-        "balanced": 4
+        "family": 1,
+        "balanced": 3
       },
       "packing_tags": [
-        "camera",
-        "walking_shoes",
+        "id_card",
         "casual_wear"
       ]
     },
     {
-      "activity_name": "Maipo Valley Wine Tasting",
-      "category": "Food",
-      "duration_minutes": 240,
-      "scores": {
-        "budget": 2,
-        "relaxed": 5,
-        "adventure": 1,
-        "family": 2,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "smart_casual",
-        "camera",
-        "sun_glasses"
-      ]
-    },
-    {
-      "activity_name": "Andes Mountains Trek",
+      "activity_name": "Cherry Creek Trail Bike Ride",
       "category": "Adventure",
-      "duration_minutes": 300,
-      "scores": {
-        "budget": 3,
-        "relaxed": 1,
-        "adventure": 5,
-        "family": 3,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "hiking_boots",
-        "warm_layers",
-        "water_bottle"
-      ]
-    },
-    {
-      "activity_name": "Pueblito Los Dominicos",
-      "category": "Shopping",
       "duration_minutes": 120,
       "scores": {
         "budget": 4,
-        "relaxed": 4,
-        "adventure": 1,
+        "relaxed": 3,
+        "adventure": 4,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "cash",
-        "tote_bag",
-        "camera"
+        "sportswear",
+        "water_bottle",
+        "sunglasses"
       ]
     },
     {
-      "activity_name": "Parque Bicentenario Picnic",
+      "activity_name": "Confluence Park Relaxation",
       "category": "Relaxation",
       "duration_minutes": 90,
       "scores": {
@@ -167,8 +164,7 @@
       },
       "packing_tags": [
         "picnic_blanket",
-        "comfortable_shoes",
-        "sunglasses"
+        "sunscreen"
       ]
     }
   ]

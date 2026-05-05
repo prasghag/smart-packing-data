@@ -1,0 +1,172 @@
+{
+  "city_name": "Hobart",
+  "country": "Australia",
+  "activities": [
+    {
+      "activity_name": "MONA Museum",
+      "category": "Culture",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes",
+        "curiosity"
+      ]
+    },
+    {
+      "activity_name": "Mount Wellington Summit",
+      "category": "Adventure",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "warm_jacket",
+        "camera",
+        "windbreaker"
+      ]
+    },
+    {
+      "activity_name": "Salamanca Market",
+      "category": "Shopping",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Battery Point Walk",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Royal Tasmanian Botanical Gardens",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sun_hat",
+        "picnic_blanket"
+      ]
+    },
+    {
+      "activity_name": "Constitution Dock",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Cascade Brewery Tour",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "id_card",
+        "casual_wear"
+      ]
+    },
+    {
+      "activity_name": "Bruny Island Cruise",
+      "category": "Adventure",
+      "duration_minutes": 360,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "windbreaker",
+        "camera",
+        "seasickness_pills"
+      ]
+    },
+    {
+      "activity_name": "Tasmanian Seafood Tasting",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "credit_card"
+      ]
+    },
+    {
+      "activity_name": "Derwent River Ferry",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses",
+        "light_jacket"
+      ]
+    }
+  ]
+}

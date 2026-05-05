@@ -1,0 +1,173 @@
+{
+  "city_name": "Cologne",
+  "country": "Germany",
+  "activities": [
+    {
+      "activity_name": "Cologne Cathedral",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes",
+        "modest_clothing"
+      ]
+    },
+    {
+      "activity_name": "Chocolate Museum",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sweet_tooth",
+        "camera",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Rhine River Cruise",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "windbreaker",
+        "sunglasses",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Museum Ludwig",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "light_sweater"
+      ]
+    },
+    {
+      "activity_name": "Hohenzollern Bridge Walk",
+      "category": "Sightseeing",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "padlock",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Schildergasse Shopping",
+      "category": "Shopping",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "credit_card",
+        "tote_bag",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Roman-Germanic Museum",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Kolsch Beer Tasting in Altstadt",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "casual_wear"
+      ]
+    },
+    {
+      "activity_name": "Phantasialand Theme Park",
+      "category": "Adventure",
+      "duration_minutes": 480,
+      "scores": {
+        "budget": 1,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "sunscreen",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Flora Botanical Garden",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sun_hat",
+        "walking_shoes"
+      ]
+    }
+  ]
+}

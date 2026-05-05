@@ -1,6 +1,6 @@
 {
   "city_name": "Honolulu",
-  "country": "USA",
+  "country": "United States",
   "activities": [
     {
       "activity_name": "Waikiki Beach Surfing",
@@ -8,7 +8,7 @@
       "duration_minutes": 120,
       "scores": {
         "budget": 3,
-        "relaxed": 4,
+        "relaxed": 2,
         "adventure": 5,
         "family": 4,
         "balanced": 4
@@ -16,7 +16,7 @@
       "packing_tags": [
         "swimwear",
         "sunscreen",
-        "rash_guard"
+        "beach_towel"
       ]
     },
     {
@@ -24,32 +24,50 @@
       "category": "Culture",
       "duration_minutes": 180,
       "scores": {
-        "budget": 5,
-        "relaxed": 2,
+        "budget": 4,
+        "relaxed": 3,
         "adventure": 1,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
         "comfortable_shoes",
+        "id_card",
         "camera"
       ]
     },
     {
-      "activity_name": "Diamond Head State Monument Hike",
+      "activity_name": "Diamond Head Crater Hike",
       "category": "Adventure",
-      "duration_minutes": 120,
+      "duration_minutes": 150,
       "scores": {
         "budget": 4,
-        "relaxed": 1,
+        "relaxed": 2,
         "adventure": 4,
         "family": 4,
-        "balanced": 5
+        "balanced": 4
       },
       "packing_tags": [
         "hiking_shoes",
         "water_bottle",
-        "sunscreen"
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Traditional Hawaiian Luau",
+      "category": "Culture",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 1,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "casual_wear",
+        "appetite",
+        "camera"
       ]
     },
     {
@@ -57,32 +75,33 @@
       "category": "Adventure",
       "duration_minutes": 180,
       "scores": {
-        "budget": 2,
+        "budget": 3,
         "relaxed": 3,
-        "adventure": 5,
+        "adventure": 4,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
         "swimwear",
         "snorkel_gear",
-        "towel"
+        "sunscreen"
       ]
     },
     {
-      "activity_name": "Traditional Polynesian Luau",
-      "category": "Food",
+      "activity_name": "Ala Moana Center",
+      "category": "Shopping",
       "duration_minutes": 180,
       "scores": {
-        "budget": 1,
+        "budget": 2,
         "relaxed": 4,
-        "adventure": 2,
-        "family": 5,
-        "balanced": 4
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
       },
       "packing_tags": [
-        "casual_wear",
-        "camera"
+        "credit_card",
+        "comfortable_shoes",
+        "tote_bag"
       ]
     },
     {
@@ -97,55 +116,24 @@
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable_shoes"
+        "comfortable_shoes",
+        "camera"
       ]
     },
     {
-      "activity_name": "Manoa Falls Trail",
-      "category": "Adventure",
-      "duration_minutes": 120,
+      "activity_name": "Fresh Poke Bowl Lunch",
+      "category": "Food",
+      "duration_minutes": 45,
       "scores": {
-        "budget": 5,
-        "relaxed": 2,
-        "adventure": 4,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "hiking_shoes",
-        "mosquito_repellent",
-        "rain_jacket"
-      ]
-    },
-    {
-      "activity_name": "Ala Moana Center Shopping",
-      "category": "Shopping",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 2,
-        "relaxed": 3,
-        "adventure": 1,
-        "family": 4,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "credit_card",
-        "tote_bag"
-      ]
-    },
-    {
-      "activity_name": "Bishop Museum",
-      "category": "Culture",
-      "duration_minutes": 150,
-      "scores": {
-        "budget": 3,
-        "relaxed": 3,
+        "budget": 4,
+        "relaxed": 5,
         "adventure": 1,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable_shoes"
+        "appetite",
+        "casual_wear"
       ]
     },
     {
@@ -157,12 +145,29 @@
         "relaxed": 5,
         "adventure": 2,
         "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "light_jacket",
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Manoa Falls Jungle Trek",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
         "balanced": 4
       },
       "packing_tags": [
-        "sunglasses",
-        "light_jacket",
-        "camera"
+        "hiking_boots",
+        "bug_spray",
+        "water_bottle"
       ]
     }
   ]

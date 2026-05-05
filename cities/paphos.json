@@ -1,0 +1,175 @@
+{
+  "city_name": "Paphos",
+  "country": "Cyprus",
+  "activities": [
+    {
+      "activity_name": "Paphos Archaeological Park",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "sun_hat",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Tombs of the Kings",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sunscreen",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Coral Bay Beach",
+      "category": "Relaxation",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "sunscreen",
+        "beach_towel"
+      ]
+    },
+    {
+      "activity_name": "Paphos Castle",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Aphrodite's Rock",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "swimwear",
+        "towel"
+      ]
+    },
+    {
+      "activity_name": "Adonis Baths Waterfalls",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "water_shoes",
+        "bug_spray"
+      ]
+    },
+    {
+      "activity_name": "Kings Avenue Mall",
+      "category": "Shopping",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "credit_card",
+        "comfortable_shoes",
+        "tote_bag"
+      ]
+    },
+    {
+      "activity_name": "Traditional Meze Dinner",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "casual_wear",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Paphos Harbour Walk",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Akamas Peninsula Buggy Safari",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 2,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunglasses",
+        "dust_mask",
+        "driver_license"
+      ]
+    }
+  ]
+}

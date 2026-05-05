@@ -1,0 +1,171 @@
+{
+  "city_name": "Valparaiso",
+  "country": "Chile",
+  "activities": [
+    {
+      "activity_name": "Cerro Alegre Street Art",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Ascensor Artilleria",
+      "category": "Sightseeing",
+      "duration_minutes": 30,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Pablo Neruda's House",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Plaza Sotomayor",
+      "category": "Sightseeing",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Cerro Concepcion Walk",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "camera",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Paseo Gervasoni",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Mercado El Cardonal",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "cash",
+        "tote_bag"
+      ]
+    },
+    {
+      "activity_name": "Valparaiso Boat Tour",
+      "category": "Adventure",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "windbreaker",
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Gems and Souvenir Shopping",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Chorrillana Tasting",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "casual_wear"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "city_name": "Ottawa",
+  "country": "Canada",
+  "activities": [
+    {
+      "activity_name": "Parliament Hill",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes",
+        "weather_appropriate_clothing"
+      ]
+    },
+    {
+      "activity_name": "Rideau Canal Skate or Cruise",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "warm_clothing",
+        "sunglasses",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "National Gallery of Canada",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "light_sweater"
+      ]
+    },
+    {
+      "activity_name": "ByWard Market",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag",
+        "appetite"
+      ]
+    },
+    {
+      "activity_name": "Canadian Museum of History",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "BeaverTails Tasting",
+      "category": "Food",
+      "duration_minutes": 30,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "sweet_tooth",
+        "napkins"
+      ]
+    },
+    {
+      "activity_name": "Notre-Dame Cathedral Basilica",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "modest_clothing"
+      ]
+    },
+    {
+      "activity_name": "Gatineau Park Hike",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_shoes",
+        "water_bottle",
+        "bug_spray"
+      ]
+    },
+    {
+      "activity_name": "Major's Hill Park",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "picnic_blanket"
+      ]
+    },
+    {
+      "activity_name": "Canadian War Museum",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "tissues"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "city_name": "Baku",
+  "country": "Azerbaijan",
+  "activities": [
+    {
+      "activity_name": "Flame Towers Viewpoint",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "light_jacket"
+      ]
+    },
+    {
+      "activity_name": "Icherisheher Old City Tour",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Heydar Aliyev Center",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Baku Boulevard Walk",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Maiden Tower Climb",
+      "category": "Sightseeing",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Nizami Street Shopping",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "credit_card",
+        "tote_bag",
+        "stylish_outfit"
+      ]
+    },
+    {
+      "activity_name": "Mud Volcanoes Safari",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "old_clothes",
+        "wet_wipes",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Yashil Bazar Market",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag",
+        "appetite"
+      ]
+    },
+    {
+      "activity_name": "Shirvanshahs Palace",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Caspian Sea Boat Ride",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "windbreaker",
+        "sunglasses",
+        "camera"
+      ]
+    }
+  ]
+}

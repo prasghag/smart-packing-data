@@ -3,167 +3,92 @@
   "country": "United States",
   "activities": [
     {
-      "activity_name": "Space Needle & Chihuly Garden and Glass",
+      "activity_name": "Space Needle Observation Deck",
       "category": "Sightseeing",
-      "duration_minutes": 180,
+      "duration_minutes": 90,
       "scores": {
-        "budget": 3,
+        "budget": 2,
         "relaxed": 4,
-        "adventure": 1,
+        "adventure": 2,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
         "camera",
-        "comfortable shoes",
-        "light jacket"
+        "sunglasses"
       ]
     },
     {
-      "activity_name": "Pike Place Market Food Tour",
+      "activity_name": "Pike Place Market Exploration",
       "category": "Food",
-      "duration_minutes": 150,
-      "scores": {
-        "budget": 3,
-        "relaxed": 3,
-        "adventure": 2,
-        "family": 4,
-        "balanced": 5
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "appetite",
-        "reusable shopping bag"
-      ]
-    },
-    {
-      "activity_name": "Kayaking on Lake Union",
-      "category": "Adventure",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 3,
-        "relaxed": 2,
-        "adventure": 5,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "water bottle",
-        "sunscreen",
-        "swimsuit (optional)",
-        "waterproof bag"
-      ]
-    },
-    {
-      "activity_name": "Discovery Park Trails",
-      "category": "Relaxation",
-      "duration_minutes": 240,
-      "scores": {
-        "budget": 1,
-        "relaxed": 5,
-        "adventure": 3,
-        "family": 5,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "hiking shoes",
-        "water bottle",
-        "rain jacket",
-        "binoculars"
-      ]
-    },
-    {
-      "activity_name": "Nordstrom Flagship Store Downtown",
-      "category": "Shopping",
       "duration_minutes": 180,
       "scores": {
         "budget": 4,
         "relaxed": 3,
-        "adventure": 1,
-        "family": 3,
-        "balanced": 3
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
       },
       "packing_tags": [
-        "shopping list",
-        "comfortable shoes",
-        "credit card"
+        "tote_bag",
+        "appetite",
+        "camera"
       ]
     },
     {
-      "activity_name": "MoPOP (Museum of Pop Culture)",
+      "activity_name": "Chihuly Garden and Glass",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Museum of Pop Culture",
       "category": "Culture",
       "duration_minutes": 180,
       "scores": {
         "budget": 3,
-        "relaxed": 3,
-        "adventure": 2,
-        "family": 5,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "camera",
-        "comfortable shoes",
-        "light jacket"
-      ]
-    },
-    {
-      "activity_name": "Ferry Ride to Bainbridge Island",
-      "category": "Sightseeing",
-      "duration_minutes": 240,
-      "scores": {
-        "budget": 2,
-        "relaxed": 4,
-        "adventure": 2,
-        "family": 5,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "camera",
-        "windbreaker",
-        "comfortable shoes",
-        "snacks"
-      ]
-    },
-    {
-      "activity_name": "Capitol Hill Dining Experience",
-      "category": "Food",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 4,
         "relaxed": 4,
         "adventure": 1,
-        "family": 3,
+        "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "nice outfit",
-        "reservation",
-        "appetite"
+        "comfortable_shoes",
+        "camera"
       ]
     },
     {
-      "activity_name": "Boeing Future of Flight Aviation Center",
-      "category": "Adventure",
-      "duration_minutes": 180,
+      "activity_name": "Seattle Great Wheel",
+      "category": "Sightseeing",
+      "duration_minutes": 45,
       "scores": {
         "budget": 3,
-        "relaxed": 2,
-        "adventure": 4,
+        "relaxed": 5,
+        "adventure": 2,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
         "camera",
-        "comfortable shoes",
-        "curiosity"
+        "light_jacket"
       ]
     },
     {
-      "activity_name": "Seattle Japanese Garden",
-      "category": "Relaxation",
+      "activity_name": "Starbucks Reserve Roastery",
+      "category": "Food",
       "duration_minutes": 90,
       "scores": {
-        "budget": 2,
+        "budget": 3,
         "relaxed": 5,
         "adventure": 1,
         "family": 3,
@@ -171,8 +96,73 @@
       },
       "packing_tags": [
         "camera",
-        "quiet demeanor",
-        "comfortable shoes"
+        "credit_card"
+      ]
+    },
+    {
+      "activity_name": "Discovery Park Trail Hike",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "hiking_shoes",
+        "water_bottle",
+        "windbreaker"
+      ]
+    },
+    {
+      "activity_name": "Pioneer Square Underground Tour",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "light_jacket"
+      ]
+    },
+    {
+      "activity_name": "Argosy Cruises Harbor Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "windbreaker",
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Pacific Science Center",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "water_bottle"
       ]
     }
   ]

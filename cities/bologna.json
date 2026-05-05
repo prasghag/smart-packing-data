@@ -1,0 +1,171 @@
+{
+  "city_name": "Bologna",
+  "country": "Italy",
+  "activities": [
+    {
+      "activity_name": "Two Towers Climb",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "camera",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Piazza Maggiore",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Basilica di San Petronio",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Archiginnasio of Bologna",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "quiet_shoes"
+      ]
+    },
+    {
+      "activity_name": "Quadrilatero Food Tour",
+      "category": "Food",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "cash",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Sanctuary of the Madonna di San Luca",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Santo Stefano Basilica",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "modest_clothing"
+      ]
+    },
+    {
+      "activity_name": "Mercato delle Erbe",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag",
+        "appetite"
+      ]
+    },
+    {
+      "activity_name": "Bologna University Tour",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Porticoes Walk",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera",
+        "sunglasses"
+      ]
+    }
+  ]
+}

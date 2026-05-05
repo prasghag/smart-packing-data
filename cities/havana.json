@@ -3,24 +3,41 @@
   "country": "Cuba",
   "activities": [
     {
-      "activity_name": "Old Havana (Habana Vieja) Walking Tour",
+      "activity_name": "Old Havana Walking Tour",
       "category": "Culture",
       "duration_minutes": 180,
       "scores": {
-        "budget": 5,
+        "budget": 4,
         "relaxed": 3,
         "adventure": 2,
         "family": 4,
-        "balanced": 5
+        "balanced": 4
       },
       "packing_tags": [
-        "comfortable_shoes",
-        "camera",
-        "hat"
+        "walking_shoes",
+        "sun_hat",
+        "water_bottle"
       ]
     },
     {
-      "activity_name": "Malecon Sunset Stroll",
+      "activity_name": "Vintage Classic Car Ride",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunglasses",
+        "camera",
+        "scarf"
+      ]
+    },
+    {
+      "activity_name": "Malecon Sunset Walk",
       "category": "Relaxation",
       "duration_minutes": 90,
       "scores": {
@@ -31,135 +48,121 @@
         "balanced": 4
       },
       "packing_tags": [
-        "camera",
+        "comfortable_shoes",
         "light_jacket"
       ]
     },
     {
-      "activity_name": "Classic Car City Tour",
-      "category": "Sightseeing",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 3,
-        "relaxed": 5,
-        "adventure": 2,
-        "family": 5,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "camera",
-        "sunglasses"
-      ]
-    },
-    {
-      "activity_name": "El Capitolio",
-      "category": "Sightseeing",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 4,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "camera"
-      ]
-    },
-    {
-      "activity_name": "Tropicana Club Cabaret Show",
-      "category": "Culture",
-      "duration_minutes": 150,
-      "scores": {
-        "budget": 1,
-        "relaxed": 3,
-        "adventure": 2,
-        "family": 1,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "smart_casual_outfit",
-        "cash"
-      ]
-    },
-    {
-      "activity_name": "Fusterlandia Art Neighborhood",
-      "category": "Culture",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 4,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "camera"
-      ]
-    },
-    {
-      "activity_name": "Morro Castle Visit",
-      "category": "Sightseeing",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 4,
-        "relaxed": 4,
-        "adventure": 2,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable_shoes",
-        "camera"
-      ]
-    },
-    {
-      "activity_name": "Fabrica de Arte Cubano (FAC)",
+      "activity_name": "Fabrica de Arte Cubano",
       "category": "Culture",
       "duration_minutes": 180,
       "scores": {
         "budget": 3,
         "relaxed": 3,
         "adventure": 2,
-        "family": 1,
+        "family": 2,
         "balanced": 4
       },
       "packing_tags": [
-        "casual_wear",
+        "casual_chic",
         "cash"
       ]
     },
     {
-      "activity_name": "Museum of the Revolution",
+      "activity_name": "Tropicana Cabaret Show",
       "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 1,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "evening_wear",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Finca Vigia Hemingway Museum",
+      "category": "Sightseeing",
       "duration_minutes": 120,
       "scores": {
-        "budget": 4,
-        "relaxed": 3,
+        "budget": 3,
+        "relaxed": 4,
         "adventure": 1,
         "family": 3,
         "balanced": 4
       },
       "packing_tags": [
+        "camera",
         "comfortable_shoes"
       ]
     },
     {
-      "activity_name": "Vinales Valley Day Trip (Cigars & Farms)",
+      "activity_name": "Plaza de la Revolucion",
       "category": "Sightseeing",
-      "duration_minutes": 600,
+      "duration_minutes": 45,
       "scores": {
-        "budget": 2,
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "sun_hat",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Morro Castle Exploration",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
         "relaxed": 3,
-        "adventure": 4,
+        "adventure": 2,
         "family": 4,
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable_shoes",
-        "sunscreen",
-        "camera",
+        "walking_shoes",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Paladar Culinary Experience",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
         "cash"
+      ]
+    },
+    {
+      "activity_name": "Almacenes San Jose Artisans Market",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag",
+        "haggling_skills"
       ]
     }
   ]

@@ -1,0 +1,171 @@
+{
+  "city_name": "Jeju Island",
+  "country": "South Korea",
+  "activities": [
+    {
+      "activity_name": "Hallasan Mountain Hike",
+      "category": "Adventure",
+      "duration_minutes": 480,
+      "scores": {
+        "budget": 4,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 2,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_boots",
+        "water_bottle",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Seongsan Ilchulbong",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera",
+        "windbreaker"
+      ]
+    },
+    {
+      "activity_name": "Manjanggul Cave",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "light_jacket",
+        "comfortable_shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Jeongbang Waterfall",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Jeju Loveland",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 1,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "camera",
+        "open_mind"
+      ]
+    },
+    {
+      "activity_name": "Dongmun Traditional Market",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag",
+        "appetite"
+      ]
+    },
+    {
+      "activity_name": "O'sulloc Tea Museum",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sweet_tooth"
+      ]
+    },
+    {
+      "activity_name": "Seopjikoji Coastal Walk",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "windbreaker",
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Teddy Bear Museum",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Black Pork BBQ Dinner",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "casual_wear"
+      ]
+    }
+  ]
+}

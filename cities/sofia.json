@@ -1,0 +1,171 @@
+{
+  "city_name": "Sofia",
+  "country": "Bulgaria",
+  "activities": [
+    {
+      "activity_name": "Alexander Nevsky Cathedral",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "modest_clothing"
+      ]
+    },
+    {
+      "activity_name": "Vitosha Boulevard Walk",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "credit_card",
+        "comfortable_shoes",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Boyana Church Visit",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Vitosha Mountain Hike",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_boots",
+        "water_bottle",
+        "windbreaker"
+      ]
+    },
+    {
+      "activity_name": "National Palace of Culture",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Borisova Gradina Park",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "picnic_blanket",
+        "camera",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Traditional Banitsa Breakfast",
+      "category": "Food",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "National Historical Museum",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "light_sweater"
+      ]
+    },
+    {
+      "activity_name": "Central Market Hall",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Sofia Free Walking Tour",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "water_bottle",
+        "sun_hat"
+      ]
+    }
+  ]
+}

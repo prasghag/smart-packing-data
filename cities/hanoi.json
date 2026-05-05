@@ -2,15 +2,168 @@
   "city_name": "Hanoi",
   "country": "Vietnam",
   "activities": [
-    { "activity_name": "Old Quarter Walking Tour", "category": "Culture", "duration_minutes": 180, "scores": { "budget": 5, "relaxed": 2, "adventure": 3, "family": 3, "balanced": 4 }, "packing_tags": ["comfortable_shoes", "camera", "day_bag"] },
-    { "activity_name": "Hoan Kiem Lake Stroll", "category": "Relaxation", "duration_minutes": 60, "scores": { "budget": 5, "relaxed": 5, "adventure": 1, "family": 5, "balanced": 4 }, "packing_tags": ["sunglasses"] },
-    { "activity_name": "Pho & Egg Coffee Tasting", "category": "Food", "duration_minutes": 90, "scores": { "budget": 5, "relaxed": 4, "adventure": 2, "family": 4, "balanced": 5 }, "packing_tags": ["cash", "hand_sanitizer"] },
-    { "activity_name": "Thang Long Water Puppet Theatre", "category": "Culture", "duration_minutes": 60, "scores": { "budget": 4, "relaxed": 5, "adventure": 1, "family": 5, "balanced": 4 }, "packing_tags": ["camera"] },
-    { "activity_name": "Temple of Literature", "category": "Sightseeing", "duration_minutes": 90, "scores": { "budget": 4, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["modest_clothing", "camera"] },
-    { "activity_name": "Ho Chi Minh Mausoleum", "category": "Sightseeing", "duration_minutes": 120, "scores": { "budget": 5, "relaxed": 2, "adventure": 1, "family": 3, "balanced": 4 }, "packing_tags": ["modest_clothing", "passport"] },
-    { "activity_name": "Dong Xuan Market Shopping", "category": "Shopping", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 2, "adventure": 2, "family": 3, "balanced": 3 }, "packing_tags": ["cash", "tote_bag", "comfortable_shoes"] },
-    { "activity_name": "Halong Bay Day Cruise", "category": "Sightseeing", "duration_minutes": 720, "scores": { "budget": 2, "relaxed": 4, "adventure": 3, "family": 5, "balanced": 5 }, "packing_tags": ["swimwear", "sunscreen", "sunglasses", "camera"] },
-    { "activity_name": "Train Street Cafe Experience", "category": "Adventure", "duration_minutes": 90, "scores": { "budget": 4, "relaxed": 3, "adventure": 4, "family": 2, "balanced": 3 }, "packing_tags": ["camera"] },
-    { "activity_name": "Hoa Lo Prison Museum", "category": "Culture", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 3, "adventure": 1, "family": 2, "balanced": 3 }, "packing_tags": ["tissues"] }
+    {
+      "activity_name": "Hoan Kiem Lake Stroll",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Old Quarter Cyclo Tour",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "cash",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Thang Long Water Puppet Theatre",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "tickets",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Ho Chi Minh Mausoleum",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Temple of Literature",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Old Quarter Street Food Safari",
+      "category": "Food",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "appetite",
+        "hand_sanitizer",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Dong Xuan Market",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag"
+      ]
+    },
+    {
+      "activity_name": "Hanoi Train Street Cafe",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Hoa Lo Prison Relic",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "West Lake Cycling",
+      "category": "Adventure",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "sportswear",
+        "sunglasses",
+        "water_bottle"
+      ]
+    }
   ]
 }

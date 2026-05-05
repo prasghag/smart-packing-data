@@ -1,0 +1,172 @@
+{
+  "city_name": "Cardiff",
+  "country": "United Kingdom",
+  "activities": [
+    {
+      "activity_name": "Cardiff Castle Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera",
+        "umbrella"
+      ]
+    },
+    {
+      "activity_name": "Bute Park Stroll",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "picnic_blanket",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Cardiff Bay Boat Tour",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "windbreaker",
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Principality Stadium",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "St Fagans National Museum",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "National Museum Cardiff",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "light_sweater"
+      ]
+    },
+    {
+      "activity_name": "Cardiff Central Market",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag",
+        "appetite"
+      ]
+    },
+    {
+      "activity_name": "Spillers Records Browsing",
+      "category": "Shopping",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "credit_card",
+        "tote_bag"
+      ]
+    },
+    {
+      "activity_name": "Llandaff Cathedral",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Roath Park Boating",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "casual_wear",
+        "camera",
+        "sunglasses"
+      ]
+    }
+  ]
+}

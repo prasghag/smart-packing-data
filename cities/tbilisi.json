@@ -1,0 +1,173 @@
+{
+  "city_name": "Tbilisi",
+  "country": "Georgia",
+  "activities": [
+    {
+      "activity_name": "Narikala Fortress Cable Car",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "windbreaker",
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Abanotubani Sulfur Baths",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "flip_flops",
+        "change_of_clothes"
+      ]
+    },
+    {
+      "activity_name": "Holy Trinity Cathedral",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "headscarf",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Bridge of Peace Walk",
+      "category": "Sightseeing",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Old Town Walking Tour",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "water_bottle",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Mtatsminda Amusement Park",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "light_jacket",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Dry Bridge Flea Market",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag",
+        "haggling_skills"
+      ]
+    },
+    {
+      "activity_name": "Khachapuri Baking Class",
+      "category": "Food",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Georgian Wine Tasting",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "smart_casual",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Tbilisi Botanical Garden",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "water_bottle",
+        "sunglasses"
+      ]
+    }
+  ]
+}

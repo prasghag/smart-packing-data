@@ -1,0 +1,170 @@
+{
+  "city_name": "Boston",
+  "country": "United States",
+  "activities": [
+    {
+      "activity_name": "Freedom Trail Walking Tour",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "water_bottle",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Fenway Park Guided Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sports_jersey",
+        "camera",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Boston Common Relaxation",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "picnic_blanket",
+        "frisbee",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Faneuil Hall Marketplace",
+      "category": "Shopping",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "credit_card"
+      ]
+    },
+    {
+      "activity_name": "Quincy Market Food Tasting",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "hand_sanitizer"
+      ]
+    },
+    {
+      "activity_name": "Museum of Fine Arts",
+      "category": "Culture",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "light_sweater"
+      ]
+    },
+    {
+      "activity_name": "Harvard University Campus Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "New England Aquarium",
+      "category": "Sightseeing",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Boston Tea Party Ships",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Charles River Kayaking",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "swimwear",
+        "sunscreen",
+        "water_bottle"
+      ]
+    }
+  ]
+}

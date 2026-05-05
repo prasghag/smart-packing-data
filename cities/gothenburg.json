@@ -1,0 +1,171 @@
+{
+  "city_name": "Gothenburg",
+  "country": "Sweden",
+  "activities": [
+    {
+      "activity_name": "Liseberg Amusement Park",
+      "category": "Adventure",
+      "duration_minutes": 300,
+      "scores": {
+        "budget": 2,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "light_jacket",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Gothenburg Botanical Garden",
+      "category": "Relaxation",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Universeum Science Centre",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Haga District Browsing",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "tote_bag",
+        "credit_card"
+      ]
+    },
+    {
+      "activity_name": "Feskekorka Seafood Market",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Gothenburg Museum of Art",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "light_sweater"
+      ]
+    },
+    {
+      "activity_name": "Southern Archipelago Boat Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "windbreaker",
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Slottsskogen Park Walk",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "picnic_blanket"
+      ]
+    },
+    {
+      "activity_name": "Volvo Museum",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Nordstan Shopping Centre",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "credit_card",
+        "comfortable_shoes",
+        "tote_bag"
+      ]
+    }
+  ]
+}

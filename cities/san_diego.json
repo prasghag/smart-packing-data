@@ -1,0 +1,173 @@
+{
+  "city_name": "San Diego",
+  "country": "United States",
+  "activities": [
+    {
+      "activity_name": "San Diego Zoo",
+      "category": "Sightseeing",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "sunscreen",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Balboa Park",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "walking_shoes",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "USS Midway Museum",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Coronado Beach",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "swimwear",
+        "sunscreen",
+        "beach_towel"
+      ]
+    },
+    {
+      "activity_name": "La Jolla Cove Snorkeling",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "snorkel_gear",
+        "towel"
+      ]
+    },
+    {
+      "activity_name": "Gaslamp Quarter Walk",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Old Town State Historic Park",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "sun_hat",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Seaport Village",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "tote_bag",
+        "credit_card",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Torrey Pines State Reserve",
+      "category": "Adventure",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_shoes",
+        "water_bottle",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Authentic Fish Tacos Lunch",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "casual_wear"
+      ]
+    }
+  ]
+}

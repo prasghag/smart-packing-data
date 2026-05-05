@@ -1,81 +1,29 @@
 {
-  "city_name": "Santiago",
-  "country": "Chile",
+  "city_name": "Bordeaux",
+  "country": "France",
   "activities": [
     {
-      "activity_name": "Cerro San Cristobal Funicular",
-      "category": "Sightseeing",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 4,
-        "relaxed": 4,
-        "adventure": 2,
-        "family": 5,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "camera",
-        "comfortable_shoes",
-        "sunglasses"
-      ]
-    },
-    {
-      "activity_name": "Plaza de Armas Walk",
+      "activity_name": "La Cite du Vin",
       "category": "Culture",
-      "duration_minutes": 60,
+      "duration_minutes": 150,
       "scores": {
-        "budget": 5,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 5,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "camera",
-        "sun_hat",
-        "water_bottle"
-      ]
-    },
-    {
-      "activity_name": "La Moneda Palace Viewing",
-      "category": "Sightseeing",
-      "duration_minutes": 60,
-      "scores": {
-        "budget": 5,
+        "budget": 3,
         "relaxed": 4,
         "adventure": 1,
         "family": 4,
-        "balanced": 3
+        "balanced": 4
       },
       "packing_tags": [
         "comfortable_shoes",
-        "id_card",
         "camera"
       ]
     },
     {
-      "activity_name": "Mercado Central Seafood",
-      "category": "Food",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 3,
-        "relaxed": 3,
-        "adventure": 2,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "appetite",
-        "cash",
-        "hand_sanitizer"
-      ]
-    },
-    {
-      "activity_name": "Sky Costanera Observatory",
+      "activity_name": "Place de la Bourse and Water Mirror",
       "category": "Sightseeing",
       "duration_minutes": 60,
       "scores": {
-        "budget": 3,
+        "budget": 5,
         "relaxed": 5,
         "adventure": 1,
         "family": 5,
@@ -83,33 +31,17 @@
       },
       "packing_tags": [
         "camera",
-        "sunglasses"
+        "sunglasses",
+        "towel"
       ]
     },
     {
-      "activity_name": "Barrio Bellavista Art Tour",
-      "category": "Culture",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 5,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "camera",
-        "walking_shoes",
-        "casual_wear"
-      ]
-    },
-    {
-      "activity_name": "Maipo Valley Wine Tasting",
+      "activity_name": "Saint-Emilion Wine Tour",
       "category": "Food",
-      "duration_minutes": 240,
+      "duration_minutes": 300,
       "scores": {
         "budget": 2,
-        "relaxed": 5,
+        "relaxed": 4,
         "adventure": 1,
         "family": 2,
         "balanced": 4
@@ -117,45 +49,111 @@
       "packing_tags": [
         "smart_casual",
         "camera",
-        "sun_glasses"
-      ]
-    },
-    {
-      "activity_name": "Andes Mountains Trek",
-      "category": "Adventure",
-      "duration_minutes": 300,
-      "scores": {
-        "budget": 3,
-        "relaxed": 1,
-        "adventure": 5,
-        "family": 3,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "hiking_boots",
-        "warm_layers",
         "water_bottle"
       ]
     },
     {
-      "activity_name": "Pueblito Los Dominicos",
+      "activity_name": "Rue Sainte-Catherine Shopping",
       "category": "Shopping",
-      "duration_minutes": 120,
+      "duration_minutes": 180,
       "scores": {
-        "budget": 4,
-        "relaxed": 4,
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "credit_card",
+        "tote_bag",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Garonne River Cruise",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
         "adventure": 1,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "cash",
-        "tote_bag",
+        "sunglasses",
+        "windbreaker",
         "camera"
       ]
     },
     {
-      "activity_name": "Parque Bicentenario Picnic",
+      "activity_name": "Grand Theatre de Bordeaux",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "smart_casual"
+      ]
+    },
+    {
+      "activity_name": "Bordeaux Cathedral Visit",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "modest_clothing"
+      ]
+    },
+    {
+      "activity_name": "Dune du Pilat Excursion",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sun_hat",
+        "sunscreen",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Marche des Capucins",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag",
+        "appetite"
+      ]
+    },
+    {
+      "activity_name": "Jardin Public Stroll",
       "category": "Relaxation",
       "duration_minutes": 90,
       "scores": {
@@ -167,8 +165,8 @@
       },
       "packing_tags": [
         "picnic_blanket",
-        "comfortable_shoes",
-        "sunglasses"
+        "camera",
+        "comfortable_shoes"
       ]
     }
   ]

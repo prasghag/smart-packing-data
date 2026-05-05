@@ -1,0 +1,170 @@
+{
+  "city_name": "Marrakech",
+  "country": "Morocco",
+  "activities": [
+    {
+      "activity_name": "Jemaa el-Fnaa Square",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "camera",
+        "secure_bag"
+      ]
+    },
+    {
+      "activity_name": "Jardin Majorelle",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sun_hat",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Bahia Palace Architecture",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Koutoubia Mosque Gardens",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Medina Souks Haggling",
+      "category": "Shopping",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 3,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Luxury Hammam Spa",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "change_of_clothes"
+      ]
+    },
+    {
+      "activity_name": "Moroccan Tagine Cooking Class",
+      "category": "Food",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "appetite",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Saadian Tombs",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Palmeraie Camel Trek",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sun_hat",
+        "sunglasses",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Ben Youssef Madrasa",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "modest_clothing"
+      ]
+    }
+  ]
+}

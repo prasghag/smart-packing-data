@@ -1,0 +1,168 @@
+{
+  "city_name": "Sapporo",
+  "country": "Japan",
+  "activities": [
+    {
+      "activity_name": "Odori Park",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Sapporo Beer Museum",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "id_card",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Mount Moiwa Ropeway",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "warm_jacket"
+      ]
+    },
+    {
+      "activity_name": "Hokkaido Shrine",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "respectful_attire"
+      ]
+    },
+    {
+      "activity_name": "Nijo Market Seafood",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Shiroi Koibito Park",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sweet_tooth"
+      ]
+    },
+    {
+      "activity_name": "Tanukikoji Shopping Street",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Susukino Nightlife",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "cash",
+        "casual_chic"
+      ]
+    },
+    {
+      "activity_name": "Okurayama Ski Jump Stadium",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "warm_clothing"
+      ]
+    },
+    {
+      "activity_name": "Moerenuma Park",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "camera",
+        "sun_hat"
+      ]
+    }
+  ]
+}

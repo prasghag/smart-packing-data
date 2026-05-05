@@ -1,11 +1,11 @@
 {
-  "city_name": "Helsinki",
-  "country": "Finland",
+  "city_name": "Nuremberg",
+  "country": "Germany",
   "activities": [
     {
-      "activity_name": "Suomenlinna Sea Fortress",
+      "activity_name": "Nuremberg Castle",
       "category": "Sightseeing",
-      "duration_minutes": 180,
+      "duration_minutes": 150,
       "scores": {
         "budget": 4,
         "relaxed": 3,
@@ -15,14 +15,80 @@
       },
       "packing_tags": [
         "walking_shoes",
-        "windbreaker",
+        "camera",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Documentation Center Nazi Party Rally Grounds",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "light_jacket",
         "camera"
       ]
     },
     {
-      "activity_name": "Temppeliaukio Rock Church",
-      "category": "Culture",
+      "activity_name": "Hauptmarkt Square",
+      "category": "Shopping",
       "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Toy Museum",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Nuremberg Bratwurst Tasting",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "St. Lorenz Church",
+      "category": "Sightseeing",
+      "duration_minutes": 45,
       "scores": {
         "budget": 5,
         "relaxed": 4,
@@ -32,30 +98,63 @@
       },
       "packing_tags": [
         "camera",
-        "quiet_shoes"
+        "modest_clothing"
       ]
     },
     {
-      "activity_name": "Loyly Public Sauna Experience",
-      "category": "Relaxation",
-      "duration_minutes": 120,
+      "activity_name": "Albrecht Durer's House",
+      "category": "Culture",
+      "duration_minutes": 90,
       "scores": {
-        "budget": 3,
-        "relaxed": 5,
-        "adventure": 2,
-        "family": 2,
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
         "balanced": 4
       },
       "packing_tags": [
-        "swimwear",
-        "flip_flops",
-        "towel"
+        "comfortable_shoes",
+        "camera"
       ]
     },
     {
-      "activity_name": "Market Square Kauppatori",
-      "category": "Shopping",
+      "activity_name": "Pegnitz River Walk",
+      "category": "Relaxation",
       "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "sunglasses",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Historische Felsengange Tour",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "warm_jacket",
+        "comfortable_shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Handwerkerhof Nuremberg",
+      "category": "Shopping",
+      "duration_minutes": 60,
       "scores": {
         "budget": 4,
         "relaxed": 4,
@@ -66,105 +165,7 @@
       "packing_tags": [
         "cash",
         "tote_bag",
-        "warm_jacket"
-      ]
-    },
-    {
-      "activity_name": "Old Market Hall Tasting",
-      "category": "Food",
-      "duration_minutes": 60,
-      "scores": {
-        "budget": 3,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "appetite",
-        "credit_card"
-      ]
-    },
-    {
-      "activity_name": "Helsinki Cathedral Visit",
-      "category": "Sightseeing",
-      "duration_minutes": 45,
-      "scores": {
-        "budget": 5,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 5,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "camera",
-        "comfortable_shoes"
-      ]
-    },
-    {
-      "activity_name": "Kiasma Contemporary Art",
-      "category": "Culture",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 3,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 3,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable_shoes",
-        "light_sweater"
-      ]
-    },
-    {
-      "activity_name": "Esplanadi Park Walk",
-      "category": "Relaxation",
-      "duration_minutes": 60,
-      "scores": {
-        "budget": 5,
-        "relaxed": 5,
-        "adventure": 1,
-        "family": 5,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "sunglasses",
         "camera"
-      ]
-    },
-    {
-      "activity_name": "Nuuksio National Park Hike",
-      "category": "Adventure",
-      "duration_minutes": 240,
-      "scores": {
-        "budget": 4,
-        "relaxed": 2,
-        "adventure": 4,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "hiking_boots",
-        "water_bottle",
-        "day_pack"
-      ]
-    },
-    {
-      "activity_name": "Design District Browsing",
-      "category": "Shopping",
-      "duration_minutes": 150,
-      "scores": {
-        "budget": 2,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 3,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable_shoes",
-        "credit_card",
-        "tote_bag"
       ]
     }
   ]

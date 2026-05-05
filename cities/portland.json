@@ -1,0 +1,171 @@
+{
+  "city_name": "Portland",
+  "country": "United States",
+  "activities": [
+    {
+      "activity_name": "Powell's City of Books",
+      "category": "Shopping",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "tote_bag",
+        "comfortable_shoes",
+        "reading_glasses"
+      ]
+    },
+    {
+      "activity_name": "Washington Park Exploration",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "water_bottle",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "International Rose Test Garden",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Portland Japanese Garden",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "quiet_shoes"
+      ]
+    },
+    {
+      "activity_name": "Food Cart Pods Tasting",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "cash",
+        "napkins"
+      ]
+    },
+    {
+      "activity_name": "Pittock Mansion Views",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Forest Park Hike",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_boots",
+        "water_bottle",
+        "bug_spray"
+      ]
+    },
+    {
+      "activity_name": "Voodoo Doughnut Run",
+      "category": "Food",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sweet_tooth",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Columbia River Gorge Tour",
+      "category": "Adventure",
+      "duration_minutes": 300,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "camera",
+        "hiking_shoes",
+        "rain_jacket"
+      ]
+    },
+    {
+      "activity_name": "Pioneer Courthouse Square",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses"
+      ]
+    }
+  ]
+}

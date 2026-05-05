@@ -1,0 +1,172 @@
+{
+  "city_name": "Antigua",
+  "country": "Guatemala",
+  "activities": [
+    {
+      "activity_name": "Santa Catalina Arch Photos",
+      "category": "Sightseeing",
+      "duration_minutes": 30,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Pacaya Volcano Hike",
+      "category": "Adventure",
+      "duration_minutes": 360,
+      "scores": {
+        "budget": 3,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_boots",
+        "marshmallows",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Cerro de la Cruz Viewpoint",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "ChocoMuseo Workshop",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sweet_tooth",
+        "camera",
+        "casual_wear"
+      ]
+    },
+    {
+      "activity_name": "Antigua Central Park",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunglasses",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Casa Santo Domingo Ruins",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "smart_casual"
+      ]
+    },
+    {
+      "activity_name": "Mercado de Artesanias",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Iglesia de La Merced",
+      "category": "Culture",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "modest_clothing"
+      ]
+    },
+    {
+      "activity_name": "Coffee Finca Tour",
+      "category": "Food",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "bug_spray",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Acatenango Overnight Trek",
+      "category": "Adventure",
+      "duration_minutes": 1440,
+      "scores": {
+        "budget": 2,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 1,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "warm_layers",
+        "hiking_boots",
+        "headlamp"
+      ]
+    }
+  ]
+}

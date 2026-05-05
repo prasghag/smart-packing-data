@@ -1,0 +1,173 @@
+{
+  "city_name": "Antalya",
+  "country": "Turkey",
+  "activities": [
+    {
+      "activity_name": "Kaleici Old Town",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Hadrian's Gate",
+      "category": "Sightseeing",
+      "duration_minutes": 30,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Duden Waterfalls",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sunscreen",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Antalya Museum",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "light_sweater"
+      ]
+    },
+    {
+      "activity_name": "Konyaalti Beach",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "beach_towel",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Lycian Way Trekking",
+      "category": "Adventure",
+      "duration_minutes": 300,
+      "scores": {
+        "budget": 4,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "hiking_boots",
+        "water_bottle",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Koprulu Canyon Rafting",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "towel",
+        "water_shoes"
+      ]
+    },
+    {
+      "activity_name": "Old Bazaar Shopping",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "haggling_skills",
+        "tote_bag"
+      ]
+    },
+    {
+      "activity_name": "Traditional Turkish Breakfast",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Lara Beach Lounging",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "sunglasses",
+        "sunscreen"
+      ]
+    }
+  ]
+}

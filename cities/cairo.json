@@ -1,0 +1,174 @@
+{
+  "city_name": "Cairo",
+  "country": "Egypt",
+  "activities": [
+    {
+      "activity_name": "Pyramids of Giza Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sun_hat",
+        "comfortable_shoes",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Great Sphinx Visit",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Egyptian Antiquities Museum",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "camera",
+        "light_sweater"
+      ]
+    },
+    {
+      "activity_name": "Khan el-Khalili Bazaar",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "cash",
+        "comfortable_shoes",
+        "secure_bag"
+      ]
+    },
+    {
+      "activity_name": "Nile River Felucca Ride",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "light_jacket",
+        "sunglasses",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Al-Azhar Mosque",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "slip_on_shoes"
+      ]
+    },
+    {
+      "activity_name": "Cairo Tower Observation",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "binoculars"
+      ]
+    },
+    {
+      "activity_name": "Authentic Koshary Tasting",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "cash",
+        "casual_wear"
+      ]
+    },
+    {
+      "activity_name": "Giza Desert Quad Biking",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "sunglasses",
+        "closed_toe_shoes",
+        "scarf"
+      ]
+    },
+    {
+      "activity_name": "Coptic Cairo Exploration",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera",
+        "water_bottle"
+      ]
+    }
+  ]
+}

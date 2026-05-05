@@ -1,0 +1,172 @@
+{
+  "city_name": "Almaty",
+  "country": "Kazakhstan",
+  "activities": [
+    {
+      "activity_name": "Medeu Skating Rink",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "warm_clothing",
+        "gloves",
+        "thick_socks"
+      ]
+    },
+    {
+      "activity_name": "Shymbulak Ski Resort",
+      "category": "Adventure",
+      "duration_minutes": 300,
+      "scores": {
+        "budget": 2,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "ski_gear",
+        "sunglasses",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Zenkov Cathedral",
+      "category": "Culture",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "modest_clothing"
+      ]
+    },
+    {
+      "activity_name": "Green Bazaar",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Kok Tobe Hill Cable Car",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses",
+        "light_jacket"
+      ]
+    },
+    {
+      "activity_name": "Big Almaty Lake Trip",
+      "category": "Sightseeing",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "warm_jacket",
+        "hiking_shoes"
+      ]
+    },
+    {
+      "activity_name": "First President's Park",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera",
+        "picnic_blanket"
+      ]
+    },
+    {
+      "activity_name": "Kazakh National Museum",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "light_sweater"
+      ]
+    },
+    {
+      "activity_name": "Panfilov Park Walk",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Traditional Beshbarmak Meal",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "casual_wear"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "city_name": "Belfast",
+  "country": "United Kingdom",
+  "activities": [
+    {
+      "activity_name": "Titanic Belfast Experience",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Giant's Causeway Day Trip",
+      "category": "Adventure",
+      "duration_minutes": 480,
+      "scores": {
+        "budget": 2,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_boots",
+        "windbreaker",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Crumlin Road Gaol Tour",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "light_jacket"
+      ]
+    },
+    {
+      "activity_name": "St George's Market",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag",
+        "appetite"
+      ]
+    },
+    {
+      "activity_name": "Botanic Gardens Stroll",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Peace Wall Black Taxi Tour",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Ulster Museum",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "light_sweater"
+      ]
+    },
+    {
+      "activity_name": "Belfast Castle Views",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Cave Hill Hike",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_boots",
+        "water_bottle",
+        "windbreaker"
+      ]
+    },
+    {
+      "activity_name": "Cathedral Quarter Pubs",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "smart_casual",
+        "id_card",
+        "cash"
+      ]
+    }
+  ]
+}

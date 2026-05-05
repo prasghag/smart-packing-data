@@ -1,0 +1,172 @@
+{
+  "city_name": "Kotor",
+  "country": "Montenegro",
+  "activities": [
+    {
+      "activity_name": "Kotor Old Town Walk",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "San Giovanni Fortress Climb",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_boots",
+        "water_bottle",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Bay of Kotor Boat Tour",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "windbreaker",
+        "sunglasses",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Cathedral of Saint Tryphon",
+      "category": "Culture",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "modest_clothing"
+      ]
+    },
+    {
+      "activity_name": "Perast Day Trip",
+      "category": "Sightseeing",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Maritime Museum",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Kampana Tower Views",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Seafood Dinner by the Water",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "smart_casual",
+        "credit_card"
+      ]
+    },
+    {
+      "activity_name": "Kotor Cats Museum",
+      "category": "Culture",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Farmers Market",
+      "category": "Shopping",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag",
+        "appetite"
+      ]
+    }
+  ]
+}

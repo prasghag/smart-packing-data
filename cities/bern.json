@@ -1,0 +1,171 @@
+{
+  "city_name": "Bern",
+  "country": "Switzerland",
+  "activities": [
+    {
+      "activity_name": "Zytglogge Clock Tower",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Bear Park",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Bern Minster",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "walking_shoes",
+        "modest_clothing"
+      ]
+    },
+    {
+      "activity_name": "Rosengarten Panoramic Views",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "picnic_blanket",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Kramgasse Shopping",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "credit_card",
+        "tote_bag",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Einstein House",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Aare River Urban Swimming",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "towel",
+        "waterproof_bag"
+      ]
+    },
+    {
+      "activity_name": "Federal Palace Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "id_card",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Emmental Cheese Tour",
+      "category": "Food",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "camera",
+        "casual_wear"
+      ]
+    },
+    {
+      "activity_name": "Zentrum Paul Klee",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "light_sweater"
+      ]
+    }
+  ]
+}

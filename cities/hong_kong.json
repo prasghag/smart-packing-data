@@ -1,0 +1,173 @@
+{
+  "city_name": "Hong Kong",
+  "country": "China",
+  "activities": [
+    {
+      "activity_name": "Victoria Peak Tram",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes",
+        "light_jacket"
+      ]
+    },
+    {
+      "activity_name": "Star Ferry Ride",
+      "category": "Relaxation",
+      "duration_minutes": 30,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Temple Street Night Market",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Lantau Island Big Buddha",
+      "category": "Culture",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "sun_hat",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Authentic Dim Sum Tasting",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Dragon's Back Hike",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_shoes",
+        "water_bottle",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Hong Kong Disneyland",
+      "category": "Adventure",
+      "duration_minutes": 480,
+      "scores": {
+        "budget": 1,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "sun_hat",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Tsim Sha Tsui Promenade",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Lan Kwai Fong Nightlife",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 2,
+        "adventure": 3,
+        "family": 1,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "casual_chic",
+        "id_card",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Nan Lian Garden",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes",
+        "sun_hat"
+      ]
+    }
+  ]
+}

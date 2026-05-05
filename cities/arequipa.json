@@ -1,0 +1,171 @@
+{
+  "city_name": "Arequipa",
+  "country": "Peru",
+  "activities": [
+    {
+      "activity_name": "Santa Catalina Monastery",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "walking_shoes",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Plaza de Armas",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Colca Canyon Trek",
+      "category": "Adventure",
+      "duration_minutes": 1440,
+      "scores": {
+        "budget": 2,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "hiking_boots",
+        "warm_layers",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Misti Volcano Hike",
+      "category": "Adventure",
+      "duration_minutes": 1440,
+      "scores": {
+        "budget": 2,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 1,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "hiking_gear",
+        "headlamp",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Yanahuara Viewpoint",
+      "category": "Sightseeing",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "San Camilo Market",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Museo Santuarios Andinos",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "light_sweater"
+      ]
+    },
+    {
+      "activity_name": "Traditional Rocoto Relleno",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Mundo Alpaca",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Chili River Rafting",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "towel",
+        "sunscreen"
+      ]
+    }
+  ]
+}

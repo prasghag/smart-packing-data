@@ -2,15 +2,170 @@
   "city_name": "Ho Chi Minh City",
   "country": "Vietnam",
   "activities": [
-    { "activity_name": "War Remnants Museum", "category": "Culture", "duration_minutes": 150, "scores": { "budget": 4, "relaxed": 2, "adventure": 1, "family": 1, "balanced": 4 }, "packing_tags": ["comfortable_shoes", "tissues"] },
-    { "activity_name": "Cu Chi Tunnels Tour", "category": "Adventure", "duration_minutes": 300, "scores": { "budget": 3, "relaxed": 1, "adventure": 5, "family": 3, "balanced": 4 }, "packing_tags": ["comfortable_shoes", "mosquito_repellent", "water_bottle"] },
-    { "activity_name": "Ben Thanh Market", "category": "Shopping", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 3, "adventure": 2, "family": 4, "balanced": 3 }, "packing_tags": ["cash", "tote_bag"] },
-    { "activity_name": "Saigon Central Post Office & Notre Dame", "category": "Sightseeing", "duration_minutes": 60, "scores": { "budget": 5, "relaxed": 5, "adventure": 1, "family": 5, "balanced": 4 }, "packing_tags": ["camera"] },
-    { "activity_name": "Street Food Tour on Scooters", "category": "Food", "duration_minutes": 240, "scores": { "budget": 3, "relaxed": 2, "adventure": 4, "family": 2, "balanced": 4 }, "packing_tags": ["closed_toe_shoes", "light_jacket"] },
-    { "activity_name": "Bitexco Financial Tower Skydeck", "category": "Sightseeing", "duration_minutes": 90, "scores": { "budget": 3, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 4 }, "packing_tags": ["camera"] },
-    { "activity_name": "Mekong Delta Boat Trip", "category": "Relaxation", "duration_minutes": 540, "scores": { "budget": 3, "relaxed": 4, "adventure": 3, "family": 5, "balanced": 5 }, "packing_tags": ["hat", "sunscreen", "mosquito_repellent"] },
-    { "activity_name": "Bui Vien Walking Street", "category": "Food", "duration_minutes": 180, "scores": { "budget": 3, "relaxed": 2, "adventure": 3, "family": 1, "balanced": 3 }, "packing_tags": ["casual_wear", "cash"] },
-    { "activity_name": "Golden Dragon Water Puppet Theatre", "category": "Culture", "duration_minutes": 60, "scores": { "budget": 3, "relaxed": 5, "adventure": 1, "family": 5, "balanced": 4 }, "packing_tags": ["camera"] },
-    { "activity_name": "Jade Emperor Pagoda", "category": "Culture", "duration_minutes": 60, "scores": { "budget": 5, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 3 }, "packing_tags": ["modest_clothing"] }
+    {
+      "activity_name": "War Remnants Museum",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "water_bottle",
+        "tissues"
+      ]
+    },
+    {
+      "activity_name": "Cu Chi Tunnels Exploration",
+      "category": "Adventure",
+      "duration_minutes": 300,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_clothing",
+        "bug_spray",
+        "sneakers"
+      ]
+    },
+    {
+      "activity_name": "Ben Thanh Market Haggling",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Notre Dame Cathedral",
+      "category": "Sightseeing",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Saigon Central Post Office",
+      "category": "Sightseeing",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "camera",
+        "postcards"
+      ]
+    },
+    {
+      "activity_name": "Bitexco Financial Tower Skydeck",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Mekong Delta Boat Trip",
+      "category": "Adventure",
+      "duration_minutes": 480,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "sunscreen",
+        "sun_hat",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Authentic Pho Dining",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Independence Palace",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Bui Vien Walking Street",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 3,
+        "family": 1,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "casual_wear",
+        "cash",
+        "secure_bag"
+      ]
+    }
   ]
 }
