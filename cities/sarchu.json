@@ -1,0 +1,175 @@
+{
+  "city_name": "Sarchu",
+  "country": "India",
+  "activities": [
+    {
+      "activity_name": "Tsarap Chu River Walk",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "windbreaker",
+        "camera",
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Baralacha La Pass Ride",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "riding_gear",
+        "warm_layers",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Gata Loops Drive",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "motion_sickness_pills",
+        "camera",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Nakula Pass Viewpoint",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "warm_jacket",
+        "binoculars"
+      ]
+    },
+    {
+      "activity_name": "High Altitude Camping",
+      "category": "Relaxation",
+      "duration_minutes": 720,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 4,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "extreme_cold_gear",
+        "power_bank",
+        "flashlight"
+      ]
+    },
+    {
+      "activity_name": "Star Gazing in Sarchu",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "warm_layers",
+        "tripod",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Wildlife Spotting (Blue Sheep)",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "binoculars",
+        "camera",
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Landscape Photography",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "tripod",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Dhaba Maggi Tasting",
+      "category": "Food",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Lachulung La Pass Drive",
+      "category": "Adventure",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "warm_jacket",
+        "camera",
+        "water_bottle"
+      ]
+    }
+  ]
+}

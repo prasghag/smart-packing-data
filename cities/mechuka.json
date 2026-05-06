@@ -1,0 +1,173 @@
+{
+  "city_name": "Mechuka",
+  "country": "India",
+  "activities": [
+    {
+      "activity_name": "Samten Yongcha Monastery",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "modest_clothing",
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Siyom River Hanging Bridge",
+      "category": "Adventure",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "courage",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Yarlung Camp Drive",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "id_card",
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Mechuka Valley Trek",
+      "category": "Adventure",
+      "duration_minutes": 360,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 2,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_boots",
+        "water_bottle",
+        "rain_jacket"
+      ]
+    },
+    {
+      "activity_name": "Hanuman Face Mountain Viewing",
+      "category": "Sightseeing",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "binoculars"
+      ]
+    },
+    {
+      "activity_name": "Local Memba Tribe Homestay",
+      "category": "Culture",
+      "duration_minutes": 720,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "open_mind",
+        "warm_clothing"
+      ]
+    },
+    {
+      "activity_name": "Traditional Tibetan Food",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "appetite",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Bamboo Handicraft Shopping",
+      "category": "Shopping",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag"
+      ]
+    },
+    {
+      "activity_name": "Gurudwara Taposthan Guru Nanak",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "head_cover",
+        "modest_clothing",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Riverside Picnic at Siyom",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "picnic_blanket",
+        "camera",
+        "sunglasses"
+      ]
+    }
+  ]
+}

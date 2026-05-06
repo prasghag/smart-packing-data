@@ -1,0 +1,175 @@
+{
+  "city_name": "Hanle",
+  "country": "India",
+  "activities": [
+    {
+      "activity_name": "Hanle Monastery",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "modest_clothing",
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Indian Astronomical Observatory",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "warm_jacket"
+      ]
+    },
+    {
+      "activity_name": "Umling La Pass Ride",
+      "category": "Adventure",
+      "duration_minutes": 300,
+      "scores": {
+        "budget": 2,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 1,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "riding_gear",
+        "oxygen_canister",
+        "warm_layers"
+      ]
+    },
+    {
+      "activity_name": "Star Gazing Experience",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "tripod",
+        "camera",
+        "extreme_cold_gear"
+      ]
+    },
+    {
+      "activity_name": "Photi La Pass Drive",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunglasses",
+        "camera",
+        "motion_sickness_pills"
+      ]
+    },
+    {
+      "activity_name": "Hanle River Walk",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "windbreaker",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Kiang Wildlife Spotting",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "binoculars",
+        "camera",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Local Homestay Experience",
+      "category": "Culture",
+      "duration_minutes": 720,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "open_mind",
+        "warm_clothing"
+      ]
+    },
+    {
+      "activity_name": "Tso Moriri Excursion",
+      "category": "Sightseeing",
+      "duration_minutes": 480,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "water_bottle",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Changthang Plateau Ride",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 2,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "riding_gear",
+        "helmet",
+        "dust_mask"
+      ]
+    }
+  ]
+}
