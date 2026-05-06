@@ -1,0 +1,5406 @@
+{
+  "version": "2026-05-06",
+  "total": 438,
+  "cities": [
+    {
+      "key": "abu_dhabi",
+      "name": "Abu Dhabi",
+      "file": "abu_dhabi.json",
+      "searchTokens": [
+        "abu dhabi",
+        "dhabi",
+        "dha",
+        "abu"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "adelaide",
+      "name": "Adelaide",
+      "file": "adelaide.json",
+      "searchTokens": [
+        "adelaide",
+        "ade"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "agra",
+      "name": "Agra",
+      "file": "agra.json",
+      "searchTokens": [
+        "agr",
+        "agra"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "agumbe",
+      "name": "Agumbe",
+      "file": "agumbe.json",
+      "searchTokens": [
+        "agu",
+        "agumbe"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "ahmedabad",
+      "name": "Ahmedabad",
+      "file": "ahmedabad.json",
+      "searchTokens": [
+        "ahm",
+        "ahmedabad"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "ajmer",
+      "name": "Ajmer",
+      "file": "ajmer.json",
+      "searchTokens": [
+        "ajm",
+        "ajmer"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "alappuzha",
+      "name": "Alappuzha",
+      "file": "alappuzha.json",
+      "searchTokens": [
+        "alappuzha",
+        "ala"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "alibaug",
+      "name": "Alibaug",
+      "file": "alibaug.json",
+      "searchTokens": [
+        "alibaug",
+        "ali"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "almaty",
+      "name": "Almaty",
+      "file": "almaty.json",
+      "searchTokens": [
+        "alm",
+        "almaty"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "almora",
+      "name": "Almora",
+      "file": "almora.json",
+      "searchTokens": [
+        "alm",
+        "almora"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "amarkantak",
+      "name": "Amarkantak",
+      "file": "amarkantak.json",
+      "searchTokens": [
+        "ama",
+        "amarkantak"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "amboli",
+      "name": "Amboli",
+      "file": "amboli.json",
+      "searchTokens": [
+        "amboli",
+        "amb"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "amman",
+      "name": "Amman",
+      "file": "amman.json",
+      "searchTokens": [
+        "amman",
+        "amm"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "amritsar",
+      "name": "Amritsar",
+      "file": "amritsar.json",
+      "searchTokens": [
+        "amr",
+        "amritsar"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "amsterdam",
+      "name": "Amsterdam",
+      "file": "amsterdam.json",
+      "searchTokens": [
+        "amsterdam",
+        "ams"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "annecy",
+      "name": "Annecy",
+      "file": "annecy.json",
+      "searchTokens": [
+        "annecy",
+        "ann"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "antalya",
+      "name": "Antalya",
+      "file": "antalya.json",
+      "searchTokens": [
+        "antalya",
+        "ant"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "antigua",
+      "name": "Antigua",
+      "file": "antigua.json",
+      "searchTokens": [
+        "ant",
+        "antigua"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "antwerp",
+      "name": "Antwerp",
+      "file": "antwerp.json",
+      "searchTokens": [
+        "antwerp",
+        "ant"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "araku_valley",
+      "name": "Araku Valley",
+      "file": "araku_valley.json",
+      "searchTokens": [
+        "araku valley",
+        "valley",
+        "val",
+        "araku",
+        "ara"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "arequipa",
+      "name": "Arequipa",
+      "file": "arequipa.json",
+      "searchTokens": [
+        "arequipa",
+        "are"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "aru_valley",
+      "name": "Aru Valley",
+      "file": "aru_valley.json",
+      "searchTokens": [
+        "valley",
+        "val",
+        "aru valley",
+        "aru"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "athens",
+      "name": "Athens",
+      "file": "athens.json",
+      "searchTokens": [
+        "ath",
+        "athens"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "auckland",
+      "name": "Auckland",
+      "file": "auckland.json",
+      "searchTokens": [
+        "auckland",
+        "auc"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "auli",
+      "name": "Auli",
+      "file": "auli.json",
+      "searchTokens": [
+        "auli",
+        "aul"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "auroville",
+      "name": "Auroville",
+      "file": "auroville.json",
+      "searchTokens": [
+        "aur",
+        "auroville"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "austin",
+      "name": "Austin",
+      "file": "austin.json",
+      "searchTokens": [
+        "aus",
+        "austin"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "ayutthaya",
+      "name": "Ayutthaya",
+      "file": "ayutthaya.json",
+      "searchTokens": [
+        "ayutthaya",
+        "ayu"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "badami",
+      "name": "Badami",
+      "file": "badami.json",
+      "searchTokens": [
+        "badami",
+        "bad"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "baku",
+      "name": "Baku",
+      "file": "baku.json",
+      "searchTokens": [
+        "baku",
+        "bak"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "bali",
+      "name": "Bali",
+      "file": "bali.json",
+      "searchTokens": [
+        "bal",
+        "bali"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "bandipur",
+      "name": "Bandipur",
+      "file": "bandipur.json",
+      "searchTokens": [
+        "bandipur",
+        "ban"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "bandung",
+      "name": "Bandung",
+      "file": "bandung.json",
+      "searchTokens": [
+        "bandung",
+        "ban"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "banff",
+      "name": "Banff",
+      "file": "banff.json",
+      "searchTokens": [
+        "banff",
+        "ban"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "bangkok",
+      "name": "Bangkok",
+      "file": "bangkok.json",
+      "searchTokens": [
+        "ban",
+        "bangkok"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "barcelona",
+      "name": "Barcelona",
+      "file": "barcelona.json",
+      "searchTokens": [
+        "bar",
+        "barcelona"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "bath",
+      "name": "Bath",
+      "file": "bath.json",
+      "searchTokens": [
+        "bat",
+        "bath"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "beijing",
+      "name": "Beijing",
+      "file": "beijing.json",
+      "searchTokens": [
+        "beijing",
+        "bei"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "beirut",
+      "name": "Beirut",
+      "file": "beirut.json",
+      "searchTokens": [
+        "beirut",
+        "bei"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "bekal",
+      "name": "Bekal",
+      "file": "bekal.json",
+      "searchTokens": [
+        "bekal",
+        "bek"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "belfast",
+      "name": "Belfast",
+      "file": "belfast.json",
+      "searchTokens": [
+        "belfast",
+        "bel"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "belgrade",
+      "name": "Belgrade",
+      "file": "belgrade.json",
+      "searchTokens": [
+        "bel",
+        "belgrade"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "bengaluru",
+      "name": "Bengaluru",
+      "file": "bengaluru.json",
+      "searchTokens": [
+        "ben",
+        "bengaluru"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "bergen",
+      "name": "Bergen",
+      "file": "bergen.json",
+      "searchTokens": [
+        "bergen",
+        "ber"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "berlin",
+      "name": "Berlin",
+      "file": "berlin.json",
+      "searchTokens": [
+        "ber",
+        "berlin"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "bern",
+      "name": "Bern",
+      "file": "bern.json",
+      "searchTokens": [
+        "bern",
+        "ber"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "bhandardara",
+      "name": "Bhandardara",
+      "file": "bhandardara.json",
+      "searchTokens": [
+        "bhandardara",
+        "bha"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "bharatpur",
+      "name": "Bharatpur",
+      "file": "bharatpur.json",
+      "searchTokens": [
+        "bharatpur",
+        "bha"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "bhimtal",
+      "name": "Bhimtal",
+      "file": "bhimtal.json",
+      "searchTokens": [
+        "bhimtal",
+        "bhi"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "bhubaneswar",
+      "name": "Bhubaneswar",
+      "file": "bhubaneswar.json",
+      "searchTokens": [
+        "bhu",
+        "bhubaneswar"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "bhuj",
+      "name": "Bhuj",
+      "file": "bhuj.json",
+      "searchTokens": [
+        "bhu",
+        "bhuj"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "bikaner",
+      "name": "Bikaner",
+      "file": "bikaner.json",
+      "searchTokens": [
+        "bik",
+        "bikaner"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "bilbao",
+      "name": "Bilbao",
+      "file": "bilbao.json",
+      "searchTokens": [
+        "bilbao",
+        "bil"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "bir_billing",
+      "name": "Bir Billing",
+      "file": "bir_billing.json",
+      "searchTokens": [
+        "bir billing",
+        "billing",
+        "bir",
+        "bil"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "bodh_gaya",
+      "name": "Bodh Gaya",
+      "file": "bodh_gaya.json",
+      "searchTokens": [
+        "bodh",
+        "bodh gaya",
+        "bod",
+        "gay",
+        "gaya"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "bogota",
+      "name": "Bogota",
+      "file": "bogota.json",
+      "searchTokens": [
+        "bogota",
+        "bog"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "bohol",
+      "name": "Bohol",
+      "file": "bohol.json",
+      "searchTokens": [
+        "bohol",
+        "boh"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "bologna",
+      "name": "Bologna",
+      "file": "bologna.json",
+      "searchTokens": [
+        "bol",
+        "bologna"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "bomdila",
+      "name": "Bomdila",
+      "file": "bomdila.json",
+      "searchTokens": [
+        "bomdila",
+        "bom"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "bora_bora",
+      "name": "Bora Bora",
+      "file": "bora_bora.json",
+      "searchTokens": [
+        "bora bora",
+        "bora",
+        "bor"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "boracay",
+      "name": "Boracay",
+      "file": "boracay.json",
+      "searchTokens": [
+        "boracay",
+        "bor"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "bordeaux",
+      "name": "Bordeaux",
+      "file": "bordeaux.json",
+      "searchTokens": [
+        "bordeaux",
+        "bor"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "boston",
+      "name": "Boston",
+      "file": "boston.json",
+      "searchTokens": [
+        "boston",
+        "bos"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "bratislava",
+      "name": "Bratislava",
+      "file": "bratislava.json",
+      "searchTokens": [
+        "bratislava",
+        "bra"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "brisbane",
+      "name": "Brisbane",
+      "file": "brisbane.json",
+      "searchTokens": [
+        "brisbane",
+        "bri"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "bruges",
+      "name": "Bruges",
+      "file": "bruges.json",
+      "searchTokens": [
+        "bruges",
+        "bru"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "brussels",
+      "name": "Brussels",
+      "file": "brussels.json",
+      "searchTokens": [
+        "bru",
+        "brussels"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "bucharest",
+      "name": "Bucharest",
+      "file": "bucharest.json",
+      "searchTokens": [
+        "buc",
+        "bucharest"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "budapest",
+      "name": "Budapest",
+      "file": "budapest.json",
+      "searchTokens": [
+        "budapest",
+        "bud"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "buenos_aires",
+      "name": "Buenos Aires",
+      "file": "buenos_aires.json",
+      "searchTokens": [
+        "aires",
+        "bue",
+        "buenos",
+        "air",
+        "buenos aires"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "bundi",
+      "name": "Bundi",
+      "file": "bundi.json",
+      "searchTokens": [
+        "bun",
+        "bundi"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "busan",
+      "name": "Busan",
+      "file": "busan.json",
+      "searchTokens": [
+        "bus",
+        "busan"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "cairns",
+      "name": "Cairns",
+      "file": "cairns.json",
+      "searchTokens": [
+        "cai",
+        "cairns"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "cairo",
+      "name": "Cairo",
+      "file": "cairo.json",
+      "searchTokens": [
+        "cairo",
+        "cai"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "calgary",
+      "name": "Calgary",
+      "file": "calgary.json",
+      "searchTokens": [
+        "cal",
+        "calgary"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "cali",
+      "name": "Cali",
+      "file": "cali.json",
+      "searchTokens": [
+        "cali",
+        "cal"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "cameron_highlands",
+      "name": "Cameron Highlands",
+      "file": "cameron_highlands.json",
+      "searchTokens": [
+        "cam",
+        "highlands",
+        "hig",
+        "cameron",
+        "cameron highlands"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "cancun",
+      "name": "Cancun",
+      "file": "cancun.json",
+      "searchTokens": [
+        "can",
+        "cancun"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "cape_town",
+      "name": "Cape Town",
+      "file": "cape_town.json",
+      "searchTokens": [
+        "cape town",
+        "tow",
+        "cape",
+        "cap",
+        "town"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "cardiff",
+      "name": "Cardiff",
+      "file": "cardiff.json",
+      "searchTokens": [
+        "cardiff",
+        "car"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "cartagena",
+      "name": "Cartagena",
+      "file": "cartagena.json",
+      "searchTokens": [
+        "cartagena",
+        "car"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "casablanca",
+      "name": "Casablanca",
+      "file": "casablanca.json",
+      "searchTokens": [
+        "cas",
+        "casablanca"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "cebu",
+      "name": "Cebu",
+      "file": "cebu.json",
+      "searchTokens": [
+        "cebu",
+        "ceb"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "chakrata",
+      "name": "Chakrata",
+      "file": "chakrata.json",
+      "searchTokens": [
+        "chakrata",
+        "cha"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "chandigarh",
+      "name": "Chandigarh",
+      "file": "chandigarh.json",
+      "searchTokens": [
+        "cha",
+        "chandigarh"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "charleston",
+      "name": "Charleston",
+      "file": "charleston.json",
+      "searchTokens": [
+        "cha",
+        "charleston"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "chengdu",
+      "name": "Chengdu",
+      "file": "chengdu.json",
+      "searchTokens": [
+        "che",
+        "chengdu"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "chennai",
+      "name": "Chennai",
+      "file": "chennai.json",
+      "searchTokens": [
+        "che",
+        "chennai"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "cherrapunji",
+      "name": "Cherrapunji",
+      "file": "cherrapunji.json",
+      "searchTokens": [
+        "cherrapunji",
+        "che"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "chiang_mai",
+      "name": "Chiang Mai",
+      "file": "chiang_mai.json",
+      "searchTokens": [
+        "mai",
+        "chiang",
+        "chi",
+        "chiang mai"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "chiang_rai",
+      "name": "Chiang Rai",
+      "file": "chiang_rai.json",
+      "searchTokens": [
+        "rai",
+        "chiang",
+        "chiang rai",
+        "chi"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "chicago",
+      "name": "Chicago",
+      "file": "chicago.json",
+      "searchTokens": [
+        "chicago",
+        "chi"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "chikhaldara",
+      "name": "Chikhaldara",
+      "file": "chikhaldara.json",
+      "searchTokens": [
+        "chikhaldara",
+        "chi"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "chikmagalur",
+      "name": "Chikmagalur",
+      "file": "chikmagalur.json",
+      "searchTokens": [
+        "chi",
+        "chikmagalur"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "chitkul",
+      "name": "Chitkul",
+      "file": "chitkul.json",
+      "searchTokens": [
+        "chitkul",
+        "chi"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "chittorgarh",
+      "name": "Chittorgarh",
+      "file": "chittorgarh.json",
+      "searchTokens": [
+        "chittorgarh",
+        "chi"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "chopta",
+      "name": "Chopta",
+      "file": "chopta.json",
+      "searchTokens": [
+        "cho",
+        "chopta"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "christchurch",
+      "name": "Christchurch",
+      "file": "christchurch.json",
+      "searchTokens": [
+        "chr",
+        "christchurch"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "cologne",
+      "name": "Cologne",
+      "file": "cologne.json",
+      "searchTokens": [
+        "col",
+        "cologne"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "colombo",
+      "name": "Colombo",
+      "file": "colombo.json",
+      "searchTokens": [
+        "col",
+        "colombo"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "coonoor",
+      "name": "Coonoor",
+      "file": "coonoor.json",
+      "searchTokens": [
+        "coo",
+        "coonoor"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "copenhagen",
+      "name": "Copenhagen",
+      "file": "copenhagen.json",
+      "searchTokens": [
+        "copenhagen",
+        "cop"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "cordoba",
+      "name": "Cordoba",
+      "file": "cordoba.json",
+      "searchTokens": [
+        "cor",
+        "cordoba"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "cork",
+      "name": "Cork",
+      "file": "cork.json",
+      "searchTokens": [
+        "cork",
+        "cor"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "cusco",
+      "name": "Cusco",
+      "file": "cusco.json",
+      "searchTokens": [
+        "cusco",
+        "cus"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "da_nang",
+      "name": "Da Nang",
+      "file": "da_nang.json",
+      "searchTokens": [
+        "nang",
+        "nan",
+        "da",
+        "da nang"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "dakar",
+      "name": "Dakar",
+      "file": "dakar.json",
+      "searchTokens": [
+        "dakar",
+        "dak"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "dalhousie",
+      "name": "Dalhousie",
+      "file": "dalhousie.json",
+      "searchTokens": [
+        "dalhousie",
+        "dal"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "daman",
+      "name": "Daman",
+      "file": "daman.json",
+      "searchTokens": [
+        "dam",
+        "daman"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "dandeli",
+      "name": "Dandeli",
+      "file": "dandeli.json",
+      "searchTokens": [
+        "dan",
+        "dandeli"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "dapoli",
+      "name": "Dapoli",
+      "file": "dapoli.json",
+      "searchTokens": [
+        "dapoli",
+        "dap"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "darjeeling",
+      "name": "Darjeeling",
+      "file": "darjeeling.json",
+      "searchTokens": [
+        "darjeeling",
+        "dar"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "dawki",
+      "name": "Dawki",
+      "file": "dawki.json",
+      "searchTokens": [
+        "dawki",
+        "daw"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "delhi",
+      "name": "Delhi",
+      "file": "delhi.json",
+      "searchTokens": [
+        "delhi",
+        "del"
+      ],
+      "popularity": 100,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "denver",
+      "name": "Denver",
+      "file": "denver.json",
+      "searchTokens": [
+        "denver",
+        "den"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "dhanaulti",
+      "name": "Dhanaulti",
+      "file": "dhanaulti.json",
+      "searchTokens": [
+        "dhanaulti",
+        "dha"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "dhanushkodi",
+      "name": "Dhanushkodi",
+      "file": "dhanushkodi.json",
+      "searchTokens": [
+        "dhanushkodi",
+        "dha"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "dharamshala",
+      "name": "Dharamshala",
+      "file": "dharamshala.json",
+      "searchTokens": [
+        "dharamshala",
+        "dha"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "dirang",
+      "name": "Dirang",
+      "file": "dirang.json",
+      "searchTokens": [
+        "dirang",
+        "dir"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "diu",
+      "name": "Diu",
+      "file": "diu.json",
+      "searchTokens": [
+        "diu"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "diveagar",
+      "name": "Diveagar",
+      "file": "diveagar.json",
+      "searchTokens": [
+        "div",
+        "diveagar"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "doha",
+      "name": "Doha",
+      "file": "doha.json",
+      "searchTokens": [
+        "doha",
+        "doh"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "dubai",
+      "name": "Dubai",
+      "file": "dubai.json",
+      "searchTokens": [
+        "dubai",
+        "dub"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "dublin",
+      "name": "Dublin",
+      "file": "dublin.json",
+      "searchTokens": [
+        "dublin",
+        "dub"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "dubrovnik",
+      "name": "Dubrovnik",
+      "file": "dubrovnik.json",
+      "searchTokens": [
+        "dubrovnik",
+        "dub"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "dwarka",
+      "name": "Dwarka",
+      "file": "dwarka.json",
+      "searchTokens": [
+        "dwarka",
+        "dwa"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "dzukou_valley",
+      "name": "Dzukou Valley",
+      "file": "dzukou_valley.json",
+      "searchTokens": [
+        "dzu",
+        "valley",
+        "val",
+        "dzukou valley",
+        "dzukou"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "edinburgh",
+      "name": "Edinburgh",
+      "file": "edinburgh.json",
+      "searchTokens": [
+        "edi",
+        "edinburgh"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "florence",
+      "name": "Florence",
+      "file": "florence.json",
+      "searchTokens": [
+        "flo",
+        "florence"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "frankfurt",
+      "name": "Frankfurt",
+      "file": "frankfurt.json",
+      "searchTokens": [
+        "frankfurt",
+        "fra"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "fukuoka",
+      "name": "Fukuoka",
+      "file": "fukuoka.json",
+      "searchTokens": [
+        "fukuoka",
+        "fuk"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "galway",
+      "name": "Galway",
+      "file": "galway.json",
+      "searchTokens": [
+        "galway",
+        "gal"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "gandikota",
+      "name": "Gandikota",
+      "file": "gandikota.json",
+      "searchTokens": [
+        "gandikota",
+        "gan"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "gangtok",
+      "name": "Gangtok",
+      "file": "gangtok.json",
+      "searchTokens": [
+        "gangtok",
+        "gan"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "ganpatipule",
+      "name": "Ganpatipule",
+      "file": "ganpatipule.json",
+      "searchTokens": [
+        "ganpatipule",
+        "gan"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "gavi",
+      "name": "Gavi",
+      "file": "gavi.json",
+      "searchTokens": [
+        "gav",
+        "gavi"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "geneva",
+      "name": "Geneva",
+      "file": "geneva.json",
+      "searchTokens": [
+        "gen",
+        "geneva"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "genoa",
+      "name": "Genoa",
+      "file": "genoa.json",
+      "searchTokens": [
+        "gen",
+        "genoa"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "ghent",
+      "name": "Ghent",
+      "file": "ghent.json",
+      "searchTokens": [
+        "ghent",
+        "ghe"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "glasgow",
+      "name": "Glasgow",
+      "file": "glasgow.json",
+      "searchTokens": [
+        "gla",
+        "glasgow"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "goa",
+      "name": "Goa",
+      "file": "goa.json",
+      "searchTokens": [
+        "goa"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "gokarna",
+      "name": "Gokarna",
+      "file": "gokarna.json",
+      "searchTokens": [
+        "gokarna",
+        "gok"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "gold_coast",
+      "name": "Gold Coast",
+      "file": "gold_coast.json",
+      "searchTokens": [
+        "coast",
+        "gold",
+        "gol",
+        "coa",
+        "gold coast"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "gothenburg",
+      "name": "Gothenburg",
+      "file": "gothenburg.json",
+      "searchTokens": [
+        "gothenburg",
+        "got"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "granada",
+      "name": "Granada",
+      "file": "granada.json",
+      "searchTokens": [
+        "granada",
+        "gra"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "graz",
+      "name": "Graz",
+      "file": "graz.json",
+      "searchTokens": [
+        "gra",
+        "graz"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "guhagar",
+      "name": "Guhagar",
+      "file": "guhagar.json",
+      "searchTokens": [
+        "guh",
+        "guhagar"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "gulmarg",
+      "name": "Gulmarg",
+      "file": "gulmarg.json",
+      "searchTokens": [
+        "gul",
+        "gulmarg"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "gurez_valley",
+      "name": "Gurez Valley",
+      "file": "gurez_valley.json",
+      "searchTokens": [
+        "gurez valley",
+        "valley",
+        "gurez",
+        "val",
+        "gur"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "gwalior",
+      "name": "Gwalior",
+      "file": "gwalior.json",
+      "searchTokens": [
+        "gwalior",
+        "gwa"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "haflong",
+      "name": "Haflong",
+      "file": "haflong.json",
+      "searchTokens": [
+        "haf",
+        "haflong"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "hallstatt",
+      "name": "Hallstatt",
+      "file": "hallstatt.json",
+      "searchTokens": [
+        "hal",
+        "hallstatt"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "hamburg",
+      "name": "Hamburg",
+      "file": "hamburg.json",
+      "searchTokens": [
+        "hamburg",
+        "ham"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "hampi",
+      "name": "Hampi",
+      "file": "hampi.json",
+      "searchTokens": [
+        "hampi",
+        "ham"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "hanle",
+      "name": "Hanle",
+      "file": "hanle.json",
+      "searchTokens": [
+        "han",
+        "hanle"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "hanoi",
+      "name": "Hanoi",
+      "file": "hanoi.json",
+      "searchTokens": [
+        "han",
+        "hanoi"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "haridwar",
+      "name": "Haridwar",
+      "file": "haridwar.json",
+      "searchTokens": [
+        "har",
+        "haridwar"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "havana",
+      "name": "Havana",
+      "file": "havana.json",
+      "searchTokens": [
+        "havana",
+        "hav"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "havelock_island",
+      "name": "Havelock Island",
+      "file": "havelock_island.json",
+      "searchTokens": [
+        "isl",
+        "island",
+        "havelock island",
+        "hav",
+        "havelock"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "helsinki",
+      "name": "Helsinki",
+      "file": "helsinki.json",
+      "searchTokens": [
+        "helsinki",
+        "hel"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "hiroshima",
+      "name": "Hiroshima",
+      "file": "hiroshima.json",
+      "searchTokens": [
+        "hiroshima",
+        "hir"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "ho_chi_minh_city",
+      "name": "Ho Chi Minh City",
+      "file": "ho_chi_minh_city.json",
+      "searchTokens": [
+        "ho chi minh city",
+        "city",
+        "cit",
+        "minh",
+        "chi",
+        "ho",
+        "min"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "hobart",
+      "name": "Hobart",
+      "file": "hobart.json",
+      "searchTokens": [
+        "hobart",
+        "hob"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "hoi_an",
+      "name": "Hoi An",
+      "file": "hoi_an.json",
+      "searchTokens": [
+        "hoi",
+        "an",
+        "hoi an"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "hong_kong",
+      "name": "Hong Kong",
+      "file": "hong_kong.json",
+      "searchTokens": [
+        "hong",
+        "kon",
+        "hon",
+        "hong kong",
+        "kong"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "honolulu",
+      "name": "Honolulu",
+      "file": "honolulu.json",
+      "searchTokens": [
+        "honolulu",
+        "hon"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "horsley_hills",
+      "name": "Horsley Hills",
+      "file": "horsley_hills.json",
+      "searchTokens": [
+        "hor",
+        "horsley hills",
+        "hil",
+        "horsley",
+        "hills"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "hua_hin",
+      "name": "Hua Hin",
+      "file": "hua_hin.json",
+      "searchTokens": [
+        "hin",
+        "hua",
+        "hua hin"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "hue",
+      "name": "Hue",
+      "file": "hue.json",
+      "searchTokens": [
+        "hue"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "hvar",
+      "name": "Hvar",
+      "file": "hvar.json",
+      "searchTokens": [
+        "hvar",
+        "hva"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "hyderabad",
+      "name": "Hyderabad",
+      "file": "hyderabad.json",
+      "searchTokens": [
+        "hyd",
+        "hyderabad"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "igatpuri",
+      "name": "Igatpuri",
+      "file": "igatpuri.json",
+      "searchTokens": [
+        "igatpuri",
+        "iga"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "innsbruck",
+      "name": "Innsbruck",
+      "file": "innsbruck.json",
+      "searchTokens": [
+        "innsbruck",
+        "inn"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "interlaken",
+      "name": "Interlaken",
+      "file": "interlaken.json",
+      "searchTokens": [
+        "interlaken",
+        "int"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "ipoh",
+      "name": "Ipoh",
+      "file": "ipoh.json",
+      "searchTokens": [
+        "ipoh",
+        "ipo"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "istanbul",
+      "name": "Istanbul",
+      "file": "istanbul.json",
+      "searchTokens": [
+        "ist",
+        "istanbul"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "jagdalpur",
+      "name": "Jagdalpur",
+      "file": "jagdalpur.json",
+      "searchTokens": [
+        "jagdalpur",
+        "jag"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "jaipur",
+      "name": "Jaipur",
+      "file": "jaipur.json",
+      "searchTokens": [
+        "jai",
+        "jaipur"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "jaisalmer",
+      "name": "Jaisalmer",
+      "file": "jaisalmer.json",
+      "searchTokens": [
+        "jaisalmer",
+        "jai"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "jakarta",
+      "name": "Jakarta",
+      "file": "jakarta.json",
+      "searchTokens": [
+        "jakarta",
+        "jak"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "jeju_island",
+      "name": "Jeju Island",
+      "file": "jeju_island.json",
+      "searchTokens": [
+        "isl",
+        "island",
+        "jej",
+        "jeju island",
+        "jeju"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "jerusalem",
+      "name": "Jerusalem",
+      "file": "jerusalem.json",
+      "searchTokens": [
+        "jer",
+        "jerusalem"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "jibhi",
+      "name": "Jibhi",
+      "file": "jibhi.json",
+      "searchTokens": [
+        "jibhi",
+        "jib"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "jodhpur",
+      "name": "Jodhpur",
+      "file": "jodhpur.json",
+      "searchTokens": [
+        "jod",
+        "jodhpur"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "johannesburg",
+      "name": "Johannesburg",
+      "file": "johannesburg.json",
+      "searchTokens": [
+        "joh",
+        "johannesburg"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kaas_plateau",
+      "name": "Kaas Plateau",
+      "file": "kaas_plateau.json",
+      "searchTokens": [
+        "kaa",
+        "kaas plateau",
+        "plateau",
+        "kaas",
+        "pla"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kabini",
+      "name": "Kabini",
+      "file": "kabini.json",
+      "searchTokens": [
+        "kab",
+        "kabini"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kalimpong",
+      "name": "Kalimpong",
+      "file": "kalimpong.json",
+      "searchTokens": [
+        "kalimpong",
+        "kal"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kanatal",
+      "name": "Kanatal",
+      "file": "kanatal.json",
+      "searchTokens": [
+        "kanatal",
+        "kan"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kanyakumari",
+      "name": "Kanyakumari",
+      "file": "kanyakumari.json",
+      "searchTokens": [
+        "kanyakumari",
+        "kan"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kargil",
+      "name": "Kargil",
+      "file": "kargil.json",
+      "searchTokens": [
+        "kargil",
+        "kar"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "karjat",
+      "name": "Karjat",
+      "file": "karjat.json",
+      "searchTokens": [
+        "karjat",
+        "kar"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kasauli",
+      "name": "Kasauli",
+      "file": "kasauli.json",
+      "searchTokens": [
+        "kas",
+        "kasauli"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kasol",
+      "name": "Kasol",
+      "file": "kasol.json",
+      "searchTokens": [
+        "kasol",
+        "kas"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kathmandu",
+      "name": "Kathmandu",
+      "file": "kathmandu.json",
+      "searchTokens": [
+        "kathmandu",
+        "kat"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kausani",
+      "name": "Kausani",
+      "file": "kausani.json",
+      "searchTokens": [
+        "kausani",
+        "kau"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kaza",
+      "name": "Kaza",
+      "file": "kaza.json",
+      "searchTokens": [
+        "kaza",
+        "kaz"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kaziranga",
+      "name": "Kaziranga",
+      "file": "kaziranga.json",
+      "searchTokens": [
+        "kaz",
+        "kaziranga"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "keylong",
+      "name": "Keylong",
+      "file": "keylong.json",
+      "searchTokens": [
+        "key",
+        "keylong"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "khajjiar",
+      "name": "Khajjiar",
+      "file": "khajjiar.json",
+      "searchTokens": [
+        "khajjiar",
+        "kha"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "khajuraho",
+      "name": "Khajuraho",
+      "file": "khajuraho.json",
+      "searchTokens": [
+        "kha",
+        "khajuraho"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "khandala",
+      "name": "Khandala",
+      "file": "khandala.json",
+      "searchTokens": [
+        "kha",
+        "khandala"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kheerganga",
+      "name": "Kheerganga",
+      "file": "kheerganga.json",
+      "searchTokens": [
+        "kheerganga",
+        "khe"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kinnaur",
+      "name": "Kinnaur",
+      "file": "kinnaur.json",
+      "searchTokens": [
+        "kinnaur",
+        "kin"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kochi",
+      "name": "Kochi",
+      "file": "kochi.json",
+      "searchTokens": [
+        "kochi",
+        "koc"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kodaikanal",
+      "name": "Kodaikanal",
+      "file": "kodaikanal.json",
+      "searchTokens": [
+        "kod",
+        "kodaikanal"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "koh_phangan",
+      "name": "Koh Phangan",
+      "file": "koh_phangan.json",
+      "searchTokens": [
+        "koh phangan",
+        "phangan",
+        "koh",
+        "pha"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "koh_samui",
+      "name": "Koh Samui",
+      "file": "koh_samui.json",
+      "searchTokens": [
+        "koh samui",
+        "samui",
+        "koh",
+        "sam"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kolad",
+      "name": "Kolad",
+      "file": "kolad.json",
+      "searchTokens": [
+        "kol",
+        "kolad"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kolkata",
+      "name": "Kolkata",
+      "file": "kolkata.json",
+      "searchTokens": [
+        "kolkata",
+        "kol"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kolli_hills",
+      "name": "Kolli Hills",
+      "file": "kolli_hills.json",
+      "searchTokens": [
+        "kol",
+        "hil",
+        "kolli hills",
+        "hills",
+        "kolli"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kota_kinabalu",
+      "name": "Kota Kinabalu",
+      "file": "kota_kinabalu.json",
+      "searchTokens": [
+        "kinabalu",
+        "kot",
+        "kota",
+        "kin",
+        "kota kinabalu"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kotor",
+      "name": "Kotor",
+      "file": "kotor.json",
+      "searchTokens": [
+        "kot",
+        "kotor"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kovalam",
+      "name": "Kovalam",
+      "file": "kovalam.json",
+      "searchTokens": [
+        "kovalam",
+        "kov"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "krabi",
+      "name": "Krabi",
+      "file": "krabi.json",
+      "searchTokens": [
+        "kra",
+        "krabi"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "krakow",
+      "name": "Krakow",
+      "file": "krakow.json",
+      "searchTokens": [
+        "kra",
+        "krakow"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kuala_lumpur",
+      "name": "Kuala Lumpur",
+      "file": "kuala_lumpur.json",
+      "searchTokens": [
+        "lum",
+        "kuala lumpur",
+        "kuala",
+        "lumpur",
+        "kua"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kudremukh",
+      "name": "Kudremukh",
+      "file": "kudremukh.json",
+      "searchTokens": [
+        "kud",
+        "kudremukh"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kumarakom",
+      "name": "Kumarakom",
+      "file": "kumarakom.json",
+      "searchTokens": [
+        "kumarakom",
+        "kum"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kumbhalgarh",
+      "name": "Kumbhalgarh",
+      "file": "kumbhalgarh.json",
+      "searchTokens": [
+        "kumbhalgarh",
+        "kum"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kyoto",
+      "name": "Kyoto",
+      "file": "kyoto.json",
+      "searchTokens": [
+        "kyoto",
+        "kyo"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "la_paz",
+      "name": "La Paz",
+      "file": "la_paz.json",
+      "searchTokens": [
+        "paz",
+        "la",
+        "la paz"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "lachung",
+      "name": "Lachung",
+      "file": "lachung.json",
+      "searchTokens": [
+        "lac",
+        "lachung"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "langkawi",
+      "name": "Langkawi",
+      "file": "langkawi.json",
+      "searchTokens": [
+        "lan",
+        "langkawi"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "lansdowne",
+      "name": "Lansdowne",
+      "file": "lansdowne.json",
+      "searchTokens": [
+        "lan",
+        "lansdowne"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "las_vegas",
+      "name": "Las Vegas",
+      "file": "las_vegas.json",
+      "searchTokens": [
+        "las",
+        "veg",
+        "vegas",
+        "las vegas"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "lavasa",
+      "name": "Lavasa",
+      "file": "lavasa.json",
+      "searchTokens": [
+        "lavasa",
+        "lav"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "leh",
+      "name": "Leh",
+      "file": "leh.json",
+      "searchTokens": [
+        "leh"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "lepakshi",
+      "name": "Lepakshi",
+      "file": "lepakshi.json",
+      "searchTokens": [
+        "lepakshi",
+        "lep"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "lima",
+      "name": "Lima",
+      "file": "lima.json",
+      "searchTokens": [
+        "lima",
+        "lim"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "lisbon",
+      "name": "Lisbon",
+      "file": "lisbon.json",
+      "searchTokens": [
+        "lisbon",
+        "lis"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "ljubljana",
+      "name": "Ljubljana",
+      "file": "ljubljana.json",
+      "searchTokens": [
+        "ljubljana",
+        "lju"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "loktak_lake",
+      "name": "Loktak Lake",
+      "file": "loktak_lake.json",
+      "searchTokens": [
+        "loktak",
+        "lak",
+        "loktak lake",
+        "lake",
+        "lok"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "lombok",
+      "name": "Lombok",
+      "file": "lombok.json",
+      "searchTokens": [
+        "lombok",
+        "lom"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "lonavala",
+      "name": "Lonavala",
+      "file": "lonavala.json",
+      "searchTokens": [
+        "lon",
+        "lonavala"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "london",
+      "name": "London",
+      "file": "london.json",
+      "searchTokens": [
+        "lon",
+        "london"
+      ],
+      "popularity": 100,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "los_angeles",
+      "name": "Los Angeles",
+      "file": "los_angeles.json",
+      "searchTokens": [
+        "ang",
+        "angeles",
+        "los angeles",
+        "los"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "luang_prabang",
+      "name": "Luang Prabang",
+      "file": "luang_prabang.json",
+      "searchTokens": [
+        "luang",
+        "luang prabang",
+        "pra",
+        "lua",
+        "prabang"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "lucerne",
+      "name": "Lucerne",
+      "file": "lucerne.json",
+      "searchTokens": [
+        "lucerne",
+        "luc"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "luxembourg_city",
+      "name": "Luxembourg City",
+      "file": "luxembourg_city.json",
+      "searchTokens": [
+        "city",
+        "luxembourg",
+        "lux",
+        "cit",
+        "luxembourg city"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "luxor",
+      "name": "Luxor",
+      "file": "luxor.json",
+      "searchTokens": [
+        "lux",
+        "luxor"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "lyon",
+      "name": "Lyon",
+      "file": "lyon.json",
+      "searchTokens": [
+        "lyon",
+        "lyo"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "macau",
+      "name": "Macau",
+      "file": "macau.json",
+      "searchTokens": [
+        "macau",
+        "mac"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "madikeri",
+      "name": "Madikeri",
+      "file": "madikeri.json",
+      "searchTokens": [
+        "madikeri",
+        "mad"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "madrid",
+      "name": "Madrid",
+      "file": "madrid.json",
+      "searchTokens": [
+        "madrid",
+        "mad"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "madurai",
+      "name": "Madurai",
+      "file": "madurai.json",
+      "searchTokens": [
+        "madurai",
+        "mad"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "mahabaleshwar",
+      "name": "Mahabaleshwar",
+      "file": "mahabaleshwar.json",
+      "searchTokens": [
+        "mah",
+        "mahabaleshwar"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "majuli",
+      "name": "Majuli",
+      "file": "majuli.json",
+      "searchTokens": [
+        "maj",
+        "majuli"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "malacca",
+      "name": "Malacca",
+      "file": "malacca.json",
+      "searchTokens": [
+        "mal",
+        "malacca"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "malaga",
+      "name": "Malaga",
+      "file": "malaga.json",
+      "searchTokens": [
+        "mal",
+        "malaga"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "malana",
+      "name": "Malana",
+      "file": "malana.json",
+      "searchTokens": [
+        "mal",
+        "malana"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "maldives",
+      "name": "Maldives",
+      "file": "maldives.json",
+      "searchTokens": [
+        "maldives",
+        "mal"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "manali",
+      "name": "Manali",
+      "file": "manali.json",
+      "searchTokens": [
+        "manali",
+        "man"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "mandawa",
+      "name": "Mandawa",
+      "file": "mandawa.json",
+      "searchTokens": [
+        "mandawa",
+        "man"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "mandu",
+      "name": "Mandu",
+      "file": "mandu.json",
+      "searchTokens": [
+        "mandu",
+        "man"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "mangalore",
+      "name": "Mangalore",
+      "file": "mangalore.json",
+      "searchTokens": [
+        "mangalore",
+        "man"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "manila",
+      "name": "Manila",
+      "file": "manila.json",
+      "searchTokens": [
+        "manila",
+        "man"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "marrakech",
+      "name": "Marrakech",
+      "file": "marrakech.json",
+      "searchTokens": [
+        "marrakech",
+        "mar"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "marseille",
+      "name": "Marseille",
+      "file": "marseille.json",
+      "searchTokens": [
+        "marseille",
+        "mar"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "matheran",
+      "name": "Matheran",
+      "file": "matheran.json",
+      "searchTokens": [
+        "matheran",
+        "mat"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "mathura",
+      "name": "Mathura",
+      "file": "mathura.json",
+      "searchTokens": [
+        "mathura",
+        "mat"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "maui",
+      "name": "Maui",
+      "file": "maui.json",
+      "searchTokens": [
+        "mau",
+        "maui"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "mcleodganj",
+      "name": "Mcleodganj",
+      "file": "mcleodganj.json",
+      "searchTokens": [
+        "mcl",
+        "mcleodganj"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "mechuka",
+      "name": "Mechuka",
+      "file": "mechuka.json",
+      "searchTokens": [
+        "mec",
+        "mechuka"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "medellin",
+      "name": "Medellin",
+      "file": "medellin.json",
+      "searchTokens": [
+        "med",
+        "medellin"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "melbourne",
+      "name": "Melbourne",
+      "file": "melbourne.json",
+      "searchTokens": [
+        "melbourne",
+        "mel"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "mendoza",
+      "name": "Mendoza",
+      "file": "mendoza.json",
+      "searchTokens": [
+        "mendoza",
+        "men"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "mexico-city",
+      "name": "Mexico-City",
+      "file": "mexico-city.json",
+      "searchTokens": [
+        "mex",
+        "mexico-city"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "mexico_city",
+      "name": "Mexico City",
+      "file": "mexico_city.json",
+      "searchTokens": [
+        "mex",
+        "mexico",
+        "city",
+        "mexico city",
+        "cit"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "miami",
+      "name": "Miami",
+      "file": "miami.json",
+      "searchTokens": [
+        "mia",
+        "miami"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "milan",
+      "name": "Milan",
+      "file": "milan.json",
+      "searchTokens": [
+        "mil",
+        "milan"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "montevideo",
+      "name": "Montevideo",
+      "file": "montevideo.json",
+      "searchTokens": [
+        "montevideo",
+        "mon"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "montreal",
+      "name": "Montreal",
+      "file": "montreal.json",
+      "searchTokens": [
+        "mon",
+        "montreal"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "mount_abu",
+      "name": "Mount Abu",
+      "file": "mount_abu.json",
+      "searchTokens": [
+        "mount abu",
+        "mount",
+        "mou",
+        "abu"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "mukteshwar",
+      "name": "Mukteshwar",
+      "file": "mukteshwar.json",
+      "searchTokens": [
+        "muk",
+        "mukteshwar"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "mumbai",
+      "name": "Mumbai",
+      "file": "mumbai.json",
+      "searchTokens": [
+        "mumbai",
+        "mum"
+      ],
+      "popularity": 100,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "munich",
+      "name": "Munich",
+      "file": "munich.json",
+      "searchTokens": [
+        "munich",
+        "mun"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "munnar",
+      "name": "Munnar",
+      "file": "munnar.json",
+      "searchTokens": [
+        "munnar",
+        "mun"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "munsiyari",
+      "name": "Munsiyari",
+      "file": "munsiyari.json",
+      "searchTokens": [
+        "mun",
+        "munsiyari"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "murud",
+      "name": "Murud",
+      "file": "murud.json",
+      "searchTokens": [
+        "murud",
+        "mur"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "murudeshwar",
+      "name": "Murudeshwar",
+      "file": "murudeshwar.json",
+      "searchTokens": [
+        "mur",
+        "murudeshwar"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "muscat",
+      "name": "Muscat",
+      "file": "muscat.json",
+      "searchTokens": [
+        "mus",
+        "muscat"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "mussoorie",
+      "name": "Mussoorie",
+      "file": "mussoorie.json",
+      "searchTokens": [
+        "mussoorie",
+        "mus"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "mykonos",
+      "name": "Mykonos",
+      "file": "mykonos.json",
+      "searchTokens": [
+        "myk",
+        "mykonos"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "mysore",
+      "name": "Mysore",
+      "file": "mysore.json",
+      "searchTokens": [
+        "mys",
+        "mysore"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "nainital",
+      "name": "Nainital",
+      "file": "nainital.json",
+      "searchTokens": [
+        "nainital",
+        "nai"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "nairobi",
+      "name": "Nairobi",
+      "file": "nairobi.json",
+      "searchTokens": [
+        "nairobi",
+        "nai"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "namchi",
+      "name": "Namchi",
+      "file": "namchi.json",
+      "searchTokens": [
+        "namchi",
+        "nam"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "naples",
+      "name": "Naples",
+      "file": "naples.json",
+      "searchTokens": [
+        "nap",
+        "naples"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "nara",
+      "name": "Nara",
+      "file": "nara.json",
+      "searchTokens": [
+        "nar",
+        "nara"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "narkanda",
+      "name": "Narkanda",
+      "file": "narkanda.json",
+      "searchTokens": [
+        "nar",
+        "narkanda"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "nassau",
+      "name": "Nassau",
+      "file": "nassau.json",
+      "searchTokens": [
+        "nas",
+        "nassau"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "netarhat",
+      "name": "Netarhat",
+      "file": "netarhat.json",
+      "searchTokens": [
+        "netarhat",
+        "net"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "new-orleans",
+      "name": "New-Orleans",
+      "file": "new-orleans.json",
+      "searchTokens": [
+        "new-orleans",
+        "new"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "new-york",
+      "name": "New-York",
+      "file": "new-york.json",
+      "searchTokens": [
+        "new",
+        "new-york"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "new_york_city",
+      "name": "New York City",
+      "file": "new_york_city.json",
+      "searchTokens": [
+        "new",
+        "city",
+        "yor",
+        "cit",
+        "new york city",
+        "york"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "nha_trang",
+      "name": "Nha Trang",
+      "file": "nha_trang.json",
+      "searchTokens": [
+        "nha",
+        "nha trang",
+        "tra",
+        "trang"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "niagara_falls",
+      "name": "Niagara Falls",
+      "file": "niagara_falls.json",
+      "searchTokens": [
+        "falls",
+        "fal",
+        "niagara",
+        "nia",
+        "niagara falls"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "nice",
+      "name": "Nice",
+      "file": "nice.json",
+      "searchTokens": [
+        "nice",
+        "nic"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "nubra_valley",
+      "name": "Nubra Valley",
+      "file": "nubra_valley.json",
+      "searchTokens": [
+        "nub",
+        "valley",
+        "val",
+        "nubra valley",
+        "nubra"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "nuremberg",
+      "name": "Nuremberg",
+      "file": "nuremberg.json",
+      "searchTokens": [
+        "nur",
+        "nuremberg"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "okinawa",
+      "name": "Okinawa",
+      "file": "okinawa.json",
+      "searchTokens": [
+        "oki",
+        "okinawa"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "ooty",
+      "name": "Ooty",
+      "file": "ooty.json",
+      "searchTokens": [
+        "ooty",
+        "oot"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "orchha",
+      "name": "Orchha",
+      "file": "orchha.json",
+      "searchTokens": [
+        "orc",
+        "orchha"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "orlando",
+      "name": "Orlando",
+      "file": "orlando.json",
+      "searchTokens": [
+        "orlando",
+        "orl"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "osaka",
+      "name": "Osaka",
+      "file": "osaka.json",
+      "searchTokens": [
+        "osa",
+        "osaka"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "osian",
+      "name": "Osian",
+      "file": "osian.json",
+      "searchTokens": [
+        "osi",
+        "osian"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "oslo",
+      "name": "Oslo",
+      "file": "oslo.json",
+      "searchTokens": [
+        "osl",
+        "oslo"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "ottawa",
+      "name": "Ottawa",
+      "file": "ottawa.json",
+      "searchTokens": [
+        "ott",
+        "ottawa"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "pachmarhi",
+      "name": "Pachmarhi",
+      "file": "pachmarhi.json",
+      "searchTokens": [
+        "pac",
+        "pachmarhi"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "pahalgam",
+      "name": "Pahalgam",
+      "file": "pahalgam.json",
+      "searchTokens": [
+        "pah",
+        "pahalgam"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "palawan",
+      "name": "Palawan",
+      "file": "palawan.json",
+      "searchTokens": [
+        "palawan",
+        "pal"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "panama_city",
+      "name": "Panama City",
+      "file": "panama_city.json",
+      "searchTokens": [
+        "panama city",
+        "city",
+        "cit",
+        "panama",
+        "pan"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "panchgani",
+      "name": "Panchgani",
+      "file": "panchgani.json",
+      "searchTokens": [
+        "panchgani",
+        "pan"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "pangong_tso",
+      "name": "Pangong Tso",
+      "file": "pangong_tso.json",
+      "searchTokens": [
+        "pan",
+        "tso",
+        "pangong tso",
+        "pangong"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "paphos",
+      "name": "Paphos",
+      "file": "paphos.json",
+      "searchTokens": [
+        "pap",
+        "paphos"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "paris",
+      "name": "Paris",
+      "file": "paris.json",
+      "searchTokens": [
+        "paris",
+        "par"
+      ],
+      "popularity": 100,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "pattaya",
+      "name": "Pattaya",
+      "file": "pattaya.json",
+      "searchTokens": [
+        "pattaya",
+        "pat"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "pelling",
+      "name": "Pelling",
+      "file": "pelling.json",
+      "searchTokens": [
+        "pelling",
+        "pel"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "penang",
+      "name": "Penang",
+      "file": "penang.json",
+      "searchTokens": [
+        "pen",
+        "penang"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "perth",
+      "name": "Perth",
+      "file": "perth.json",
+      "searchTokens": [
+        "per",
+        "perth"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "petra",
+      "name": "Petra",
+      "file": "petra.json",
+      "searchTokens": [
+        "pet",
+        "petra"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "philadelphia",
+      "name": "Philadelphia",
+      "file": "philadelphia.json",
+      "searchTokens": [
+        "phi",
+        "philadelphia"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "phnom_penh",
+      "name": "Phnom Penh",
+      "file": "phnom_penh.json",
+      "searchTokens": [
+        "phnom",
+        "pen",
+        "phnom penh",
+        "phn",
+        "penh"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "phu_quoc",
+      "name": "Phu Quoc",
+      "file": "phu_quoc.json",
+      "searchTokens": [
+        "quo",
+        "phu quoc",
+        "quoc",
+        "phu"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "phuket",
+      "name": "Phuket",
+      "file": "phuket.json",
+      "searchTokens": [
+        "phuket",
+        "phu"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "pokhara",
+      "name": "Pokhara",
+      "file": "pokhara.json",
+      "searchTokens": [
+        "pokhara",
+        "pok"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "pondicherry",
+      "name": "Pondicherry",
+      "file": "pondicherry.json",
+      "searchTokens": [
+        "pon",
+        "pondicherry"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "poovar",
+      "name": "Poovar",
+      "file": "poovar.json",
+      "searchTokens": [
+        "poo",
+        "poovar"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "port_blair",
+      "name": "Port Blair",
+      "file": "port_blair.json",
+      "searchTokens": [
+        "bla",
+        "port",
+        "port blair",
+        "blair",
+        "por"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "portland",
+      "name": "Portland",
+      "file": "portland.json",
+      "searchTokens": [
+        "portland",
+        "por"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "porto",
+      "name": "Porto",
+      "file": "porto.json",
+      "searchTokens": [
+        "porto",
+        "por"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "prague",
+      "name": "Prague",
+      "file": "prague.json",
+      "searchTokens": [
+        "pra",
+        "prague"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "pretoria",
+      "name": "Pretoria",
+      "file": "pretoria.json",
+      "searchTokens": [
+        "pre",
+        "pretoria"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "pune",
+      "name": "Pune",
+      "file": "pune.json",
+      "searchTokens": [
+        "pune",
+        "pun"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "puri",
+      "name": "Puri",
+      "file": "puri.json",
+      "searchTokens": [
+        "pur",
+        "puri"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "pushkar",
+      "name": "Pushkar",
+      "file": "pushkar.json",
+      "searchTokens": [
+        "pus",
+        "pushkar"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "quebec_city",
+      "name": "Quebec City",
+      "file": "quebec_city.json",
+      "searchTokens": [
+        "city",
+        "cit",
+        "quebec city",
+        "quebec",
+        "que"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "queenstown",
+      "name": "Queenstown",
+      "file": "queenstown.json",
+      "searchTokens": [
+        "queenstown",
+        "que"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "quito",
+      "name": "Quito",
+      "file": "quito.json",
+      "searchTokens": [
+        "qui",
+        "quito"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "rameswaram",
+      "name": "Rameswaram",
+      "file": "rameswaram.json",
+      "searchTokens": [
+        "rameswaram",
+        "ram"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "rann_of_kutch",
+      "name": "Rann Of Kutch",
+      "file": "rann_of_kutch.json",
+      "searchTokens": [
+        "kut",
+        "ran",
+        "kutch",
+        "of",
+        "rann of kutch",
+        "rann"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "ranthambore",
+      "name": "Ranthambore",
+      "file": "ranthambore.json",
+      "searchTokens": [
+        "ran",
+        "ranthambore"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "ratnagiri",
+      "name": "Ratnagiri",
+      "file": "ratnagiri.json",
+      "searchTokens": [
+        "ratnagiri",
+        "rat"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "ravangla",
+      "name": "Ravangla",
+      "file": "ravangla.json",
+      "searchTokens": [
+        "ravangla",
+        "rav"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "reykjavik",
+      "name": "Reykjavik",
+      "file": "reykjavik.json",
+      "searchTokens": [
+        "reykjavik",
+        "rey"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "riga",
+      "name": "Riga",
+      "file": "riga.json",
+      "searchTokens": [
+        "riga",
+        "rig"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "rio_de_janeiro",
+      "name": "Rio De Janeiro",
+      "file": "rio_de_janeiro.json",
+      "searchTokens": [
+        "rio de janeiro",
+        "jan",
+        "rio",
+        "de",
+        "janeiro"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "rishikesh",
+      "name": "Rishikesh",
+      "file": "rishikesh.json",
+      "searchTokens": [
+        "rishikesh",
+        "ris"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "rome",
+      "name": "Rome",
+      "file": "rome.json",
+      "searchTokens": [
+        "rome",
+        "rom"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "rotterdam",
+      "name": "Rotterdam",
+      "file": "rotterdam.json",
+      "searchTokens": [
+        "rot",
+        "rotterdam"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "sakleshpur",
+      "name": "Sakleshpur",
+      "file": "sakleshpur.json",
+      "searchTokens": [
+        "sak",
+        "sakleshpur"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "salzburg",
+      "name": "Salzburg",
+      "file": "salzburg.json",
+      "searchTokens": [
+        "salzburg",
+        "sal"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "san-francisco",
+      "name": "San-Francisco",
+      "file": "san-francisco.json",
+      "searchTokens": [
+        "san",
+        "san-francisco"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "san_diego",
+      "name": "San Diego",
+      "file": "san_diego.json",
+      "searchTokens": [
+        "san diego",
+        "san",
+        "die",
+        "diego"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "san_francisco",
+      "name": "San Francisco",
+      "file": "san_francisco.json",
+      "searchTokens": [
+        "francisco",
+        "san",
+        "fra",
+        "san francisco"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "san_jose",
+      "name": "San Jose",
+      "file": "san_jose.json",
+      "searchTokens": [
+        "jose",
+        "san",
+        "san jose",
+        "jos"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "san_juan",
+      "name": "San Juan",
+      "file": "san_juan.json",
+      "searchTokens": [
+        "san juan",
+        "san",
+        "juan",
+        "jua"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "sangla",
+      "name": "Sangla",
+      "file": "sangla.json",
+      "searchTokens": [
+        "san",
+        "sangla"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "santiago",
+      "name": "Santiago",
+      "file": "santiago.json",
+      "searchTokens": [
+        "san",
+        "santiago"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "santorini",
+      "name": "Santorini",
+      "file": "santorini.json",
+      "searchTokens": [
+        "santorini",
+        "san"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "sao_paulo",
+      "name": "Sao Paulo",
+      "file": "sao_paulo.json",
+      "searchTokens": [
+        "sao paulo",
+        "pau",
+        "sao",
+        "paulo"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "sapa",
+      "name": "Sapa",
+      "file": "sapa.json",
+      "searchTokens": [
+        "sap",
+        "sapa"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "sapporo",
+      "name": "Sapporo",
+      "file": "sapporo.json",
+      "searchTokens": [
+        "sapporo",
+        "sap"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "saputara",
+      "name": "Saputara",
+      "file": "saputara.json",
+      "searchTokens": [
+        "saputara",
+        "sap"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "sarajevo",
+      "name": "Sarajevo",
+      "file": "sarajevo.json",
+      "searchTokens": [
+        "sar",
+        "sarajevo"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "sarchu",
+      "name": "Sarchu",
+      "file": "sarchu.json",
+      "searchTokens": [
+        "sar",
+        "sarchu"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "savannah",
+      "name": "Savannah",
+      "file": "savannah.json",
+      "searchTokens": [
+        "savannah",
+        "sav"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "seattle",
+      "name": "Seattle",
+      "file": "seattle.json",
+      "searchTokens": [
+        "sea",
+        "seattle"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "seville",
+      "name": "Seville",
+      "file": "seville.json",
+      "searchTokens": [
+        "sev",
+        "seville"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "shanghai",
+      "name": "Shanghai",
+      "file": "shanghai.json",
+      "searchTokens": [
+        "shanghai",
+        "sha"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "shillong",
+      "name": "Shillong",
+      "file": "shillong.json",
+      "searchTokens": [
+        "shi",
+        "shillong"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "shimla",
+      "name": "Shimla",
+      "file": "shimla.json",
+      "searchTokens": [
+        "shi",
+        "shimla"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "shoja",
+      "name": "Shoja",
+      "file": "shoja.json",
+      "searchTokens": [
+        "sho",
+        "shoja"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "siargao",
+      "name": "Siargao",
+      "file": "siargao.json",
+      "searchTokens": [
+        "siargao",
+        "sia"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "siem_reap",
+      "name": "Siem Reap",
+      "file": "siem_reap.json",
+      "searchTokens": [
+        "siem",
+        "reap",
+        "rea",
+        "siem reap",
+        "sie"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "singapore",
+      "name": "Singapore",
+      "file": "singapore.json",
+      "searchTokens": [
+        "singapore",
+        "sin"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "sintra",
+      "name": "Sintra",
+      "file": "sintra.json",
+      "searchTokens": [
+        "sin",
+        "sintra"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "skopje",
+      "name": "Skopje",
+      "file": "skopje.json",
+      "searchTokens": [
+        "sko",
+        "skopje"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "sofia",
+      "name": "Sofia",
+      "file": "sofia.json",
+      "searchTokens": [
+        "sofia",
+        "sof"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "somnath",
+      "name": "Somnath",
+      "file": "somnath.json",
+      "searchTokens": [
+        "somnath",
+        "som"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "sonamarg",
+      "name": "Sonamarg",
+      "file": "sonamarg.json",
+      "searchTokens": [
+        "sonamarg",
+        "son"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "spiti_valley",
+      "name": "Spiti Valley",
+      "file": "spiti_valley.json",
+      "searchTokens": [
+        "valley",
+        "val",
+        "spiti valley",
+        "spi",
+        "spiti"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "split",
+      "name": "Split",
+      "file": "split.json",
+      "searchTokens": [
+        "spl",
+        "split"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "srinagar",
+      "name": "Srinagar",
+      "file": "srinagar.json",
+      "searchTokens": [
+        "srinagar",
+        "sri"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "stockholm",
+      "name": "Stockholm",
+      "file": "stockholm.json",
+      "searchTokens": [
+        "stockholm",
+        "sto"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "strasbourg",
+      "name": "Strasbourg",
+      "file": "strasbourg.json",
+      "searchTokens": [
+        "str",
+        "strasbourg"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "surabaya",
+      "name": "Surabaya",
+      "file": "surabaya.json",
+      "searchTokens": [
+        "surabaya",
+        "sur"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "sydney",
+      "name": "Sydney",
+      "file": "sydney.json",
+      "searchTokens": [
+        "syd",
+        "sydney"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "taipei",
+      "name": "Taipei",
+      "file": "taipei.json",
+      "searchTokens": [
+        "tai",
+        "taipei"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "tallinn",
+      "name": "Tallinn",
+      "file": "tallinn.json",
+      "searchTokens": [
+        "tal",
+        "tallinn"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "tarkarli",
+      "name": "Tarkarli",
+      "file": "tarkarli.json",
+      "searchTokens": [
+        "tarkarli",
+        "tar"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "tawang",
+      "name": "Tawang",
+      "file": "tawang.json",
+      "searchTokens": [
+        "taw",
+        "tawang"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "tbilisi",
+      "name": "Tbilisi",
+      "file": "tbilisi.json",
+      "searchTokens": [
+        "tbilisi",
+        "tbi"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "thekkady",
+      "name": "Thekkady",
+      "file": "thekkady.json",
+      "searchTokens": [
+        "thekkady",
+        "the"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "tirana",
+      "name": "Tirana",
+      "file": "tirana.json",
+      "searchTokens": [
+        "tir",
+        "tirana"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "tirthan_valley",
+      "name": "Tirthan Valley",
+      "file": "tirthan_valley.json",
+      "searchTokens": [
+        "tirthan valley",
+        "tir",
+        "tirthan",
+        "valley",
+        "val"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "tirupati",
+      "name": "Tirupati",
+      "file": "tirupati.json",
+      "searchTokens": [
+        "tir",
+        "tirupati"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "tokyo",
+      "name": "Tokyo",
+      "file": "tokyo.json",
+      "searchTokens": [
+        "tokyo",
+        "tok"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "toronto",
+      "name": "Toronto",
+      "file": "toronto.json",
+      "searchTokens": [
+        "toronto",
+        "tor"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "tosh",
+      "name": "Tosh",
+      "file": "tosh.json",
+      "searchTokens": [
+        "tosh",
+        "tos"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "trivandrum",
+      "name": "Trivandrum",
+      "file": "trivandrum.json",
+      "searchTokens": [
+        "trivandrum",
+        "tri"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "tulum",
+      "name": "Tulum",
+      "file": "tulum.json",
+      "searchTokens": [
+        "tulum",
+        "tul"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "turin",
+      "name": "Turin",
+      "file": "turin.json",
+      "searchTokens": [
+        "tur",
+        "turin"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "udaipur",
+      "name": "Udaipur",
+      "file": "udaipur.json",
+      "searchTokens": [
+        "udaipur",
+        "uda"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "udupi",
+      "name": "Udupi",
+      "file": "udupi.json",
+      "searchTokens": [
+        "udu",
+        "udupi"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "ujjain",
+      "name": "Ujjain",
+      "file": "ujjain.json",
+      "searchTokens": [
+        "ujjain",
+        "ujj"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "vagamon",
+      "name": "Vagamon",
+      "file": "vagamon.json",
+      "searchTokens": [
+        "vagamon",
+        "vag"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "valencia",
+      "name": "Valencia",
+      "file": "valencia.json",
+      "searchTokens": [
+        "val",
+        "valencia"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "valletta",
+      "name": "Valletta",
+      "file": "valletta.json",
+      "searchTokens": [
+        "valletta",
+        "val"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "valparai",
+      "name": "Valparai",
+      "file": "valparai.json",
+      "searchTokens": [
+        "valparai",
+        "val"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "valparaiso",
+      "name": "Valparaiso",
+      "file": "valparaiso.json",
+      "searchTokens": [
+        "valparaiso",
+        "val"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "vancouver",
+      "name": "Vancouver",
+      "file": "vancouver.json",
+      "searchTokens": [
+        "van",
+        "vancouver"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "varanasi",
+      "name": "Varanasi",
+      "file": "varanasi.json",
+      "searchTokens": [
+        "var",
+        "varanasi"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "varkala",
+      "name": "Varkala",
+      "file": "varkala.json",
+      "searchTokens": [
+        "varkala",
+        "var"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "vattakanal",
+      "name": "Vattakanal",
+      "file": "vattakanal.json",
+      "searchTokens": [
+        "vat",
+        "vattakanal"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "venice",
+      "name": "Venice",
+      "file": "venice.json",
+      "searchTokens": [
+        "ven",
+        "venice"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "verona",
+      "name": "Verona",
+      "file": "verona.json",
+      "searchTokens": [
+        "ver",
+        "verona"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "victoria",
+      "name": "Victoria",
+      "file": "victoria.json",
+      "searchTokens": [
+        "vic",
+        "victoria"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "vienna",
+      "name": "Vienna",
+      "file": "vienna.json",
+      "searchTokens": [
+        "vienna",
+        "vie"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "vientiane",
+      "name": "Vientiane",
+      "file": "vientiane.json",
+      "searchTokens": [
+        "vientiane",
+        "vie"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "vilnius",
+      "name": "Vilnius",
+      "file": "vilnius.json",
+      "searchTokens": [
+        "vil",
+        "vilnius"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "visakhapatnam",
+      "name": "Visakhapatnam",
+      "file": "visakhapatnam.json",
+      "searchTokens": [
+        "visakhapatnam",
+        "vis"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "warsaw",
+      "name": "Warsaw",
+      "file": "warsaw.json",
+      "searchTokens": [
+        "war",
+        "warsaw"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "washington_d.c.",
+      "name": "Washington D.C.",
+      "file": "washington_d.c..json",
+      "searchTokens": [
+        "d.c",
+        "d.c.",
+        "washington",
+        "washington d.c.",
+        "was"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "wayanad",
+      "name": "Wayanad",
+      "file": "wayanad.json",
+      "searchTokens": [
+        "wayanad",
+        "way"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "wellington",
+      "name": "Wellington",
+      "file": "wellington.json",
+      "searchTokens": [
+        "wellington",
+        "wel"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "xian",
+      "name": "Xian",
+      "file": "xian.json",
+      "searchTokens": [
+        "xia",
+        "xian"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "yelagiri",
+      "name": "Yelagiri",
+      "file": "yelagiri.json",
+      "searchTokens": [
+        "yelagiri",
+        "yel"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "yercaud",
+      "name": "Yercaud",
+      "file": "yercaud.json",
+      "searchTokens": [
+        "yercaud",
+        "yer"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "yogyakarta",
+      "name": "Yogyakarta",
+      "file": "yogyakarta.json",
+      "searchTokens": [
+        "yog",
+        "yogyakarta"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "zagreb",
+      "name": "Zagreb",
+      "file": "zagreb.json",
+      "searchTokens": [
+        "zagreb",
+        "zag"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "zanskar",
+      "name": "Zanskar",
+      "file": "zanskar.json",
+      "searchTokens": [
+        "zan",
+        "zanskar"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "zanzibar",
+      "name": "Zanzibar",
+      "file": "zanzibar.json",
+      "searchTokens": [
+        "zanzibar",
+        "zan"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "zermatt",
+      "name": "Zermatt",
+      "file": "zermatt.json",
+      "searchTokens": [
+        "zermatt",
+        "zer"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "ziro",
+      "name": "Ziro",
+      "file": "ziro.json",
+      "searchTokens": [
+        "zir",
+        "ziro"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "zuluk",
+      "name": "Zuluk",
+      "file": "zuluk.json",
+      "searchTokens": [
+        "zuluk",
+        "zul"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "zurich",
+      "name": "Zurich",
+      "file": "zurich.json",
+      "searchTokens": [
+        "zur",
+        "zurich"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    }
+  ]
+}

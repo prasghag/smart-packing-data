@@ -1,0 +1,1752 @@
+{
+  "abu": [
+    "abu_dhabi",
+    "abu_dhabi",
+    "mount_abu"
+  ],
+  "dha": [
+    "abu_dhabi",
+    "abu_dhabi",
+    "dhanaulti",
+    "dhanaulti",
+    "dhanushkodi",
+    "dhanushkodi",
+    "dharamshala",
+    "dharamshala"
+  ],
+  "ade": [
+    "adelaide",
+    "adelaide"
+  ],
+  "agr": [
+    "agra",
+    "agra"
+  ],
+  "agu": [
+    "agumbe",
+    "agumbe"
+  ],
+  "ahm": [
+    "ahmedabad",
+    "ahmedabad"
+  ],
+  "ajm": [
+    "ajmer",
+    "ajmer"
+  ],
+  "ala": [
+    "alappuzha",
+    "alappuzha"
+  ],
+  "ali": [
+    "alibaug",
+    "alibaug"
+  ],
+  "alm": [
+    "almaty",
+    "almaty",
+    "almora",
+    "almora"
+  ],
+  "ama": [
+    "amarkantak",
+    "amarkantak"
+  ],
+  "amb": [
+    "amboli",
+    "amboli"
+  ],
+  "amm": [
+    "amman",
+    "amman"
+  ],
+  "amr": [
+    "amritsar",
+    "amritsar"
+  ],
+  "ams": [
+    "amsterdam",
+    "amsterdam"
+  ],
+  "ann": [
+    "annecy",
+    "annecy"
+  ],
+  "ant": [
+    "antalya",
+    "antalya",
+    "antigua",
+    "antigua",
+    "antwerp",
+    "antwerp"
+  ],
+  "ara": [
+    "araku_valley",
+    "araku_valley",
+    "araku_valley"
+  ],
+  "val": [
+    "araku_valley",
+    "araku_valley",
+    "aru_valley",
+    "aru_valley",
+    "dzukou_valley",
+    "dzukou_valley",
+    "gurez_valley",
+    "gurez_valley",
+    "nubra_valley",
+    "nubra_valley",
+    "spiti_valley",
+    "spiti_valley",
+    "tirthan_valley",
+    "tirthan_valley",
+    "valencia",
+    "valencia",
+    "valletta",
+    "valletta",
+    "valparai",
+    "valparai",
+    "valparaiso",
+    "valparaiso"
+  ],
+  "are": [
+    "arequipa",
+    "arequipa"
+  ],
+  "aru": [
+    "aru_valley",
+    "aru_valley"
+  ],
+  "ath": [
+    "athens",
+    "athens"
+  ],
+  "auc": [
+    "auckland",
+    "auckland"
+  ],
+  "aul": [
+    "auli",
+    "auli"
+  ],
+  "aur": [
+    "auroville",
+    "auroville"
+  ],
+  "aus": [
+    "austin",
+    "austin"
+  ],
+  "ayu": [
+    "ayutthaya",
+    "ayutthaya"
+  ],
+  "bad": [
+    "badami",
+    "badami"
+  ],
+  "bak": [
+    "baku",
+    "baku"
+  ],
+  "bal": [
+    "bali",
+    "bali"
+  ],
+  "ban": [
+    "bandipur",
+    "bandipur",
+    "bandung",
+    "bandung",
+    "banff",
+    "banff",
+    "bangkok",
+    "bangkok"
+  ],
+  "bar": [
+    "barcelona",
+    "barcelona"
+  ],
+  "bat": [
+    "bath",
+    "bath"
+  ],
+  "bei": [
+    "beijing",
+    "beijing",
+    "beirut",
+    "beirut"
+  ],
+  "bek": [
+    "bekal",
+    "bekal"
+  ],
+  "bel": [
+    "belfast",
+    "belfast",
+    "belgrade",
+    "belgrade"
+  ],
+  "ben": [
+    "bengaluru",
+    "bengaluru"
+  ],
+  "ber": [
+    "bergen",
+    "bergen",
+    "berlin",
+    "berlin",
+    "bern",
+    "bern"
+  ],
+  "bha": [
+    "bhandardara",
+    "bhandardara",
+    "bharatpur",
+    "bharatpur"
+  ],
+  "bhi": [
+    "bhimtal",
+    "bhimtal"
+  ],
+  "bhu": [
+    "bhubaneswar",
+    "bhubaneswar",
+    "bhuj",
+    "bhuj"
+  ],
+  "bik": [
+    "bikaner",
+    "bikaner"
+  ],
+  "bil": [
+    "bilbao",
+    "bilbao",
+    "bir_billing",
+    "bir_billing"
+  ],
+  "bir": [
+    "bir_billing",
+    "bir_billing"
+  ],
+  "bod": [
+    "bodh_gaya",
+    "bodh_gaya",
+    "bodh_gaya"
+  ],
+  "gay": [
+    "bodh_gaya",
+    "bodh_gaya"
+  ],
+  "bog": [
+    "bogota",
+    "bogota"
+  ],
+  "boh": [
+    "bohol",
+    "bohol"
+  ],
+  "bol": [
+    "bologna",
+    "bologna"
+  ],
+  "bom": [
+    "bomdila",
+    "bomdila"
+  ],
+  "bor": [
+    "bora_bora",
+    "bora_bora",
+    "bora_bora",
+    "boracay",
+    "boracay",
+    "bordeaux",
+    "bordeaux"
+  ],
+  "bos": [
+    "boston",
+    "boston"
+  ],
+  "bra": [
+    "bratislava",
+    "bratislava"
+  ],
+  "bri": [
+    "brisbane",
+    "brisbane"
+  ],
+  "bru": [
+    "bruges",
+    "bruges",
+    "brussels",
+    "brussels"
+  ],
+  "buc": [
+    "bucharest",
+    "bucharest"
+  ],
+  "bud": [
+    "budapest",
+    "budapest"
+  ],
+  "air": [
+    "buenos_aires",
+    "buenos_aires"
+  ],
+  "bue": [
+    "buenos_aires",
+    "buenos_aires",
+    "buenos_aires"
+  ],
+  "bun": [
+    "bundi",
+    "bundi"
+  ],
+  "bus": [
+    "busan",
+    "busan"
+  ],
+  "cai": [
+    "cairns",
+    "cairns",
+    "cairo",
+    "cairo"
+  ],
+  "cal": [
+    "calgary",
+    "calgary",
+    "cali",
+    "cali"
+  ],
+  "cam": [
+    "cameron_highlands",
+    "cameron_highlands",
+    "cameron_highlands"
+  ],
+  "hig": [
+    "cameron_highlands",
+    "cameron_highlands"
+  ],
+  "can": [
+    "cancun",
+    "cancun"
+  ],
+  "cap": [
+    "cape_town",
+    "cape_town",
+    "cape_town"
+  ],
+  "tow": [
+    "cape_town",
+    "cape_town"
+  ],
+  "car": [
+    "cardiff",
+    "cardiff",
+    "cartagena",
+    "cartagena"
+  ],
+  "cas": [
+    "casablanca",
+    "casablanca"
+  ],
+  "ceb": [
+    "cebu",
+    "cebu"
+  ],
+  "cha": [
+    "chakrata",
+    "chakrata",
+    "chandigarh",
+    "chandigarh",
+    "charleston",
+    "charleston"
+  ],
+  "che": [
+    "chengdu",
+    "chengdu",
+    "chennai",
+    "chennai",
+    "cherrapunji",
+    "cherrapunji"
+  ],
+  "mai": [
+    "chiang_mai"
+  ],
+  "chi": [
+    "chiang_mai",
+    "chiang_mai",
+    "chiang_mai",
+    "chiang_rai",
+    "chiang_rai",
+    "chiang_rai",
+    "chicago",
+    "chicago",
+    "chikhaldara",
+    "chikhaldara",
+    "chikmagalur",
+    "chikmagalur",
+    "chitkul",
+    "chitkul",
+    "chittorgarh",
+    "chittorgarh",
+    "ho_chi_minh_city"
+  ],
+  "rai": [
+    "chiang_rai"
+  ],
+  "cho": [
+    "chopta",
+    "chopta"
+  ],
+  "chr": [
+    "christchurch",
+    "christchurch"
+  ],
+  "col": [
+    "cologne",
+    "cologne",
+    "colombo",
+    "colombo"
+  ],
+  "coo": [
+    "coonoor",
+    "coonoor"
+  ],
+  "cop": [
+    "copenhagen",
+    "copenhagen"
+  ],
+  "cor": [
+    "cordoba",
+    "cordoba",
+    "cork",
+    "cork"
+  ],
+  "cus": [
+    "cusco",
+    "cusco"
+  ],
+  "nan": [
+    "da_nang",
+    "da_nang"
+  ],
+  "da ": [
+    "da_nang"
+  ],
+  "dak": [
+    "dakar",
+    "dakar"
+  ],
+  "dal": [
+    "dalhousie",
+    "dalhousie"
+  ],
+  "dam": [
+    "daman",
+    "daman"
+  ],
+  "dan": [
+    "dandeli",
+    "dandeli"
+  ],
+  "dap": [
+    "dapoli",
+    "dapoli"
+  ],
+  "dar": [
+    "darjeeling",
+    "darjeeling"
+  ],
+  "daw": [
+    "dawki",
+    "dawki"
+  ],
+  "del": [
+    "delhi",
+    "delhi"
+  ],
+  "den": [
+    "denver",
+    "denver"
+  ],
+  "dir": [
+    "dirang",
+    "dirang"
+  ],
+  "diu": [
+    "diu"
+  ],
+  "div": [
+    "diveagar",
+    "diveagar"
+  ],
+  "doh": [
+    "doha",
+    "doha"
+  ],
+  "dub": [
+    "dubai",
+    "dubai",
+    "dublin",
+    "dublin",
+    "dubrovnik",
+    "dubrovnik"
+  ],
+  "dwa": [
+    "dwarka",
+    "dwarka"
+  ],
+  "dzu": [
+    "dzukou_valley",
+    "dzukou_valley",
+    "dzukou_valley"
+  ],
+  "edi": [
+    "edinburgh",
+    "edinburgh"
+  ],
+  "flo": [
+    "florence",
+    "florence"
+  ],
+  "fra": [
+    "frankfurt",
+    "frankfurt",
+    "san_francisco",
+    "san_francisco"
+  ],
+  "fuk": [
+    "fukuoka",
+    "fukuoka"
+  ],
+  "gal": [
+    "galway",
+    "galway"
+  ],
+  "gan": [
+    "gandikota",
+    "gandikota",
+    "gangtok",
+    "gangtok",
+    "ganpatipule",
+    "ganpatipule"
+  ],
+  "gav": [
+    "gavi",
+    "gavi"
+  ],
+  "gen": [
+    "geneva",
+    "geneva",
+    "genoa",
+    "genoa"
+  ],
+  "ghe": [
+    "ghent",
+    "ghent"
+  ],
+  "gla": [
+    "glasgow",
+    "glasgow"
+  ],
+  "goa": [
+    "goa"
+  ],
+  "gok": [
+    "gokarna",
+    "gokarna"
+  ],
+  "coa": [
+    "gold_coast",
+    "gold_coast"
+  ],
+  "gol": [
+    "gold_coast",
+    "gold_coast",
+    "gold_coast"
+  ],
+  "got": [
+    "gothenburg",
+    "gothenburg"
+  ],
+  "gra": [
+    "granada",
+    "granada",
+    "graz",
+    "graz"
+  ],
+  "guh": [
+    "guhagar",
+    "guhagar"
+  ],
+  "gul": [
+    "gulmarg",
+    "gulmarg"
+  ],
+  "gur": [
+    "gurez_valley",
+    "gurez_valley",
+    "gurez_valley"
+  ],
+  "gwa": [
+    "gwalior",
+    "gwalior"
+  ],
+  "haf": [
+    "haflong",
+    "haflong"
+  ],
+  "hal": [
+    "hallstatt",
+    "hallstatt"
+  ],
+  "ham": [
+    "hamburg",
+    "hamburg",
+    "hampi",
+    "hampi"
+  ],
+  "han": [
+    "hanle",
+    "hanle",
+    "hanoi",
+    "hanoi"
+  ],
+  "har": [
+    "haridwar",
+    "haridwar"
+  ],
+  "hav": [
+    "havana",
+    "havana",
+    "havelock_island",
+    "havelock_island",
+    "havelock_island"
+  ],
+  "isl": [
+    "havelock_island",
+    "havelock_island",
+    "jeju_island",
+    "jeju_island"
+  ],
+  "hel": [
+    "helsinki",
+    "helsinki"
+  ],
+  "hir": [
+    "hiroshima",
+    "hiroshima"
+  ],
+  "ho ": [
+    "ho_chi_minh_city"
+  ],
+  "cit": [
+    "ho_chi_minh_city",
+    "ho_chi_minh_city",
+    "luxembourg_city",
+    "luxembourg_city",
+    "mexico_city",
+    "mexico_city",
+    "new_york_city",
+    "new_york_city",
+    "panama_city",
+    "panama_city",
+    "quebec_city",
+    "quebec_city"
+  ],
+  "min": [
+    "ho_chi_minh_city",
+    "ho_chi_minh_city"
+  ],
+  "hob": [
+    "hobart",
+    "hobart"
+  ],
+  "hoi": [
+    "hoi_an",
+    "hoi_an"
+  ],
+  "hon": [
+    "hong_kong",
+    "hong_kong",
+    "hong_kong",
+    "honolulu",
+    "honolulu"
+  ],
+  "kon": [
+    "hong_kong",
+    "hong_kong"
+  ],
+  "hor": [
+    "horsley_hills",
+    "horsley_hills",
+    "horsley_hills"
+  ],
+  "hil": [
+    "horsley_hills",
+    "horsley_hills",
+    "kolli_hills",
+    "kolli_hills"
+  ],
+  "hin": [
+    "hua_hin"
+  ],
+  "hua": [
+    "hua_hin",
+    "hua_hin"
+  ],
+  "hue": [
+    "hue"
+  ],
+  "hva": [
+    "hvar",
+    "hvar"
+  ],
+  "hyd": [
+    "hyderabad",
+    "hyderabad"
+  ],
+  "iga": [
+    "igatpuri",
+    "igatpuri"
+  ],
+  "inn": [
+    "innsbruck",
+    "innsbruck"
+  ],
+  "int": [
+    "interlaken",
+    "interlaken"
+  ],
+  "ipo": [
+    "ipoh",
+    "ipoh"
+  ],
+  "ist": [
+    "istanbul",
+    "istanbul"
+  ],
+  "jag": [
+    "jagdalpur",
+    "jagdalpur"
+  ],
+  "jai": [
+    "jaipur",
+    "jaipur",
+    "jaisalmer",
+    "jaisalmer"
+  ],
+  "jak": [
+    "jakarta",
+    "jakarta"
+  ],
+  "jej": [
+    "jeju_island",
+    "jeju_island",
+    "jeju_island"
+  ],
+  "jer": [
+    "jerusalem",
+    "jerusalem"
+  ],
+  "jib": [
+    "jibhi",
+    "jibhi"
+  ],
+  "jod": [
+    "jodhpur",
+    "jodhpur"
+  ],
+  "joh": [
+    "johannesburg",
+    "johannesburg"
+  ],
+  "kaa": [
+    "kaas_plateau",
+    "kaas_plateau",
+    "kaas_plateau"
+  ],
+  "pla": [
+    "kaas_plateau",
+    "kaas_plateau"
+  ],
+  "kab": [
+    "kabini",
+    "kabini"
+  ],
+  "kal": [
+    "kalimpong",
+    "kalimpong"
+  ],
+  "kan": [
+    "kanatal",
+    "kanatal",
+    "kanyakumari",
+    "kanyakumari"
+  ],
+  "kar": [
+    "kargil",
+    "kargil",
+    "karjat",
+    "karjat"
+  ],
+  "kas": [
+    "kasauli",
+    "kasauli",
+    "kasol",
+    "kasol"
+  ],
+  "kat": [
+    "kathmandu",
+    "kathmandu"
+  ],
+  "kau": [
+    "kausani",
+    "kausani"
+  ],
+  "kaz": [
+    "kaza",
+    "kaza",
+    "kaziranga",
+    "kaziranga"
+  ],
+  "key": [
+    "keylong",
+    "keylong"
+  ],
+  "kha": [
+    "khajjiar",
+    "khajjiar",
+    "khajuraho",
+    "khajuraho",
+    "khandala",
+    "khandala"
+  ],
+  "khe": [
+    "kheerganga",
+    "kheerganga"
+  ],
+  "kin": [
+    "kinnaur",
+    "kinnaur",
+    "kota_kinabalu",
+    "kota_kinabalu"
+  ],
+  "koc": [
+    "kochi",
+    "kochi"
+  ],
+  "kod": [
+    "kodaikanal",
+    "kodaikanal"
+  ],
+  "koh": [
+    "koh_phangan",
+    "koh_phangan",
+    "koh_samui",
+    "koh_samui"
+  ],
+  "pha": [
+    "koh_phangan",
+    "koh_phangan"
+  ],
+  "sam": [
+    "koh_samui",
+    "koh_samui"
+  ],
+  "kol": [
+    "kolad",
+    "kolad",
+    "kolkata",
+    "kolkata",
+    "kolli_hills",
+    "kolli_hills",
+    "kolli_hills"
+  ],
+  "kot": [
+    "kota_kinabalu",
+    "kota_kinabalu",
+    "kota_kinabalu",
+    "kotor",
+    "kotor"
+  ],
+  "kov": [
+    "kovalam",
+    "kovalam"
+  ],
+  "kra": [
+    "krabi",
+    "krabi",
+    "krakow",
+    "krakow"
+  ],
+  "lum": [
+    "kuala_lumpur",
+    "kuala_lumpur"
+  ],
+  "kua": [
+    "kuala_lumpur",
+    "kuala_lumpur",
+    "kuala_lumpur"
+  ],
+  "kud": [
+    "kudremukh",
+    "kudremukh"
+  ],
+  "kum": [
+    "kumarakom",
+    "kumarakom",
+    "kumbhalgarh",
+    "kumbhalgarh"
+  ],
+  "kyo": [
+    "kyoto",
+    "kyoto"
+  ],
+  "paz": [
+    "la_paz"
+  ],
+  "la ": [
+    "la_paz"
+  ],
+  "lac": [
+    "lachung",
+    "lachung"
+  ],
+  "lan": [
+    "langkawi",
+    "langkawi",
+    "lansdowne",
+    "lansdowne"
+  ],
+  "las": [
+    "las_vegas",
+    "las_vegas"
+  ],
+  "veg": [
+    "las_vegas",
+    "las_vegas"
+  ],
+  "lav": [
+    "lavasa",
+    "lavasa"
+  ],
+  "leh": [
+    "leh"
+  ],
+  "lep": [
+    "lepakshi",
+    "lepakshi"
+  ],
+  "lim": [
+    "lima",
+    "lima"
+  ],
+  "lis": [
+    "lisbon",
+    "lisbon"
+  ],
+  "lju": [
+    "ljubljana",
+    "ljubljana"
+  ],
+  "lok": [
+    "loktak_lake",
+    "loktak_lake",
+    "loktak_lake"
+  ],
+  "lak": [
+    "loktak_lake",
+    "loktak_lake"
+  ],
+  "lom": [
+    "lombok",
+    "lombok"
+  ],
+  "lon": [
+    "lonavala",
+    "lonavala",
+    "london",
+    "london"
+  ],
+  "ang": [
+    "los_angeles",
+    "los_angeles"
+  ],
+  "los": [
+    "los_angeles",
+    "los_angeles"
+  ],
+  "lua": [
+    "luang_prabang",
+    "luang_prabang",
+    "luang_prabang"
+  ],
+  "pra": [
+    "luang_prabang",
+    "luang_prabang",
+    "prague",
+    "prague"
+  ],
+  "luc": [
+    "lucerne",
+    "lucerne"
+  ],
+  "lux": [
+    "luxembourg_city",
+    "luxembourg_city",
+    "luxembourg_city",
+    "luxor",
+    "luxor"
+  ],
+  "lyo": [
+    "lyon",
+    "lyon"
+  ],
+  "mac": [
+    "macau",
+    "macau"
+  ],
+  "mad": [
+    "madikeri",
+    "madikeri",
+    "madrid",
+    "madrid",
+    "madurai",
+    "madurai"
+  ],
+  "mah": [
+    "mahabaleshwar",
+    "mahabaleshwar"
+  ],
+  "maj": [
+    "majuli",
+    "majuli"
+  ],
+  "mal": [
+    "malacca",
+    "malacca",
+    "malaga",
+    "malaga",
+    "malana",
+    "malana",
+    "maldives",
+    "maldives"
+  ],
+  "man": [
+    "manali",
+    "manali",
+    "mandawa",
+    "mandawa",
+    "mandu",
+    "mandu",
+    "mangalore",
+    "mangalore",
+    "manila",
+    "manila"
+  ],
+  "mar": [
+    "marrakech",
+    "marrakech",
+    "marseille",
+    "marseille"
+  ],
+  "mat": [
+    "matheran",
+    "matheran",
+    "mathura",
+    "mathura"
+  ],
+  "mau": [
+    "maui",
+    "maui"
+  ],
+  "mcl": [
+    "mcleodganj",
+    "mcleodganj"
+  ],
+  "mec": [
+    "mechuka",
+    "mechuka"
+  ],
+  "med": [
+    "medellin",
+    "medellin"
+  ],
+  "mel": [
+    "melbourne",
+    "melbourne"
+  ],
+  "men": [
+    "mendoza",
+    "mendoza"
+  ],
+  "mex": [
+    "mexico-city",
+    "mexico-city",
+    "mexico_city",
+    "mexico_city",
+    "mexico_city"
+  ],
+  "mia": [
+    "miami",
+    "miami"
+  ],
+  "mil": [
+    "milan",
+    "milan"
+  ],
+  "mon": [
+    "montevideo",
+    "montevideo",
+    "montreal",
+    "montreal"
+  ],
+  "mou": [
+    "mount_abu",
+    "mount_abu",
+    "mount_abu"
+  ],
+  "muk": [
+    "mukteshwar",
+    "mukteshwar"
+  ],
+  "mum": [
+    "mumbai",
+    "mumbai"
+  ],
+  "mun": [
+    "munich",
+    "munich",
+    "munnar",
+    "munnar",
+    "munsiyari",
+    "munsiyari"
+  ],
+  "mur": [
+    "murud",
+    "murud",
+    "murudeshwar",
+    "murudeshwar"
+  ],
+  "mus": [
+    "muscat",
+    "muscat",
+    "mussoorie",
+    "mussoorie"
+  ],
+  "myk": [
+    "mykonos",
+    "mykonos"
+  ],
+  "mys": [
+    "mysore",
+    "mysore"
+  ],
+  "nai": [
+    "nainital",
+    "nainital",
+    "nairobi",
+    "nairobi"
+  ],
+  "nam": [
+    "namchi",
+    "namchi"
+  ],
+  "nap": [
+    "naples",
+    "naples"
+  ],
+  "nar": [
+    "nara",
+    "nara",
+    "narkanda",
+    "narkanda"
+  ],
+  "nas": [
+    "nassau",
+    "nassau"
+  ],
+  "net": [
+    "netarhat",
+    "netarhat"
+  ],
+  "new": [
+    "new-orleans",
+    "new-orleans",
+    "new-york",
+    "new-york",
+    "new_york_city",
+    "new_york_city"
+  ],
+  "yor": [
+    "new_york_city",
+    "new_york_city"
+  ],
+  "nha": [
+    "nha_trang",
+    "nha_trang"
+  ],
+  "tra": [
+    "nha_trang",
+    "nha_trang"
+  ],
+  "fal": [
+    "niagara_falls",
+    "niagara_falls"
+  ],
+  "nia": [
+    "niagara_falls",
+    "niagara_falls",
+    "niagara_falls"
+  ],
+  "nic": [
+    "nice",
+    "nice"
+  ],
+  "nub": [
+    "nubra_valley",
+    "nubra_valley",
+    "nubra_valley"
+  ],
+  "nur": [
+    "nuremberg",
+    "nuremberg"
+  ],
+  "oki": [
+    "okinawa",
+    "okinawa"
+  ],
+  "oot": [
+    "ooty",
+    "ooty"
+  ],
+  "orc": [
+    "orchha",
+    "orchha"
+  ],
+  "orl": [
+    "orlando",
+    "orlando"
+  ],
+  "osa": [
+    "osaka",
+    "osaka"
+  ],
+  "osi": [
+    "osian",
+    "osian"
+  ],
+  "osl": [
+    "oslo",
+    "oslo"
+  ],
+  "ott": [
+    "ottawa",
+    "ottawa"
+  ],
+  "pac": [
+    "pachmarhi",
+    "pachmarhi"
+  ],
+  "pah": [
+    "pahalgam",
+    "pahalgam"
+  ],
+  "pal": [
+    "palawan",
+    "palawan"
+  ],
+  "pan": [
+    "panama_city",
+    "panama_city",
+    "panama_city",
+    "panchgani",
+    "panchgani",
+    "pangong_tso",
+    "pangong_tso",
+    "pangong_tso"
+  ],
+  "tso": [
+    "pangong_tso"
+  ],
+  "pap": [
+    "paphos",
+    "paphos"
+  ],
+  "par": [
+    "paris",
+    "paris"
+  ],
+  "pat": [
+    "pattaya",
+    "pattaya"
+  ],
+  "pel": [
+    "pelling",
+    "pelling"
+  ],
+  "pen": [
+    "penang",
+    "penang",
+    "phnom_penh",
+    "phnom_penh"
+  ],
+  "per": [
+    "perth",
+    "perth"
+  ],
+  "pet": [
+    "petra",
+    "petra"
+  ],
+  "phi": [
+    "philadelphia",
+    "philadelphia"
+  ],
+  "phn": [
+    "phnom_penh",
+    "phnom_penh",
+    "phnom_penh"
+  ],
+  "quo": [
+    "phu_quoc",
+    "phu_quoc"
+  ],
+  "phu": [
+    "phu_quoc",
+    "phu_quoc",
+    "phuket",
+    "phuket"
+  ],
+  "pok": [
+    "pokhara",
+    "pokhara"
+  ],
+  "pon": [
+    "pondicherry",
+    "pondicherry"
+  ],
+  "poo": [
+    "poovar",
+    "poovar"
+  ],
+  "bla": [
+    "port_blair",
+    "port_blair"
+  ],
+  "por": [
+    "port_blair",
+    "port_blair",
+    "port_blair",
+    "portland",
+    "portland",
+    "porto",
+    "porto"
+  ],
+  "pre": [
+    "pretoria",
+    "pretoria"
+  ],
+  "pun": [
+    "pune",
+    "pune"
+  ],
+  "pur": [
+    "puri",
+    "puri"
+  ],
+  "pus": [
+    "pushkar",
+    "pushkar"
+  ],
+  "que": [
+    "quebec_city",
+    "quebec_city",
+    "quebec_city",
+    "queenstown",
+    "queenstown"
+  ],
+  "qui": [
+    "quito",
+    "quito"
+  ],
+  "ram": [
+    "rameswaram",
+    "rameswaram"
+  ],
+  "kut": [
+    "rann_of_kutch",
+    "rann_of_kutch"
+  ],
+  "ran": [
+    "rann_of_kutch",
+    "rann_of_kutch",
+    "rann_of_kutch",
+    "ranthambore",
+    "ranthambore"
+  ],
+  "rat": [
+    "ratnagiri",
+    "ratnagiri"
+  ],
+  "rav": [
+    "ravangla",
+    "ravangla"
+  ],
+  "rey": [
+    "reykjavik",
+    "reykjavik"
+  ],
+  "rig": [
+    "riga",
+    "riga"
+  ],
+  "rio": [
+    "rio_de_janeiro",
+    "rio_de_janeiro"
+  ],
+  "jan": [
+    "rio_de_janeiro",
+    "rio_de_janeiro"
+  ],
+  "ris": [
+    "rishikesh",
+    "rishikesh"
+  ],
+  "rom": [
+    "rome",
+    "rome"
+  ],
+  "rot": [
+    "rotterdam",
+    "rotterdam"
+  ],
+  "sak": [
+    "sakleshpur",
+    "sakleshpur"
+  ],
+  "sal": [
+    "salzburg",
+    "salzburg"
+  ],
+  "san": [
+    "san-francisco",
+    "san-francisco",
+    "san_diego",
+    "san_diego",
+    "san_francisco",
+    "san_francisco",
+    "san_jose",
+    "san_jose",
+    "san_juan",
+    "san_juan",
+    "sangla",
+    "sangla",
+    "santiago",
+    "santiago",
+    "santorini",
+    "santorini"
+  ],
+  "die": [
+    "san_diego",
+    "san_diego"
+  ],
+  "jos": [
+    "san_jose",
+    "san_jose"
+  ],
+  "jua": [
+    "san_juan",
+    "san_juan"
+  ],
+  "sao": [
+    "sao_paulo",
+    "sao_paulo"
+  ],
+  "pau": [
+    "sao_paulo",
+    "sao_paulo"
+  ],
+  "sap": [
+    "sapa",
+    "sapa",
+    "sapporo",
+    "sapporo",
+    "saputara",
+    "saputara"
+  ],
+  "sar": [
+    "sarajevo",
+    "sarajevo",
+    "sarchu",
+    "sarchu"
+  ],
+  "sav": [
+    "savannah",
+    "savannah"
+  ],
+  "sea": [
+    "seattle",
+    "seattle"
+  ],
+  "sev": [
+    "seville",
+    "seville"
+  ],
+  "sha": [
+    "shanghai",
+    "shanghai"
+  ],
+  "shi": [
+    "shillong",
+    "shillong",
+    "shimla",
+    "shimla"
+  ],
+  "sho": [
+    "shoja",
+    "shoja"
+  ],
+  "sia": [
+    "siargao",
+    "siargao"
+  ],
+  "sie": [
+    "siem_reap",
+    "siem_reap",
+    "siem_reap"
+  ],
+  "rea": [
+    "siem_reap",
+    "siem_reap"
+  ],
+  "sin": [
+    "singapore",
+    "singapore",
+    "sintra",
+    "sintra"
+  ],
+  "sko": [
+    "skopje",
+    "skopje"
+  ],
+  "sof": [
+    "sofia",
+    "sofia"
+  ],
+  "som": [
+    "somnath",
+    "somnath"
+  ],
+  "son": [
+    "sonamarg",
+    "sonamarg"
+  ],
+  "spi": [
+    "spiti_valley",
+    "spiti_valley",
+    "spiti_valley"
+  ],
+  "spl": [
+    "split",
+    "split"
+  ],
+  "sri": [
+    "srinagar",
+    "srinagar"
+  ],
+  "sto": [
+    "stockholm",
+    "stockholm"
+  ],
+  "str": [
+    "strasbourg",
+    "strasbourg"
+  ],
+  "sur": [
+    "surabaya",
+    "surabaya"
+  ],
+  "syd": [
+    "sydney",
+    "sydney"
+  ],
+  "tai": [
+    "taipei",
+    "taipei"
+  ],
+  "tal": [
+    "tallinn",
+    "tallinn"
+  ],
+  "tar": [
+    "tarkarli",
+    "tarkarli"
+  ],
+  "taw": [
+    "tawang",
+    "tawang"
+  ],
+  "tbi": [
+    "tbilisi",
+    "tbilisi"
+  ],
+  "the": [
+    "thekkady",
+    "thekkady"
+  ],
+  "tir": [
+    "tirana",
+    "tirana",
+    "tirthan_valley",
+    "tirthan_valley",
+    "tirthan_valley",
+    "tirupati",
+    "tirupati"
+  ],
+  "tok": [
+    "tokyo",
+    "tokyo"
+  ],
+  "tor": [
+    "toronto",
+    "toronto"
+  ],
+  "tos": [
+    "tosh",
+    "tosh"
+  ],
+  "tri": [
+    "trivandrum",
+    "trivandrum"
+  ],
+  "tul": [
+    "tulum",
+    "tulum"
+  ],
+  "tur": [
+    "turin",
+    "turin"
+  ],
+  "uda": [
+    "udaipur",
+    "udaipur"
+  ],
+  "udu": [
+    "udupi",
+    "udupi"
+  ],
+  "ujj": [
+    "ujjain",
+    "ujjain"
+  ],
+  "vag": [
+    "vagamon",
+    "vagamon"
+  ],
+  "van": [
+    "vancouver",
+    "vancouver"
+  ],
+  "var": [
+    "varanasi",
+    "varanasi",
+    "varkala",
+    "varkala"
+  ],
+  "vat": [
+    "vattakanal",
+    "vattakanal"
+  ],
+  "ven": [
+    "venice",
+    "venice"
+  ],
+  "ver": [
+    "verona",
+    "verona"
+  ],
+  "vic": [
+    "victoria",
+    "victoria"
+  ],
+  "vie": [
+    "vienna",
+    "vienna",
+    "vientiane",
+    "vientiane"
+  ],
+  "vil": [
+    "vilnius",
+    "vilnius"
+  ],
+  "vis": [
+    "visakhapatnam",
+    "visakhapatnam"
+  ],
+  "war": [
+    "warsaw",
+    "warsaw"
+  ],
+  "d.c": [
+    "washington_d.c.",
+    "washington_d.c."
+  ],
+  "was": [
+    "washington_d.c.",
+    "washington_d.c.",
+    "washington_d.c."
+  ],
+  "way": [
+    "wayanad",
+    "wayanad"
+  ],
+  "wel": [
+    "wellington",
+    "wellington"
+  ],
+  "xia": [
+    "xian",
+    "xian"
+  ],
+  "yel": [
+    "yelagiri",
+    "yelagiri"
+  ],
+  "yer": [
+    "yercaud",
+    "yercaud"
+  ],
+  "yog": [
+    "yogyakarta",
+    "yogyakarta"
+  ],
+  "zag": [
+    "zagreb",
+    "zagreb"
+  ],
+  "zan": [
+    "zanskar",
+    "zanskar",
+    "zanzibar",
+    "zanzibar"
+  ],
+  "zer": [
+    "zermatt",
+    "zermatt"
+  ],
+  "zir": [
+    "ziro",
+    "ziro"
+  ],
+  "zul": [
+    "zuluk",
+    "zuluk"
+  ],
+  "zur": [
+    "zurich",
+    "zurich"
+  ]
+}
