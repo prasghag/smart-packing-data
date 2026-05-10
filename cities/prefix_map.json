@@ -1,8 +1,11 @@
 {
-  "abu": [
-    "abu_dhabi",
-    "abu_dhabi",
-    "mount_abu"
+  "aal": [
+    "aalo",
+    "aalo"
+  ],
+  "abh": [
+    "abha",
+    "abha"
   ],
   "dha": [
     "abu_dhabi",
@@ -13,6 +16,11 @@
     "dhanushkodi",
     "dharamshala",
     "dharamshala"
+  ],
+  "abu": [
+    "abu_dhabi",
+    "abu_dhabi",
+    "mount_abu"
   ],
   "ade": [
     "adelaide",
@@ -33,6 +41,12 @@
   "ajm": [
     "ajmer",
     "ajmer"
+  ],
+  "al ": [
+    "al_ula"
+  ],
+  "ula": [
+    "al_ula"
   ],
   "ala": [
     "alappuzha",
@@ -68,6 +82,10 @@
     "amsterdam",
     "amsterdam"
   ],
+  "ani": [
+    "anini",
+    "anini"
+  ],
   "ann": [
     "annecy",
     "annecy"
@@ -79,11 +97,6 @@
     "antigua",
     "antwerp",
     "antwerp"
-  ],
-  "ara": [
-    "araku_valley",
-    "araku_valley",
-    "araku_valley"
   ],
   "val": [
     "araku_valley",
@@ -108,6 +121,11 @@
     "valparai",
     "valparaiso",
     "valparaiso"
+  ],
+  "ara": [
+    "araku_valley",
+    "araku_valley",
+    "araku_valley"
   ],
   "are": [
     "arequipa",
@@ -200,6 +218,8 @@
     "bern"
   ],
   "bha": [
+    "bhalukpong",
+    "bhalukpong",
     "bhandardara",
     "bhandardara",
     "bharatpur",
@@ -229,12 +249,12 @@
     "bir_billing",
     "bir_billing"
   ],
-  "bod": [
-    "bodh_gaya",
+  "gay": [
     "bodh_gaya",
     "bodh_gaya"
   ],
-  "gay": [
+  "bod": [
+    "bodh_gaya",
     "bodh_gaya",
     "bodh_gaya"
   ],
@@ -289,12 +309,12 @@
     "budapest",
     "budapest"
   ],
-  "air": [
+  "bue": [
+    "buenos_aires",
     "buenos_aires",
     "buenos_aires"
   ],
-  "bue": [
-    "buenos_aires",
+  "air": [
     "buenos_aires",
     "buenos_aires"
   ],
@@ -359,6 +379,8 @@
     "chakrata",
     "chandigarh",
     "chandigarh",
+    "changlang",
+    "changlang",
     "charleston",
     "charleston"
   ],
@@ -369,9 +391,6 @@
     "chennai",
     "cherrapunji",
     "cherrapunji"
-  ],
-  "mai": [
-    "chiang_mai"
   ],
   "chi": [
     "chiang_mai",
@@ -391,6 +410,9 @@
     "chittorgarh",
     "chittorgarh",
     "ho_chi_minh_city"
+  ],
+  "mai": [
+    "chiang_mai"
   ],
   "rai": [
     "chiang_rai"
@@ -427,11 +449,11 @@
     "cusco",
     "cusco"
   ],
-  "nan": [
-    "da_nang",
+  "da ": [
     "da_nang"
   ],
-  "da ": [
+  "nan": [
+    "da_nang",
     "da_nang"
   ],
   "dak": [
@@ -444,7 +466,9 @@
   ],
   "dam": [
     "daman",
-    "daman"
+    "daman",
+    "dammam",
+    "dammam"
   ],
   "dan": [
     "dandeli",
@@ -452,7 +476,9 @@
   ],
   "dap": [
     "dapoli",
-    "dapoli"
+    "dapoli",
+    "daporijo",
+    "daporijo"
   ],
   "dar": [
     "darjeeling",
@@ -630,6 +656,14 @@
     "jeju_island",
     "jeju_island"
   ],
+  "haw": [
+    "hawai",
+    "hawai"
+  ],
+  "hay": [
+    "hayuliang",
+    "hayuliang"
+  ],
   "hel": [
     "helsinki",
     "helsinki"
@@ -637,9 +671,6 @@
   "hir": [
     "hiroshima",
     "hiroshima"
-  ],
-  "ho ": [
-    "ho_chi_minh_city"
   ],
   "cit": [
     "ho_chi_minh_city",
@@ -659,6 +690,9 @@
     "ho_chi_minh_city",
     "ho_chi_minh_city"
   ],
+  "ho ": [
+    "ho_chi_minh_city"
+  ],
   "hob": [
     "hobart",
     "hobart"
@@ -667,16 +701,16 @@
     "hoi_an",
     "hoi_an"
   ],
+  "kon": [
+    "hong_kong",
+    "hong_kong"
+  ],
   "hon": [
     "hong_kong",
     "hong_kong",
     "hong_kong",
     "honolulu",
     "honolulu"
-  ],
-  "kon": [
-    "hong_kong",
-    "hong_kong"
   ],
   "hor": [
     "horsley_hills",
@@ -689,11 +723,11 @@
     "kolli_hills",
     "kolli_hills"
   ],
-  "hin": [
-    "hua_hin"
-  ],
   "hua": [
     "hua_hin",
+    "hua_hin"
+  ],
+  "hin": [
     "hua_hin"
   ],
   "hue": [
@@ -711,6 +745,10 @@
     "igatpuri",
     "igatpuri"
   ],
+  "ind": [
+    "index",
+    "index"
+  ],
   "inn": [
     "innsbruck",
     "innsbruck"
@@ -727,6 +765,10 @@
     "istanbul",
     "istanbul"
   ],
+  "ita": [
+    "itanagar",
+    "itanagar"
+  ],
   "jag": [
     "jagdalpur",
     "jagdalpur"
@@ -740,6 +782,14 @@
   "jak": [
     "jakarta",
     "jakarta"
+  ],
+  "jaz": [
+    "jazan",
+    "jazan"
+  ],
+  "jed": [
+    "jeddah",
+    "jeddah"
   ],
   "jej": [
     "jeju_island",
@@ -827,6 +877,10 @@
     "kheerganga",
     "kheerganga"
   ],
+  "kho": [
+    "khonsa",
+    "khonsa"
+  ],
   "kin": [
     "kinnaur",
     "kinnaur",
@@ -862,7 +916,9 @@
     "kolkata",
     "kolli_hills",
     "kolli_hills",
-    "kolli_hills"
+    "kolli_hills",
+    "koloriang",
+    "koloriang"
   ],
   "kot": [
     "kota_kinabalu",
@@ -920,11 +976,11 @@
     "lansdowne",
     "lansdowne"
   ],
-  "las": [
+  "veg": [
     "las_vegas",
     "las_vegas"
   ],
-  "veg": [
+  "las": [
     "las_vegas",
     "las_vegas"
   ],
@@ -1091,7 +1147,9 @@
   ],
   "mia": [
     "miami",
-    "miami"
+    "miami",
+    "miao",
+    "miao"
   ],
   "mil": [
     "milan",
@@ -1150,9 +1208,15 @@
     "nairobi",
     "nairobi"
   ],
+  "naj": [
+    "najran",
+    "najran"
+  ],
   "nam": [
     "namchi",
-    "namchi"
+    "namchi",
+    "namsai",
+    "namsai"
   ],
   "nap": [
     "naples",
@@ -1184,11 +1248,11 @@
     "new_york_city",
     "new_york_city"
   ],
-  "nha": [
+  "tra": [
     "nha_trang",
     "nha_trang"
   ],
-  "tra": [
+  "nha": [
     "nha_trang",
     "nha_trang"
   ],
@@ -1279,6 +1343,10 @@
     "paris",
     "paris"
   ],
+  "pas": [
+    "pasighat",
+    "pasighat"
+  ],
   "pat": [
     "pattaya",
     "pattaya"
@@ -1332,10 +1400,6 @@
     "poovar",
     "poovar"
   ],
-  "bla": [
-    "port_blair",
-    "port_blair"
-  ],
   "por": [
     "port_blair",
     "port_blair",
@@ -1345,9 +1409,19 @@
     "porto",
     "porto"
   ],
+  "bla": [
+    "port_blair",
+    "port_blair"
+  ],
   "pre": [
+    "prefix_map",
+    "prefix_map",
+    "prefix_map",
     "pretoria",
     "pretoria"
+  ],
+  "map": [
+    "prefix_map"
   ],
   "pun": [
     "pune",
@@ -1376,16 +1450,16 @@
     "rameswaram",
     "rameswaram"
   ],
-  "kut": [
-    "rann_of_kutch",
-    "rann_of_kutch"
-  ],
   "ran": [
     "rann_of_kutch",
     "rann_of_kutch",
     "rann_of_kutch",
     "ranthambore",
     "ranthambore"
+  ],
+  "kut": [
+    "rann_of_kutch",
+    "rann_of_kutch"
   ],
   "rat": [
     "ratnagiri",
@@ -1414,6 +1488,14 @@
   "ris": [
     "rishikesh",
     "rishikesh"
+  ],
+  "riy": [
+    "riyadh",
+    "riyadh"
+  ],
+  "roi": [
+    "roing",
+    "roing"
   ],
   "rom": [
     "rome",
@@ -1461,11 +1543,11 @@
     "san_juan",
     "san_juan"
   ],
-  "sao": [
+  "pau": [
     "sao_paulo",
     "sao_paulo"
   ],
-  "pau": [
+  "sao": [
     "sao_paulo",
     "sao_paulo"
   ],
@@ -1490,6 +1572,10 @@
   "sea": [
     "seattle",
     "seattle"
+  ],
+  "sep": [
+    "seppa",
+    "seppa"
   ],
   "sev": [
     "seville",
@@ -1573,7 +1659,13 @@
     "sydney",
     "sydney"
   ],
+  "tab": [
+    "tabuk",
+    "tabuk"
+  ],
   "tai": [
+    "taif",
+    "taif",
     "taipei",
     "taipei"
   ],
@@ -1592,6 +1684,10 @@
   "tbi": [
     "tbilisi",
     "tbilisi"
+  ],
+  "tez": [
+    "tezu",
+    "tezu"
   ],
   "the": [
     "thekkady",
@@ -1629,6 +1725,10 @@
   "tur": [
     "turin",
     "turin"
+  ],
+  "tut": [
+    "tuting",
+    "tuting"
   ],
   "uda": [
     "udaipur",
@@ -1686,6 +1786,10 @@
     "visakhapatnam",
     "visakhapatnam"
   ],
+  "wal": [
+    "walong",
+    "walong"
+  ],
   "war": [
     "warsaw",
     "warsaw"
@@ -1711,6 +1815,10 @@
     "xian",
     "xian"
   ],
+  "yan": [
+    "yanbu",
+    "yanbu"
+  ],
   "yel": [
     "yelagiri",
     "yelagiri"
@@ -1719,9 +1827,17 @@
     "yercaud",
     "yercaud"
   ],
+  "yin": [
+    "yingkiong",
+    "yingkiong"
+  ],
   "yog": [
     "yogyakarta",
     "yogyakarta"
+  ],
+  "yup": [
+    "yupia",
+    "yupia"
   ],
   "zag": [
     "zagreb",
