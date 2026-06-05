@@ -1,0 +1,166 @@
+{
+  "city_name": "Gda\u0144sk",
+  "country": "Poland",
+  "activities": [
+    {
+      "activity_name": "Dlugi Targ Long Market Walk",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunglasses",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "St. Mary's Church Tower Climb",
+      "category": "Adventure",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 4,
+        "relaxed": 1,
+        "adventure": 4,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "running_shoes",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Museum of the Second World War",
+      "category": "Culture",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "notebook"
+      ]
+    },
+    {
+      "activity_name": "Motlawa River Kayaking",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "waterproof_dry_bag",
+        "change_of_clothes",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Amber Shopping in Mariacka Street",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "wallet",
+        "magnifying_glass"
+      ]
+    },
+    {
+      "activity_name": "Oliwa Cathedral Organ Concert",
+      "category": "Culture",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "warm_sweater"
+      ]
+    },
+    {
+      "activity_name": "Westerplatte Historical Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "windbreaker",
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Brzezno Beach Relaxation",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "beach_mat",
+        "swimwear",
+        "flip_flops"
+      ]
+    },
+    {
+      "activity_name": "Seafood Dining at the Waterfront",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hand_wipes",
+        "smart_casual_outfit"
+      ]
+    },
+    {
+      "activity_name": "European Solidarity Centre",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "headphones"
+      ]
+    }
+  ]
+}

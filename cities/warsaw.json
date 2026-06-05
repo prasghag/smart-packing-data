@@ -3,173 +3,162 @@
   "country": "Poland",
   "activities": [
     {
-      "activity_name": "Explore Warsaw Old Town & Royal Castle",
+      "activity_name": "Old Town Walking Tour",
       "category": "Sightseeing",
-      "duration_minutes": 180,
+      "duration_minutes": 120,
       "scores": {
-        "budget": 3,
+        "budget": 5,
         "relaxed": 4,
-        "adventure": 1,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "camera",
-        "light jacket"
-      ]
-    },
-    {
-      "activity_name": "Visit POLIN Museum of the History of Polish Jews",
-      "category": "Culture",
-      "duration_minutes": 240,
-      "scores": {
-        "budget": 3,
-        "relaxed": 3,
-        "adventure": 1,
-        "family": 3,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "water bottle",
-        "ID"
-      ]
-    },
-    {
-      "activity_name": "Traditional Polish Pierogi Cooking Class",
-      "category": "Food",
-      "duration_minutes": 150,
-      "scores": {
-        "budget": 4,
-        "relaxed": 3,
         "adventure": 2,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "apron (optional)",
-        "camera",
-        "appetite"
+        "city_map",
+        "comfortable_shoes"
       ]
     },
     {
-      "activity_name": "Panoramic Views from Palace of Culture and Science Observation Deck",
-      "category": "Sightseeing",
-      "duration_minutes": 90,
+      "activity_name": "Royal Castle Exploration",
+      "category": "Culture",
+      "duration_minutes": 120,
       "scores": {
-        "budget": 2,
-        "relaxed": 3,
+        "budget": 3,
+        "relaxed": 4,
         "adventure": 1,
         "family": 4,
-        "balanced": 3
+        "balanced": 4
       },
       "packing_tags": [
         "camera",
-        "binoculars (optional)",
-        "ticket"
+        "audio_guide"
       ]
     },
     {
-      "activity_name": "Relaxing Stroll through Łazienki Park & Palace on the Isle",
-      "category": "Relaxation",
+      "activity_name": "Warsaw Uprising Museum",
+      "category": "Culture",
       "duration_minutes": 180,
       "scores": {
-        "budget": 2,
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "tissues",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Lazienki Park Peacock Watching",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
         "relaxed": 5,
         "adventure": 1,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable shoes",
-        "sunscreen",
-        "picnic blanket"
+        "sunglasses",
+        "camera_lens"
       ]
     },
     {
-      "activity_name": "Immersive Experience at Warsaw Uprising Museum",
-      "category": "Culture",
-      "duration_minutes": 210,
-      "scores": {
-        "budget": 3,
-        "relaxed": 2,
-        "adventure": 3,
-        "family": 3,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "tissue (emotional)",
-        "ID"
-      ]
-    },
-    {
-      "activity_name": "Shopping Spree at Złote Tarasy Mall",
-      "category": "Shopping",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 3,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 4,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "shopping bag",
-        "credit card",
-        "comfortable shoes"
-      ]
-    },
-    {
-      "activity_name": "Authentic Polish Dinner Experience",
-      "category": "Food",
-      "duration_minutes": 120,
+      "activity_name": "Palace of Culture and Science Viewpoint",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
       "scores": {
         "budget": 4,
-        "relaxed": 5,
-        "adventure": 1,
-        "family": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "dressy casual clothes",
-        "appetite",
-        "phone for photos"
+        "jacket",
+        "binoculars"
       ]
     },
     {
-      "activity_name": "Discover Fryderyk Chopin Museum",
-      "category": "Culture",
+      "activity_name": "Nowy Swiat Street Shopping",
+      "category": "Shopping",
       "duration_minutes": 120,
       "scores": {
         "budget": 2,
         "relaxed": 4,
         "adventure": 1,
-        "family": 3,
-        "balanced": 3
-      },
-      "packing_tags": [
-        "audio guide",
-        "headphones (optional)",
-        "ID"
-      ]
-    },
-    {
-      "activity_name": "Warsaw Segway Tour: Old Town & Vistula Boulevards",
-      "category": "Adventure",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 4,
-        "relaxed": 2,
-        "adventure": 5,
         "family": 4,
         "balanced": 3
       },
       "packing_tags": [
-        "comfortable shoes",
-        "helmet (provided)",
-        "sunglasses"
+        "credit_card",
+        "tote_bag"
+      ]
+    },
+    {
+      "activity_name": "Vistula River Boulevards Biking",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "water_bottle",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Traditional Polish Vodka Tasting",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 1,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "id_card",
+        "mint_mints"
+      ]
+    },
+    {
+      "activity_name": "Copernicus Science Centre",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hand_sanitizer",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Milk Bar Dining Experience",
+      "category": "Food",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash_polish_zloty"
       ]
     }
   ]
