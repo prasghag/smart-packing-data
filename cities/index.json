@@ -1,14 +1,14 @@
 {
   "version": "2026-06-05",
-  "total": 479,
+  "total": 519,
   "cities": [
     {
       "key": "aalo",
       "name": "Aalo",
       "file": "aalo.json",
       "searchTokens": [
-        "aalo",
-        "aal"
+        "aal",
+        "aalo"
       ],
       "popularity": 50,
       "lat": null,
@@ -31,10 +31,10 @@
       "name": "Abu Dhabi",
       "file": "abu_dhabi.json",
       "searchTokens": [
-        "dha",
-        "dhabi",
         "abu dhabi",
-        "abu"
+        "abu",
+        "dha",
+        "dhabi"
       ],
       "popularity": 50,
       "lat": null,
@@ -118,8 +118,8 @@
       "name": "Alappuzha",
       "file": "alappuzha.json",
       "searchTokens": [
-        "ala",
-        "alappuzha"
+        "alappuzha",
+        "ala"
       ],
       "popularity": 50,
       "lat": null,
@@ -130,8 +130,8 @@
       "name": "Alibaug",
       "file": "alibaug.json",
       "searchTokens": [
-        "ali",
-        "alibaug"
+        "alibaug",
+        "ali"
       ],
       "popularity": 50,
       "lat": null,
@@ -142,8 +142,8 @@
       "name": "Almaty",
       "file": "almaty.json",
       "searchTokens": [
-        "almaty",
-        "alm"
+        "alm",
+        "almaty"
       ],
       "popularity": 50,
       "lat": null,
@@ -154,8 +154,8 @@
       "name": "Almora",
       "file": "almora.json",
       "searchTokens": [
-        "almora",
-        "alm"
+        "alm",
+        "almora"
       ],
       "popularity": 50,
       "lat": null,
@@ -190,8 +190,8 @@
       "name": "Amman",
       "file": "amman.json",
       "searchTokens": [
-        "amman",
-        "amm"
+        "amm",
+        "amman"
       ],
       "popularity": 50,
       "lat": null,
@@ -214,8 +214,8 @@
       "name": "Amsterdam",
       "file": "amsterdam.json",
       "searchTokens": [
-        "amsterdam",
-        "ams"
+        "ams",
+        "amsterdam"
       ],
       "popularity": 50,
       "lat": null,
@@ -226,8 +226,8 @@
       "name": "Anini",
       "file": "anini.json",
       "searchTokens": [
-        "ani",
-        "anini"
+        "anini",
+        "ani"
       ],
       "popularity": 50,
       "lat": null,
@@ -238,8 +238,8 @@
       "name": "Annecy",
       "file": "annecy.json",
       "searchTokens": [
-        "annecy",
-        "ann"
+        "ann",
+        "annecy"
       ],
       "popularity": 50,
       "lat": null,
@@ -274,8 +274,8 @@
       "name": "Antwerp",
       "file": "antwerp.json",
       "searchTokens": [
-        "antwerp",
-        "ant"
+        "ant",
+        "antwerp"
       ],
       "popularity": 50,
       "lat": null,
@@ -287,10 +287,10 @@
       "file": "araku_valley.json",
       "searchTokens": [
         "araku",
-        "valley",
-        "val",
+        "ara",
         "araku valley",
-        "ara"
+        "val",
+        "valley"
       ],
       "popularity": 50,
       "lat": null,
@@ -313,10 +313,10 @@
       "name": "Aru Valley",
       "file": "aru_valley.json",
       "searchTokens": [
+        "aru valley",
         "valley",
-        "aru",
         "val",
-        "aru valley"
+        "aru"
       ],
       "popularity": 50,
       "lat": null,
@@ -327,8 +327,8 @@
       "name": "Athens",
       "file": "athens.json",
       "searchTokens": [
-        "ath",
-        "athens"
+        "athens",
+        "ath"
       ],
       "popularity": 50,
       "lat": null,
@@ -339,8 +339,8 @@
       "name": "Auckland",
       "file": "auckland.json",
       "searchTokens": [
-        "auc",
-        "auckland"
+        "auckland",
+        "auc"
       ],
       "popularity": 50,
       "lat": null,
@@ -387,8 +387,8 @@
       "name": "Ayutthaya",
       "file": "ayutthaya.json",
       "searchTokens": [
-        "ayutthaya",
-        "ayu"
+        "ayu",
+        "ayutthaya"
       ],
       "popularity": 50,
       "lat": null,
@@ -411,8 +411,8 @@
       "name": "Baku",
       "file": "baku.json",
       "searchTokens": [
-        "baku",
-        "bak"
+        "bak",
+        "baku"
       ],
       "popularity": 50,
       "lat": null,
@@ -423,8 +423,8 @@
       "name": "Bali",
       "file": "bali.json",
       "searchTokens": [
-        "bal",
-        "bali"
+        "bali",
+        "bal"
       ],
       "popularity": 50,
       "lat": null,
@@ -447,8 +447,8 @@
       "name": "Bandung",
       "file": "bandung.json",
       "searchTokens": [
-        "ban",
-        "bandung"
+        "bandung",
+        "ban"
       ],
       "popularity": 50,
       "lat": null,
@@ -471,8 +471,8 @@
       "name": "Bangkok",
       "file": "bangkok.json",
       "searchTokens": [
-        "ban",
-        "bangkok"
+        "bangkok",
+        "ban"
       ],
       "popularity": 50,
       "lat": null,
@@ -483,8 +483,8 @@
       "name": "Barcelona",
       "file": "barcelona.json",
       "searchTokens": [
-        "bar",
-        "barcelona"
+        "barcelona",
+        "bar"
       ],
       "popularity": 50,
       "lat": null,
@@ -495,8 +495,8 @@
       "name": "Bath",
       "file": "bath.json",
       "searchTokens": [
-        "bath",
-        "bat"
+        "bat",
+        "bath"
       ],
       "popularity": 50,
       "lat": null,
@@ -507,8 +507,8 @@
       "name": "Beijing",
       "file": "beijing.json",
       "searchTokens": [
-        "beijing",
-        "bei"
+        "bei",
+        "beijing"
       ],
       "popularity": 50,
       "lat": null,
@@ -543,8 +543,8 @@
       "name": "Belfast",
       "file": "belfast.json",
       "searchTokens": [
-        "belfast",
-        "bel"
+        "bel",
+        "belfast"
       ],
       "popularity": 50,
       "lat": null,
@@ -555,8 +555,8 @@
       "name": "Belgrade",
       "file": "belgrade.json",
       "searchTokens": [
-        "belgrade",
-        "bel"
+        "bel",
+        "belgrade"
       ],
       "popularity": 50,
       "lat": null,
@@ -615,8 +615,8 @@
       "name": "Bhalukpong",
       "file": "bhalukpong.json",
       "searchTokens": [
-        "bhalukpong",
-        "bha"
+        "bha",
+        "bhalukpong"
       ],
       "popularity": 50,
       "lat": null,
@@ -627,8 +627,8 @@
       "name": "Bhandardara",
       "file": "bhandardara.json",
       "searchTokens": [
-        "bhandardara",
-        "bha"
+        "bha",
+        "bhandardara"
       ],
       "popularity": 50,
       "lat": null,
@@ -639,8 +639,8 @@
       "name": "Bharatpur",
       "file": "bharatpur.json",
       "searchTokens": [
-        "bha",
-        "bharatpur"
+        "bharatpur",
+        "bha"
       ],
       "popularity": 50,
       "lat": null,
@@ -663,8 +663,8 @@
       "name": "Bhubaneswar",
       "file": "bhubaneswar.json",
       "searchTokens": [
-        "bhubaneswar",
-        "bhu"
+        "bhu",
+        "bhubaneswar"
       ],
       "popularity": 50,
       "lat": null,
@@ -675,8 +675,32 @@
       "name": "Bhuj",
       "file": "bhuj.json",
       "searchTokens": [
-        "bhuj",
-        "bhu"
+        "bhu",
+        "bhuj"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "białystok",
+      "name": "Białystok",
+      "file": "białystok.json",
+      "searchTokens": [
+        "bia",
+        "białystok"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "bielsko-biała",
+      "name": "Bielsko-Biała",
+      "file": "bielsko-biała.json",
+      "searchTokens": [
+        "bie",
+        "bielsko-biała"
       ],
       "popularity": 50,
       "lat": null,
@@ -687,8 +711,8 @@
       "name": "Bikaner",
       "file": "bikaner.json",
       "searchTokens": [
-        "bik",
-        "bikaner"
+        "bikaner",
+        "bik"
       ],
       "popularity": 50,
       "lat": null,
@@ -713,8 +737,8 @@
       "searchTokens": [
         "bir billing",
         "bil",
-        "bir",
-        "billing"
+        "billing",
+        "bir"
       ],
       "popularity": 50,
       "lat": null,
@@ -725,11 +749,11 @@
       "name": "Bodh Gaya",
       "file": "bodh_gaya.json",
       "searchTokens": [
-        "gaya",
-        "gay",
-        "bodh gaya",
+        "bodh",
         "bod",
-        "bodh"
+        "gaya",
+        "bodh gaya",
+        "gay"
       ],
       "popularity": 50,
       "lat": null,
@@ -740,8 +764,8 @@
       "name": "Bogota",
       "file": "bogota.json",
       "searchTokens": [
-        "bogota",
-        "bog"
+        "bog",
+        "bogota"
       ],
       "popularity": 50,
       "lat": null,
@@ -760,12 +784,24 @@
       "lon": null
     },
     {
+      "key": "bolesławiec",
+      "name": "Bolesławiec",
+      "file": "bolesławiec.json",
+      "searchTokens": [
+        "bolesławiec",
+        "bol"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "bologna",
       "name": "Bologna",
       "file": "bologna.json",
       "searchTokens": [
-        "bol",
-        "bologna"
+        "bologna",
+        "bol"
       ],
       "popularity": 50,
       "lat": null,
@@ -776,8 +812,8 @@
       "name": "Bomdila",
       "file": "bomdila.json",
       "searchTokens": [
-        "bom",
-        "bomdila"
+        "bomdila",
+        "bom"
       ],
       "popularity": 50,
       "lat": null,
@@ -788,9 +824,9 @@
       "name": "Bora Bora",
       "file": "bora_bora.json",
       "searchTokens": [
+        "bora bora",
         "bora",
-        "bor",
-        "bora bora"
+        "bor"
       ],
       "popularity": 50,
       "lat": null,
@@ -801,8 +837,8 @@
       "name": "Boracay",
       "file": "boracay.json",
       "searchTokens": [
-        "bor",
-        "boracay"
+        "boracay",
+        "bor"
       ],
       "popularity": 50,
       "lat": null,
@@ -825,8 +861,8 @@
       "name": "Boston",
       "file": "boston.json",
       "searchTokens": [
-        "boston",
-        "bos"
+        "bos",
+        "boston"
       ],
       "popularity": 50,
       "lat": null,
@@ -885,8 +921,8 @@
       "name": "Bucharest",
       "file": "bucharest.json",
       "searchTokens": [
-        "bucharest",
-        "buc"
+        "buc",
+        "bucharest"
       ],
       "popularity": 50,
       "lat": null,
@@ -910,10 +946,10 @@
       "file": "buenos_aires.json",
       "searchTokens": [
         "bue",
+        "buenos",
         "aires",
         "air",
-        "buenos aires",
-        "buenos"
+        "buenos aires"
       ],
       "popularity": 50,
       "lat": null,
@@ -944,12 +980,24 @@
       "lon": null
     },
     {
+      "key": "bydgoszcz",
+      "name": "Bydgoszcz",
+      "file": "bydgoszcz.json",
+      "searchTokens": [
+        "byd",
+        "bydgoszcz"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "cairns",
       "name": "Cairns",
       "file": "cairns.json",
       "searchTokens": [
-        "cai",
-        "cairns"
+        "cairns",
+        "cai"
       ],
       "popularity": 50,
       "lat": null,
@@ -960,8 +1008,8 @@
       "name": "Cairo",
       "file": "cairo.json",
       "searchTokens": [
-        "cairo",
-        "cai"
+        "cai",
+        "cairo"
       ],
       "popularity": 50,
       "lat": null,
@@ -972,8 +1020,8 @@
       "name": "Calgary",
       "file": "calgary.json",
       "searchTokens": [
-        "cal",
-        "calgary"
+        "calgary",
+        "cal"
       ],
       "popularity": 50,
       "lat": null,
@@ -996,11 +1044,11 @@
       "name": "Cameron Highlands",
       "file": "cameron_highlands.json",
       "searchTokens": [
-        "cameron",
+        "hig",
         "highlands",
+        "cameron",
         "cameron highlands",
-        "cam",
-        "hig"
+        "cam"
       ],
       "popularity": 50,
       "lat": null,
@@ -1023,10 +1071,10 @@
       "name": "Cape Town",
       "file": "cape_town.json",
       "searchTokens": [
-        "town",
         "cape",
-        "tow",
         "cap",
+        "tow",
+        "town",
         "cape town"
       ],
       "popularity": 50,
@@ -1050,8 +1098,8 @@
       "name": "Cartagena",
       "file": "cartagena.json",
       "searchTokens": [
-        "car",
-        "cartagena"
+        "cartagena",
+        "car"
       ],
       "popularity": 50,
       "lat": null,
@@ -1062,8 +1110,8 @@
       "name": "Casablanca",
       "file": "casablanca.json",
       "searchTokens": [
-        "cas",
-        "casablanca"
+        "casablanca",
+        "cas"
       ],
       "popularity": 50,
       "lat": null,
@@ -1074,8 +1122,8 @@
       "name": "Cebu",
       "file": "cebu.json",
       "searchTokens": [
-        "cebu",
-        "ceb"
+        "ceb",
+        "cebu"
       ],
       "popularity": 50,
       "lat": null,
@@ -1086,8 +1134,8 @@
       "name": "Chakrata",
       "file": "chakrata.json",
       "searchTokens": [
-        "chakrata",
-        "cha"
+        "cha",
+        "chakrata"
       ],
       "popularity": 50,
       "lat": null,
@@ -1184,10 +1232,10 @@
       "name": "Chiang Rai",
       "file": "chiang_rai.json",
       "searchTokens": [
+        "rai",
         "chi",
         "chiang",
-        "chiang rai",
-        "rai"
+        "chiang rai"
       ],
       "popularity": 50,
       "lat": null,
@@ -1210,8 +1258,8 @@
       "name": "Chikhaldara",
       "file": "chikhaldara.json",
       "searchTokens": [
-        "chi",
-        "chikhaldara"
+        "chikhaldara",
+        "chi"
       ],
       "popularity": 50,
       "lat": null,
@@ -1234,8 +1282,8 @@
       "name": "Chitkul",
       "file": "chitkul.json",
       "searchTokens": [
-        "chi",
-        "chitkul"
+        "chitkul",
+        "chi"
       ],
       "popularity": 50,
       "lat": null,
@@ -1294,8 +1342,8 @@
       "name": "Colombo",
       "file": "colombo.json",
       "searchTokens": [
-        "colombo",
-        "col"
+        "col",
+        "colombo"
       ],
       "popularity": 50,
       "lat": null,
@@ -1306,8 +1354,8 @@
       "name": "Coonoor",
       "file": "coonoor.json",
       "searchTokens": [
-        "coonoor",
-        "coo"
+        "coo",
+        "coonoor"
       ],
       "popularity": 50,
       "lat": null,
@@ -1318,8 +1366,8 @@
       "name": "Copenhagen",
       "file": "copenhagen.json",
       "searchTokens": [
-        "cop",
-        "copenhagen"
+        "copenhagen",
+        "cop"
       ],
       "popularity": 50,
       "lat": null,
@@ -1362,13 +1410,25 @@
       "lon": null
     },
     {
+      "key": "częstochowa",
+      "name": "Częstochowa",
+      "file": "częstochowa.json",
+      "searchTokens": [
+        "częstochowa",
+        "czę"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "da_nang",
       "name": "Da Nang",
       "file": "da_nang.json",
       "searchTokens": [
-        "nang",
-        "nan",
         "da nang",
+        "nan",
+        "nang",
         "da"
       ],
       "popularity": 50,
@@ -1392,8 +1452,8 @@
       "name": "Dalhousie",
       "file": "dalhousie.json",
       "searchTokens": [
-        "dal",
-        "dalhousie"
+        "dalhousie",
+        "dal"
       ],
       "popularity": 50,
       "lat": null,
@@ -1404,8 +1464,8 @@
       "name": "Daman",
       "file": "daman.json",
       "searchTokens": [
-        "daman",
-        "dam"
+        "dam",
+        "daman"
       ],
       "popularity": 50,
       "lat": null,
@@ -1440,8 +1500,8 @@
       "name": "Dapoli",
       "file": "dapoli.json",
       "searchTokens": [
-        "dapoli",
-        "dap"
+        "dap",
+        "dapoli"
       ],
       "popularity": 50,
       "lat": null,
@@ -1452,8 +1512,8 @@
       "name": "Daporijo",
       "file": "daporijo.json",
       "searchTokens": [
-        "daporijo",
-        "dap"
+        "dap",
+        "daporijo"
       ],
       "popularity": 50,
       "lat": null,
@@ -1464,8 +1524,8 @@
       "name": "Darjeeling",
       "file": "darjeeling.json",
       "searchTokens": [
-        "darjeeling",
-        "dar"
+        "dar",
+        "darjeeling"
       ],
       "popularity": 50,
       "lat": null,
@@ -1488,8 +1548,8 @@
       "name": "Delhi",
       "file": "delhi.json",
       "searchTokens": [
-        "delhi",
-        "del"
+        "del",
+        "delhi"
       ],
       "popularity": 100,
       "lat": null,
@@ -1512,8 +1572,8 @@
       "name": "Dhanaulti",
       "file": "dhanaulti.json",
       "searchTokens": [
-        "dha",
-        "dhanaulti"
+        "dhanaulti",
+        "dha"
       ],
       "popularity": 50,
       "lat": null,
@@ -1583,8 +1643,8 @@
       "name": "Doha",
       "file": "doha.json",
       "searchTokens": [
-        "doha",
-        "doh"
+        "doh",
+        "doha"
       ],
       "popularity": 50,
       "lat": null,
@@ -1643,11 +1703,11 @@
       "name": "Dzukou Valley",
       "file": "dzukou_valley.json",
       "searchTokens": [
-        "dzu",
-        "valley",
-        "val",
         "dzukou valley",
-        "dzukou"
+        "dzu",
+        "dzukou",
+        "val",
+        "valley"
       ],
       "popularity": 50,
       "lat": null,
@@ -1658,8 +1718,20 @@
       "name": "Edinburgh",
       "file": "edinburgh.json",
       "searchTokens": [
-        "edinburgh",
-        "edi"
+        "edi",
+        "edinburgh"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "elbląg",
+      "name": "Elbląg",
+      "file": "elbląg.json",
+      "searchTokens": [
+        "elbląg",
+        "elb"
       ],
       "popularity": 50,
       "lat": null,
@@ -1670,8 +1742,8 @@
       "name": "Florence",
       "file": "florence.json",
       "searchTokens": [
-        "florence",
-        "flo"
+        "flo",
+        "florence"
       ],
       "popularity": 50,
       "lat": null,
@@ -1682,8 +1754,8 @@
       "name": "Frankfurt",
       "file": "frankfurt.json",
       "searchTokens": [
-        "frankfurt",
-        "fra"
+        "fra",
+        "frankfurt"
       ],
       "popularity": 50,
       "lat": null,
@@ -1706,8 +1778,8 @@
       "name": "Galway",
       "file": "galway.json",
       "searchTokens": [
-        "gal",
-        "galway"
+        "galway",
+        "gal"
       ],
       "popularity": 50,
       "lat": null,
@@ -1718,8 +1790,8 @@
       "name": "Gandikota",
       "file": "gandikota.json",
       "searchTokens": [
-        "gandikota",
-        "gan"
+        "gan",
+        "gandikota"
       ],
       "popularity": 50,
       "lat": null,
@@ -1730,8 +1802,8 @@
       "name": "Gangtok",
       "file": "gangtok.json",
       "searchTokens": [
-        "gan",
-        "gangtok"
+        "gangtok",
+        "gan"
       ],
       "popularity": 50,
       "lat": null,
@@ -1742,8 +1814,8 @@
       "name": "Ganpatipule",
       "file": "ganpatipule.json",
       "searchTokens": [
-        "ganpatipule",
-        "gan"
+        "gan",
+        "ganpatipule"
       ],
       "popularity": 50,
       "lat": null,
@@ -1754,8 +1826,8 @@
       "name": "Gavi",
       "file": "gavi.json",
       "searchTokens": [
-        "gav",
-        "gavi"
+        "gavi",
+        "gav"
       ],
       "popularity": 50,
       "lat": null,
@@ -1774,12 +1846,24 @@
       "lon": null
     },
     {
+      "key": "gdynia",
+      "name": "Gdynia",
+      "file": "gdynia.json",
+      "searchTokens": [
+        "gdynia",
+        "gdy"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "geneva",
       "name": "Geneva",
       "file": "geneva.json",
       "searchTokens": [
-        "geneva",
-        "gen"
+        "gen",
+        "geneva"
       ],
       "popularity": 50,
       "lat": null,
@@ -1814,8 +1898,32 @@
       "name": "Glasgow",
       "file": "glasgow.json",
       "searchTokens": [
-        "gla",
-        "glasgow"
+        "glasgow",
+        "gla"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "gliwice",
+      "name": "Gliwice",
+      "file": "gliwice.json",
+      "searchTokens": [
+        "gli",
+        "gliwice"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "gniezno",
+      "name": "Gniezno",
+      "file": "gniezno.json",
+      "searchTokens": [
+        "gni",
+        "gniezno"
       ],
       "popularity": 50,
       "lat": null,
@@ -1837,8 +1945,8 @@
       "name": "Gokarna",
       "file": "gokarna.json",
       "searchTokens": [
-        "gok",
-        "gokarna"
+        "gokarna",
+        "gok"
       ],
       "popularity": 50,
       "lat": null,
@@ -1850,8 +1958,8 @@
       "file": "gold_coast.json",
       "searchTokens": [
         "gold",
-        "coa",
         "gold coast",
+        "coa",
         "gol",
         "coast"
       ],
@@ -1864,8 +1972,8 @@
       "name": "Gothenburg",
       "file": "gothenburg.json",
       "searchTokens": [
-        "got",
-        "gothenburg"
+        "gothenburg",
+        "got"
       ],
       "popularity": 50,
       "lat": null,
@@ -1876,8 +1984,8 @@
       "name": "Granada",
       "file": "granada.json",
       "searchTokens": [
-        "gra",
-        "granada"
+        "granada",
+        "gra"
       ],
       "popularity": 50,
       "lat": null,
@@ -1888,8 +1996,20 @@
       "name": "Graz",
       "file": "graz.json",
       "searchTokens": [
-        "gra",
-        "graz"
+        "graz",
+        "gra"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "grudziądz",
+      "name": "Grudziądz",
+      "file": "grudziądz.json",
+      "searchTokens": [
+        "gru",
+        "grudziądz"
       ],
       "popularity": 50,
       "lat": null,
@@ -1924,11 +2044,11 @@
       "name": "Gurez Valley",
       "file": "gurez_valley.json",
       "searchTokens": [
-        "gurez valley",
-        "valley",
-        "val",
         "gurez",
-        "gur"
+        "val",
+        "gur",
+        "valley",
+        "gurez valley"
       ],
       "popularity": 50,
       "lat": null,
@@ -1963,8 +2083,8 @@
       "name": "Hallstatt",
       "file": "hallstatt.json",
       "searchTokens": [
-        "hallstatt",
-        "hal"
+        "hal",
+        "hallstatt"
       ],
       "popularity": 50,
       "lat": null,
@@ -1987,8 +2107,8 @@
       "name": "Hampi",
       "file": "hampi.json",
       "searchTokens": [
-        "ham",
-        "hampi"
+        "hampi",
+        "ham"
       ],
       "popularity": 50,
       "lat": null,
@@ -2047,11 +2167,11 @@
       "name": "Havelock Island",
       "file": "havelock_island.json",
       "searchTokens": [
-        "havelock island",
-        "isl",
         "island",
+        "isl",
         "hav",
-        "havelock"
+        "havelock",
+        "havelock island"
       ],
       "popularity": 50,
       "lat": null,
@@ -2062,8 +2182,8 @@
       "name": "Hawai",
       "file": "hawai.json",
       "searchTokens": [
-        "haw",
-        "hawai"
+        "hawai",
+        "haw"
       ],
       "popularity": 50,
       "lat": null,
@@ -2098,8 +2218,8 @@
       "name": "Hiroshima",
       "file": "hiroshima.json",
       "searchTokens": [
-        "hir",
-        "hiroshima"
+        "hiroshima",
+        "hir"
       ],
       "popularity": 50,
       "lat": null,
@@ -2110,13 +2230,13 @@
       "name": "Ho Chi Minh City",
       "file": "ho_chi_minh_city.json",
       "searchTokens": [
+        "ho",
         "minh",
         "cit",
-        "min",
-        "chi",
         "ho chi minh city",
-        "ho",
-        "city"
+        "min",
+        "city",
+        "chi"
       ],
       "popularity": 50,
       "lat": null,
@@ -2127,8 +2247,8 @@
       "name": "Hobart",
       "file": "hobart.json",
       "searchTokens": [
-        "hob",
-        "hobart"
+        "hobart",
+        "hob"
       ],
       "popularity": 50,
       "lat": null,
@@ -2139,9 +2259,9 @@
       "name": "Hoi An",
       "file": "hoi_an.json",
       "searchTokens": [
-        "an",
         "hoi",
-        "hoi an"
+        "hoi an",
+        "an"
       ],
       "popularity": 50,
       "lat": null,
@@ -2152,11 +2272,11 @@
       "name": "Hong Kong",
       "file": "hong_kong.json",
       "searchTokens": [
-        "hon",
-        "hong",
-        "kon",
         "kong",
-        "hong kong"
+        "kon",
+        "hon",
+        "hong kong",
+        "hong"
       ],
       "popularity": 50,
       "lat": null,
@@ -2167,8 +2287,8 @@
       "name": "Honolulu",
       "file": "honolulu.json",
       "searchTokens": [
-        "hon",
-        "honolulu"
+        "honolulu",
+        "hon"
       ],
       "popularity": 50,
       "lat": null,
@@ -2179,11 +2299,11 @@
       "name": "Horsley Hills",
       "file": "horsley_hills.json",
       "searchTokens": [
-        "horsley hills",
-        "horsley",
         "hil",
         "hor",
-        "hills"
+        "horsley",
+        "hills",
+        "horsley hills"
       ],
       "popularity": 50,
       "lat": null,
@@ -2194,8 +2314,8 @@
       "name": "Hua Hin",
       "file": "hua_hin.json",
       "searchTokens": [
-        "hin",
         "hua",
+        "hin",
         "hua hin"
       ],
       "popularity": 50,
@@ -2218,8 +2338,8 @@
       "name": "Hvar",
       "file": "hvar.json",
       "searchTokens": [
-        "hvar",
-        "hva"
+        "hva",
+        "hvar"
       ],
       "popularity": 50,
       "lat": null,
@@ -2242,8 +2362,8 @@
       "name": "Igatpuri",
       "file": "igatpuri.json",
       "searchTokens": [
-        "iga",
-        "igatpuri"
+        "igatpuri",
+        "iga"
       ],
       "popularity": 50,
       "lat": null,
@@ -2266,8 +2386,8 @@
       "name": "Innsbruck",
       "file": "innsbruck.json",
       "searchTokens": [
-        "inn",
-        "innsbruck"
+        "innsbruck",
+        "inn"
       ],
       "popularity": 50,
       "lat": null,
@@ -2278,8 +2398,8 @@
       "name": "Interlaken",
       "file": "interlaken.json",
       "searchTokens": [
-        "int",
-        "interlaken"
+        "interlaken",
+        "int"
       ],
       "popularity": 50,
       "lat": null,
@@ -2302,8 +2422,8 @@
       "name": "Istanbul",
       "file": "istanbul.json",
       "searchTokens": [
-        "istanbul",
-        "ist"
+        "ist",
+        "istanbul"
       ],
       "popularity": 50,
       "lat": null,
@@ -2374,8 +2494,8 @@
       "name": "Jazan",
       "file": "jazan.json",
       "searchTokens": [
-        "jaz",
-        "jazan"
+        "jazan",
+        "jaz"
       ],
       "popularity": 50,
       "lat": null,
@@ -2386,8 +2506,8 @@
       "name": "Jeddah",
       "file": "jeddah.json",
       "searchTokens": [
-        "jeddah",
-        "jed"
+        "jed",
+        "jeddah"
       ],
       "popularity": 50,
       "lat": null,
@@ -2398,11 +2518,26 @@
       "name": "Jeju Island",
       "file": "jeju_island.json",
       "searchTokens": [
+        "jeju island",
         "jeju",
-        "jej",
         "isl",
-        "island",
-        "jeju island"
+        "jej",
+        "island"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "jelenia_góra",
+      "name": "Jelenia Góra",
+      "file": "jelenia_góra.json",
+      "searchTokens": [
+        "jelenia góra",
+        "góra",
+        "jel",
+        "jelenia",
+        "gór"
       ],
       "popularity": 50,
       "lat": null,
@@ -2413,8 +2548,8 @@
       "name": "Jerusalem",
       "file": "jerusalem.json",
       "searchTokens": [
-        "jerusalem",
-        "jer"
+        "jer",
+        "jerusalem"
       ],
       "popularity": 50,
       "lat": null,
@@ -2449,8 +2584,8 @@
       "name": "Johannesburg",
       "file": "johannesburg.json",
       "searchTokens": [
-        "johannesburg",
-        "joh"
+        "joh",
+        "johannesburg"
       ],
       "popularity": 50,
       "lat": null,
@@ -2461,11 +2596,11 @@
       "name": "Kaas Plateau",
       "file": "kaas_plateau.json",
       "searchTokens": [
-        "kaas",
-        "plateau",
-        "kaa",
         "kaas plateau",
-        "pla"
+        "kaa",
+        "plateau",
+        "pla",
+        "kaas"
       ],
       "popularity": 50,
       "lat": null,
@@ -2488,8 +2623,20 @@
       "name": "Kalimpong",
       "file": "kalimpong.json",
       "searchTokens": [
-        "kal",
-        "kalimpong"
+        "kalimpong",
+        "kal"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kalisz",
+      "name": "Kalisz",
+      "file": "kalisz.json",
+      "searchTokens": [
+        "kalisz",
+        "kal"
       ],
       "popularity": 50,
       "lat": null,
@@ -2500,8 +2647,8 @@
       "name": "Kanatal",
       "file": "kanatal.json",
       "searchTokens": [
-        "kanatal",
-        "kan"
+        "kan",
+        "kanatal"
       ],
       "popularity": 50,
       "lat": null,
@@ -2512,8 +2659,8 @@
       "name": "Kanyakumari",
       "file": "kanyakumari.json",
       "searchTokens": [
-        "kan",
-        "kanyakumari"
+        "kanyakumari",
+        "kan"
       ],
       "popularity": 50,
       "lat": null,
@@ -2524,8 +2671,8 @@
       "name": "Kargil",
       "file": "kargil.json",
       "searchTokens": [
-        "kargil",
-        "kar"
+        "kar",
+        "kargil"
       ],
       "popularity": 50,
       "lat": null,
@@ -2536,8 +2683,20 @@
       "name": "Karjat",
       "file": "karjat.json",
       "searchTokens": [
-        "kar",
-        "karjat"
+        "karjat",
+        "kar"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "karpacz",
+      "name": "Karpacz",
+      "file": "karpacz.json",
+      "searchTokens": [
+        "karpacz",
+        "kar"
       ],
       "popularity": 50,
       "lat": null,
@@ -2584,8 +2743,8 @@
       "name": "Katowice",
       "file": "katowice.json",
       "searchTokens": [
-        "katowice",
-        "kat"
+        "kat",
+        "katowice"
       ],
       "popularity": 50,
       "lat": null,
@@ -2608,8 +2767,8 @@
       "name": "Kaza",
       "file": "kaza.json",
       "searchTokens": [
-        "kaza",
-        "kaz"
+        "kaz",
+        "kaza"
       ],
       "popularity": 50,
       "lat": null,
@@ -2632,8 +2791,8 @@
       "name": "Keylong",
       "file": "keylong.json",
       "searchTokens": [
-        "key",
-        "keylong"
+        "keylong",
+        "key"
       ],
       "popularity": 50,
       "lat": null,
@@ -2692,8 +2851,20 @@
       "name": "Khonsa",
       "file": "khonsa.json",
       "searchTokens": [
-        "kho",
-        "khonsa"
+        "khonsa",
+        "kho"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kielce",
+      "name": "Kielce",
+      "file": "kielce.json",
+      "searchTokens": [
+        "kielce",
+        "kie"
       ],
       "popularity": 50,
       "lat": null,
@@ -2728,8 +2899,8 @@
       "name": "Kodaikanal",
       "file": "kodaikanal.json",
       "searchTokens": [
-        "kodaikanal",
-        "kod"
+        "kod",
+        "kodaikanal"
       ],
       "popularity": 50,
       "lat": null,
@@ -2740,8 +2911,8 @@
       "name": "Koh Phangan",
       "file": "koh_phangan.json",
       "searchTokens": [
-        "pha",
         "koh",
+        "pha",
         "koh phangan",
         "phangan"
       ],
@@ -2754,9 +2925,9 @@
       "name": "Koh Samui",
       "file": "koh_samui.json",
       "searchTokens": [
-        "sam",
-        "samui",
         "koh",
+        "samui",
+        "sam",
         "koh samui"
       ],
       "popularity": 50,
@@ -2768,8 +2939,8 @@
       "name": "Kolad",
       "file": "kolad.json",
       "searchTokens": [
-        "kol",
-        "kolad"
+        "kolad",
+        "kol"
       ],
       "popularity": 50,
       "lat": null,
@@ -2792,11 +2963,11 @@
       "name": "Kolli Hills",
       "file": "kolli_hills.json",
       "searchTokens": [
-        "kolli hills",
-        "kol",
-        "kolli",
         "hil",
-        "hills"
+        "kolli hills",
+        "hills",
+        "kol",
+        "kolli"
       ],
       "popularity": 50,
       "lat": null,
@@ -2807,8 +2978,20 @@
       "name": "Koloriang",
       "file": "koloriang.json",
       "searchTokens": [
-        "kol",
-        "koloriang"
+        "koloriang",
+        "kol"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "koszalin",
+      "name": "Koszalin",
+      "file": "koszalin.json",
+      "searchTokens": [
+        "kos",
+        "koszalin"
       ],
       "popularity": 50,
       "lat": null,
@@ -2819,11 +3002,11 @@
       "name": "Kota Kinabalu",
       "file": "kota_kinabalu.json",
       "searchTokens": [
+        "kinabalu",
         "kota",
-        "kota kinabalu",
-        "kot",
         "kin",
-        "kinabalu"
+        "kota kinabalu",
+        "kot"
       ],
       "popularity": 50,
       "lat": null,
@@ -2834,8 +3017,8 @@
       "name": "Kotor",
       "file": "kotor.json",
       "searchTokens": [
-        "kotor",
-        "kot"
+        "kot",
+        "kotor"
       ],
       "popularity": 50,
       "lat": null,
@@ -2848,6 +3031,18 @@
       "searchTokens": [
         "kov",
         "kovalam"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kołobrzeg",
+      "name": "Kołobrzeg",
+      "file": "kołobrzeg.json",
+      "searchTokens": [
+        "kołobrzeg",
+        "koł"
       ],
       "popularity": 50,
       "lat": null,
@@ -2890,14 +3085,26 @@
       "lon": null
     },
     {
+      "key": "krynica-zdrój",
+      "name": "Krynica-Zdrój",
+      "file": "krynica-zdrój.json",
+      "searchTokens": [
+        "kry",
+        "krynica-zdrój"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "kuala_lumpur",
       "name": "Kuala Lumpur",
       "file": "kuala_lumpur.json",
       "searchTokens": [
-        "lum",
-        "kua",
-        "lumpur",
         "kuala lumpur",
+        "kua",
+        "lum",
+        "lumpur",
         "kuala"
       ],
       "popularity": 50,
@@ -2921,8 +3128,8 @@
       "name": "Kumarakom",
       "file": "kumarakom.json",
       "searchTokens": [
-        "kum",
-        "kumarakom"
+        "kumarakom",
+        "kum"
       ],
       "popularity": 50,
       "lat": null,
@@ -2933,8 +3140,8 @@
       "name": "Kumbhalgarh",
       "file": "kumbhalgarh.json",
       "searchTokens": [
-        "kum",
-        "kumbhalgarh"
+        "kumbhalgarh",
+        "kum"
       ],
       "popularity": 50,
       "lat": null,
@@ -2945,8 +3152,20 @@
       "name": "Kyoto",
       "file": "kyoto.json",
       "searchTokens": [
-        "kyo",
-        "kyoto"
+        "kyoto",
+        "kyo"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kłodzko",
+      "name": "Kłodzko",
+      "file": "kłodzko.json",
+      "searchTokens": [
+        "kłodzko",
+        "kło"
       ],
       "popularity": 50,
       "lat": null,
@@ -2958,8 +3177,8 @@
       "file": "la_paz.json",
       "searchTokens": [
         "la paz",
-        "la",
-        "paz"
+        "paz",
+        "la"
       ],
       "popularity": 50,
       "lat": null,
@@ -2970,8 +3189,8 @@
       "name": "Lachung",
       "file": "lachung.json",
       "searchTokens": [
-        "lac",
-        "lachung"
+        "lachung",
+        "lac"
       ],
       "popularity": 50,
       "lat": null,
@@ -2982,8 +3201,8 @@
       "name": "Langkawi",
       "file": "langkawi.json",
       "searchTokens": [
-        "langkawi",
-        "lan"
+        "lan",
+        "langkawi"
       ],
       "popularity": 50,
       "lat": null,
@@ -3006,10 +3225,10 @@
       "name": "Las Vegas",
       "file": "las_vegas.json",
       "searchTokens": [
-        "vegas",
-        "veg",
         "las vegas",
-        "las"
+        "las",
+        "vegas",
+        "veg"
       ],
       "popularity": 50,
       "lat": null,
@@ -3022,6 +3241,18 @@
       "searchTokens": [
         "lavasa",
         "lav"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "legnica",
+      "name": "Legnica",
+      "file": "legnica.json",
+      "searchTokens": [
+        "legnica",
+        "leg"
       ],
       "popularity": 50,
       "lat": null,
@@ -3043,8 +3274,8 @@
       "name": "Lepakshi",
       "file": "lepakshi.json",
       "searchTokens": [
-        "lepakshi",
-        "lep"
+        "lep",
+        "lepakshi"
       ],
       "popularity": 50,
       "lat": null,
@@ -3055,8 +3286,8 @@
       "name": "Lima",
       "file": "lima.json",
       "searchTokens": [
-        "lima",
-        "lim"
+        "lim",
+        "lima"
       ],
       "popularity": 50,
       "lat": null,
@@ -3079,8 +3310,8 @@
       "name": "Ljubljana",
       "file": "ljubljana.json",
       "searchTokens": [
-        "ljubljana",
-        "lju"
+        "lju",
+        "ljubljana"
       ],
       "popularity": 50,
       "lat": null,
@@ -3091,10 +3322,10 @@
       "name": "Loktak Lake",
       "file": "loktak_lake.json",
       "searchTokens": [
-        "loktak",
-        "loktak lake",
         "lake",
+        "loktak",
         "lok",
+        "loktak lake",
         "lak"
       ],
       "popularity": 50,
@@ -3106,8 +3337,8 @@
       "name": "Lombok",
       "file": "lombok.json",
       "searchTokens": [
-        "lom",
-        "lombok"
+        "lombok",
+        "lom"
       ],
       "popularity": 50,
       "lat": null,
@@ -3118,8 +3349,8 @@
       "name": "Lonavala",
       "file": "lonavala.json",
       "searchTokens": [
-        "lonavala",
-        "lon"
+        "lon",
+        "lonavala"
       ],
       "popularity": 50,
       "lat": null,
@@ -3130,8 +3361,8 @@
       "name": "London",
       "file": "london.json",
       "searchTokens": [
-        "london",
-        "lon"
+        "lon",
+        "london"
       ],
       "popularity": 100,
       "lat": null,
@@ -3142,9 +3373,9 @@
       "name": "Los Angeles",
       "file": "los_angeles.json",
       "searchTokens": [
-        "ang",
-        "los",
         "los angeles",
+        "los",
+        "ang",
         "angeles"
       ],
       "popularity": 50,
@@ -3156,11 +3387,23 @@
       "name": "Luang Prabang",
       "file": "luang_prabang.json",
       "searchTokens": [
-        "pra",
+        "prabang",
         "lua",
         "luang prabang",
-        "prabang",
-        "luang"
+        "luang",
+        "pra"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "lublin",
+      "name": "Lublin",
+      "file": "lublin.json",
+      "searchTokens": [
+        "lub",
+        "lublin"
       ],
       "popularity": 50,
       "lat": null,
@@ -3183,10 +3426,10 @@
       "name": "Luxembourg City",
       "file": "luxembourg_city.json",
       "searchTokens": [
+        "luxembourg city",
         "luxembourg",
         "cit",
         "lux",
-        "luxembourg city",
         "city"
       ],
       "popularity": 50,
@@ -3198,8 +3441,8 @@
       "name": "Luxor",
       "file": "luxor.json",
       "searchTokens": [
-        "lux",
-        "luxor"
+        "luxor",
+        "lux"
       ],
       "popularity": 50,
       "lat": null,
@@ -3210,8 +3453,8 @@
       "name": "Lyon",
       "file": "lyon.json",
       "searchTokens": [
-        "lyo",
-        "lyon"
+        "lyon",
+        "lyo"
       ],
       "popularity": 50,
       "lat": null,
@@ -3222,8 +3465,8 @@
       "name": "Macau",
       "file": "macau.json",
       "searchTokens": [
-        "mac",
-        "macau"
+        "macau",
+        "mac"
       ],
       "popularity": 50,
       "lat": null,
@@ -3234,8 +3477,8 @@
       "name": "Madikeri",
       "file": "madikeri.json",
       "searchTokens": [
-        "madikeri",
-        "mad"
+        "mad",
+        "madikeri"
       ],
       "popularity": 50,
       "lat": null,
@@ -3270,8 +3513,8 @@
       "name": "Mahabaleshwar",
       "file": "mahabaleshwar.json",
       "searchTokens": [
-        "mahabaleshwar",
-        "mah"
+        "mah",
+        "mahabaleshwar"
       ],
       "popularity": 50,
       "lat": null,
@@ -3282,8 +3525,8 @@
       "name": "Majuli",
       "file": "majuli.json",
       "searchTokens": [
-        "maj",
-        "majuli"
+        "majuli",
+        "maj"
       ],
       "popularity": 50,
       "lat": null,
@@ -3342,8 +3585,8 @@
       "name": "Maldives",
       "file": "maldives.json",
       "searchTokens": [
-        "maldives",
-        "mal"
+        "mal",
+        "maldives"
       ],
       "popularity": 50,
       "lat": null,
@@ -3366,8 +3609,8 @@
       "name": "Mandawa",
       "file": "mandawa.json",
       "searchTokens": [
-        "man",
-        "mandawa"
+        "mandawa",
+        "man"
       ],
       "popularity": 50,
       "lat": null,
@@ -3378,8 +3621,8 @@
       "name": "Mandu",
       "file": "mandu.json",
       "searchTokens": [
-        "man",
-        "mandu"
+        "mandu",
+        "man"
       ],
       "popularity": 50,
       "lat": null,
@@ -3390,8 +3633,8 @@
       "name": "Mangalore",
       "file": "mangalore.json",
       "searchTokens": [
-        "man",
-        "mangalore"
+        "mangalore",
+        "man"
       ],
       "popularity": 50,
       "lat": null,
@@ -3414,8 +3657,8 @@
       "name": "Marrakech",
       "file": "marrakech.json",
       "searchTokens": [
-        "marrakech",
-        "mar"
+        "mar",
+        "marrakech"
       ],
       "popularity": 50,
       "lat": null,
@@ -3426,8 +3669,8 @@
       "name": "Marseille",
       "file": "marseille.json",
       "searchTokens": [
-        "marseille",
-        "mar"
+        "mar",
+        "marseille"
       ],
       "popularity": 50,
       "lat": null,
@@ -3450,8 +3693,8 @@
       "name": "Mathura",
       "file": "mathura.json",
       "searchTokens": [
-        "mat",
-        "mathura"
+        "mathura",
+        "mat"
       ],
       "popularity": 50,
       "lat": null,
@@ -3462,8 +3705,8 @@
       "name": "Maui",
       "file": "maui.json",
       "searchTokens": [
-        "maui",
-        "mau"
+        "mau",
+        "maui"
       ],
       "popularity": 50,
       "lat": null,
@@ -3474,8 +3717,8 @@
       "name": "Mcleodganj",
       "file": "mcleodganj.json",
       "searchTokens": [
-        "mcl",
-        "mcleodganj"
+        "mcleodganj",
+        "mcl"
       ],
       "popularity": 50,
       "lat": null,
@@ -3486,8 +3729,8 @@
       "name": "Mechuka",
       "file": "mechuka.json",
       "searchTokens": [
-        "mechuka",
-        "mec"
+        "mec",
+        "mechuka"
       ],
       "popularity": 50,
       "lat": null,
@@ -3510,8 +3753,8 @@
       "name": "Melbourne",
       "file": "melbourne.json",
       "searchTokens": [
-        "mel",
-        "melbourne"
+        "melbourne",
+        "mel"
       ],
       "popularity": 50,
       "lat": null,
@@ -3522,8 +3765,8 @@
       "name": "Mendoza",
       "file": "mendoza.json",
       "searchTokens": [
-        "mendoza",
-        "men"
+        "men",
+        "mendoza"
       ],
       "popularity": 50,
       "lat": null,
@@ -3546,11 +3789,11 @@
       "name": "Mexico City",
       "file": "mexico_city.json",
       "searchTokens": [
-        "cit",
-        "city",
-        "mex",
         "mexico",
-        "mexico city"
+        "cit",
+        "mexico city",
+        "city",
+        "mex"
       ],
       "popularity": 50,
       "lat": null,
@@ -3593,12 +3836,24 @@
       "lon": null
     },
     {
+      "key": "międzyzdroje",
+      "name": "Międzyzdroje",
+      "file": "międzyzdroje.json",
+      "searchTokens": [
+        "mię",
+        "międzyzdroje"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "montevideo",
       "name": "Montevideo",
       "file": "montevideo.json",
       "searchTokens": [
-        "mon",
-        "montevideo"
+        "montevideo",
+        "mon"
       ],
       "popularity": 50,
       "lat": null,
@@ -3609,8 +3864,8 @@
       "name": "Montreal",
       "file": "montreal.json",
       "searchTokens": [
-        "mon",
-        "montreal"
+        "montreal",
+        "mon"
       ],
       "popularity": 50,
       "lat": null,
@@ -3621,10 +3876,10 @@
       "name": "Mount Abu",
       "file": "mount_abu.json",
       "searchTokens": [
-        "mou",
-        "mount",
         "mount abu",
-        "abu"
+        "abu",
+        "mount",
+        "mou"
       ],
       "popularity": 50,
       "lat": null,
@@ -3635,8 +3890,8 @@
       "name": "Mukteshwar",
       "file": "mukteshwar.json",
       "searchTokens": [
-        "muk",
-        "mukteshwar"
+        "mukteshwar",
+        "muk"
       ],
       "popularity": 50,
       "lat": null,
@@ -3647,8 +3902,8 @@
       "name": "Mumbai",
       "file": "mumbai.json",
       "searchTokens": [
-        "mumbai",
-        "mum"
+        "mum",
+        "mumbai"
       ],
       "popularity": 100,
       "lat": null,
@@ -3659,8 +3914,8 @@
       "name": "Munich",
       "file": "munich.json",
       "searchTokens": [
-        "mun",
-        "munich"
+        "munich",
+        "mun"
       ],
       "popularity": 50,
       "lat": null,
@@ -3683,8 +3938,8 @@
       "name": "Munsiyari",
       "file": "munsiyari.json",
       "searchTokens": [
-        "mun",
-        "munsiyari"
+        "munsiyari",
+        "mun"
       ],
       "popularity": 50,
       "lat": null,
@@ -3707,8 +3962,8 @@
       "name": "Murudeshwar",
       "file": "murudeshwar.json",
       "searchTokens": [
-        "murudeshwar",
-        "mur"
+        "mur",
+        "murudeshwar"
       ],
       "popularity": 50,
       "lat": null,
@@ -3731,8 +3986,8 @@
       "name": "Mussoorie",
       "file": "mussoorie.json",
       "searchTokens": [
-        "mus",
-        "mussoorie"
+        "mussoorie",
+        "mus"
       ],
       "popularity": 50,
       "lat": null,
@@ -3755,8 +4010,8 @@
       "name": "Mysore",
       "file": "mysore.json",
       "searchTokens": [
-        "mysore",
-        "mys"
+        "mys",
+        "mysore"
       ],
       "popularity": 50,
       "lat": null,
@@ -3779,8 +4034,8 @@
       "name": "Nairobi",
       "file": "nairobi.json",
       "searchTokens": [
-        "nai",
-        "nairobi"
+        "nairobi",
+        "nai"
       ],
       "popularity": 50,
       "lat": null,
@@ -3791,8 +4046,8 @@
       "name": "Najran",
       "file": "najran.json",
       "searchTokens": [
-        "najran",
-        "naj"
+        "naj",
+        "najran"
       ],
       "popularity": 50,
       "lat": null,
@@ -3803,8 +4058,8 @@
       "name": "Namchi",
       "file": "namchi.json",
       "searchTokens": [
-        "namchi",
-        "nam"
+        "nam",
+        "namchi"
       ],
       "popularity": 50,
       "lat": null,
@@ -3815,8 +4070,8 @@
       "name": "Namsai",
       "file": "namsai.json",
       "searchTokens": [
-        "namsai",
-        "nam"
+        "nam",
+        "namsai"
       ],
       "popularity": 50,
       "lat": null,
@@ -3827,8 +4082,8 @@
       "name": "Naples",
       "file": "naples.json",
       "searchTokens": [
-        "nap",
-        "naples"
+        "naples",
+        "nap"
       ],
       "popularity": 50,
       "lat": null,
@@ -3839,8 +4094,8 @@
       "name": "Nara",
       "file": "nara.json",
       "searchTokens": [
-        "nar",
-        "nara"
+        "nara",
+        "nar"
       ],
       "popularity": 50,
       "lat": null,
@@ -3863,8 +4118,8 @@
       "name": "Nassau",
       "file": "nassau.json",
       "searchTokens": [
-        "nas",
-        "nassau"
+        "nassau",
+        "nas"
       ],
       "popularity": 50,
       "lat": null,
@@ -3911,12 +4166,12 @@
       "name": "New York City",
       "file": "new_york_city.json",
       "searchTokens": [
-        "cit",
         "yor",
-        "new york city",
+        "cit",
         "new",
         "york",
-        "city"
+        "city",
+        "new york city"
       ],
       "popularity": 50,
       "lat": null,
@@ -3927,10 +4182,10 @@
       "name": "Nha Trang",
       "file": "nha_trang.json",
       "searchTokens": [
+        "nha trang",
         "trang",
-        "tra",
         "nha",
-        "nha trang"
+        "tra"
       ],
       "popularity": 50,
       "lat": null,
@@ -3941,11 +4196,11 @@
       "name": "Niagara Falls",
       "file": "niagara_falls.json",
       "searchTokens": [
-        "niagara",
-        "nia",
+        "niagara falls",
         "falls",
-        "fal",
-        "niagara falls"
+        "nia",
+        "niagara",
+        "fal"
       ],
       "popularity": 50,
       "lat": null,
@@ -3969,10 +4224,10 @@
       "file": "nubra_valley.json",
       "searchTokens": [
         "nubra",
-        "nub",
-        "valley",
+        "nubra valley",
         "val",
-        "nubra valley"
+        "nub",
+        "valley"
       ],
       "popularity": 50,
       "lat": null,
@@ -4003,12 +4258,36 @@
       "lon": null
     },
     {
+      "key": "olsztyn",
+      "name": "Olsztyn",
+      "file": "olsztyn.json",
+      "searchTokens": [
+        "olsztyn",
+        "ols"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "ooty",
       "name": "Ooty",
       "file": "ooty.json",
       "searchTokens": [
         "oot",
         "ooty"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "opole",
+      "name": "Opole",
+      "file": "opole.json",
+      "searchTokens": [
+        "opo",
+        "opole"
       ],
       "popularity": 50,
       "lat": null,
@@ -4031,8 +4310,8 @@
       "name": "Orlando",
       "file": "orlando.json",
       "searchTokens": [
-        "orlando",
-        "orl"
+        "orl",
+        "orlando"
       ],
       "popularity": 50,
       "lat": null,
@@ -4043,8 +4322,8 @@
       "name": "Osaka",
       "file": "osaka.json",
       "searchTokens": [
-        "osa",
-        "osaka"
+        "osaka",
+        "osa"
       ],
       "popularity": 50,
       "lat": null,
@@ -4055,8 +4334,8 @@
       "name": "Osian",
       "file": "osian.json",
       "searchTokens": [
-        "osi",
-        "osian"
+        "osian",
+        "osi"
       ],
       "popularity": 50,
       "lat": null,
@@ -4079,8 +4358,8 @@
       "name": "Ottawa",
       "file": "ottawa.json",
       "searchTokens": [
-        "ottawa",
-        "ott"
+        "ott",
+        "ottawa"
       ],
       "popularity": 50,
       "lat": null,
@@ -4103,8 +4382,8 @@
       "name": "Pahalgam",
       "file": "pahalgam.json",
       "searchTokens": [
-        "pahalgam",
-        "pah"
+        "pah",
+        "pahalgam"
       ],
       "popularity": 50,
       "lat": null,
@@ -4128,10 +4407,10 @@
       "file": "panama_city.json",
       "searchTokens": [
         "cit",
-        "panama",
         "panama city",
-        "city",
-        "pan"
+        "panama",
+        "pan",
+        "city"
       ],
       "popularity": 50,
       "lat": null,
@@ -4142,8 +4421,8 @@
       "name": "Panchgani",
       "file": "panchgani.json",
       "searchTokens": [
-        "panchgani",
-        "pan"
+        "pan",
+        "panchgani"
       ],
       "popularity": 50,
       "lat": null,
@@ -4154,10 +4433,10 @@
       "name": "Pangong Tso",
       "file": "pangong_tso.json",
       "searchTokens": [
-        "pangong tso",
         "tso",
+        "pangong",
         "pan",
-        "pangong"
+        "pangong tso"
       ],
       "popularity": 50,
       "lat": null,
@@ -4180,8 +4459,8 @@
       "name": "Paris",
       "file": "paris.json",
       "searchTokens": [
-        "par",
-        "paris"
+        "paris",
+        "par"
       ],
       "popularity": 100,
       "lat": null,
@@ -4192,8 +4471,8 @@
       "name": "Pasighat",
       "file": "pasighat.json",
       "searchTokens": [
-        "pasighat",
-        "pas"
+        "pas",
+        "pasighat"
       ],
       "popularity": 50,
       "lat": null,
@@ -4204,8 +4483,8 @@
       "name": "Pattaya",
       "file": "pattaya.json",
       "searchTokens": [
-        "pattaya",
-        "pat"
+        "pat",
+        "pattaya"
       ],
       "popularity": 50,
       "lat": null,
@@ -4252,8 +4531,8 @@
       "name": "Petra",
       "file": "petra.json",
       "searchTokens": [
-        "pet",
-        "petra"
+        "petra",
+        "pet"
       ],
       "popularity": 50,
       "lat": null,
@@ -4276,11 +4555,11 @@
       "name": "Phnom Penh",
       "file": "phnom_penh.json",
       "searchTokens": [
-        "penh",
+        "phnom",
         "pen",
         "phn",
-        "phnom",
-        "phnom penh"
+        "phnom penh",
+        "penh"
       ],
       "popularity": 50,
       "lat": null,
@@ -4292,9 +4571,9 @@
       "file": "phu_quoc.json",
       "searchTokens": [
         "quoc",
-        "phu quoc",
         "quo",
-        "phu"
+        "phu",
+        "phu quoc"
       ],
       "popularity": 50,
       "lat": null,
@@ -4341,8 +4620,8 @@
       "name": "Poovar",
       "file": "poovar.json",
       "searchTokens": [
-        "poo",
-        "poovar"
+        "poovar",
+        "poo"
       ],
       "popularity": 50,
       "lat": null,
@@ -4354,9 +4633,9 @@
       "file": "port_blair.json",
       "searchTokens": [
         "bla",
-        "port",
-        "blair",
         "por",
+        "blair",
+        "port",
         "port blair"
       ],
       "popularity": 50,
@@ -4368,8 +4647,8 @@
       "name": "Portland",
       "file": "portland.json",
       "searchTokens": [
-        "portland",
-        "por"
+        "por",
+        "portland"
       ],
       "popularity": 50,
       "lat": null,
@@ -4380,8 +4659,8 @@
       "name": "Porto",
       "file": "porto.json",
       "searchTokens": [
-        "porto",
-        "por"
+        "por",
+        "porto"
       ],
       "popularity": 50,
       "lat": null,
@@ -4392,8 +4671,8 @@
       "name": "Poznań",
       "file": "poznań.json",
       "searchTokens": [
-        "poz",
-        "poznań"
+        "poznań",
+        "poz"
       ],
       "popularity": 50,
       "lat": null,
@@ -4404,8 +4683,8 @@
       "name": "Prague",
       "file": "prague.json",
       "searchTokens": [
-        "pra",
-        "prague"
+        "prague",
+        "pra"
       ],
       "popularity": 50,
       "lat": null,
@@ -4416,10 +4695,10 @@
       "name": "Prefix Map",
       "file": "prefix_map.json",
       "searchTokens": [
-        "pre",
-        "prefix map",
+        "prefix",
         "map",
-        "prefix"
+        "prefix map",
+        "pre"
       ],
       "popularity": 50,
       "lat": null,
@@ -4432,6 +4711,18 @@
       "searchTokens": [
         "pre",
         "pretoria"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "przemyśl",
+      "name": "Przemyśl",
+      "file": "przemyśl.json",
+      "searchTokens": [
+        "przemyśl",
+        "prz"
       ],
       "popularity": 50,
       "lat": null,
@@ -4454,8 +4745,8 @@
       "name": "Puri",
       "file": "puri.json",
       "searchTokens": [
-        "pur",
-        "puri"
+        "puri",
+        "pur"
       ],
       "popularity": 50,
       "lat": null,
@@ -4474,15 +4765,27 @@
       "lon": null
     },
     {
+      "key": "płock",
+      "name": "Płock",
+      "file": "płock.json",
+      "searchTokens": [
+        "płock",
+        "pło"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "quebec_city",
       "name": "Quebec City",
       "file": "quebec_city.json",
       "searchTokens": [
-        "quebec",
         "cit",
-        "que",
         "quebec city",
-        "city"
+        "que",
+        "city",
+        "quebec"
       ],
       "popularity": 50,
       "lat": null,
@@ -4505,8 +4808,8 @@
       "name": "Quito",
       "file": "quito.json",
       "searchTokens": [
-        "quito",
-        "qui"
+        "qui",
+        "quito"
       ],
       "popularity": 50,
       "lat": null,
@@ -4517,8 +4820,8 @@
       "name": "Rameswaram",
       "file": "rameswaram.json",
       "searchTokens": [
-        "rameswaram",
-        "ram"
+        "ram",
+        "rameswaram"
       ],
       "popularity": 50,
       "lat": null,
@@ -4529,12 +4832,12 @@
       "name": "Rann Of Kutch",
       "file": "rann_of_kutch.json",
       "searchTokens": [
+        "kutch",
+        "of",
         "ran",
         "rann of kutch",
-        "rann",
-        "of",
-        "kutch",
-        "kut"
+        "kut",
+        "rann"
       ],
       "popularity": 50,
       "lat": null,
@@ -4545,8 +4848,8 @@
       "name": "Ranthambore",
       "file": "ranthambore.json",
       "searchTokens": [
-        "ran",
-        "ranthambore"
+        "ranthambore",
+        "ran"
       ],
       "popularity": 50,
       "lat": null,
@@ -4557,8 +4860,8 @@
       "name": "Ratnagiri",
       "file": "ratnagiri.json",
       "searchTokens": [
-        "rat",
-        "ratnagiri"
+        "ratnagiri",
+        "rat"
       ],
       "popularity": 50,
       "lat": null,
@@ -4569,8 +4872,8 @@
       "name": "Ravangla",
       "file": "ravangla.json",
       "searchTokens": [
-        "ravangla",
-        "rav"
+        "rav",
+        "ravangla"
       ],
       "popularity": 50,
       "lat": null,
@@ -4581,8 +4884,8 @@
       "name": "Reykjavik",
       "file": "reykjavik.json",
       "searchTokens": [
-        "reykjavik",
-        "rey"
+        "rey",
+        "reykjavik"
       ],
       "popularity": 50,
       "lat": null,
@@ -4605,9 +4908,9 @@
       "name": "Rio De Janeiro",
       "file": "rio_de_janeiro.json",
       "searchTokens": [
+        "rio de janeiro",
         "de",
         "rio",
-        "rio de janeiro",
         "janeiro",
         "jan"
       ],
@@ -4620,8 +4923,8 @@
       "name": "Rishikesh",
       "file": "rishikesh.json",
       "searchTokens": [
-        "rishikesh",
-        "ris"
+        "ris",
+        "rishikesh"
       ],
       "popularity": 50,
       "lat": null,
@@ -4668,8 +4971,20 @@
       "name": "Rotterdam",
       "file": "rotterdam.json",
       "searchTokens": [
-        "rotterdam",
-        "rot"
+        "rot",
+        "rotterdam"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "rzeszów",
+      "name": "Rzeszów",
+      "file": "rzeszów.json",
+      "searchTokens": [
+        "rzeszów",
+        "rze"
       ],
       "popularity": 50,
       "lat": null,
@@ -4680,8 +4995,8 @@
       "name": "Sakleshpur",
       "file": "sakleshpur.json",
       "searchTokens": [
-        "sak",
-        "sakleshpur"
+        "sakleshpur",
+        "sak"
       ],
       "popularity": 50,
       "lat": null,
@@ -4692,8 +5007,8 @@
       "name": "Salzburg",
       "file": "salzburg.json",
       "searchTokens": [
-        "sal",
-        "salzburg"
+        "salzburg",
+        "sal"
       ],
       "popularity": 50,
       "lat": null,
@@ -4716,10 +5031,10 @@
       "name": "San Diego",
       "file": "san_diego.json",
       "searchTokens": [
+        "die",
         "san diego",
         "san",
-        "diego",
-        "die"
+        "diego"
       ],
       "popularity": 50,
       "lat": null,
@@ -4730,10 +5045,10 @@
       "name": "San Francisco",
       "file": "san_francisco.json",
       "searchTokens": [
+        "fra",
         "francisco",
         "san",
-        "san francisco",
-        "fra"
+        "san francisco"
       ],
       "popularity": 50,
       "lat": null,
@@ -4745,8 +5060,8 @@
       "file": "san_jose.json",
       "searchTokens": [
         "jose",
-        "san",
         "san jose",
+        "san",
         "jos"
       ],
       "popularity": 50,
@@ -4758,10 +5073,22 @@
       "name": "San Juan",
       "file": "san_juan.json",
       "searchTokens": [
-        "juan",
-        "san",
         "jua",
+        "san",
+        "juan",
         "san juan"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "sandomierz",
+      "name": "Sandomierz",
+      "file": "sandomierz.json",
+      "searchTokens": [
+        "san",
+        "sandomierz"
       ],
       "popularity": 50,
       "lat": null,
@@ -4772,8 +5099,8 @@
       "name": "Sangla",
       "file": "sangla.json",
       "searchTokens": [
-        "san",
-        "sangla"
+        "sangla",
+        "san"
       ],
       "popularity": 50,
       "lat": null,
@@ -4784,8 +5111,8 @@
       "name": "Santiago",
       "file": "santiago.json",
       "searchTokens": [
-        "san",
-        "santiago"
+        "santiago",
+        "san"
       ],
       "popularity": 50,
       "lat": null,
@@ -4796,8 +5123,8 @@
       "name": "Santorini",
       "file": "santorini.json",
       "searchTokens": [
-        "santorini",
-        "san"
+        "san",
+        "santorini"
       ],
       "popularity": 50,
       "lat": null,
@@ -4808,10 +5135,10 @@
       "name": "Sao Paulo",
       "file": "sao_paulo.json",
       "searchTokens": [
-        "sao paulo",
+        "sao",
         "pau",
-        "paulo",
-        "sao"
+        "sao paulo",
+        "paulo"
       ],
       "popularity": 50,
       "lat": null,
@@ -4822,8 +5149,8 @@
       "name": "Sapa",
       "file": "sapa.json",
       "searchTokens": [
-        "sapa",
-        "sap"
+        "sap",
+        "sapa"
       ],
       "popularity": 50,
       "lat": null,
@@ -4846,8 +5173,8 @@
       "name": "Saputara",
       "file": "saputara.json",
       "searchTokens": [
-        "saputara",
-        "sap"
+        "sap",
+        "saputara"
       ],
       "popularity": 50,
       "lat": null,
@@ -4870,8 +5197,8 @@
       "name": "Sarchu",
       "file": "sarchu.json",
       "searchTokens": [
-        "sar",
-        "sarchu"
+        "sarchu",
+        "sar"
       ],
       "popularity": 50,
       "lat": null,
@@ -4882,8 +5209,8 @@
       "name": "Savannah",
       "file": "savannah.json",
       "searchTokens": [
-        "sav",
-        "savannah"
+        "savannah",
+        "sav"
       ],
       "popularity": 50,
       "lat": null,
@@ -4918,8 +5245,8 @@
       "name": "Seville",
       "file": "seville.json",
       "searchTokens": [
-        "seville",
-        "sev"
+        "sev",
+        "seville"
       ],
       "popularity": 50,
       "lat": null,
@@ -4930,8 +5257,8 @@
       "name": "Shanghai",
       "file": "shanghai.json",
       "searchTokens": [
-        "shanghai",
-        "sha"
+        "sha",
+        "shanghai"
       ],
       "popularity": 50,
       "lat": null,
@@ -4942,8 +5269,8 @@
       "name": "Shillong",
       "file": "shillong.json",
       "searchTokens": [
-        "shillong",
-        "shi"
+        "shi",
+        "shillong"
       ],
       "popularity": 50,
       "lat": null,
@@ -4966,8 +5293,8 @@
       "name": "Shoja",
       "file": "shoja.json",
       "searchTokens": [
-        "sho",
-        "shoja"
+        "shoja",
+        "sho"
       ],
       "popularity": 50,
       "lat": null,
@@ -4990,11 +5317,11 @@
       "name": "Siem Reap",
       "file": "siem_reap.json",
       "searchTokens": [
+        "sie",
+        "siem reap",
         "rea",
         "siem",
-        "reap",
-        "siem reap",
-        "sie"
+        "reap"
       ],
       "popularity": 50,
       "lat": null,
@@ -5017,8 +5344,8 @@
       "name": "Sintra",
       "file": "sintra.json",
       "searchTokens": [
-        "sin",
-        "sintra"
+        "sintra",
+        "sin"
       ],
       "popularity": 50,
       "lat": null,
@@ -5029,8 +5356,8 @@
       "name": "Skopje",
       "file": "skopje.json",
       "searchTokens": [
-        "skopje",
-        "sko"
+        "sko",
+        "skopje"
       ],
       "popularity": 50,
       "lat": null,
@@ -5053,8 +5380,8 @@
       "name": "Somnath",
       "file": "somnath.json",
       "searchTokens": [
-        "somnath",
-        "som"
+        "som",
+        "somnath"
       ],
       "popularity": 50,
       "lat": null,
@@ -5065,8 +5392,20 @@
       "name": "Sonamarg",
       "file": "sonamarg.json",
       "searchTokens": [
-        "son",
-        "sonamarg"
+        "sonamarg",
+        "son"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "sopot",
+      "name": "Sopot",
+      "file": "sopot.json",
+      "searchTokens": [
+        "sopot",
+        "sop"
       ],
       "popularity": 50,
       "lat": null,
@@ -5077,11 +5416,11 @@
       "name": "Spiti Valley",
       "file": "spiti_valley.json",
       "searchTokens": [
-        "spi",
-        "valley",
-        "val",
         "spiti",
-        "spiti valley"
+        "spi",
+        "spiti valley",
+        "val",
+        "valley"
       ],
       "popularity": 50,
       "lat": null,
@@ -5092,8 +5431,8 @@
       "name": "Split",
       "file": "split.json",
       "searchTokens": [
-        "split",
-        "spl"
+        "spl",
+        "split"
       ],
       "popularity": 50,
       "lat": null,
@@ -5116,8 +5455,8 @@
       "name": "Stockholm",
       "file": "stockholm.json",
       "searchTokens": [
-        "sto",
-        "stockholm"
+        "stockholm",
+        "sto"
       ],
       "popularity": 50,
       "lat": null,
@@ -5140,8 +5479,20 @@
       "name": "Surabaya",
       "file": "surabaya.json",
       "searchTokens": [
-        "sur",
-        "surabaya"
+        "surabaya",
+        "sur"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "suwałki",
+      "name": "Suwałki",
+      "file": "suwałki.json",
+      "searchTokens": [
+        "suwałki",
+        "suw"
       ],
       "popularity": 50,
       "lat": null,
@@ -5152,8 +5503,8 @@
       "name": "Sydney",
       "file": "sydney.json",
       "searchTokens": [
-        "sydney",
-        "syd"
+        "syd",
+        "sydney"
       ],
       "popularity": 50,
       "lat": null,
@@ -5164,8 +5515,35 @@
       "name": "Szczecin",
       "file": "szczecin.json",
       "searchTokens": [
-        "szczecin",
-        "szc"
+        "szc",
+        "szczecin"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "szklarska_poręba",
+      "name": "Szklarska Poręba",
+      "file": "szklarska_poręba.json",
+      "searchTokens": [
+        "szklarska",
+        "szklarska poręba",
+        "por",
+        "poręba",
+        "szk"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "słupsk",
+      "name": "Słupsk",
+      "file": "słupsk.json",
+      "searchTokens": [
+        "słu",
+        "słupsk"
       ],
       "popularity": 50,
       "lat": null,
@@ -5212,8 +5590,8 @@
       "name": "Tallinn",
       "file": "tallinn.json",
       "searchTokens": [
-        "tal",
-        "tallinn"
+        "tallinn",
+        "tal"
       ],
       "popularity": 50,
       "lat": null,
@@ -5224,8 +5602,35 @@
       "name": "Tarkarli",
       "file": "tarkarli.json",
       "searchTokens": [
+        "tarkarli",
+        "tar"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "tarnowskie_góry",
+      "name": "Tarnowskie Góry",
+      "file": "tarnowskie_góry.json",
+      "searchTokens": [
+        "tarnowskie góry",
+        "tarnowskie",
         "tar",
-        "tarkarli"
+        "góry",
+        "gór"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "tarnów",
+      "name": "Tarnów",
+      "file": "tarnów.json",
+      "searchTokens": [
+        "tarnów",
+        "tar"
       ],
       "popularity": 50,
       "lat": null,
@@ -5236,8 +5641,8 @@
       "name": "Tawang",
       "file": "tawang.json",
       "searchTokens": [
-        "taw",
-        "tawang"
+        "tawang",
+        "taw"
       ],
       "popularity": 50,
       "lat": null,
@@ -5256,12 +5661,24 @@
       "lon": null
     },
     {
+      "key": "tczew",
+      "name": "Tczew",
+      "file": "tczew.json",
+      "searchTokens": [
+        "tcz",
+        "tczew"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "tezu",
       "name": "Tezu",
       "file": "tezu.json",
       "searchTokens": [
-        "tezu",
-        "tez"
+        "tez",
+        "tezu"
       ],
       "popularity": 50,
       "lat": null,
@@ -5272,8 +5689,8 @@
       "name": "Thekkady",
       "file": "thekkady.json",
       "searchTokens": [
-        "thekkady",
-        "the"
+        "the",
+        "thekkady"
       ],
       "popularity": 50,
       "lat": null,
@@ -5284,8 +5701,8 @@
       "name": "Tirana",
       "file": "tirana.json",
       "searchTokens": [
-        "tir",
-        "tirana"
+        "tirana",
+        "tir"
       ],
       "popularity": 50,
       "lat": null,
@@ -5296,11 +5713,11 @@
       "name": "Tirthan Valley",
       "file": "tirthan_valley.json",
       "searchTokens": [
+        "tirthan valley",
         "tir",
-        "tirthan",
-        "valley",
         "val",
-        "tirthan valley"
+        "valley",
+        "tirthan"
       ],
       "popularity": 50,
       "lat": null,
@@ -5311,8 +5728,8 @@
       "name": "Tirupati",
       "file": "tirupati.json",
       "searchTokens": [
-        "tir",
-        "tirupati"
+        "tirupati",
+        "tir"
       ],
       "popularity": 50,
       "lat": null,
@@ -5359,8 +5776,8 @@
       "name": "Tosh",
       "file": "tosh.json",
       "searchTokens": [
-        "tos",
-        "tosh"
+        "tosh",
+        "tos"
       ],
       "popularity": 50,
       "lat": null,
@@ -5371,8 +5788,8 @@
       "name": "Trivandrum",
       "file": "trivandrum.json",
       "searchTokens": [
-        "tri",
-        "trivandrum"
+        "trivandrum",
+        "tri"
       ],
       "popularity": 50,
       "lat": null,
@@ -5443,8 +5860,8 @@
       "name": "Ujjain",
       "file": "ujjain.json",
       "searchTokens": [
-        "ujj",
-        "ujjain"
+        "ujjain",
+        "ujj"
       ],
       "popularity": 50,
       "lat": null,
@@ -5455,8 +5872,8 @@
       "name": "Vagamon",
       "file": "vagamon.json",
       "searchTokens": [
-        "vagamon",
-        "vag"
+        "vag",
+        "vagamon"
       ],
       "popularity": 50,
       "lat": null,
@@ -5467,8 +5884,8 @@
       "name": "Valencia",
       "file": "valencia.json",
       "searchTokens": [
-        "val",
-        "valencia"
+        "valencia",
+        "val"
       ],
       "popularity": 50,
       "lat": null,
@@ -5479,8 +5896,8 @@
       "name": "Valletta",
       "file": "valletta.json",
       "searchTokens": [
-        "val",
-        "valletta"
+        "valletta",
+        "val"
       ],
       "popularity": 50,
       "lat": null,
@@ -5491,8 +5908,8 @@
       "name": "Valparai",
       "file": "valparai.json",
       "searchTokens": [
-        "val",
-        "valparai"
+        "valparai",
+        "val"
       ],
       "popularity": 50,
       "lat": null,
@@ -5515,8 +5932,8 @@
       "name": "Vancouver",
       "file": "vancouver.json",
       "searchTokens": [
-        "vancouver",
-        "van"
+        "van",
+        "vancouver"
       ],
       "popularity": 50,
       "lat": null,
@@ -5527,8 +5944,8 @@
       "name": "Varanasi",
       "file": "varanasi.json",
       "searchTokens": [
-        "varanasi",
-        "var"
+        "var",
+        "varanasi"
       ],
       "popularity": 50,
       "lat": null,
@@ -5551,8 +5968,8 @@
       "name": "Vattakanal",
       "file": "vattakanal.json",
       "searchTokens": [
-        "vat",
-        "vattakanal"
+        "vattakanal",
+        "vat"
       ],
       "popularity": 50,
       "lat": null,
@@ -5563,8 +5980,8 @@
       "name": "Venice",
       "file": "venice.json",
       "searchTokens": [
-        "ven",
-        "venice"
+        "venice",
+        "ven"
       ],
       "popularity": 50,
       "lat": null,
@@ -5587,8 +6004,8 @@
       "name": "Victoria",
       "file": "victoria.json",
       "searchTokens": [
-        "victoria",
-        "vic"
+        "vic",
+        "victoria"
       ],
       "popularity": 50,
       "lat": null,
@@ -5647,8 +6064,8 @@
       "name": "Walong",
       "file": "walong.json",
       "searchTokens": [
-        "walong",
-        "wal"
+        "wal",
+        "walong"
       ],
       "popularity": 50,
       "lat": null,
@@ -5671,11 +6088,11 @@
       "name": "Washington D.C.",
       "file": "washington_d.c..json",
       "searchTokens": [
-        "washington d.c.",
-        "washington",
-        "was",
         "d.c",
-        "d.c."
+        "washington",
+        "d.c.",
+        "washington d.c.",
+        "was"
       ],
       "popularity": 50,
       "lat": null,
@@ -5686,8 +6103,20 @@
       "name": "Wayanad",
       "file": "wayanad.json",
       "searchTokens": [
-        "wayanad",
-        "way"
+        "way",
+        "wayanad"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "wałbrzych",
+      "name": "Wałbrzych",
+      "file": "wałbrzych.json",
+      "searchTokens": [
+        "wał",
+        "wałbrzych"
       ],
       "popularity": 50,
       "lat": null,
@@ -5698,8 +6127,8 @@
       "name": "Wellington",
       "file": "wellington.json",
       "searchTokens": [
-        "wel",
-        "wellington"
+        "wellington",
+        "wel"
       ],
       "popularity": 50,
       "lat": null,
@@ -5712,6 +6141,18 @@
       "searchTokens": [
         "wrocław",
         "wro"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "włocławek",
+      "name": "Włocławek",
+      "file": "włocławek.json",
+      "searchTokens": [
+        "włocławek",
+        "wło"
       ],
       "popularity": 50,
       "lat": null,
@@ -5746,8 +6187,8 @@
       "name": "Yelagiri",
       "file": "yelagiri.json",
       "searchTokens": [
-        "yelagiri",
-        "yel"
+        "yel",
+        "yelagiri"
       ],
       "popularity": 50,
       "lat": null,
@@ -5770,8 +6211,8 @@
       "name": "Yingkiong",
       "file": "yingkiong.json",
       "searchTokens": [
-        "yin",
-        "yingkiong"
+        "yingkiong",
+        "yin"
       ],
       "popularity": 50,
       "lat": null,
@@ -5782,8 +6223,8 @@
       "name": "Yogyakarta",
       "file": "yogyakarta.json",
       "searchTokens": [
-        "yog",
-        "yogyakarta"
+        "yogyakarta",
+        "yog"
       ],
       "popularity": 50,
       "lat": null,
@@ -5826,6 +6267,18 @@
       "lon": null
     },
     {
+      "key": "zamość",
+      "name": "Zamość",
+      "file": "zamość.json",
+      "searchTokens": [
+        "zamość",
+        "zam"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "zanskar",
       "name": "Zanskar",
       "file": "zanskar.json",
@@ -5842,8 +6295,8 @@
       "name": "Zanzibar",
       "file": "zanzibar.json",
       "searchTokens": [
-        "zan",
-        "zanzibar"
+        "zanzibar",
+        "zan"
       ],
       "popularity": 50,
       "lat": null,
@@ -5866,8 +6319,8 @@
       "name": "Ziro",
       "file": "ziro.json",
       "searchTokens": [
-        "ziro",
-        "zir"
+        "zir",
+        "ziro"
       ],
       "popularity": 50,
       "lat": null,
@@ -5878,8 +6331,8 @@
       "name": "Zuluk",
       "file": "zuluk.json",
       "searchTokens": [
-        "zul",
-        "zuluk"
+        "zuluk",
+        "zul"
       ],
       "popularity": 50,
       "lat": null,
@@ -5890,8 +6343,44 @@
       "name": "Zurich",
       "file": "zurich.json",
       "searchTokens": [
-        "zur",
-        "zurich"
+        "zurich",
+        "zur"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "łódź",
+      "name": "Łódź",
+      "file": "łódź.json",
+      "searchTokens": [
+        "łódź",
+        "łód"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "świdnica",
+      "name": "Świdnica",
+      "file": "świdnica.json",
+      "searchTokens": [
+        "świdnica",
+        "świ"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "świnoujście",
+      "name": "Świnoujście",
+      "file": "świnoujście.json",
+      "searchTokens": [
+        "świ",
+        "świnoujście"
       ],
       "popularity": 50,
       "lat": null,

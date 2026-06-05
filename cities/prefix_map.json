@@ -7,6 +7,11 @@
     "abha",
     "abha"
   ],
+  "abu": [
+    "abu_dhabi",
+    "abu_dhabi",
+    "mount_abu"
+  ],
   "dha": [
     "abu_dhabi",
     "abu_dhabi",
@@ -16,11 +21,6 @@
     "dhanushkodi",
     "dharamshala",
     "dharamshala"
-  ],
-  "abu": [
-    "abu_dhabi",
-    "abu_dhabi",
-    "mount_abu"
   ],
   "ade": [
     "adelaide",
@@ -235,6 +235,14 @@
     "bhuj",
     "bhuj"
   ],
+  "bia": [
+    "białystok",
+    "białystok"
+  ],
+  "bie": [
+    "bielsko-biała",
+    "bielsko-biała"
+  ],
   "bik": [
     "bikaner",
     "bikaner"
@@ -249,12 +257,12 @@
     "bir_billing",
     "bir_billing"
   ],
-  "gay": [
+  "bod": [
+    "bodh_gaya",
     "bodh_gaya",
     "bodh_gaya"
   ],
-  "bod": [
-    "bodh_gaya",
+  "gay": [
     "bodh_gaya",
     "bodh_gaya"
   ],
@@ -267,6 +275,8 @@
     "bohol"
   ],
   "bol": [
+    "bolesławiec",
+    "bolesławiec",
     "bologna",
     "bologna"
   ],
@@ -326,6 +336,10 @@
     "busan",
     "busan"
   ],
+  "byd": [
+    "bydgoszcz",
+    "bydgoszcz"
+  ],
   "cai": [
     "cairns",
     "cairns",
@@ -338,12 +352,12 @@
     "cali",
     "cali"
   ],
-  "cam": [
-    "cameron_highlands",
+  "hig": [
     "cameron_highlands",
     "cameron_highlands"
   ],
-  "hig": [
+  "cam": [
+    "cameron_highlands",
     "cameron_highlands",
     "cameron_highlands"
   ],
@@ -351,12 +365,12 @@
     "cancun",
     "cancun"
   ],
-  "tow": [
+  "cap": [
+    "cape_town",
     "cape_town",
     "cape_town"
   ],
-  "cap": [
-    "cape_town",
+  "tow": [
     "cape_town",
     "cape_town"
   ],
@@ -449,11 +463,15 @@
     "cusco",
     "cusco"
   ],
-  "nan": [
-    "da_nang",
-    "da_nang"
+  "czę": [
+    "częstochowa",
+    "częstochowa"
   ],
   "da ": [
+    "da_nang"
+  ],
+  "nan": [
+    "da_nang",
     "da_nang"
   ],
   "dak": [
@@ -532,6 +550,10 @@
     "edinburgh",
     "edinburgh"
   ],
+  "elb": [
+    "elbląg",
+    "elbląg"
+  ],
   "flo": [
     "florence",
     "florence"
@@ -566,6 +588,10 @@
     "gdańsk",
     "gdańsk"
   ],
+  "gdy": [
+    "gdynia",
+    "gdynia"
+  ],
   "gen": [
     "geneva",
     "geneva",
@@ -579,6 +605,14 @@
   "gla": [
     "glasgow",
     "glasgow"
+  ],
+  "gli": [
+    "gliwice",
+    "gliwice"
+  ],
+  "gni": [
+    "gniezno",
+    "gniezno"
   ],
   "goa": [
     "goa"
@@ -605,6 +639,10 @@
     "granada",
     "graz",
     "graz"
+  ],
+  "gru": [
+    "grudziądz",
+    "grudziądz"
   ],
   "guh": [
     "guhagar",
@@ -705,6 +743,10 @@
     "hoi_an",
     "hoi_an"
   ],
+  "kon": [
+    "hong_kong",
+    "hong_kong"
+  ],
   "hon": [
     "hong_kong",
     "hong_kong",
@@ -712,26 +754,22 @@
     "honolulu",
     "honolulu"
   ],
-  "kon": [
-    "hong_kong",
-    "hong_kong"
-  ],
-  "hor": [
-    "horsley_hills",
-    "horsley_hills",
-    "horsley_hills"
-  ],
   "hil": [
     "horsley_hills",
     "horsley_hills",
     "kolli_hills",
     "kolli_hills"
   ],
-  "hin": [
-    "hua_hin"
+  "hor": [
+    "horsley_hills",
+    "horsley_hills",
+    "horsley_hills"
   ],
   "hua": [
     "hua_hin",
+    "hua_hin"
+  ],
+  "hin": [
     "hua_hin"
   ],
   "hue": [
@@ -800,6 +838,17 @@
     "jeju_island",
     "jeju_island"
   ],
+  "jel": [
+    "jelenia_góra",
+    "jelenia_góra",
+    "jelenia_góra"
+  ],
+  "gór": [
+    "jelenia_góra",
+    "jelenia_góra",
+    "tarnowskie_góry",
+    "tarnowskie_góry"
+  ],
   "jer": [
     "jerusalem",
     "jerusalem"
@@ -831,7 +880,9 @@
   ],
   "kal": [
     "kalimpong",
-    "kalimpong"
+    "kalimpong",
+    "kalisz",
+    "kalisz"
   ],
   "kan": [
     "kanatal",
@@ -843,7 +894,9 @@
     "kargil",
     "kargil",
     "karjat",
-    "karjat"
+    "karjat",
+    "karpacz",
+    "karpacz"
   ],
   "kas": [
     "kasauli",
@@ -887,6 +940,10 @@
     "khonsa",
     "khonsa"
   ],
+  "kie": [
+    "kielce",
+    "kielce"
+  ],
   "kin": [
     "kinnaur",
     "kinnaur",
@@ -901,15 +958,15 @@
     "kodaikanal",
     "kodaikanal"
   ],
-  "pha": [
-    "koh_phangan",
-    "koh_phangan"
-  ],
   "koh": [
     "koh_phangan",
     "koh_phangan",
     "koh_samui",
     "koh_samui"
+  ],
+  "pha": [
+    "koh_phangan",
+    "koh_phangan"
   ],
   "sam": [
     "koh_samui",
@@ -926,6 +983,10 @@
     "koloriang",
     "koloriang"
   ],
+  "kos": [
+    "koszalin",
+    "koszalin"
+  ],
   "kot": [
     "kota_kinabalu",
     "kota_kinabalu",
@@ -937,6 +998,10 @@
     "kovalam",
     "kovalam"
   ],
+  "koł": [
+    "kołobrzeg",
+    "kołobrzeg"
+  ],
   "kra": [
     "krabi",
     "krabi",
@@ -945,12 +1010,16 @@
     "kraków",
     "kraków"
   ],
-  "lum": [
-    "kuala_lumpur",
-    "kuala_lumpur"
+  "kry": [
+    "krynica-zdrój",
+    "krynica-zdrój"
   ],
   "kua": [
     "kuala_lumpur",
+    "kuala_lumpur",
+    "kuala_lumpur"
+  ],
+  "lum": [
     "kuala_lumpur",
     "kuala_lumpur"
   ],
@@ -968,6 +1037,10 @@
     "kyoto",
     "kyoto"
   ],
+  "kło": [
+    "kłodzko",
+    "kłodzko"
+  ],
   "la ": [
     "la_paz"
   ],
@@ -984,17 +1057,21 @@
     "lansdowne",
     "lansdowne"
   ],
-  "veg": [
+  "las": [
     "las_vegas",
     "las_vegas"
   ],
-  "las": [
+  "veg": [
     "las_vegas",
     "las_vegas"
   ],
   "lav": [
     "lavasa",
     "lavasa"
+  ],
+  "leg": [
+    "legnica",
+    "legnica"
   ],
   "leh": [
     "leh"
@@ -1015,12 +1092,12 @@
     "ljubljana",
     "ljubljana"
   ],
-  "lok": [
-    "loktak_lake",
+  "lak": [
     "loktak_lake",
     "loktak_lake"
   ],
-  "lak": [
+  "lok": [
+    "loktak_lake",
     "loktak_lake",
     "loktak_lake"
   ],
@@ -1034,11 +1111,11 @@
     "london",
     "london"
   ],
-  "ang": [
+  "los": [
     "los_angeles",
     "los_angeles"
   ],
-  "los": [
+  "ang": [
     "los_angeles",
     "los_angeles"
   ],
@@ -1052,6 +1129,10 @@
     "luang_prabang",
     "luang_prabang",
     "luang_prabang"
+  ],
+  "lub": [
+    "lublin",
+    "lublin"
   ],
   "luc": [
     "lucerne",
@@ -1165,6 +1246,10 @@
     "milan",
     "milan"
   ],
+  "mię": [
+    "międzyzdroje",
+    "międzyzdroje"
+  ],
   "mon": [
     "montevideo",
     "montevideo",
@@ -1258,11 +1343,11 @@
     "new_york_city",
     "new_york_city"
   ],
-  "tra": [
+  "nha": [
     "nha_trang",
     "nha_trang"
   ],
-  "nha": [
+  "tra": [
     "nha_trang",
     "nha_trang"
   ],
@@ -1292,9 +1377,17 @@
     "okinawa",
     "okinawa"
   ],
+  "ols": [
+    "olsztyn",
+    "olsztyn"
+  ],
   "oot": [
     "ooty",
     "ooty"
+  ],
+  "opo": [
+    "opole",
+    "opole"
   ],
   "orc": [
     "orchha",
@@ -1421,7 +1514,9 @@
     "portland",
     "portland",
     "porto",
-    "porto"
+    "porto",
+    "szklarska_poręba",
+    "szklarska_poręba"
   ],
   "poz": [
     "poznań",
@@ -1437,6 +1532,10 @@
   "map": [
     "prefix_map"
   ],
+  "prz": [
+    "przemyśl",
+    "przemyśl"
+  ],
   "pun": [
     "pune",
     "pune"
@@ -1448,6 +1547,10 @@
   "pus": [
     "pushkar",
     "pushkar"
+  ],
+  "pło": [
+    "płock",
+    "płock"
   ],
   "que": [
     "quebec_city",
@@ -1464,16 +1567,16 @@
     "rameswaram",
     "rameswaram"
   ],
+  "kut": [
+    "rann_of_kutch",
+    "rann_of_kutch"
+  ],
   "ran": [
     "rann_of_kutch",
     "rann_of_kutch",
     "rann_of_kutch",
     "ranthambore",
     "ranthambore"
-  ],
-  "kut": [
-    "rann_of_kutch",
-    "rann_of_kutch"
   ],
   "rat": [
     "ratnagiri",
@@ -1519,6 +1622,10 @@
     "rotterdam",
     "rotterdam"
   ],
+  "rze": [
+    "rzeszów",
+    "rzeszów"
+  ],
   "sak": [
     "sakleshpur",
     "sakleshpur"
@@ -1538,6 +1645,8 @@
     "san_jose",
     "san_juan",
     "san_juan",
+    "sandomierz",
+    "sandomierz",
     "sangla",
     "sangla",
     "santiago",
@@ -1613,12 +1722,12 @@
     "siargao",
     "siargao"
   ],
-  "rea": [
+  "sie": [
+    "siem_reap",
     "siem_reap",
     "siem_reap"
   ],
-  "sie": [
-    "siem_reap",
+  "rea": [
     "siem_reap",
     "siem_reap"
   ],
@@ -1643,6 +1752,10 @@
   "son": [
     "sonamarg",
     "sonamarg"
+  ],
+  "sop": [
+    "sopot",
+    "sopot"
   ],
   "spi": [
     "spiti_valley",
@@ -1669,6 +1782,10 @@
     "surabaya",
     "surabaya"
   ],
+  "suw": [
+    "suwałki",
+    "suwałki"
+  ],
   "syd": [
     "sydney",
     "sydney"
@@ -1676,6 +1793,15 @@
   "szc": [
     "szczecin",
     "szczecin"
+  ],
+  "szk": [
+    "szklarska_poręba",
+    "szklarska_poręba",
+    "szklarska_poręba"
+  ],
+  "słu": [
+    "słupsk",
+    "słupsk"
   ],
   "tab": [
     "tabuk",
@@ -1693,7 +1819,12 @@
   ],
   "tar": [
     "tarkarli",
-    "tarkarli"
+    "tarkarli",
+    "tarnowskie_góry",
+    "tarnowskie_góry",
+    "tarnowskie_góry",
+    "tarnów",
+    "tarnów"
   ],
   "taw": [
     "tawang",
@@ -1702,6 +1833,10 @@
   "tbi": [
     "tbilisi",
     "tbilisi"
+  ],
+  "tcz": [
+    "tczew",
+    "tczew"
   ],
   "tez": [
     "tezu",
@@ -1814,18 +1949,22 @@
     "warsaw",
     "warsaw"
   ],
-  "was": [
-    "washington_d.c.",
+  "d.c": [
     "washington_d.c.",
     "washington_d.c."
   ],
-  "d.c": [
+  "was": [
+    "washington_d.c.",
     "washington_d.c.",
     "washington_d.c."
   ],
   "way": [
     "wayanad",
     "wayanad"
+  ],
+  "wał": [
+    "wałbrzych",
+    "wałbrzych"
   ],
   "wel": [
     "wellington",
@@ -1834,6 +1973,10 @@
   "wro": [
     "wrocław",
     "wrocław"
+  ],
+  "wło": [
+    "włocławek",
+    "włocławek"
   ],
   "xia": [
     "xian",
@@ -1871,6 +2014,10 @@
     "zakopane",
     "zakopane"
   ],
+  "zam": [
+    "zamość",
+    "zamość"
+  ],
   "zan": [
     "zanskar",
     "zanskar",
@@ -1892,5 +2039,15 @@
   "zur": [
     "zurich",
     "zurich"
+  ],
+  "łód": [
+    "łódź",
+    "łódź"
+  ],
+  "świ": [
+    "świdnica",
+    "świdnica",
+    "świnoujście",
+    "świnoujście"
   ]
 }
