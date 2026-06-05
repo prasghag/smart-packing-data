@@ -1,0 +1,164 @@
+{
+  "city_name": "Kerkrade",
+  "country": "Netherlands",
+  "activities": [
+    {
+      "activity_name": "GaiaZOO Safari",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "water_bottle",
+        "stroller_if_needed",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Discovery Museum",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "hand_sanitizer"
+      ]
+    },
+    {
+      "activity_name": "Rolduc Abbey Visit",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Leisure Dome Activities",
+      "category": "Adventure",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 2,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sneakers",
+        "sportswear"
+      ]
+    },
+    {
+      "activity_name": "Cranenweyer Lake Walk",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "binoculars"
+      ]
+    },
+    {
+      "activity_name": "Kerkrade Market Square",
+      "category": "Sightseeing",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Botanical Garden Kerkrade",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera_lens",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Orlando Festival Concert",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "event_ticket",
+        "formal_wear"
+      ]
+    },
+    {
+      "activity_name": "Roda JC Stadium Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sneakers"
+      ]
+    },
+    {
+      "activity_name": "Limburgse Vlaai Tasting",
+      "category": "Food",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hand_wipes"
+      ]
+    }
+  ]
+}
