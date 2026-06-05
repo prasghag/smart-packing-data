@@ -1,6 +1,6 @@
 {
-  "version": "2026-06-06T00:53:01",
-  "total": 575,
+  "version": "2026-06-06T01:19:35",
+  "total": 623,
   "cities": [
     {
       "key": "'s-hertogenbosch",
@@ -276,6 +276,18 @@
       "searchTokens": [
         "ams",
         "amsterdam"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "anantapur",
+      "name": "Anantapur",
+      "file": "anantapur.json",
+      "searchTokens": [
+        "ana",
+        "anantapur"
       ],
       "popularity": 50,
       "lat": null,
@@ -635,6 +647,18 @@
       "lon": null
     },
     {
+      "key": "belagavi",
+      "name": "Belagavi",
+      "file": "belagavi.json",
+      "searchTokens": [
+        "bel",
+        "belagavi"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "belfast",
       "name": "Belfast",
       "file": "belfast.json",
@@ -785,6 +809,18 @@
       "searchTokens": [
         "bia",
         "białystok"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "bidar",
+      "name": "Bidar",
+      "file": "bidar.json",
+      "searchTokens": [
+        "bid",
+        "bidar"
       ],
       "popularity": 50,
       "lat": null,
@@ -1362,6 +1398,18 @@
       "lon": null
     },
     {
+      "key": "chidambaram",
+      "name": "Chidambaram",
+      "file": "chidambaram.json",
+      "searchTokens": [
+        "chi",
+        "chidambaram"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "chikhaldara",
       "name": "Chikhaldara",
       "file": "chikhaldara.json",
@@ -1398,6 +1446,30 @@
       "lon": null
     },
     {
+      "key": "chitradurga",
+      "name": "Chitradurga",
+      "file": "chitradurga.json",
+      "searchTokens": [
+        "chi",
+        "chitradurga"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "chittoor",
+      "name": "Chittoor",
+      "file": "chittoor.json",
+      "searchTokens": [
+        "chi",
+        "chittoor"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "chittorgarh",
       "name": "Chittorgarh",
       "file": "chittorgarh.json",
@@ -1428,6 +1500,18 @@
       "searchTokens": [
         "chr",
         "christchurch"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "coimbatore",
+      "name": "Coimbatore",
+      "file": "coimbatore.json",
+      "searchTokens": [
+        "coi",
+        "coimbatore"
       ],
       "popularity": 50,
       "lat": null,
@@ -1750,6 +1834,30 @@
       "lon": null
     },
     {
+      "key": "dharmasthala",
+      "name": "Dharmasthala",
+      "file": "dharmasthala.json",
+      "searchTokens": [
+        "dha",
+        "dharmasthala"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "dindigul",
+      "name": "Dindigul",
+      "file": "dindigul.json",
+      "searchTokens": [
+        "din",
+        "dindigul"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "dirang",
       "name": "Dirang",
       "file": "dirang.json",
@@ -1914,6 +2022,18 @@
       "searchTokens": [
         "ens",
         "enschede"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "erode",
+      "name": "Erode",
+      "file": "erode.json",
+      "searchTokens": [
+        "ero",
+        "erode"
       ],
       "popularity": 50,
       "lat": null,
@@ -2417,6 +2537,18 @@
       "lon": null
     },
     {
+      "key": "hassan",
+      "name": "Hassan",
+      "file": "hassan.json",
+      "searchTokens": [
+        "has",
+        "hassan"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "havana",
       "name": "Havana",
       "file": "havana.json",
@@ -2661,6 +2793,18 @@
       "lon": null
     },
     {
+      "key": "hubballi",
+      "name": "Hubballi",
+      "file": "hubballi.json",
+      "searchTokens": [
+        "hub",
+        "hubballi"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "hue",
       "name": "Hue",
       "file": "hue.json",
@@ -2690,6 +2834,18 @@
       "searchTokens": [
         "hyd",
         "hyderabad"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "idukki",
+      "name": "Idukki",
+      "file": "idukki.json",
+      "searchTokens": [
+        "idu",
+        "idukki"
       ],
       "popularity": 50,
       "lat": null,
@@ -2945,6 +3101,18 @@
       "lon": null
     },
     {
+      "key": "kakinada",
+      "name": "Kakinada",
+      "file": "kakinada.json",
+      "searchTokens": [
+        "kak",
+        "kakinada"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "kalimpong",
       "name": "Kalimpong",
       "file": "kalimpong.json",
@@ -2993,6 +3161,30 @@
       "lon": null
     },
     {
+      "key": "kanchipuram",
+      "name": "Kanchipuram",
+      "file": "kanchipuram.json",
+      "searchTokens": [
+        "kan",
+        "kanchipuram"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kannur",
+      "name": "Kannur",
+      "file": "kannur.json",
+      "searchTokens": [
+        "kan",
+        "kannur"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "kanyakumari",
       "name": "Kanyakumari",
       "file": "kanyakumari.json",
@@ -3017,6 +3209,18 @@
       "lon": null
     },
     {
+      "key": "karimnagar",
+      "name": "Karimnagar",
+      "file": "karimnagar.json",
+      "searchTokens": [
+        "kar",
+        "karimnagar"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "karjat",
       "name": "Karjat",
       "file": "karjat.json",
@@ -3035,6 +3239,30 @@
       "searchTokens": [
         "kar",
         "karpacz"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "karwar",
+      "name": "Karwar",
+      "file": "karwar.json",
+      "searchTokens": [
+        "kar",
+        "karwar"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kasaragod",
+      "name": "Kasaragod",
+      "file": "kasaragod.json",
+      "searchTokens": [
+        "kas",
+        "kasaragod"
       ],
       "popularity": 50,
       "lat": null,
@@ -3167,6 +3395,18 @@
       "searchTokens": [
         "kha",
         "khajuraho"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "khammam",
+      "name": "Khammam",
+      "file": "khammam.json",
+      "searchTokens": [
+        "kha",
+        "khammam"
       ],
       "popularity": 50,
       "lat": null,
@@ -3309,6 +3549,18 @@
       "lon": null
     },
     {
+      "key": "kollam",
+      "name": "Kollam",
+      "file": "kollam.json",
+      "searchTokens": [
+        "kol",
+        "kollam"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "kolli_hills",
       "name": "Kolli Hills",
       "file": "kolli_hills.json",
@@ -3375,12 +3627,36 @@
       "lon": null
     },
     {
+      "key": "kottayam",
+      "name": "Kottayam",
+      "file": "kottayam.json",
+      "searchTokens": [
+        "kot",
+        "kottayam"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "kovalam",
       "name": "Kovalam",
       "file": "kovalam.json",
       "searchTokens": [
         "kov",
         "kovalam"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kozhikode",
+      "name": "Kozhikode",
+      "file": "kozhikode.json",
+      "searchTokens": [
+        "koz",
+        "kozhikode"
       ],
       "popularity": 50,
       "lat": null,
@@ -3474,12 +3750,36 @@
       "lon": null
     },
     {
+      "key": "kumbakonam",
+      "name": "Kumbakonam",
+      "file": "kumbakonam.json",
+      "searchTokens": [
+        "kum",
+        "kumbakonam"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "kumbhalgarh",
       "name": "Kumbhalgarh",
       "file": "kumbhalgarh.json",
       "searchTokens": [
         "kum",
         "kumbhalgarh"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kurnool",
+      "name": "Kurnool",
+      "file": "kurnool.json",
+      "searchTokens": [
+        "kur",
+        "kurnool"
       ],
       "popularity": 50,
       "lat": null,
@@ -3907,6 +4207,18 @@
       "lon": null
     },
     {
+      "key": "mahabalipuram",
+      "name": "Mahabalipuram",
+      "file": "mahabalipuram.json",
+      "searchTokens": [
+        "mah",
+        "mahabalipuram"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "majuli",
       "name": "Majuli",
       "file": "majuli.json",
@@ -3949,6 +4261,18 @@
       "searchTokens": [
         "mal",
         "malana"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "malappuram",
+      "name": "Malappuram",
+      "file": "malappuram.json",
+      "searchTokens": [
+        "mal",
+        "malappuram"
       ],
       "popularity": 50,
       "lat": null,
@@ -4177,21 +4501,6 @@
       "searchTokens": [
         "mex",
         "mexico-city"
-      ],
-      "popularity": 50,
-      "lat": null,
-      "lon": null
-    },
-    {
-      "key": "mexico_city",
-      "name": "Mexico City",
-      "file": "mexico_city.json",
-      "searchTokens": [
-        "cit",
-        "city",
-        "mex",
-        "mexico",
-        "mexico city"
       ],
       "popularity": 50,
       "lat": null,
@@ -4476,6 +4785,18 @@
       "lon": null
     },
     {
+      "key": "namakkal",
+      "name": "Namakkal",
+      "file": "namakkal.json",
+      "searchTokens": [
+        "nam",
+        "namakkal"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "namchi",
       "name": "Namchi",
       "file": "namchi.json",
@@ -4542,6 +4863,18 @@
       "searchTokens": [
         "nas",
         "nassau"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "nellore",
+      "name": "Nellore",
+      "file": "nellore.json",
+      "searchTokens": [
+        "nel",
+        "nellore"
       ],
       "popularity": 50,
       "lat": null,
@@ -4641,6 +4974,18 @@
       "lon": null
     },
     {
+      "key": "nizamabad",
+      "name": "Nizamabad",
+      "file": "nizamabad.json",
+      "searchTokens": [
+        "niz",
+        "nizamabad"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "nubra_valley",
       "name": "Nubra Valley",
       "file": "nubra_valley.json",
@@ -4686,6 +5031,18 @@
       "searchTokens": [
         "ols",
         "olsztyn"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "ongole",
+      "name": "Ongole",
+      "file": "ongole.json",
+      "searchTokens": [
+        "ong",
+        "ongole"
       ],
       "popularity": 50,
       "lat": null,
@@ -4823,6 +5180,18 @@
       "lon": null
     },
     {
+      "key": "palakkad",
+      "name": "Palakkad",
+      "file": "palakkad.json",
+      "searchTokens": [
+        "pal",
+        "palakkad"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "palawan",
       "name": "Palawan",
       "file": "palawan.json",
@@ -4906,6 +5275,18 @@
       "searchTokens": [
         "pas",
         "pasighat"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "pathanamthitta",
+      "name": "Pathanamthitta",
+      "file": "pathanamthitta.json",
+      "searchTokens": [
+        "pat",
+        "pathanamthitta"
       ],
       "popularity": 50,
       "lat": null,
@@ -5043,6 +5424,18 @@
       "searchTokens": [
         "pon",
         "pondicherry"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "ponmudi",
+      "name": "Ponmudi",
+      "file": "ponmudi.json",
+      "searchTokens": [
+        "pon",
+        "ponmudi"
       ],
       "popularity": 50,
       "lat": null,
@@ -5241,6 +5634,30 @@
       "searchTokens": [
         "qui",
         "quito"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "rajahmundry",
+      "name": "Rajahmundry",
+      "file": "rajahmundry.json",
+      "searchTokens": [
+        "raj",
+        "rajahmundry"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "rajapalayam",
+      "name": "Rajapalayam",
+      "file": "rajapalayam.json",
+      "searchTokens": [
+        "raj",
+        "rajapalayam"
       ],
       "popularity": 50,
       "lat": null,
@@ -5458,6 +5875,18 @@
       "lon": null
     },
     {
+      "key": "salem",
+      "name": "Salem",
+      "file": "salem.json",
+      "searchTokens": [
+        "sal",
+        "salem"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "salzburg",
       "name": "Salzburg",
       "file": "salzburg.json",
@@ -5490,20 +5919,6 @@
         "diego",
         "san",
         "san diego"
-      ],
-      "popularity": 50,
-      "lat": null,
-      "lon": null
-    },
-    {
-      "key": "san_francisco",
-      "name": "San Francisco",
-      "file": "san_francisco.json",
-      "searchTokens": [
-        "fra",
-        "francisco",
-        "san",
-        "san francisco"
       ],
       "popularity": 50,
       "lat": null,
@@ -5756,6 +6171,18 @@
       "lon": null
     },
     {
+      "key": "shivamogga",
+      "name": "Shivamogga",
+      "file": "shivamogga.json",
+      "searchTokens": [
+        "shi",
+        "shivamogga"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "shoja",
       "name": "Shoja",
       "file": "shoja.json",
@@ -5936,6 +6363,18 @@
       "searchTokens": [
         "sri",
         "srinagar"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "sringeri",
+      "name": "Sringeri",
+      "file": "sringeri.json",
+      "searchTokens": [
+        "sri",
+        "sringeri"
       ],
       "popularity": 50,
       "lat": null,
@@ -6176,6 +6615,18 @@
       "lon": null
     },
     {
+      "key": "thanjavur",
+      "name": "Thanjavur",
+      "file": "thanjavur.json",
+      "searchTokens": [
+        "tha",
+        "thanjavur"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "the_hague",
       "name": "The Hague",
       "file": "the_hague.json",
@@ -6196,6 +6647,30 @@
       "searchTokens": [
         "the",
         "thekkady"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "thoothukudi",
+      "name": "Thoothukudi",
+      "file": "thoothukudi.json",
+      "searchTokens": [
+        "tho",
+        "thoothukudi"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "thrissur",
+      "name": "Thrissur",
+      "file": "thrissur.json",
+      "searchTokens": [
+        "thr",
+        "thrissur"
       ],
       "popularity": 50,
       "lat": null,
@@ -6241,12 +6716,48 @@
       "lon": null
     },
     {
+      "key": "tiruchirappalli",
+      "name": "Tiruchirappalli",
+      "file": "tiruchirappalli.json",
+      "searchTokens": [
+        "tir",
+        "tiruchirappalli"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "tirunelveli",
+      "name": "Tirunelveli",
+      "file": "tirunelveli.json",
+      "searchTokens": [
+        "tir",
+        "tirunelveli"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "tirupati",
       "name": "Tirupati",
       "file": "tirupati.json",
       "searchTokens": [
         "tir",
         "tirupati"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "tiruvannamalai",
+      "name": "Tiruvannamalai",
+      "file": "tiruvannamalai.json",
+      "searchTokens": [
+        "tir",
+        "tiruvannamalai"
       ],
       "popularity": 50,
       "lat": null,
@@ -6319,6 +6830,18 @@
       "searchTokens": [
         "tul",
         "tulum"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "tumakuru",
+      "name": "Tumakuru",
+      "file": "tumakuru.json",
+      "searchTokens": [
+        "tum",
+        "tumakuru"
       ],
       "popularity": 50,
       "lat": null,
@@ -6529,6 +7052,18 @@
       "lon": null
     },
     {
+      "key": "vellore",
+      "name": "Vellore",
+      "file": "vellore.json",
+      "searchTokens": [
+        "vel",
+        "vellore"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "venice",
       "name": "Venice",
       "file": "venice.json",
@@ -6601,6 +7136,30 @@
       "lon": null
     },
     {
+      "key": "vijayapura",
+      "name": "Vijayapura",
+      "file": "vijayapura.json",
+      "searchTokens": [
+        "vij",
+        "vijayapura"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "vijayawada",
+      "name": "Vijayawada",
+      "file": "vijayawada.json",
+      "searchTokens": [
+        "vij",
+        "vijayawada"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "vilnius",
       "name": "Vilnius",
       "file": "vilnius.json",
@@ -6667,6 +7226,18 @@
       "searchTokens": [
         "wal",
         "walong"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "warangal",
+      "name": "Warangal",
+      "file": "warangal.json",
+      "searchTokens": [
+        "war",
+        "warangal"
       ],
       "popularity": 50,
       "lat": null,
