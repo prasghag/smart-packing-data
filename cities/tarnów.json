@@ -1,0 +1,164 @@
+{
+  "city_name": "Tarn\u00f3w",
+  "country": "Poland",
+  "activities": [
+    {
+      "activity_name": "Tarnow Old Town Walk",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Town Hall Museum",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "notebook",
+        "reading_glasses"
+      ]
+    },
+    {
+      "activity_name": "Jewish Heritage Trail",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "city_map",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Strzelecki Park Relaxation",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "picnic_blanket",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Tarnow Regional Museum",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "audio_guide"
+      ]
+    },
+    {
+      "activity_name": "Mount St. Martin Castle Ruins",
+      "category": "Adventure",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_boots",
+        "backpack",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Galeria Tarnovia Shopping",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "wallet",
+        "shopping_bag"
+      ]
+    },
+    {
+      "activity_name": "Traditional Tarnow Tea Tasting",
+      "category": "Food",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hand_sanitizer"
+      ]
+    },
+    {
+      "activity_name": "Ethnographic Museum Visit",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Bima Synagogue Ruins Photo",
+      "category": "Sightseeing",
+      "duration_minutes": 30,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera_lens",
+        "light_jacket"
+      ]
+    }
+  ]
+}

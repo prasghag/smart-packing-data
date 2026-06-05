@@ -1,0 +1,161 @@
+{
+  "city_name": "Bia\u0142ystok",
+  "country": "Poland",
+  "activities": [
+    {
+      "activity_name": "Branicki Palace and Gardens Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "walking_shoes",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Lipowa Street Walking Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "city_map"
+      ]
+    },
+    {
+      "activity_name": "Podlasie Opera and Philharmonic Concert",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "formal_wear",
+        "ticket"
+      ]
+    },
+    {
+      "activity_name": "Historical Museum Bialystok Exhibit",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "notebook"
+      ]
+    },
+    {
+      "activity_name": "Planty Park Accent Area Stroll",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "light_jacket"
+      ]
+    },
+    {
+      "activity_name": "Dojlidy Ponds Kayaking",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "dry_bag"
+      ]
+    },
+    {
+      "activity_name": "Traditional Podlasie Kartacze Tasting",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hand_sanitizer"
+      ]
+    },
+    {
+      "activity_name": "Ludwik Zamenhof Centre Esperanto Tour",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "audio_guide"
+      ]
+    },
+    {
+      "activity_name": "Alfa Shopping Center Excursion",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "wallet",
+        "shopping_bags"
+      ]
+    },
+    {
+      "activity_name": "Kosciuszko Market Square Cafe Rest",
+      "category": "Food",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunglasses"
+      ]
+    }
+  ]
+}

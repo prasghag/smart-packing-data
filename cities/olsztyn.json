@@ -1,0 +1,161 @@
+{
+  "city_name": "Olsztyn",
+  "country": "Poland",
+  "activities": [
+    {
+      "activity_name": "Warmian Bishops Castle Tour",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Ukiel Lake Water Sports",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "waterproof_case",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Olsztyn Planetarium Astronomy Show",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "pre_booked_ticket"
+      ]
+    },
+    {
+      "activity_name": "Old Town High Gate Stroll",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Lake Ukiel Beach Relaxation",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "beach_towel",
+        "flip_flops"
+      ]
+    },
+    {
+      "activity_name": "Warmia Region Fish Dinner",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hand_wipes"
+      ]
+    },
+    {
+      "activity_name": "Lyna River Kayaking Adventure",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "dry_bag",
+        "change_of_clothes"
+      ]
+    },
+    {
+      "activity_name": "Aura Centrum Shopping",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "credit_card"
+      ]
+    },
+    {
+      "activity_name": "Central Park Walking Tour",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Museum of Warmia and Mazury",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "audio_guide"
+      ]
+    }
+  ]
+}

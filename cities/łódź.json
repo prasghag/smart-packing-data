@@ -1,0 +1,161 @@
+{
+  "city_name": "\u0141\u00f3d\u017a",
+  "country": "Poland",
+  "activities": [
+    {
+      "activity_name": "Piotrkowska Street Promenade Walk",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Manufaktura Complex Shopping",
+      "category": "Shopping",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "credit_card",
+        "shopping_bags"
+      ]
+    },
+    {
+      "activity_name": "Izrael Poznanski Palace Tour",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "audio_guide"
+      ]
+    },
+    {
+      "activity_name": "EC1 Science and Technology Centre",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hand_sanitizer"
+      ]
+    },
+    {
+      "activity_name": "Off Piotrkowska Alternative Food Tour",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "casual_outfit"
+      ]
+    },
+    {
+      "activity_name": "Lodz Film School Museum Visit",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "notebook"
+      ]
+    },
+    {
+      "activity_name": "Zdrowie Park Cycling",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "water_bottle",
+        "sportswear"
+      ]
+    },
+    {
+      "activity_name": "Lodz Botanical Garden Stroll",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sun_hat",
+        "allergy_pills"
+      ]
+    },
+    {
+      "activity_name": "Herbst Palace Museum Visit",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Traditional Polish Dinner at Galicja",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "smart_casual_attire"
+      ]
+    }
+  ]
+}

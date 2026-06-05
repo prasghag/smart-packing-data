@@ -1,0 +1,161 @@
+{
+  "city_name": "\u015awidnica",
+  "country": "Poland",
+  "activities": [
+    {
+      "activity_name": "Church of Peace Wood Architecture",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "modest_clothing"
+      ]
+    },
+    {
+      "activity_name": "Swidnica Market Square Stroll",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Town Hall Tower Climb",
+      "category": "Sightseeing",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sneakers",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Museum of Former Merchants",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "audio_guide"
+      ]
+    },
+    {
+      "activity_name": "Central Park Relaxing Walk",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Witoszowka Reservoir Biking",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sportswear",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Swidnica Cathedral Visit",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Local Brewery Tasting",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 1,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "id_card"
+      ]
+    },
+    {
+      "activity_name": "Galeria Swidnicka Shopping",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "wallet",
+        "shopping_bags"
+      ]
+    },
+    {
+      "activity_name": "Old Town Monument Photography",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera_lens",
+        "spare_battery"
+      ]
+    }
+  ]
+}

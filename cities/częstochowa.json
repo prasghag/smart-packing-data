@@ -1,0 +1,159 @@
+{
+  "city_name": "Cz\u0119stochowa",
+  "country": "Poland",
+  "activities": [
+    {
+      "activity_name": "Jasna Gora Monastery Pilgrimage",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Black Madonna Icon Viewing",
+      "category": "Culture",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "head_scarf_optional"
+      ]
+    },
+    {
+      "activity_name": "Holy Virgin Mary Avenue Stroll",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunglasses",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Museum of Iron Ore Mining",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "light_jacket"
+      ]
+    },
+    {
+      "activity_name": "Parki Podjasnogorskie Botanical Walk",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "umbrella"
+      ]
+    },
+    {
+      "activity_name": "Match Production Museum",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hand_sanitizer"
+      ]
+    },
+    {
+      "activity_name": "Jura Landscape Park Cycling",
+      "category": "Adventure",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "water_bottle",
+        "sportswear"
+      ]
+    },
+    {
+      "activity_name": "Galeria Jurajska Shopping",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "credit_card"
+      ]
+    },
+    {
+      "activity_name": "Traditional Silesian Dinner",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hand_wipes"
+      ]
+    },
+    {
+      "activity_name": "Town Hall Museum Exhibit",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "notebook"
+      ]
+    }
+  ]
+}

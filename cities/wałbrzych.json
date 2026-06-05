@@ -1,0 +1,164 @@
+{
+  "city_name": "Wa\u0142brzych",
+  "country": "Poland",
+  "activities": [
+    {
+      "activity_name": "Ksiaz Castle Grand Tour",
+      "category": "Culture",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "camera",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Palm House of Ksiaz",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "light_clothing"
+      ]
+    },
+    {
+      "activity_name": "Old Mine Science and Art Centre",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "warm_fleece",
+        "sneakers"
+      ]
+    },
+    {
+      "activity_name": "Chelmiec Mountain Hike",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_boots",
+        "backpack",
+        "snacks"
+      ]
+    },
+    {
+      "activity_name": "Market Square Wa\u0142brzych",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Museum of Porcelain",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "audio_guide"
+      ]
+    },
+    {
+      "activity_name": "Ksiaz Landscape Park Biking",
+      "category": "Adventure",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sportswear",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Galeria Victoria Shopping",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "shopping_bags",
+        "wallet"
+      ]
+    },
+    {
+      "activity_name": "Regional Lower Silesian Dinner",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hand_sanitizer"
+      ]
+    },
+    {
+      "activity_name": "Daisy's Lake Walkway",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "mosquito_repellent"
+      ]
+    }
+  ]
+}

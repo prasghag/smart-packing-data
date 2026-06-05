@@ -1,0 +1,162 @@
+{
+  "city_name": "Bydgoszcz",
+  "country": "Poland",
+  "activities": [
+    {
+      "activity_name": "Mill Island Mill Island Walk",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Bydgoszcz Venice Water Tram Ride",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "light_jacket",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Tightrope Walker Sculpture Photo",
+      "category": "Sightseeing",
+      "duration_minutes": 20,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Exploseum Industrial History Tour",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "closed_toe_shoes",
+        "flashlight"
+      ]
+    },
+    {
+      "activity_name": "Historical Granaries Museum",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "audio_guide"
+      ]
+    },
+    {
+      "activity_name": "Myslecinek Park Nordic Walking",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_poles",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Old Market Square Pierogi Lunch",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hand_sanitizer"
+      ]
+    },
+    {
+      "activity_name": "District Museum Art Exploration",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "notebook"
+      ]
+    },
+    {
+      "activity_name": "Focus Mall Shopping Spree",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "wallet",
+        "shopping_bags"
+      ]
+    },
+    {
+      "activity_name": "Brda River Riverside Cycling",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sportswear",
+        "water_bottle"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "city_name": "Tarnowskie G\u00f3ry",
+  "country": "Poland",
+  "activities": [
+    {
+      "activity_name": "Historic Silver Mine Tour",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "warm_jacket",
+        "closed_toe_shoes"
+      ]
+    },
+    {
+      "activity_name": "Black Trout Adit Boat Ride",
+      "category": "Adventure",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "waterproof_jacket",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Market Square Exploration",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Tarnowskie Gory Museum",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "notebook"
+      ]
+    },
+    {
+      "activity_name": "City Park Repecki",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "picnic_blanket",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Steam Narrow Gauge Railway",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Traditional Silesian Lunch",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hand_sanitizer"
+      ]
+    },
+    {
+      "activity_name": "Sedlaczek Wine Cellar",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "smart_casual_attire"
+      ]
+    },
+    {
+      "activity_name": "Hala Targowa Shopping",
+      "category": "Shopping",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "cash_zloty",
+        "reusable_bag"
+      ]
+    },
+    {
+      "activity_name": "Bell Tower Photography",
+      "category": "Sightseeing",
+      "duration_minutes": 30,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera_lens"
+      ]
+    }
+  ]
+}

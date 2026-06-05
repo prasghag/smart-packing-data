@@ -1,0 +1,163 @@
+{
+  "city_name": "Przemy\u015bl",
+  "country": "Poland",
+  "activities": [
+    {
+      "activity_name": "Przemysl Old Town Exploration",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "city_map"
+      ]
+    },
+    {
+      "activity_name": "Przemysl Fortress Biking",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sportswear",
+        "water_bottle",
+        "action_camera"
+      ]
+    },
+    {
+      "activity_name": "Museum of Bells and Pipes",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Casimir Castle Visit",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_footwear"
+      ]
+    },
+    {
+      "activity_name": "San River Walkway",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunglasses",
+        "windbreaker"
+      ]
+    },
+    {
+      "activity_name": "Przemysl Archcathedral Tour",
+      "category": "Culture",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing"
+      ]
+    },
+    {
+      "activity_name": "Tartar Mound Hike",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_boots",
+        "binoculars"
+      ]
+    },
+    {
+      "activity_name": "Galeria Sanowa Shopping",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "shopping_bags",
+        "wallet"
+      ]
+    },
+    {
+      "activity_name": "Traditional Pierogi Dinner",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hand_sanitizer"
+      ]
+    },
+    {
+      "activity_name": "Underground Tourist Route",
+      "category": "Adventure",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "light_jacket",
+        "closed_toe_shoes"
+      ]
+    }
+  ]
+}

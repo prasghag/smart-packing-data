@@ -1,0 +1,163 @@
+{
+  "city_name": "Sopot",
+  "country": "Poland",
+  "activities": [
+    {
+      "activity_name": "Sopot Pier Molo Stroll",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "windbreaker",
+        "sunglasses",
+        "ticket_fee"
+      ]
+    },
+    {
+      "activity_name": "Monte Cassino Street Walking",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Crooked House Photo Stop",
+      "category": "Sightseeing",
+      "duration_minutes": 20,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera_lens"
+      ]
+    },
+    {
+      "activity_name": "Sopot Beach Sunbathing",
+      "category": "Relaxation",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "beach_mat",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Forest Opera Amphitheatre Tour",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "light_jacket"
+      ]
+    },
+    {
+      "activity_name": "Aquapark Sopot Water Slides",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 5,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "towel",
+        "goggles"
+      ]
+    },
+    {
+      "activity_name": "Spa Square Relaxing Coffee",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Sopot Museum Villa Tour",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "notebook"
+      ]
+    },
+    {
+      "activity_name": "Seafood Feast on the Beachfront",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "smart_casual_clothing"
+      ]
+    },
+    {
+      "activity_name": "Boutique Shopping on Grunwaldzka",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 1,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "credit_card",
+        "tote_bag"
+      ]
+    }
+  ]
+}
