@@ -42,10 +42,10 @@
     "ajmer",
     "ajmer"
   ],
-  "al ": [
+  "ula": [
     "al_ula"
   ],
-  "ula": [
+  "al ": [
     "al_ula"
   ],
   "ala": [
@@ -98,6 +98,11 @@
     "antwerp",
     "antwerp"
   ],
+  "ara": [
+    "araku_valley",
+    "araku_valley",
+    "araku_valley"
+  ],
   "val": [
     "araku_valley",
     "araku_valley",
@@ -121,11 +126,6 @@
     "valparai",
     "valparaiso",
     "valparaiso"
-  ],
-  "ara": [
-    "araku_valley",
-    "araku_valley",
-    "araku_valley"
   ],
   "are": [
     "arequipa",
@@ -351,12 +351,12 @@
     "cancun",
     "cancun"
   ],
-  "cap": [
-    "cape_town",
+  "tow": [
     "cape_town",
     "cape_town"
   ],
-  "tow": [
+  "cap": [
+    "cape_town",
     "cape_town",
     "cape_town"
   ],
@@ -449,11 +449,11 @@
     "cusco",
     "cusco"
   ],
-  "da ": [
-    "da_nang"
-  ],
   "nan": [
     "da_nang",
+    "da_nang"
+  ],
+  "da ": [
     "da_nang"
   ],
   "dak": [
@@ -562,6 +562,10 @@
     "gavi",
     "gavi"
   ],
+  "gda": [
+    "gdańsk",
+    "gdańsk"
+  ],
   "gen": [
     "geneva",
     "geneva",
@@ -583,12 +587,12 @@
     "gokarna",
     "gokarna"
   ],
-  "coa": [
+  "gol": [
+    "gold_coast",
     "gold_coast",
     "gold_coast"
   ],
-  "gol": [
-    "gold_coast",
+  "coa": [
     "gold_coast",
     "gold_coast"
   ],
@@ -672,6 +676,10 @@
     "hiroshima",
     "hiroshima"
   ],
+  "min": [
+    "ho_chi_minh_city",
+    "ho_chi_minh_city"
+  ],
   "cit": [
     "ho_chi_minh_city",
     "ho_chi_minh_city",
@@ -686,10 +694,6 @@
     "quebec_city",
     "quebec_city"
   ],
-  "min": [
-    "ho_chi_minh_city",
-    "ho_chi_minh_city"
-  ],
   "ho ": [
     "ho_chi_minh_city"
   ],
@@ -701,16 +705,16 @@
     "hoi_an",
     "hoi_an"
   ],
-  "kon": [
-    "hong_kong",
-    "hong_kong"
-  ],
   "hon": [
     "hong_kong",
     "hong_kong",
     "hong_kong",
     "honolulu",
     "honolulu"
+  ],
+  "kon": [
+    "hong_kong",
+    "hong_kong"
   ],
   "hor": [
     "horsley_hills",
@@ -723,11 +727,11 @@
     "kolli_hills",
     "kolli_hills"
   ],
-  "hua": [
-    "hua_hin",
+  "hin": [
     "hua_hin"
   ],
-  "hin": [
+  "hua": [
+    "hua_hin",
     "hua_hin"
   ],
   "hue": [
@@ -849,7 +853,9 @@
   ],
   "kat": [
     "kathmandu",
-    "kathmandu"
+    "kathmandu",
+    "katowice",
+    "katowice"
   ],
   "kau": [
     "kausani",
@@ -895,15 +901,15 @@
     "kodaikanal",
     "kodaikanal"
   ],
+  "pha": [
+    "koh_phangan",
+    "koh_phangan"
+  ],
   "koh": [
     "koh_phangan",
     "koh_phangan",
     "koh_samui",
     "koh_samui"
-  ],
-  "pha": [
-    "koh_phangan",
-    "koh_phangan"
   ],
   "sam": [
     "koh_samui",
@@ -935,7 +941,9 @@
     "krabi",
     "krabi",
     "krakow",
-    "krakow"
+    "krakow",
+    "kraków",
+    "kraków"
   ],
   "lum": [
     "kuala_lumpur",
@@ -960,10 +968,10 @@
     "kyoto",
     "kyoto"
   ],
-  "paz": [
+  "la ": [
     "la_paz"
   ],
-  "la ": [
+  "paz": [
     "la_paz"
   ],
   "lac": [
@@ -1034,16 +1042,16 @@
     "los_angeles",
     "los_angeles"
   ],
-  "lua": [
-    "luang_prabang",
-    "luang_prabang",
-    "luang_prabang"
-  ],
   "pra": [
     "luang_prabang",
     "luang_prabang",
     "prague",
     "prague"
+  ],
+  "lua": [
+    "luang_prabang",
+    "luang_prabang",
+    "luang_prabang"
   ],
   "luc": [
     "lucerne",
@@ -1087,6 +1095,8 @@
     "malaga",
     "malana",
     "malana",
+    "malbork",
+    "malbork",
     "maldives",
     "maldives"
   ],
@@ -1256,12 +1266,12 @@
     "nha_trang",
     "nha_trang"
   ],
-  "fal": [
+  "nia": [
+    "niagara_falls",
     "niagara_falls",
     "niagara_falls"
   ],
-  "nia": [
-    "niagara_falls",
+  "fal": [
     "niagara_falls",
     "niagara_falls"
   ],
@@ -1400,6 +1410,10 @@
     "poovar",
     "poovar"
   ],
+  "bla": [
+    "port_blair",
+    "port_blair"
+  ],
   "por": [
     "port_blair",
     "port_blair",
@@ -1409,9 +1423,9 @@
     "porto",
     "porto"
   ],
-  "bla": [
-    "port_blair",
-    "port_blair"
+  "poz": [
+    "poznań",
+    "poznań"
   ],
   "pre": [
     "prefix_map",
@@ -1543,11 +1557,11 @@
     "san_juan",
     "san_juan"
   ],
-  "pau": [
+  "sao": [
     "sao_paulo",
     "sao_paulo"
   ],
-  "sao": [
+  "pau": [
     "sao_paulo",
     "sao_paulo"
   ],
@@ -1599,12 +1613,12 @@
     "siargao",
     "siargao"
   ],
-  "sie": [
-    "siem_reap",
+  "rea": [
     "siem_reap",
     "siem_reap"
   ],
-  "rea": [
+  "sie": [
+    "siem_reap",
     "siem_reap",
     "siem_reap"
   ],
@@ -1659,6 +1673,10 @@
     "sydney",
     "sydney"
   ],
+  "szc": [
+    "szczecin",
+    "szczecin"
+  ],
   "tab": [
     "tabuk",
     "tabuk"
@@ -1708,7 +1726,9 @@
   ],
   "tor": [
     "toronto",
-    "toronto"
+    "toronto",
+    "toruń",
+    "toruń"
   ],
   "tos": [
     "tosh",
@@ -1794,12 +1814,12 @@
     "warsaw",
     "warsaw"
   ],
-  "d.c": [
+  "was": [
+    "washington_d.c.",
     "washington_d.c.",
     "washington_d.c."
   ],
-  "was": [
-    "washington_d.c.",
+  "d.c": [
     "washington_d.c.",
     "washington_d.c."
   ],
@@ -1810,6 +1830,10 @@
   "wel": [
     "wellington",
     "wellington"
+  ],
+  "wro": [
+    "wrocław",
+    "wrocław"
   ],
   "xia": [
     "xian",
@@ -1842,6 +1866,10 @@
   "zag": [
     "zagreb",
     "zagreb"
+  ],
+  "zak": [
+    "zakopane",
+    "zakopane"
   ],
   "zan": [
     "zanskar",
