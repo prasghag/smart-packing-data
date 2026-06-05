@@ -1,0 +1,164 @@
+{
+  "city_name": "Karpacz",
+  "country": "Poland",
+  "activities": [
+    {
+      "activity_name": "Wang Stave Church Visit",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "windbreaker"
+      ]
+    },
+    {
+      "activity_name": "Sniezka Mountain Hike",
+      "category": "Adventure",
+      "duration_minutes": 300,
+      "scores": {
+        "budget": 4,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "trekking_shoes",
+        "backpack",
+        "water_bottle",
+        "weather_jacket"
+      ]
+    },
+    {
+      "activity_name": "Wild Waterfall Photo Stop",
+      "category": "Sightseeing",
+      "duration_minutes": 30,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "waterproof_camera"
+      ]
+    },
+    {
+      "activity_name": "Kopa Cable Car Ride",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "warm_jacket",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Karpacz Promenade Shopping",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "wallet",
+        "cash_zloty"
+      ]
+    },
+    {
+      "activity_name": "Toys Museum Karpacz",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hand_sanitizer"
+      ]
+    },
+    {
+      "activity_name": "Alpine Coaster Run",
+      "category": "Adventure",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "secure_pockets",
+        "sneakers"
+      ]
+    },
+    {
+      "activity_name": "Highlander Restaurant Dinner",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "casual_outfit"
+      ]
+    },
+    {
+      "activity_name": "Medical Spa Thermal Pools",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "flip_flops"
+      ]
+    },
+    {
+      "activity_name": "Gravitational Anomaly Spot",
+      "category": "Sightseeing",
+      "duration_minutes": 20,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "water_bottle"
+      ]
+    }
+  ]
+}
