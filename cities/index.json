@@ -1,7 +1,19 @@
 {
-  "version": "2026-06-06T00:28:14",
-  "total": 527,
+  "version": "2026-06-06T00:53:01",
+  "total": 575,
   "cities": [
+    {
+      "key": "'s-hertogenbosch",
+      "name": "'S-Hertogenbosch",
+      "file": "'s-hertogenbosch.json",
+      "searchTokens": [
+        "'s-",
+        "'s-hertogenbosch"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
     {
       "key": "aalo",
       "name": "Aalo",
@@ -138,12 +150,36 @@
       "lon": null
     },
     {
+      "key": "alkmaar",
+      "name": "Alkmaar",
+      "file": "alkmaar.json",
+      "searchTokens": [
+        "alk",
+        "alkmaar"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "almaty",
       "name": "Almaty",
       "file": "almaty.json",
       "searchTokens": [
         "alm",
         "almaty"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "almere",
+      "name": "Almere",
+      "file": "almere.json",
+      "searchTokens": [
+        "alm",
+        "almere"
       ],
       "popularity": 50,
       "lat": null,
@@ -186,6 +222,18 @@
       "lon": null
     },
     {
+      "key": "amersfoort",
+      "name": "Amersfoort",
+      "file": "amersfoort.json",
+      "searchTokens": [
+        "ame",
+        "amersfoort"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "amman",
       "name": "Amman",
       "file": "amman.json",
@@ -204,6 +252,18 @@
       "searchTokens": [
         "amr",
         "amritsar"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "amstelveen",
+      "name": "Amstelveen",
+      "file": "amstelveen.json",
+      "searchTokens": [
+        "ams",
+        "amstelveen"
       ],
       "popularity": 50,
       "lat": null,
@@ -282,6 +342,18 @@
       "lon": null
     },
     {
+      "key": "apeldoorn",
+      "name": "Apeldoorn",
+      "file": "apeldoorn.json",
+      "searchTokens": [
+        "ape",
+        "apeldoorn"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "araku_valley",
       "name": "Araku Valley",
       "file": "araku_valley.json",
@@ -309,6 +381,18 @@
       "lon": null
     },
     {
+      "key": "arnhem",
+      "name": "Arnhem",
+      "file": "arnhem.json",
+      "searchTokens": [
+        "arn",
+        "arnhem"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "aru_valley",
       "name": "Aru Valley",
       "file": "aru_valley.json",
@@ -317,6 +401,18 @@
         "aru valley",
         "val",
         "valley"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "assen",
+      "name": "Assen",
+      "file": "assen.json",
+      "searchTokens": [
+        "ass",
+        "assen"
       ],
       "popularity": 50,
       "lat": null,
@@ -1580,12 +1676,38 @@
       "lon": null
     },
     {
+      "key": "den_helder",
+      "name": "Den Helder",
+      "file": "den_helder.json",
+      "searchTokens": [
+        "den",
+        "den helder",
+        "hel",
+        "helder"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "denver",
       "name": "Denver",
       "file": "denver.json",
       "searchTokens": [
         "den",
         "denver"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "deventer",
+      "name": "Deventer",
+      "file": "deventer.json",
+      "searchTokens": [
+        "dev",
+        "deventer"
       ],
       "popularity": 50,
       "lat": null,
@@ -1669,6 +1791,18 @@
       "searchTokens": [
         "doh",
         "doha"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "dordrecht",
+      "name": "Dordrecht",
+      "file": "dordrecht.json",
+      "searchTokens": [
+        "dor",
+        "dordrecht"
       ],
       "popularity": 50,
       "lat": null,
@@ -1768,6 +1902,18 @@
       "searchTokens": [
         "elb",
         "elbląg"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "enschede",
+      "name": "Enschede",
+      "file": "enschede.json",
+      "searchTokens": [
+        "ens",
+        "enschede"
       ],
       "popularity": 50,
       "lat": null,
@@ -1989,6 +2135,18 @@
       "lon": null
     },
     {
+      "key": "goes",
+      "name": "Goes",
+      "file": "goes.json",
+      "searchTokens": [
+        "goe",
+        "goes"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "gokarna",
       "name": "Gokarna",
       "file": "gokarna.json",
@@ -2016,12 +2174,36 @@
       "lon": null
     },
     {
+      "key": "gorinchem",
+      "name": "Gorinchem",
+      "file": "gorinchem.json",
+      "searchTokens": [
+        "gor",
+        "gorinchem"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "gothenburg",
       "name": "Gothenburg",
       "file": "gothenburg.json",
       "searchTokens": [
         "got",
         "gothenburg"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "gouda",
+      "name": "Gouda",
+      "file": "gouda.json",
+      "searchTokens": [
+        "gou",
+        "gouda"
       ],
       "popularity": 50,
       "lat": null,
@@ -2223,6 +2405,18 @@
       "lon": null
     },
     {
+      "key": "harlingen",
+      "name": "Harlingen",
+      "file": "harlingen.json",
+      "searchTokens": [
+        "har",
+        "harlingen"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "havana",
       "name": "Havana",
       "file": "havana.json",
@@ -2274,12 +2468,60 @@
       "lon": null
     },
     {
+      "key": "heerlen",
+      "name": "Heerlen",
+      "file": "heerlen.json",
+      "searchTokens": [
+        "hee",
+        "heerlen"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "helmond",
+      "name": "Helmond",
+      "file": "helmond.json",
+      "searchTokens": [
+        "hel",
+        "helmond"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "helsinki",
       "name": "Helsinki",
       "file": "helsinki.json",
       "searchTokens": [
         "hel",
         "helsinki"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "hengelo",
+      "name": "Hengelo",
+      "file": "hengelo.json",
+      "searchTokens": [
+        "hen",
+        "hengelo"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "hilversum",
+      "name": "Hilversum",
+      "file": "hilversum.json",
+      "searchTokens": [
+        "hil",
+        "hilversum"
       ],
       "popularity": 50,
       "lat": null,
@@ -2361,6 +2603,30 @@
       "searchTokens": [
         "hon",
         "honolulu"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "hoofddorp",
+      "name": "Hoofddorp",
+      "file": "hoofddorp.json",
+      "searchTokens": [
+        "hoo",
+        "hoofddorp"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "hoorn",
+      "name": "Hoorn",
+      "file": "hoorn.json",
+      "searchTokens": [
+        "hoo",
+        "hoorn"
       ],
       "popularity": 50,
       "lat": null,
@@ -2703,6 +2969,18 @@
       "lon": null
     },
     {
+      "key": "kampen",
+      "name": "Kampen",
+      "file": "kampen.json",
+      "searchTokens": [
+        "kam",
+        "kampen"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "kanatal",
       "name": "Kanatal",
       "file": "kanatal.json",
@@ -2841,6 +3119,18 @@
       "searchTokens": [
         "kaz",
         "kaziranga"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kerkrade",
+      "name": "Kerkrade",
+      "file": "kerkrade.json",
+      "searchTokens": [
+        "ker",
+        "kerkrade"
       ],
       "popularity": 50,
       "lat": null,
@@ -3133,18 +3423,6 @@
       "lon": null
     },
     {
-      "key": "kraków",
-      "name": "Kraków",
-      "file": "kraków.json",
-      "searchTokens": [
-        "kra",
-        "kraków"
-      ],
-      "popularity": 50,
-      "lat": null,
-      "lon": null
-    },
-    {
       "key": "krynica-zdrój",
       "name": "Krynica-Zdrój",
       "file": "krynica-zdrój.json",
@@ -3307,6 +3585,18 @@
       "lon": null
     },
     {
+      "key": "leeuwarden",
+      "name": "Leeuwarden",
+      "file": "leeuwarden.json",
+      "searchTokens": [
+        "lee",
+        "leeuwarden"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "legnica",
       "name": "Legnica",
       "file": "legnica.json",
@@ -3336,6 +3626,18 @@
       "searchTokens": [
         "lei",
         "leiden"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "lelystad",
+      "name": "Lelystad",
+      "file": "lelystad.json",
+      "searchTokens": [
+        "lel",
+        "lelystad"
       ],
       "popularity": 50,
       "lat": null,
@@ -3857,6 +4159,18 @@
       "lon": null
     },
     {
+      "key": "meppel",
+      "name": "Meppel",
+      "file": "meppel.json",
+      "searchTokens": [
+        "mep",
+        "meppel"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "mexico-city",
       "name": "Mexico-City",
       "file": "mexico-city.json",
@@ -3902,6 +4216,18 @@
       "searchTokens": [
         "mia",
         "miao"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "middelburg",
+      "name": "Middelburg",
+      "file": "middelburg.json",
+      "searchTokens": [
+        "mid",
+        "middelburg"
       ],
       "popularity": 50,
       "lat": null,
@@ -4102,6 +4428,18 @@
       "lon": null
     },
     {
+      "key": "naarden",
+      "name": "Naarden",
+      "file": "naarden.json",
+      "searchTokens": [
+        "naa",
+        "naarden"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "nainital",
       "name": "Nainital",
       "file": "nainital.json",
@@ -4234,18 +4572,6 @@
       "lon": null
     },
     {
-      "key": "new-york",
-      "name": "New-York",
-      "file": "new-york.json",
-      "searchTokens": [
-        "new",
-        "new-york"
-      ],
-      "popularity": 50,
-      "lat": null,
-      "lon": null
-    },
-    {
       "key": "new_york_city",
       "name": "New York City",
       "file": "new_york_city.json",
@@ -4297,6 +4623,18 @@
       "searchTokens": [
         "nic",
         "nice"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "nijmegen",
+      "name": "Nijmegen",
+      "file": "nijmegen.json",
+      "searchTokens": [
+        "nij",
+        "nijmegen"
       ],
       "popularity": 50,
       "lat": null,
@@ -4432,6 +4770,17 @@
       "searchTokens": [
         "osl",
         "oslo"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "oss",
+      "name": "Oss",
+      "file": "oss.json",
+      "searchTokens": [
+        "oss"
       ],
       "popularity": 50,
       "lat": null,
@@ -4823,6 +5172,18 @@
       "lon": null
     },
     {
+      "key": "purmerend",
+      "name": "Purmerend",
+      "file": "purmerend.json",
+      "searchTokens": [
+        "pur",
+        "purmerend"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "pushkar",
       "name": "Pushkar",
       "file": "pushkar.json",
@@ -5013,6 +5374,18 @@
       "lon": null
     },
     {
+      "key": "roermond",
+      "name": "Roermond",
+      "file": "roermond.json",
+      "searchTokens": [
+        "roe",
+        "roermond"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "roing",
       "name": "Roing",
       "file": "roing.json",
@@ -5031,6 +5404,18 @@
       "searchTokens": [
         "rom",
         "rome"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "roosendaal",
+      "name": "Roosendaal",
+      "file": "roosendaal.json",
+      "searchTokens": [
+        "roo",
+        "roosendaal"
       ],
       "popularity": 50,
       "lat": null,
@@ -5287,6 +5672,18 @@
       "lon": null
     },
     {
+      "key": "schiedam",
+      "name": "Schiedam",
+      "file": "schiedam.json",
+      "searchTokens": [
+        "sch",
+        "schiedam"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "seattle",
       "name": "Seattle",
       "file": "seattle.json",
@@ -5434,6 +5831,18 @@
       "lon": null
     },
     {
+      "key": "sneek",
+      "name": "Sneek",
+      "file": "sneek.json",
+      "searchTokens": [
+        "sne",
+        "sneek"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "sofia",
       "name": "Sofia",
       "file": "sofia.json",
@@ -5476,6 +5885,18 @@
       "searchTokens": [
         "sop",
         "sopot"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "spijkenisse",
+      "name": "Spijkenisse",
+      "file": "spijkenisse.json",
+      "searchTokens": [
+        "spi",
+        "spijkenisse"
       ],
       "popularity": 50,
       "lat": null,
@@ -5781,6 +6202,18 @@
       "lon": null
     },
     {
+      "key": "tilburg",
+      "name": "Tilburg",
+      "file": "tilburg.json",
+      "searchTokens": [
+        "til",
+        "tilburg"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "tirana",
       "name": "Tirana",
       "file": "tirana.json",
@@ -5988,6 +6421,18 @@
       "lon": null
     },
     {
+      "key": "valkenburg",
+      "name": "Valkenburg",
+      "file": "valkenburg.json",
+      "searchTokens": [
+        "val",
+        "valkenburg"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "valletta",
       "name": "Valletta",
       "file": "valletta.json",
@@ -6072,12 +6517,36 @@
       "lon": null
     },
     {
+      "key": "veenendaal",
+      "name": "Veenendaal",
+      "file": "veenendaal.json",
+      "searchTokens": [
+        "vee",
+        "veenendaal"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "venice",
       "name": "Venice",
       "file": "venice.json",
       "searchTokens": [
         "ven",
         "venice"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "venlo",
+      "name": "Venlo",
+      "file": "venlo.json",
+      "searchTokens": [
+        "ven",
+        "venlo"
       ],
       "popularity": 50,
       "lat": null,
@@ -6150,6 +6619,42 @@
       "searchTokens": [
         "vis",
         "visakhapatnam"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "vlaardingen",
+      "name": "Vlaardingen",
+      "file": "vlaardingen.json",
+      "searchTokens": [
+        "vla",
+        "vlaardingen"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "vlissingen",
+      "name": "Vlissingen",
+      "file": "vlissingen.json",
+      "searchTokens": [
+        "vli",
+        "vlissingen"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "volendam",
+      "name": "Volendam",
+      "file": "volendam.json",
+      "searchTokens": [
+        "vol",
+        "volendam"
       ],
       "popularity": 50,
       "lat": null,
@@ -6339,6 +6844,18 @@
       "lon": null
     },
     {
+      "key": "zaandam",
+      "name": "Zaandam",
+      "file": "zaandam.json",
+      "searchTokens": [
+        "zaa",
+        "zaandam"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "zagreb",
       "name": "Zagreb",
       "file": "zagreb.json",
@@ -6375,6 +6892,18 @@
       "lon": null
     },
     {
+      "key": "zandvoort",
+      "name": "Zandvoort",
+      "file": "zandvoort.json",
+      "searchTokens": [
+        "zan",
+        "zandvoort"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "zanskar",
       "name": "Zanskar",
       "file": "zanskar.json",
@@ -6399,6 +6928,18 @@
       "lon": null
     },
     {
+      "key": "zeist",
+      "name": "Zeist",
+      "file": "zeist.json",
+      "searchTokens": [
+        "zei",
+        "zeist"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "zermatt",
       "name": "Zermatt",
       "file": "zermatt.json",
@@ -6411,12 +6952,36 @@
       "lon": null
     },
     {
+      "key": "zierikzee",
+      "name": "Zierikzee",
+      "file": "zierikzee.json",
+      "searchTokens": [
+        "zie",
+        "zierikzee"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "ziro",
       "name": "Ziro",
       "file": "ziro.json",
       "searchTokens": [
         "zir",
         "ziro"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "zoetermeer",
+      "name": "Zoetermeer",
+      "file": "zoetermeer.json",
+      "searchTokens": [
+        "zoe",
+        "zoetermeer"
       ],
       "popularity": 50,
       "lat": null,
@@ -6441,6 +7006,18 @@
       "searchTokens": [
         "zur",
         "zurich"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "zwolle",
+      "name": "Zwolle",
+      "file": "zwolle.json",
+      "searchTokens": [
+        "zwo",
+        "zwolle"
       ],
       "popularity": 50,
       "lat": null,
