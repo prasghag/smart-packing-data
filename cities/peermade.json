@@ -1,0 +1,167 @@
+{
+  "city_name": "Peermade",
+  "country": "India",
+  "activities": [
+    {
+      "activity_name": "Panchalimedu Viewpoint Hike",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_shoes",
+        "camera",
+        "windbreaker"
+      ]
+    },
+    {
+      "activity_name": "Thrissanku Hills Trek",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "trekking_boots",
+        "water_bottle",
+        "energy_snacks"
+      ]
+    },
+    {
+      "activity_name": "Valanjanganam Waterfalls",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "towel",
+        "sandals"
+      ]
+    },
+    {
+      "activity_name": "Peermade Tea Estate Walk",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunglasses",
+        "sun_hat",
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Amritha Medu Hill Climb",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 5,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "backpack",
+        "rain_poncho"
+      ]
+    },
+    {
+      "activity_name": "Pattumala Glass Tent Church",
+      "category": "Culture",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "camera_lens"
+      ]
+    },
+    {
+      "activity_name": "Madamakkulam Waterfalls Jeep",
+      "category": "Adventure",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "motion_sickness_pills"
+      ]
+    },
+    {
+      "activity_name": "Spices and Tea Shopping",
+      "category": "Shopping",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "cash_rupees",
+        "reusable_bag"
+      ]
+    },
+    {
+      "activity_name": "Sahyadri Ayurvedic Center",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_clothes"
+      ]
+    },
+    {
+      "activity_name": "Kerala Spiced Chicken Roast",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hand_sanitizer"
+      ]
+    }
+  ]
+}
