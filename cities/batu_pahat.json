@@ -1,0 +1,166 @@
+{
+  "city_name": "Batu Pahat",
+  "country": "Malaysia",
+  "activities": [
+    {
+      "activity_name": "Chong Long Gong Temple Fish Touching",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "hand_sanitizer"
+      ]
+    },
+    {
+      "activity_name": "Minyak Beku Beach Sunset Watching",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "flip_flops",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Wet World Glow Park Water Rides",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "towel",
+        "change_of_clothes"
+      ]
+    },
+    {
+      "activity_name": "Batu Pahat Street Art Walk",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "smartphone",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Claypot Chicken Rice Local Dinner",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "wet_wipes",
+        "wallet"
+      ]
+    },
+    {
+      "activity_name": "Batu Pahat Mall Shopping",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "credit_card",
+        "walking_sneakers"
+      ]
+    },
+    {
+      "activity_name": "Lover's Bridge Scenic Pier Stroll",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Tasik Y Recreation Park Jogging",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "running_shoes",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Galeri Dato' Onn Historical Museum",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "notebook",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Local Ais Kafe Coffee Refreshment",
+      "category": "Food",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sanitizer",
+        "coins"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "city_name": "Johor Bahru",
+  "country": "Malaysia",
+  "activities": [
+    {
+      "activity_name": "LEGOLAND Malaysia Theme Park Rides",
+      "category": "Adventure",
+      "duration_minutes": 360,
+      "scores": {
+        "budget": 2,
+        "relaxed": 1,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunscreen",
+        "stroller",
+        "hat"
+      ]
+    },
+    {
+      "activity_name": "Sultan Abu Bakar State Mosque Visit",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_dress",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Johor Premium Outlets Designer Shopping",
+      "category": "Shopping",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "credit_card",
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Kam Long Kam Fook Curry Fish Head Lunch",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "wet_wipes",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Danga Bay Waterfront Evening Funfair",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "smartphone",
+        "casual_wear"
+      ]
+    },
+    {
+      "activity_name": "Tan Hiok Nee Heritage Street Walk",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sun_hat",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Istana Besar Royal Palace Ground Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunglasses",
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Pasar Karat Night Market Bargaining",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "hand_fan"
+      ]
+    },
+    {
+      "activity_name": "Mee Rebus Haji Wahid Tasting",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "sanitizer"
+      ]
+    },
+    {
+      "activity_name": "Pulai Waterfall Hiking Trail",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_shoes",
+        "swimwear",
+        "water_bottle"
+      ]
+    }
+  ]
+}

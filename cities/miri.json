@@ -1,0 +1,168 @@
+{
+  "city_name": "Miri",
+  "country": "Malaysia",
+  "activities": [
+    {
+      "activity_name": "Niah Caves National Park Exploration",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_boots",
+        "headlamp",
+        "insect_repellent"
+      ]
+    },
+    {
+      "activity_name": "Grand Old Lady No. 1 Oil Well",
+      "category": "Sightseeing",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Miri Petroleum Museum Tour",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "notebook",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Brighton Beach Sunset Walk",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "flip_flops",
+        "smartphone"
+      ]
+    },
+    {
+      "activity_name": "Tamu Muhibbah Local Market Shopping",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "reusable_tote"
+      ]
+    },
+    {
+      "activity_name": "Sarawak Layer Cake Tasting",
+      "category": "Food",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hand_wipes",
+        "wallet"
+      ]
+    },
+    {
+      "activity_name": "Lambir Hills Waterfalls Hike",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "trail_shoes",
+        "swimwear",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Luak Esplanade Beach Relaxation",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "beach_mat",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Miri Crocodile Farm Visit",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Seafood Dinner at Tanjong Lobang",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "casual_wear",
+        "sanitizer"
+      ]
+    }
+  ]
+}

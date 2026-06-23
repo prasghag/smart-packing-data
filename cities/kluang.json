@@ -1,25 +1,26 @@
 {
-  "city_name": "Ipoh",
+  "city_name": "Kluang",
   "country": "Malaysia",
   "activities": [
     {
-      "activity_name": "Kek Lok Tong Cave Temple Exploration",
-      "category": "Culture",
-      "duration_minutes": 90,
+      "activity_name": "Gunung Lambak Mountain Summit Hike",
+      "category": "Adventure",
+      "duration_minutes": 180,
       "scores": {
         "budget": 5,
-        "relaxed": 5,
-        "adventure": 2,
-        "family": 5,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 3,
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable_shoes",
-        "camera"
+        "hiking_boots",
+        "water_bottle",
+        "mosquito_spray"
       ]
     },
     {
-      "activity_name": "Ipoh Old Town White Coffee Tasting",
+      "activity_name": "Kluang RailCoffee Traditional Breakfast",
       "category": "Food",
       "duration_minutes": 60,
       "scores": {
@@ -35,55 +36,7 @@
       ]
     },
     {
-      "activity_name": "Concubine Lane Souvenir Shopping",
-      "category": "Shopping",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 4,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 5,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "hand_fan",
-        "wallet"
-      ]
-    },
-    {
-      "activity_name": "Kellie's Castle Historical Tour",
-      "category": "Sightseeing",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 4,
-        "relaxed": 4,
-        "adventure": 2,
-        "family": 5,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "umbrella",
-        "camera"
-      ]
-    },
-    {
-      "activity_name": "Lost World of Tambun Hot Springs",
-      "category": "Relaxation",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 3,
-        "relaxed": 5,
-        "adventure": 2,
-        "family": 5,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "swimwear",
-        "towel"
-      ]
-    },
-    {
-      "activity_name": "Ipoh Murals Street Art Trail",
+      "activity_name": "Kluang Street Art Murals Walk",
       "category": "Sightseeing",
       "duration_minutes": 90,
       "scores": {
@@ -99,26 +52,57 @@
       ]
     },
     {
-      "activity_name": "Gua Tempurung Caving Adventure",
-      "category": "Adventure",
-      "duration_minutes": 180,
+      "activity_name": "Zenxin Organic Park Eco Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
       "scores": {
         "budget": 4,
-        "relaxed": 1,
-        "adventure": 5,
-        "family": 3,
-        "balanced": 3
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
       },
       "packing_tags": [
-        "headlamp",
-        "change_of_clothes",
-        "non_slip_shoes"
+        "umbrella",
+        "camera"
       ]
     },
     {
-      "activity_name": "Nga Choy Kai Bean Sprouts Chicken Dinner",
+      "activity_name": "UK Farm Sheep Interactive Experience",
+      "category": "Sightseeing",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunscreen",
+        "hand_wipes"
+      ]
+    },
+    {
+      "activity_name": "Kluang Mall Shopping Spree",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "credit_card",
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Chian Lai Spicy Beef Noodles Dinner",
       "category": "Food",
-      "duration_minutes": 90,
+      "duration_minutes": 60,
       "scores": {
         "budget": 5,
         "relaxed": 4,
@@ -131,35 +115,50 @@
       ]
     },
     {
-      "activity_name": "Sam Poh Tong Rock Temple Climb",
+      "activity_name": "Kluang Coffee Powder Factory Tour",
       "category": "Culture",
       "duration_minutes": 90,
       "scores": {
         "budget": 5,
-        "relaxed": 3,
-        "adventure": 3,
+        "relaxed": 5,
+        "adventure": 1,
         "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "notebook",
+        "wallet"
+      ]
+    },
+    {
+      "activity_name": "Sri Lalang Lake Park Relaxation",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
         "balanced": 4
       },
       "packing_tags": [
         "walking_shoes",
-        "respectful_attire"
+        "sunglasses"
       ]
     },
     {
-      "activity_name": "Perak Tong Cave Temple Panoramic View",
-      "category": "Sightseeing",
-      "duration_minutes": 90,
+      "activity_name": "Church of St. Louis Visit",
+      "category": "Culture",
+      "duration_minutes": 45,
       "scores": {
         "budget": 5,
-        "relaxed": 3,
-        "adventure": 3,
+        "relaxed": 5,
+        "adventure": 1,
         "family": 4,
         "balanced": 4
       },
       "packing_tags": [
-        "camera",
-        "water_bottle"
+        "respectful_clothing"
       ]
     }
   ]

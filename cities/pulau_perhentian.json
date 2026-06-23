@@ -1,0 +1,167 @@
+{
+  "city_name": "Pulau Perhentian",
+  "country": "Malaysia",
+  "activities": [
+    {
+      "activity_name": "Turtle Beach Snorkeling Safari",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 5,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "snorkel_mask",
+        "fins",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Windmill Viewpoint Panoramic Hike",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_shoes",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Coral Bay Sunset Lounging",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "beach_mat",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Sea Kayaking Between Islands",
+      "category": "Adventure",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "dry_bag",
+        "rash_guard"
+      ]
+    },
+    {
+      "activity_name": "Fisherman Village Cultural Walk",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Beachside BBQ Catch Dinner",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "casual_wear",
+        "hand_sanitizer"
+      ]
+    },
+    {
+      "activity_name": "Perhentian Kecil Souvenir T-Shirt Shopping",
+      "category": "Shopping",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "wallet"
+      ]
+    },
+    {
+      "activity_name": "Scuba Diving at Temple of Doom Reef",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "dive_suit",
+        "waterproof_watch"
+      ]
+    },
+    {
+      "activity_name": "Local Roti Canai Breakfast Hunt",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "wet_wipes",
+        "coins"
+      ]
+    },
+    {
+      "activity_name": "Long Beach Night Fire Show Watching",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "smartphone",
+        "sandals"
+      ]
+    }
+  ]
+}

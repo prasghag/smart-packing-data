@@ -61,7 +61,8 @@
   ],
   "bat": [
     "al_batayeh",
-    "bath"
+    "bath",
+    "batu_pahat"
   ],
   "ham": [
     "al_hamriyah",
@@ -92,7 +93,8 @@
   ],
   "mir": [
     "al_mirfa",
-    "mirbah"
+    "mirbah",
+    "miri"
   ],
   "sha": [
     "al_shamkha",
@@ -122,6 +124,12 @@
     "almaty",
     "almere",
     "almora"
+  ],
+  "alo": [
+    "alor_setar"
+  ],
+  "set": [
+    "alor_setar"
   ],
   "alw": [
     "alwar"
@@ -231,6 +239,10 @@
     "barcelona",
     "barmer"
   ],
+  "pah": [
+    "batu_pahat",
+    "pahalgam"
+  ],
   "bei": [
     "beijing",
     "beirut"
@@ -254,7 +266,8 @@
   "bha": [
     "bhalukpong",
     "bhandardara",
-    "bharatpur"
+    "bharatpur",
+    "kota_bharu"
   ],
   "bhi": [
     "bhilwara",
@@ -280,6 +293,9 @@
   "bil": [
     "bilbao",
     "bir_billing"
+  ],
+  "bin": [
+    "bintulu"
   ],
   "bir": [
     "bir_billing"
@@ -366,7 +382,8 @@
     "cape_town"
   ],
   "tow": [
-    "cape_town"
+    "cape_town",
+    "george_town"
   ],
   "car": [
     "cardiff",
@@ -581,6 +598,9 @@
     "geneva",
     "genoa"
   ],
+  "geo": [
+    "george_town"
+  ],
   "gha": [
     "ghantoot",
     "ghayathi"
@@ -698,6 +718,7 @@
     "ho_chi_minh_city",
     "khalifa_city",
     "luxembourg_city",
+    "malacca_city",
     "new_york_city",
     "panama_city",
     "quebec_city"
@@ -810,7 +831,11 @@
     "jodhpur"
   ],
   "joh": [
-    "johannesburg"
+    "johannesburg",
+    "johor_bahru"
+  ],
+  "bah": [
+    "johor_bahru"
   ],
   "kaa": [
     "kaas_plateau"
@@ -885,6 +910,9 @@
     "kinnaur",
     "kota_kinabalu"
   ],
+  "klu": [
+    "kluang"
+  ],
   "koc": [
     "kochi"
   ],
@@ -913,6 +941,7 @@
   ],
   "kot": [
     "kota",
+    "kota_bharu",
     "kota_kinabalu",
     "kotor",
     "kottarakkara",
@@ -935,10 +964,18 @@
     "krynica-zdrój"
   ],
   "kua": [
-    "kuala_lumpur"
+    "kuala_lumpur",
+    "kuala_terengganu",
+    "kuantan"
   ],
   "lum": [
     "kuala_lumpur"
+  ],
+  "ter": [
+    "kuala_terengganu"
+  ],
+  "kuc": [
+    "kuching"
   ],
   "kud": [
     "kudremukh"
@@ -966,6 +1003,9 @@
   ],
   "paz": [
     "la_paz"
+  ],
+  "lab": [
+    "labuan"
   ],
   "lac": [
     "lachung"
@@ -1073,6 +1113,7 @@
   ],
   "mal": [
     "malacca",
+    "malacca_city",
     "malaga",
     "malana",
     "malappuram",
@@ -1144,6 +1185,9 @@
   ],
   "mou": [
     "mount_abu"
+  ],
+  "mua": [
+    "muar"
   ],
   "muk": [
     "mukteshwar"
@@ -1280,9 +1324,6 @@
   "pac": [
     "pachmarhi"
   ],
-  "pah": [
-    "pahalgam"
-  ],
   "pal": [
     "palakkad",
     "palawan",
@@ -1291,7 +1332,8 @@
   "pan": [
     "panama_city",
     "panchgani",
-    "pangong_tso"
+    "pangong_tso",
+    "pulau_pangkor"
   ],
   "tso": [
     "pangong_tso"
@@ -1320,7 +1362,8 @@
     "phnom_penh"
   ],
   "per": [
-    "perth"
+    "perth",
+    "pulau_perhentian"
   ],
   "pet": [
     "petra"
@@ -1353,9 +1396,13 @@
   ],
   "por": [
     "port_blair",
+    "port_dickson",
     "portland",
     "porto",
     "szklarska_poręba"
+  ],
+  "dic": [
+    "port_dickson"
   ],
   "poz": [
     "poznań"
@@ -1366,6 +1413,18 @@
   "prz": [
     "przemyśl"
   ],
+  "pul": [
+    "pulau_pangkor",
+    "pulau_perhentian",
+    "pulau_redang",
+    "pulau_tioman"
+  ],
+  "red": [
+    "pulau_redang"
+  ],
+  "tio": [
+    "pulau_tioman"
+  ],
   "pun": [
     "pune"
   ],
@@ -1375,6 +1434,9 @@
   ],
   "pus": [
     "pushkar"
+  ],
+  "put": [
+    "putrajaya"
   ],
   "pło": [
     "płock"
@@ -1461,6 +1523,7 @@
     "san_diego",
     "san_jose",
     "san_juan",
+    "sandakan",
     "sandomierz",
     "sangla",
     "santiago",
@@ -1499,8 +1562,14 @@
   "sea": [
     "seattle"
   ],
+  "sem": [
+    "semporna"
+  ],
   "sep": [
     "seppa"
+  ],
+  "ser": [
+    "seremban"
   ],
   "sev": [
     "seville"
@@ -1515,6 +1584,9 @@
   ],
   "sia": [
     "siargao"
+  ],
+  "sib": [
+    "sibu"
   ],
   "rea": [
     "siem_reap"
@@ -1596,7 +1668,8 @@
   ],
   "tai": [
     "taif",
-    "taipei"
+    "taipei",
+    "taiping"
   ],
   "tal": [
     "tallinn"

@@ -1,6 +1,6 @@
 {
-  "version": "2026-06-23T17:22:32",
-  "total": 691,
+  "version": "2026-06-23T20:19:57",
+  "total": 716,
   "cities": [
     {
       "key": "'s-hertogenbosch",
@@ -385,6 +385,21 @@
       "searchTokens": [
         "alm",
         "almora"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "alor_setar",
+      "name": "Alor Setar",
+      "file": "alor_setar.json",
+      "searchTokens": [
+        "alo",
+        "alor",
+        "alor setar",
+        "set",
+        "setar"
       ],
       "popularity": 50,
       "lat": null,
@@ -852,6 +867,21 @@
       "lon": null
     },
     {
+      "key": "batu_pahat",
+      "name": "Batu Pahat",
+      "file": "batu_pahat.json",
+      "searchTokens": [
+        "bat",
+        "batu",
+        "batu pahat",
+        "pah",
+        "pahat"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "beijing",
       "name": "Beijing",
       "file": "beijing.json",
@@ -1122,6 +1152,18 @@
       "searchTokens": [
         "bil",
         "bilbao"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "bintulu",
+      "name": "Bintulu",
+      "file": "bintulu.json",
+      "searchTokens": [
+        "bin",
+        "bintulu"
       ],
       "popularity": 50,
       "lat": null,
@@ -2539,6 +2581,21 @@
       "lon": null
     },
     {
+      "key": "george_town",
+      "name": "George Town",
+      "file": "george_town.json",
+      "searchTokens": [
+        "geo",
+        "george",
+        "george town",
+        "tow",
+        "town"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "ghantoot",
       "name": "Ghantoot",
       "file": "ghantoot.json",
@@ -3518,6 +3575,21 @@
       "lon": null
     },
     {
+      "key": "johor_bahru",
+      "name": "Johor Bahru",
+      "file": "johor_bahru.json",
+      "searchTokens": [
+        "bah",
+        "bahru",
+        "joh",
+        "johor",
+        "johor bahru"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "kaas_plateau",
       "name": "Kaas Plateau",
       "file": "kaas_plateau.json",
@@ -3983,6 +4055,18 @@
       "lon": null
     },
     {
+      "key": "kluang",
+      "name": "Kluang",
+      "file": "kluang.json",
+      "searchTokens": [
+        "klu",
+        "kluang"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "kochi",
       "name": "Kochi",
       "file": "kochi.json",
@@ -4116,6 +4200,21 @@
       "searchTokens": [
         "kot",
         "kota"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kota_bharu",
+      "name": "Kota Bharu",
+      "file": "kota_bharu.json",
+      "searchTokens": [
+        "bha",
+        "bharu",
+        "kot",
+        "kota",
+        "kota bharu"
       ],
       "popularity": 50,
       "lat": null,
@@ -4260,6 +4359,45 @@
       "lon": null
     },
     {
+      "key": "kuala_terengganu",
+      "name": "Kuala Terengganu",
+      "file": "kuala_terengganu.json",
+      "searchTokens": [
+        "kua",
+        "kuala",
+        "kuala terengganu",
+        "ter",
+        "terengganu"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kuantan",
+      "name": "Kuantan",
+      "file": "kuantan.json",
+      "searchTokens": [
+        "kua",
+        "kuantan"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kuching",
+      "name": "Kuching",
+      "file": "kuching.json",
+      "searchTokens": [
+        "kuc",
+        "kuching"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "kudremukh",
       "name": "Kudremukh",
       "file": "kudremukh.json",
@@ -4363,6 +4501,18 @@
         "la",
         "la paz",
         "paz"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "labuan",
+      "name": "Labuan",
+      "file": "labuan.json",
+      "searchTokens": [
+        "lab",
+        "labuan"
       ],
       "popularity": 50,
       "lat": null,
@@ -4831,6 +4981,21 @@
       "lon": null
     },
     {
+      "key": "malacca_city",
+      "name": "Malacca City",
+      "file": "malacca_city.json",
+      "searchTokens": [
+        "cit",
+        "city",
+        "mal",
+        "malacca",
+        "malacca city"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "malaga",
       "name": "Malaga",
       "file": "malaga.json",
@@ -5218,6 +5383,18 @@
       "lon": null
     },
     {
+      "key": "miri",
+      "name": "Miri",
+      "file": "miri.json",
+      "searchTokens": [
+        "mir",
+        "miri"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "międzyzdroje",
       "name": "Międzyzdroje",
       "file": "międzyzdroje.json",
@@ -5262,6 +5439,18 @@
         "mou",
         "mount",
         "mount abu"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "muar",
+      "name": "Muar",
+      "file": "muar.json",
+      "searchTokens": [
+        "mua",
+        "muar"
       ],
       "popularity": 50,
       "lat": null,
@@ -6180,6 +6369,21 @@
       "lon": null
     },
     {
+      "key": "port_dickson",
+      "name": "Port Dickson",
+      "file": "port_dickson.json",
+      "searchTokens": [
+        "dic",
+        "dickson",
+        "por",
+        "port",
+        "port dickson"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "portland",
       "name": "Portland",
       "file": "portland.json",
@@ -6252,6 +6456,66 @@
       "lon": null
     },
     {
+      "key": "pulau_pangkor",
+      "name": "Pulau Pangkor",
+      "file": "pulau_pangkor.json",
+      "searchTokens": [
+        "pan",
+        "pangkor",
+        "pul",
+        "pulau",
+        "pulau pangkor"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "pulau_perhentian",
+      "name": "Pulau Perhentian",
+      "file": "pulau_perhentian.json",
+      "searchTokens": [
+        "per",
+        "perhentian",
+        "pul",
+        "pulau",
+        "pulau perhentian"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "pulau_redang",
+      "name": "Pulau Redang",
+      "file": "pulau_redang.json",
+      "searchTokens": [
+        "pul",
+        "pulau",
+        "pulau redang",
+        "red",
+        "redang"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "pulau_tioman",
+      "name": "Pulau Tioman",
+      "file": "pulau_tioman.json",
+      "searchTokens": [
+        "pul",
+        "pulau",
+        "pulau tioman",
+        "tio",
+        "tioman"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "pune",
       "name": "Pune",
       "file": "pune.json",
@@ -6294,6 +6558,18 @@
       "searchTokens": [
         "pus",
         "pushkar"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "putrajaya",
+      "name": "Putrajaya",
+      "file": "putrajaya.json",
+      "searchTokens": [
+        "put",
+        "putrajaya"
       ],
       "popularity": 50,
       "lat": null,
@@ -6715,6 +6991,18 @@
       "lon": null
     },
     {
+      "key": "sandakan",
+      "name": "Sandakan",
+      "file": "sandakan.json",
+      "searchTokens": [
+        "san",
+        "sandakan"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "sandomierz",
       "name": "Sandomierz",
       "file": "sandomierz.json",
@@ -6873,12 +7161,36 @@
       "lon": null
     },
     {
+      "key": "semporna",
+      "name": "Semporna",
+      "file": "semporna.json",
+      "searchTokens": [
+        "sem",
+        "semporna"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "seppa",
       "name": "Seppa",
       "file": "seppa.json",
       "searchTokens": [
         "sep",
         "seppa"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "seremban",
+      "name": "Seremban",
+      "file": "seremban.json",
+      "searchTokens": [
+        "ser",
+        "seremban"
       ],
       "popularity": 50,
       "lat": null,
@@ -6975,6 +7287,18 @@
       "searchTokens": [
         "sia",
         "siargao"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "sibu",
+      "name": "Sibu",
+      "file": "sibu.json",
+      "searchTokens": [
+        "sib",
+        "sibu"
       ],
       "popularity": 50,
       "lat": null,
@@ -7325,6 +7649,18 @@
       "searchTokens": [
         "tai",
         "taipei"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "taiping",
+      "name": "Taiping",
+      "file": "taiping.json",
+      "searchTokens": [
+        "tai",
+        "taiping"
       ],
       "popularity": 50,
       "lat": null,

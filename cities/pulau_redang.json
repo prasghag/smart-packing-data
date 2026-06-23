@@ -1,0 +1,169 @@
+{
+  "city_name": "Pulau Redang",
+  "country": "Malaysia",
+  "activities": [
+    {
+      "activity_name": "Marine Park Centre Snorkeling",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "snorkel_gear",
+        "beach_towel",
+        "reef_safe_sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Long Beach White Sand Relaxation",
+      "category": "Relaxation",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "beach_mat",
+        "flip_flops"
+      ]
+    },
+    {
+      "activity_name": "Chagar Hutang Turtle Sanctuary Visit",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Deep Sea Scuba Diving at Black Coral",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 5,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "dive_suit",
+        "waterproof_case"
+      ]
+    },
+    {
+      "activity_name": "Sunset Kayaking around the Bay",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "dry_bag",
+        "change_of_clothes"
+      ]
+    },
+    {
+      "activity_name": "Beachfront Resort Buffet Dining",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "resort_wear",
+        "perfume"
+      ]
+    },
+    {
+      "activity_name": "Pasir Panjang Souvenir Shopping",
+      "category": "Shopping",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "wallet",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Redang Trail Jungle Trekking",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "trail_shoes",
+        "water_bottle",
+        "mosquito_spray"
+      ]
+    },
+    {
+      "activity_name": "Beach Volleyball at Long Beach",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "active_wear",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Local Ice Kacang Beachside Treat",
+      "category": "Food",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "wet_wipes",
+        "coins"
+      ]
+    }
+  ]
+}

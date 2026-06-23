@@ -1,0 +1,168 @@
+{
+  "city_name": "Port Dickson",
+  "country": "Malaysia",
+  "activities": [
+    {
+      "activity_name": "Teluk Kemang Beach Water Sports",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 5,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "sunscreen",
+        "change_of_clothes"
+      ]
+    },
+    {
+      "activity_name": "Cape Rachado Lighthouse Jungle Hike",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_shoes",
+        "water_bottle",
+        "insect_spray"
+      ]
+    },
+    {
+      "activity_name": "Army Museum Historical Military Tour",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "PD Ostrich Show Farm Visit",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sun_hat",
+        "wet_wipes"
+      ]
+    },
+    {
+      "activity_name": "Port Dickson Waterfront Sunset Walk",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sandals",
+        "smartphone"
+      ]
+    },
+    {
+      "activity_name": "Seafood Feast at Gim Men Restaurant",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hand_sanitizer",
+        "casual_wear"
+      ]
+    },
+    {
+      "activity_name": "Alive 3D Art Gallery Exploration",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "wallet"
+      ]
+    },
+    {
+      "activity_name": "Blue Lagoon Beach Snorkeling",
+      "category": "Adventure",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "snorkel_mask",
+        "beach_towel"
+      ]
+    },
+    {
+      "activity_name": "Regina Mall Souvenir Shopping",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "reusable_bag"
+      ]
+    },
+    {
+      "activity_name": "Thistle PD Resort Spa Treatment",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfy_slippers",
+        "robe"
+      ]
+    }
+  ]
+}

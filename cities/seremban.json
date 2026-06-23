@@ -1,0 +1,166 @@
+{
+  "city_name": "Seremban",
+  "country": "Malaysia",
+  "activities": [
+    {
+      "activity_name": "Seremban Lake Garden Walk",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Centipede Temple Cultural Tour",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Seremban Siew Pow Bakery Tasting",
+      "category": "Food",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hand_wipes",
+        "wallet"
+      ]
+    },
+    {
+      "activity_name": "State Museum and Cultural Complex",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "notebook",
+        "respectful_attire"
+      ]
+    },
+    {
+      "activity_name": "Palm Mall Shopping Experience",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "credit_card",
+        "walking_sneakers"
+      ]
+    },
+    {
+      "activity_name": "Jelita Ostrich Farm Interactive Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sun_hat",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Gunung Angsi Hiking Trail",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 5,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "hiking_boots",
+        "hydration_pack",
+        "mosquito_spray"
+      ]
+    },
+    {
+      "activity_name": "Seremban Pasar Besar Breakfast Market",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "reusable_bag"
+      ]
+    },
+    {
+      "activity_name": "Royal Chulan Spa Session",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfy_slippers",
+        "robe"
+      ]
+    },
+    {
+      "activity_name": "Traditional Beef Noodles Dinner",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "sanitizer"
+      ]
+    }
+  ]
+}

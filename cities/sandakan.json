@@ -1,0 +1,169 @@
+{
+  "city_name": "Sandakan",
+  "country": "Malaysia",
+  "activities": [
+    {
+      "activity_name": "Sepilok Orangutan Appeal Rehabilitation Viewing",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "telephoto_lens",
+        "poncho",
+        "mosquito_repellent"
+      ]
+    },
+    {
+      "activity_name": "Bornean Sun Bear Conservation Centre Visit",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "binoculars",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Kinabatangan River Wildlife Cruise",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "waterproof_dry_bag",
+        "sunscreen",
+        "long_pants"
+      ]
+    },
+    {
+      "activity_name": "Agnes Keith House Historical Tour",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "notebook"
+      ]
+    },
+    {
+      "activity_name": "Sandakan Memorial Park Memorial Walk",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "respectful_clothing",
+        "umbrella"
+      ]
+    },
+    {
+      "activity_name": "Pu Ji Shi Buddhist Temple Panoramic View",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Sandakan Central Market Seafood Dinner",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "wet_wipes",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Labuk Bay Proboscis Monkey Feeding Observation",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera_filters",
+        "insect_spray"
+      ]
+    },
+    {
+      "activity_name": "English Tea House Scone Tasting",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "smart_casual",
+        "wallet"
+      ]
+    },
+    {
+      "activity_name": "Gomantong Caves Swiftlet Adventure",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "sturdy_boots",
+        "flashlight",
+        "hat"
+      ]
+    }
+  ]
+}

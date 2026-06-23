@@ -1,0 +1,168 @@
+{
+  "city_name": "Kota Bharu",
+  "country": "Malaysia",
+  "activities": [
+    {
+      "activity_name": "Siti Khadijah Market Shopping",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag",
+        "hand_fan"
+      ]
+    },
+    {
+      "activity_name": "Istana Jahar Cultural Museum Tour",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "modest_clothing"
+      ]
+    },
+    {
+      "activity_name": "Pantai Cahaya Bulan Beach Stroll",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "flip_flops",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Handprinting Batik Workshop",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "apron",
+        "wet_wipes"
+      ]
+    },
+    {
+      "activity_name": "Nasi Kerabu Blue Rice Breakfast",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "hand_wipes",
+        "coins"
+      ]
+    },
+    {
+      "activity_name": "Wat Photivihan Sleeping Buddha Visit",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "respectful_attire",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Kelantan State Museum Exploration",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "notebook",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Pasar Malam Kota Bharu Food Tour",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "sanitizer",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Kampung Kraftangan Handicraft Shopping",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "wallet",
+        "reusable_bag"
+      ]
+    },
+    {
+      "activity_name": "Pergau Lake Kayaking Expedition",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "dry_bag",
+        "change_of_clothes",
+        "sunscreen"
+      ]
+    }
+  ]
+}

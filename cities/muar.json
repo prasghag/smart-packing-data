@@ -1,0 +1,166 @@
+{
+  "city_name": "Muar",
+  "country": "Malaysia",
+  "activities": [
+    {
+      "activity_name": "Muar River Scenic Cruise",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunglasses",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Glutton Street Otak-Otak Tasting",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "hand_sanitizer",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Tanjung Emas Park Relaxation",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "umbrella"
+      ]
+    },
+    {
+      "activity_name": "Sultan Ibrahim Jame Mosque Tour",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "scarf"
+      ]
+    },
+    {
+      "activity_name": "Muar Cultural Walk Mural Hunt",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "smartphone",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Muar Mee Bandung Local Dinner",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "wet_wipes",
+        "wallet"
+      ]
+    },
+    {
+      "activity_name": "Wetex Parade Mall Shopping",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "credit_card",
+        "walking_sneakers"
+      ]
+    },
+    {
+      "activity_name": "Nan Hai Fei Lai Temple Visit",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "respectful_attire"
+      ]
+    },
+    {
+      "activity_name": "Donhu Dinosaur Garden Family Stroll",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "stroller"
+      ]
+    },
+    {
+      "activity_name": "Muar Kopi 434 Coffee Tasting",
+      "category": "Food",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sanitizer",
+        "coins"
+      ]
+    }
+  ]
+}

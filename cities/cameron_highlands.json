@@ -3,42 +3,105 @@
   "country": "Malaysia",
   "activities": [
     {
-      "activity_name": "BOH Tea Plantation Tour",
+      "activity_name": "Boh Tea Plantation Terrace Tour",
       "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "light_jacket",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Mossy Forest Boardwalk Trekking",
+      "category": "Adventure",
       "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "rain_jacket",
+        "hiking_boots",
+        "insect_repellent"
+      ]
+    },
+    {
+      "activity_name": "Raju's Hill Strawberry Picking",
+      "category": "Food",
+      "duration_minutes": 60,
       "scores": {
         "budget": 4,
         "relaxed": 4,
         "adventure": 1,
         "family": 5,
-        "balanced": 5
-      },
-      "packing_tags": [
-        "camera",
-        "comfortable_shoes",
-        "light_jacket"
-      ]
-    },
-    {
-      "activity_name": "Mossy Forest Trekking",
-      "category": "Adventure",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 4,
-        "relaxed": 2,
-        "adventure": 5,
-        "family": 3,
         "balanced": 4
       },
       "packing_tags": [
-        "hiking_shoes",
-        "rain_jacket",
-        "mosquito_repellent"
+        "wet_wipes",
+        "wallet"
       ]
     },
     {
-      "activity_name": "Big Red Strawberry Farm",
+      "activity_name": "Cameron Highlands Butterfly Farm Visit",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Steamboat Dinner in Brinchang",
       "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sweater",
+        "hand_sanitizer"
+      ]
+    },
+    {
+      "activity_name": "Sam Poh Buddhist Temple Tour",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "respectful_attire",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Kea Farm Morning Market Shopping",
+      "category": "Shopping",
       "duration_minutes": 90,
       "scores": {
         "budget": 5,
@@ -49,12 +112,11 @@
       },
       "packing_tags": [
         "cash",
-        "camera",
-        "sweet_tooth"
+        "shopping_bag"
       ]
     },
     {
-      "activity_name": "Cameron Lavender Garden",
+      "activity_name": "Lavender Garden Floral Stroll",
       "category": "Relaxation",
       "duration_minutes": 90,
       "scores": {
@@ -65,13 +127,14 @@
         "balanced": 4
       },
       "packing_tags": [
-        "camera"
+        "sunglasses",
+        "smartphone"
       ]
     },
     {
-      "activity_name": "Sam Poh Temple",
+      "activity_name": "Time Tunnel Heritage Museum Exploration",
       "category": "Culture",
-      "duration_minutes": 60,
+      "duration_minutes": 90,
       "scores": {
         "budget": 5,
         "relaxed": 4,
@@ -80,86 +143,25 @@
         "balanced": 4
       },
       "packing_tags": [
-        "modest_clothing"
+        "notebook",
+        "wallet"
       ]
     },
     {
-      "activity_name": "Time Tunnel Museum",
-      "category": "Culture",
-      "duration_minutes": 90,
+      "activity_name": "Mount Brinchang Jungle Trail Hike",
+      "category": "Adventure",
+      "duration_minutes": 240,
       "scores": {
-        "budget": 4,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 5,
+        "budget": 5,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 2,
         "balanced": 3
       },
       "packing_tags": [
-        "camera"
-      ]
-    },
-    {
-      "activity_name": "Kea Farm Market Shopping",
-      "category": "Shopping",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 4,
-        "relaxed": 3,
-        "adventure": 1,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "cash",
-        "tote_bag"
-      ]
-    },
-    {
-      "activity_name": "Mount Brinchang Viewpoint",
-      "category": "Sightseeing",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 5,
-        "relaxed": 4,
-        "adventure": 2,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "windbreaker",
-        "camera",
-        "comfortable_shoes"
-      ]
-    },
-    {
-      "activity_name": "Butterfly Farm Visit",
-      "category": "Sightseeing",
-      "duration_minutes": 60,
-      "scores": {
-        "budget": 4,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 5,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "camera"
-      ]
-    },
-    {
-      "activity_name": "Steamboat Dinner (Chinese Hotpot)",
-      "category": "Food",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 3,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 5,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "appetite",
-        "casual_wear"
+        "trail_shoes",
+        "backpack",
+        "water_bottle"
       ]
     }
   ]

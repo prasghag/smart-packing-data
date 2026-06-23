@@ -1,0 +1,168 @@
+{
+  "city_name": "Putrajaya",
+  "country": "Malaysia",
+  "activities": [
+    {
+      "activity_name": "Putra Mosque Architectural Tour",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "head_covering",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Putrajaya Lake Scenic Cruise",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunglasses",
+        "smartphone"
+      ]
+    },
+    {
+      "activity_name": "Perdana Putra Government Complex Photo",
+      "category": "Sightseeing",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Putrajaya Botanical Garden Walk",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "umbrella",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Moroccan Pavilion Cultural Tour",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "notebook",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "IOI City Mall Shopping Extravaganza",
+      "category": "Shopping",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "credit_card",
+        "walking_sneakers"
+      ]
+    },
+    {
+      "activity_name": "Putrajaya Wetlands Park Kayaking",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "dry_bag",
+        "change_of_clothes",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Nasi Lemak Nasi Kandar Dinner",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "hand_sanitizer"
+      ]
+    },
+    {
+      "activity_name": "Saujana Hijau Park Evening Jog",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "running_shoes",
+        "fitness_band"
+      ]
+    },
+    {
+      "activity_name": "Seri Wawasan Bridge Night Photography",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "tripod",
+        "camera"
+      ]
+    }
+  ]
+}

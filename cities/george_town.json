@@ -1,0 +1,169 @@
+{
+  "city_name": "George Town",
+  "country": "Malaysia",
+  "activities": [
+    {
+      "activity_name": "Street Art Photo Treasure Hunt",
+      "category": "Sightseeing",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sun_hat",
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Gurney Drive Hawker Centre Dinner",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "wet_wipes",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Kek Lok Si Temple Tour",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Penang Hill Funicular Railway Ride",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "light_jacket",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Chew Jetty Stilt House Walk",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunglasses",
+        "umbrella"
+      ]
+    },
+    {
+      "activity_name": "Batu Ferringhi Beach Relaxation",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "beach_towel",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Pinang Peranakan Mansion Visit",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "notebook",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "ESCAPE Theme Park Zip Lining",
+      "category": "Adventure",
+      "duration_minutes": 300,
+      "scores": {
+        "budget": 2,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sportswear",
+        "sneakers",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Chowrasta Market Heritage Shopping",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "reusable_bag"
+      ]
+    },
+    {
+      "activity_name": "Chulia Street Night Hawkers Tasting",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "hand_sanitizer",
+        "small_change"
+      ]
+    }
+  ]
+}

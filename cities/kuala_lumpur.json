@@ -2,15 +2,168 @@
   "city_name": "Kuala Lumpur",
   "country": "Malaysia",
   "activities": [
-    { "activity_name": "Petronas Twin Towers Observation Deck", "category": "Sightseeing", "duration_minutes": 120, "scores": { "budget": 3, "relaxed": 4, "adventure": 1, "family": 5, "balanced": 5 }, "packing_tags": ["camera", "credit_card"] },
-    { "activity_name": "Batu Caves Climb", "category": "Adventure", "duration_minutes": 150, "scores": { "budget": 5, "relaxed": 2, "adventure": 4, "family": 4, "balanced": 4 }, "packing_tags": ["comfortable_shoes", "water_bottle", "modest_clothing"] },
-    { "activity_name": "Jalan Alor Street Food", "category": "Food", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 3, "adventure": 2, "family": 4, "balanced": 5 }, "packing_tags": ["cash", "hand_sanitizer"] },
-    { "activity_name": "KL Forest Eco Park (Canopy Walk)", "category": "Relaxation", "duration_minutes": 90, "scores": { "budget": 5, "relaxed": 4, "adventure": 3, "family": 5, "balanced": 4 }, "packing_tags": ["mosquito_repellent", "comfortable_shoes"] },
-    { "activity_name": "Islamic Arts Museum", "category": "Culture", "duration_minutes": 120, "scores": { "budget": 4, "relaxed": 4, "adventure": 1, "family": 3, "balanced": 4 }, "packing_tags": ["camera"] },
-    { "activity_name": "Bukit Bintang Shopping", "category": "Shopping", "duration_minutes": 240, "scores": { "budget": 2, "relaxed": 3, "adventure": 1, "family": 4, "balanced": 3 }, "packing_tags": ["comfortable_shoes", "credit_card", "tote_bag"] },
-    { "activity_name": "Thean Hou Temple", "category": "Sightseeing", "duration_minutes": 90, "scores": { "budget": 5, "relaxed": 4, "adventure": 1, "family": 5, "balanced": 4 }, "packing_tags": ["camera"] },
-    { "activity_name": "KL Bird Park", "category": "Relaxation", "duration_minutes": 180, "scores": { "budget": 3, "relaxed": 3, "adventure": 2, "family": 5, "balanced": 4 }, "packing_tags": ["camera", "sunscreen", "water_bottle"] },
-    { "activity_name": "Merdeka Square Heritage Walk", "category": "Culture", "duration_minutes": 90, "scores": { "budget": 5, "relaxed": 4, "adventure": 1, "family": 4, "balanced": 3 }, "packing_tags": ["sunscreen", "hat"] },
-    { "activity_name": "Heli Lounge Bar Sunset", "category": "Relaxation", "duration_minutes": 120, "scores": { "budget": 2, "relaxed": 5, "adventure": 2, "family": 1, "balanced": 3 }, "packing_tags": ["smart_casual_outfit", "camera"] }
+    {
+      "activity_name": "Petronas Twin Towers Observation Deck",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "smart_casual"
+      ]
+    },
+    {
+      "activity_name": "Batu Caves Rainbow Stairs Climb",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "water_bottle",
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Jalan Alor Street Food Feast",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "hand_sanitizer",
+        "wet_wipes",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Bukit Bintang Shopping Spree",
+      "category": "Shopping",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "credit_card"
+      ]
+    },
+    {
+      "activity_name": "KLCC Park Evening Walk",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunglasses",
+        "smartphone"
+      ]
+    },
+    {
+      "activity_name": "Sunway Lagoon Theme Park Rides",
+      "category": "Adventure",
+      "duration_minutes": 360,
+      "scores": {
+        "budget": 2,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "change_of_clothes",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Islamic Arts Museum Exploration",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "notebook",
+        "respectful_attire"
+      ]
+    },
+    {
+      "activity_name": "KL Tower Base Jump Watching",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "binoculars",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Central Market Souvenir Hunting",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "tote_bag",
+        "local_currency"
+      ]
+    },
+    {
+      "activity_name": "KL Forest Eco Park Canopy Walk",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "mosquito_repellent",
+        "sneakers"
+      ]
+    }
   ]
 }

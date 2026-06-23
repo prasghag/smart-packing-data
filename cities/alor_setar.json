@@ -1,0 +1,166 @@
+{
+  "city_name": "Alor Setar",
+  "country": "Malaysia",
+  "activities": [
+    {
+      "activity_name": "Alor Setar Tower Observation Deck",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Zahir Mosque Architectural Tour",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "head_scarf"
+      ]
+    },
+    {
+      "activity_name": "Paddy Museum Agricultural Tour",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "notebook",
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Kedah Royal Museum Exploration",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "umbrella"
+      ]
+    },
+    {
+      "activity_name": "Pekan Rabu Traditional Market Shopping",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "hand_fan"
+      ]
+    },
+    {
+      "activity_name": "Nasi Kandar Local Dinner",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "hand_sanitizer",
+        "wallet"
+      ]
+    },
+    {
+      "activity_name": "Rumah Kelahiran Mahathir Heritage Visit",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Gunong Keriang Cave Trekking",
+      "category": "Adventure",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "flashlight",
+        "sturdy_sneakers",
+        "insect_spray"
+      ]
+    },
+    {
+      "activity_name": "Aman Central Mall Shopping Spree",
+      "category": "Shopping",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "credit_card",
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Alor Setar Waterfront Evening Walk",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "smartphone",
+        "casual_wear"
+      ]
+    }
+  ]
+}

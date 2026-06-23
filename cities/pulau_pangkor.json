@@ -1,0 +1,169 @@
+{
+  "city_name": "Pulau Pangkor",
+  "country": "Malaysia",
+  "activities": [
+    {
+      "activity_name": "Dutch Fort Historical Exploration",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Foo Lin Kong Temple Tour",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "respectful_attire",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Coral Beach Sunset Relaxation",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "beach_towel",
+        "flip_flops"
+      ]
+    },
+    {
+      "activity_name": "Wild Hornbill Feeding Experience",
+      "category": "Sightseeing",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "smartphone",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Pangkor Town Dried Seafood Shopping",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "shopping_bag"
+      ]
+    },
+    {
+      "activity_name": "Local Laksa Pangkor Lunch",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "hand_sanitizer",
+        "coins"
+      ]
+    },
+    {
+      "activity_name": "Jungle Trekking to Pangkor Hill",
+      "category": "Adventure",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sturdy_sneakers",
+        "water_bottle",
+        "insect_spray"
+      ]
+    },
+    {
+      "activity_name": "Nipah Bay Island Hopping Boat Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "binoculars",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Pasir Bogak Beach Water Sports",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 5,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "rash_guard",
+        "sunscreen",
+        "change_of_clothes"
+      ]
+    },
+    {
+      "activity_name": "Beachside Seafood Dinner Feast",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "casual_outfit",
+        "wet_wipes"
+      ]
+    }
+  ]
+}
