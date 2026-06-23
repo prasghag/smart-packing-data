@@ -1,0 +1,166 @@
+{
+  "city_name": "Kalba",
+  "country": "United Arab Emirates",
+  "activities": [
+    {
+      "activity_name": "Kalba Mangrove Center Boardwalk",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Al Hefaiyah Conservation Centre Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "binoculars",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Kalba Bird of Prey Center Show",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sun_hat",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Khor Kalba Kayaking Adventure",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "water_shoes",
+        "change_of_clothes"
+      ]
+    },
+    {
+      "activity_name": "Hisn Kalba Fort Exploration",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "comfortable_sneakers"
+      ]
+    },
+    {
+      "activity_name": "Kalba Corniche Picnic",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "picnic_mat",
+        "cooler_bag"
+      ]
+    },
+    {
+      "activity_name": "Al Ghayl Fort Hike",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 3,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_boots",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Local Cafeteria Fish Curry Dinner",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hand_sanitizer",
+        "wet_wipes"
+      ]
+    },
+    {
+      "activity_name": "Kalba Waterfront Shopping",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "wallet",
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Beach Volleyball at Kalba Beach",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "active_wear",
+        "sunglasses"
+      ]
+    }
+  ]
+}

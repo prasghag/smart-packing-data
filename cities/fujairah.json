@@ -1,0 +1,168 @@
+{
+  "city_name": "Fujairah",
+  "country": "United Arab Emirates",
+  "activities": [
+    {
+      "activity_name": "Snoopy Island Snorkeling",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "reveal_mask",
+        "fins",
+        "rash_guard"
+      ]
+    },
+    {
+      "activity_name": "Fujairah Fort Tour",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_footwear"
+      ]
+    },
+    {
+      "activity_name": "Al Bidya Mosque Visit",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "scarf",
+        "conservative_outfit"
+      ]
+    },
+    {
+      "activity_name": "Al Aqah Beach Relaxation",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "beach_umbrella",
+        "swimwear"
+      ]
+    },
+    {
+      "activity_name": "Deep Sea Fishing Trip",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 2,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "fishing_hat",
+        "sea_sickness_meds",
+        "windbreaker"
+      ]
+    },
+    {
+      "activity_name": "Fujairah Museum Historical Tour",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "notebook",
+        "pen"
+      ]
+    },
+    {
+      "activity_name": "Friday Market Shopping",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "reusable_bags"
+      ]
+    },
+    {
+      "activity_name": "Kalba Mangrove Kayaking",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "dry_bag",
+        "water_shoes"
+      ]
+    },
+    {
+      "activity_name": "Traditional Seafood Dining",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "casual_wear",
+        "sanitizer"
+      ]
+    },
+    {
+      "activity_name": "Wadi Wurayah Waterfall Hike",
+      "category": "Sightseeing",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "trail_shoes",
+        "hydration_pack"
+      ]
+    }
+  ]
+}

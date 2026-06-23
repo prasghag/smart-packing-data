@@ -1,0 +1,166 @@
+{
+  "city_name": "Al Dhaid",
+  "country": "United Arab Emirates",
+  "activities": [
+    {
+      "activity_name": "Al Dhaid Oasis Irrigation Walk",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Al Dhaid Camel Racing Track Morning",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "closed_toe_shoes"
+      ]
+    },
+    {
+      "activity_name": "Al Dhaid Fort Historical Tour",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "smartphone"
+      ]
+    },
+    {
+      "activity_name": "Friday Market Pottery Shopping",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "cardboard_box"
+      ]
+    },
+    {
+      "activity_name": "Desert Dune Bashing Outer Rim",
+      "category": "Adventure",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "sunglasses",
+        "motion_sickness_pills"
+      ]
+    },
+    {
+      "activity_name": "Traditional Emirati Harees Lunch",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hand_wipes",
+        "casual_attire"
+      ]
+    },
+    {
+      "activity_name": "Al Sharia Palm Grove Exploration",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "mosquito_repellent",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Wildlife Watching at Desert Fringe",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "binoculars",
+        "telephoto_lens"
+      ]
+    },
+    {
+      "activity_name": "Al Dhaid Fruit Market Date Tasting",
+      "category": "Food",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sanitizer",
+        "small_change"
+      ]
+    },
+    {
+      "activity_name": "Desert Sunset Photography Session",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "tripod",
+        "camera_filters"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "city_name": "Mirbah",
+  "country": "United Arab Emirates",
+  "activities": [
+    {
+      "activity_name": "Mirbah Beach Walking",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sandals",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Coastal Road Cycling",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sports_shoes",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Local Fish Harbor Auction",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "hand_wipes",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Mirbah Public Park Picnic",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "picnic_mat",
+        "cooler_box"
+      ]
+    },
+    {
+      "activity_name": "Seafood Dinner at Coastal Cafe",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sanitizer",
+        "casual_clothing"
+      ]
+    },
+    {
+      "activity_name": "Mirbah Souk Textile Shopping",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "wallet"
+      ]
+    },
+    {
+      "activity_name": "Shoreline Shell Gathering",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "small_bucket",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Marine Sunset Photography",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "lens_filters"
+      ]
+    },
+    {
+      "activity_name": "Sea Bird Watching Stroll",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "binoculars",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Beach Volleyball Game",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "active_wear",
+        "water_bottle"
+      ]
+    }
+  ]
+}

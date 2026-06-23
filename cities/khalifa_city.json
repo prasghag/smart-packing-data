@@ -1,0 +1,166 @@
+{
+  "city_name": "Khalifa City",
+  "country": "United Arab Emirates",
+  "activities": [
+    {
+      "activity_name": "Khalifa City Market Shopping",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "wallet",
+        "walking_sneakers"
+      ]
+    },
+    {
+      "activity_name": "Khalifa Park Grand Stroll",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Al Forsan International Sports Resort Karting",
+      "category": "Adventure",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 2,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sneakers",
+        "active_wear"
+      ]
+    },
+    {
+      "activity_name": "Al Forsan Archery Lesson",
+      "category": "Adventure",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sportswear",
+        "arm_guard"
+      ]
+    },
+    {
+      "activity_name": "Fine Dining Gourmet Lunch",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "smart_casual_dress",
+        "perfume"
+      ]
+    },
+    {
+      "activity_name": "Khalifa City Golf Course Round",
+      "category": "Relaxation",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "golf_tees",
+        "polo_shirt",
+        "cap"
+      ]
+    },
+    {
+      "activity_name": "Traditional Arabic Coffee Break",
+      "category": "Food",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "wet_wipes",
+        "wallet"
+      ]
+    },
+    {
+      "activity_name": "Cultural Heritage Library Visit",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "notebook",
+        "pen"
+      ]
+    },
+    {
+      "activity_name": "Boutique Perfume Shopping",
+      "category": "Shopping",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "credit_card"
+      ]
+    },
+    {
+      "activity_name": "Community Center Tennis Match",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "tennis_racket",
+        "non_marking_shoes"
+      ]
+    }
+  ]
+}

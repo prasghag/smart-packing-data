@@ -1,0 +1,166 @@
+{
+  "city_name": "Sir Bani Yas Island",
+  "country": "United Arab Emirates",
+  "activities": [
+    {
+      "activity_name": "Arabian Wildlife Park Wildlife Drive",
+      "category": "Sightseeing",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "binoculars",
+        "camera",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Island Mountain Biking",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cycling_shorts",
+        "sports_shoes"
+      ]
+    },
+    {
+      "activity_name": "Mangrove Kayaking Eco-Tour",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "waterproof_dry_bag",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Christian Monastery Archaeological Tour",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "modest_wear"
+      ]
+    },
+    {
+      "activity_name": "Anantara Spa Relaxation",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfy_slippers",
+        "robe"
+      ]
+    },
+    {
+      "activity_name": "Archery Lesson at Wadi Hub",
+      "category": "Adventure",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sneakers",
+        "athletic_wear"
+      ]
+    },
+    {
+      "activity_name": "Sunset Beach Horseback Riding",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "long_pants",
+        "riding_boots"
+      ]
+    },
+    {
+      "activity_name": "Fine Dining at Amwaj Restaurant",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "smart_casual_dress",
+        "perfume"
+      ]
+    },
+    {
+      "activity_name": "Nature and Bird Watching Walk",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "field_guide",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Boutique Resort Souvenir Shopping",
+      "category": "Shopping",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "credit_card"
+      ]
+    }
+  ]
+}

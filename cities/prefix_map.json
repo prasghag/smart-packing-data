@@ -1,4 +1,7 @@
 {
+  "'s-": [
+    "'s-hertogenbosch"
+  ],
   "aal": [
     "aalo"
   ],
@@ -11,9 +14,12 @@
   ],
   "dha": [
     "abu_dhabi",
+    "al_dhaid",
     "dhanaulti",
     "dhanushkodi",
-    "dharamshala"
+    "dharamshala",
+    "dharmasthala",
+    "jebel_dhanna"
   ],
   "ade": [
     "adelaide"
@@ -28,29 +34,106 @@
     "ahmedabad"
   ],
   "ajm": [
+    "ajman",
     "ajmer"
   ],
+  "ain": [
+    "al_ain"
+  ],
   "al ": [
-    "al_ula"
+    "al_ain",
+    "al_awir",
+    "al_batayeh",
+    "al_dhaid",
+    "al_hamriyah",
+    "al_khatim",
+    "al_khawaneej",
+    "al_lisaili",
+    "al_madam",
+    "al_mirfa",
+    "al_shamkha",
+    "al_sila",
+    "al_ula",
+    "al_wathba"
+  ],
+  "awi": [
+    "al_awir"
+  ],
+  "bat": [
+    "al_batayeh",
+    "bath"
+  ],
+  "ham": [
+    "al_hamriyah",
+    "hamburg",
+    "hampi"
+  ],
+  "kha": [
+    "al_khatim",
+    "al_khawaneej",
+    "khajjiar",
+    "khajuraho",
+    "khalifa_city",
+    "khammam",
+    "khandala",
+    "khatt",
+    "ras_al_khaimah"
+  ],
+  "lis": [
+    "al_lisaili",
+    "lisbon"
+  ],
+  "mad": [
+    "al_madam",
+    "madikeri",
+    "madinat_zayed",
+    "madrid",
+    "madurai"
+  ],
+  "mir": [
+    "al_mirfa",
+    "mirbah"
+  ],
+  "sha": [
+    "al_shamkha",
+    "shanghai",
+    "sharjah"
+  ],
+  "sil": [
+    "al_sila"
   ],
   "ula": [
     "al_ula"
+  ],
+  "wat": [
+    "al_wathba"
   ],
   "ala": [
     "alappuzha"
   ],
   "ali": [
-    "alibaug"
+    "alibaug",
+    "jebel_ali"
+  ],
+  "alk": [
+    "alkmaar"
   ],
   "alm": [
     "almaty",
+    "almere",
     "almora"
+  ],
+  "alw": [
+    "alwar"
   ],
   "ama": [
     "amarkantak"
   ],
   "amb": [
     "amboli"
+  ],
+  "ame": [
+    "amersfoort"
   ],
   "amm": [
     "amman"
@@ -59,7 +142,11 @@
     "amritsar"
   ],
   "ams": [
+    "amstelveen",
     "amsterdam"
+  ],
+  "ana": [
+    "anantapur"
   ],
   "ani": [
     "anini"
@@ -71,6 +158,9 @@
     "antalya",
     "antigua",
     "antwerp"
+  ],
+  "ape": [
+    "apeldoorn"
   ],
   "ara": [
     "araku_valley"
@@ -84,6 +174,7 @@
     "spiti_valley",
     "tirthan_valley",
     "valencia",
+    "valkenburg",
     "valletta",
     "valparai",
     "valparaiso"
@@ -91,8 +182,14 @@
   "are": [
     "arequipa"
   ],
+  "arn": [
+    "arnhem"
+  ],
   "aru": [
     "aru_valley"
+  ],
+  "ass": [
+    "assen"
   ],
   "ath": [
     "athens"
@@ -125,13 +222,14 @@
     "bandipur",
     "bandung",
     "banff",
-    "bangkok"
+    "bangkok",
+    "baniyas",
+    "banswara",
+    "sir_bani_yas_island"
   ],
   "bar": [
-    "barcelona"
-  ],
-  "bat": [
-    "bath"
+    "barcelona",
+    "barmer"
   ],
   "bei": [
     "beijing",
@@ -141,6 +239,7 @@
     "bekal"
   ],
   "bel": [
+    "belagavi",
     "belfast",
     "belgrade"
   ],
@@ -158,6 +257,7 @@
     "bharatpur"
   ],
   "bhi": [
+    "bhilwara",
     "bhimtal"
   ],
   "bhu": [
@@ -166,6 +266,10 @@
   ],
   "bia": [
     "białystok"
+  ],
+  "bid": [
+    "bidar",
+    "bidiyah"
   ],
   "bie": [
     "bielsko-biała"
@@ -276,6 +380,7 @@
   ],
   "cha": [
     "chakrata",
+    "chalakudy",
     "chandigarh",
     "changlang",
     "charleston"
@@ -289,9 +394,12 @@
     "chiang_mai",
     "chiang_rai",
     "chicago",
+    "chidambaram",
     "chikhaldara",
     "chikmagalur",
     "chitkul",
+    "chitradurga",
+    "chittoor",
     "chittorgarh",
     "ho_chi_minh_city"
   ],
@@ -306,6 +414,9 @@
   ],
   "chr": [
     "christchurch"
+  ],
+  "coi": [
+    "coimbatore"
   ],
   "col": [
     "cologne",
@@ -333,6 +444,9 @@
   "nan": [
     "da_nang"
   ],
+  "dad": [
+    "dadna"
+  ],
   "dak": [
     "dakar"
   ],
@@ -358,10 +472,40 @@
   ],
   "del": [
     "delft",
-    "delhi"
+    "delhi",
+    "delma_island"
+  ],
+  "isl": [
+    "delma_island",
+    "havelock_island",
+    "jeju_island",
+    "marawah_island",
+    "sir_bani_yas_island"
   ],
   "den": [
+    "den_helder",
     "denver"
+  ],
+  "hel": [
+    "den_helder",
+    "helmond",
+    "helsinki"
+  ],
+  "dev": [
+    "deventer"
+  ],
+  "dib": [
+    "dibba",
+    "dibba_al-hisn"
+  ],
+  "al-": [
+    "dibba_al-hisn"
+  ],
+  "dig": [
+    "digdaga"
+  ],
+  "din": [
+    "dindigul"
   ],
   "dir": [
     "dirang"
@@ -374,6 +518,9 @@
   ],
   "doh": [
     "doha"
+  ],
+  "dor": [
+    "dordrecht"
   ],
   "dub": [
     "dubai",
@@ -395,12 +542,20 @@
   "elb": [
     "elbląg"
   ],
+  "ens": [
+    "enschede"
+  ],
+  "ero": [
+    "erode"
+  ],
   "flo": [
     "florence"
   ],
   "fra": [
-    "frankfurt",
-    "san_francisco"
+    "frankfurt"
+  ],
+  "fuj": [
+    "fujairah"
   ],
   "fuk": [
     "fukuoka"
@@ -426,6 +581,10 @@
     "geneva",
     "genoa"
   ],
+  "gha": [
+    "ghantoot",
+    "ghayathi"
+  ],
   "ghe": [
     "ghent"
   ],
@@ -444,6 +603,9 @@
   "goa": [
     "goa"
   ],
+  "goe": [
+    "goes"
+  ],
   "gok": [
     "gokarna"
   ],
@@ -453,8 +615,14 @@
   "gol": [
     "gold_coast"
   ],
+  "gor": [
+    "gorinchem"
+  ],
   "got": [
     "gothenburg"
+  ],
+  "gou": [
+    "gouda"
   ],
   "gra": [
     "granada",
@@ -473,7 +641,8 @@
     "gulmarg"
   ],
   "gur": [
-    "gurez_valley"
+    "gurez_valley",
+    "guruvayur"
   ],
   "gwa": [
     "gwalior"
@@ -487,24 +656,23 @@
   "hal": [
     "hallstatt"
   ],
-  "ham": [
-    "hamburg",
-    "hampi"
-  ],
   "han": [
     "hanle",
     "hanoi"
   ],
   "har": [
-    "haridwar"
+    "haridwar",
+    "harlingen"
+  ],
+  "has": [
+    "hassan"
+  ],
+  "hat": [
+    "hatta"
   ],
   "hav": [
     "havana",
     "havelock_island"
-  ],
-  "isl": [
-    "havelock_island",
-    "jeju_island"
   ],
   "haw": [
     "hawai"
@@ -512,16 +680,24 @@
   "hay": [
     "hayuliang"
   ],
-  "hel": [
-    "helsinki"
+  "hee": [
+    "heerlen"
+  ],
+  "hen": [
+    "hengelo"
+  ],
+  "hil": [
+    "hilversum",
+    "horsley_hills",
+    "kolli_hills"
   ],
   "hir": [
     "hiroshima"
   ],
   "cit": [
     "ho_chi_minh_city",
+    "khalifa_city",
     "luxembourg_city",
-    "mexico_city",
     "new_york_city",
     "panama_city",
     "quebec_city"
@@ -545,9 +721,9 @@
   "kon": [
     "hong_kong"
   ],
-  "hil": [
-    "horsley_hills",
-    "kolli_hills"
+  "hoo": [
+    "hoofddorp",
+    "hoorn"
   ],
   "hor": [
     "horsley_hills"
@@ -558,6 +734,9 @@
   "hua": [
     "hua_hin"
   ],
+  "hub": [
+    "hubballi"
+  ],
   "hue": [
     "hue"
   ],
@@ -566,6 +745,9 @@
   ],
   "hyd": [
     "hyderabad"
+  ],
+  "idu": [
+    "idukki"
   ],
   "iga": [
     "igatpuri"
@@ -598,6 +780,10 @@
   "jaz": [
     "jazan"
   ],
+  "jeb": [
+    "jebel_ali",
+    "jebel_dhanna"
+  ],
   "jed": [
     "jeddah"
   ],
@@ -613,6 +799,9 @@
   ],
   "jer": [
     "jerusalem"
+  ],
+  "jha": [
+    "jhalawar"
   ],
   "jib": [
     "jibhi"
@@ -632,20 +821,33 @@
   "kab": [
     "kabini"
   ],
+  "kak": [
+    "kakinada"
+  ],
   "kal": [
+    "kalba",
     "kalimpong",
     "kalisz"
   ],
+  "kam": [
+    "kampen"
+  ],
   "kan": [
     "kanatal",
+    "kanchipuram",
+    "kanhangad",
+    "kannur",
     "kanyakumari"
   ],
   "kar": [
     "kargil",
+    "karimnagar",
     "karjat",
-    "karpacz"
+    "karpacz",
+    "karwar"
   ],
   "kas": [
+    "kasaragod",
     "kasauli",
     "kasol"
   ],
@@ -660,19 +862,21 @@
     "kaza",
     "kaziranga"
   ],
+  "ker": [
+    "kerkrade"
+  ],
   "key": [
     "keylong"
-  ],
-  "kha": [
-    "khajjiar",
-    "khajuraho",
-    "khandala"
   ],
   "khe": [
     "kheerganga"
   ],
   "kho": [
-    "khonsa"
+    "khonsa",
+    "khor_fakkan"
+  ],
+  "fak": [
+    "khor_fakkan"
   ],
   "kie": [
     "kielce"
@@ -700,6 +904,7 @@
   "kol": [
     "kolad",
     "kolkata",
+    "kollam",
     "kolli_hills",
     "koloriang"
   ],
@@ -707,19 +912,24 @@
     "koszalin"
   ],
   "kot": [
+    "kota",
     "kota_kinabalu",
-    "kotor"
+    "kotor",
+    "kottarakkara",
+    "kottayam"
   ],
   "kov": [
     "kovalam"
+  ],
+  "koz": [
+    "kozhikode"
   ],
   "koł": [
     "kołobrzeg"
   ],
   "kra": [
     "krabi",
-    "krakow",
-    "kraków"
+    "krakow"
   ],
   "kry": [
     "krynica-zdrój"
@@ -735,7 +945,15 @@
   ],
   "kum": [
     "kumarakom",
+    "kumbakonam",
     "kumbhalgarh"
+  ],
+  "kur": [
+    "kurnool"
+  ],
+  "kut": [
+    "kuttanad",
+    "rann_of_kutch"
   ],
   "kyo": [
     "kyoto"
@@ -752,6 +970,9 @@
   "lac": [
     "lachung"
   ],
+  "lah": [
+    "lahbab"
+  ],
   "lan": [
     "langkawi",
     "lansdowne"
@@ -765,6 +986,9 @@
   "lav": [
     "lavasa"
   ],
+  "lee": [
+    "leeuwarden"
+  ],
   "leg": [
     "legnica"
   ],
@@ -774,14 +998,20 @@
   "lei": [
     "leiden"
   ],
+  "lel": [
+    "lelystad"
+  ],
   "lep": [
     "lepakshi"
   ],
   "lim": [
     "lima"
   ],
-  "lis": [
-    "lisbon"
+  "liw": [
+    "liwa_oasis"
+  ],
+  "oas": [
+    "liwa_oasis"
   ],
   "lju": [
     "ljubljana"
@@ -831,13 +1061,12 @@
   "mac": [
     "macau"
   ],
-  "mad": [
-    "madikeri",
-    "madrid",
-    "madurai"
+  "zay": [
+    "madinat_zayed"
   ],
   "mah": [
-    "mahabaleshwar"
+    "mahabaleshwar",
+    "mahabalipuram"
   ],
   "maj": [
     "majuli"
@@ -846,19 +1075,27 @@
     "malacca",
     "malaga",
     "malana",
+    "malappuram",
     "malbork",
     "maldives"
   ],
   "man": [
     "manali",
+    "manama",
     "mandawa",
     "mandu",
     "mangalore",
     "manila"
   ],
   "mar": [
+    "marawah_island",
+    "marayoor",
     "marrakech",
     "marseille"
+  ],
+  "mas": [
+    "masafi",
+    "masfout"
   ],
   "mat": [
     "matheran",
@@ -882,13 +1119,18 @@
   "men": [
     "mendoza"
   ],
+  "mep": [
+    "meppel"
+  ],
   "mex": [
-    "mexico-city",
-    "mexico_city"
+    "mexico-city"
   ],
   "mia": [
     "miami",
     "miao"
+  ],
+  "mid": [
+    "middelburg"
   ],
   "mil": [
     "milan"
@@ -928,6 +1170,12 @@
   "mys": [
     "mysore"
   ],
+  "naa": [
+    "naarden"
+  ],
+  "nag": [
+    "nagaur"
+  ],
   "nai": [
     "nainital",
     "nairobi"
@@ -936,6 +1184,7 @@
     "najran"
   ],
   "nam": [
+    "namakkal",
     "namchi",
     "namsai"
   ],
@@ -949,12 +1198,14 @@
   "nas": [
     "nassau"
   ],
+  "nel": [
+    "nellore"
+  ],
   "net": [
     "netarhat"
   ],
   "new": [
     "new-orleans",
-    "new-york",
     "new_york_city"
   ],
   "yor": [
@@ -975,6 +1226,15 @@
   "nic": [
     "nice"
   ],
+  "nij": [
+    "nijmegen"
+  ],
+  "nil": [
+    "nilambur"
+  ],
+  "niz": [
+    "nizamabad"
+  ],
   "nub": [
     "nubra_valley"
   ],
@@ -986,6 +1246,9 @@
   ],
   "ols": [
     "olsztyn"
+  ],
+  "ong": [
+    "ongole"
   ],
   "oot": [
     "ooty"
@@ -1008,6 +1271,9 @@
   "osl": [
     "oslo"
   ],
+  "oss": [
+    "oss"
+  ],
   "ott": [
     "ottawa"
   ],
@@ -1018,7 +1284,9 @@
     "pahalgam"
   ],
   "pal": [
-    "palawan"
+    "palakkad",
+    "palawan",
+    "pali"
   ],
   "pan": [
     "panama_city",
@@ -1038,7 +1306,11 @@
     "pasighat"
   ],
   "pat": [
+    "pathanamthitta",
     "pattaya"
+  ],
+  "pee": [
+    "peermade"
   ],
   "pel": [
     "pelling"
@@ -1070,7 +1342,8 @@
     "pokhara"
   ],
   "pon": [
-    "pondicherry"
+    "pondicherry",
+    "ponmudi"
   ],
   "poo": [
     "poovar"
@@ -1097,13 +1370,17 @@
     "pune"
   ],
   "pur": [
-    "puri"
+    "puri",
+    "purmerend"
   ],
   "pus": [
     "pushkar"
   ],
   "pło": [
     "płock"
+  ],
+  "qid": [
+    "qidfa"
   ],
   "que": [
     "quebec_city",
@@ -1112,15 +1389,20 @@
   "qui": [
     "quito"
   ],
-  "ram": [
-    "rameswaram"
+  "raj": [
+    "rajahmundry",
+    "rajapalayam"
   ],
-  "kut": [
-    "rann_of_kutch"
+  "ram": [
+    "rameswaram",
+    "rams"
   ],
   "ran": [
     "rann_of_kutch",
     "ranthambore"
+  ],
+  "ras": [
+    "ras_al_khaimah"
   ],
   "rat": [
     "ratnagiri"
@@ -1146,14 +1428,23 @@
   "riy": [
     "riyadh"
   ],
+  "roe": [
+    "roermond"
+  ],
   "roi": [
     "roing"
   ],
   "rom": [
     "rome"
   ],
+  "roo": [
+    "roosendaal"
+  ],
   "rot": [
     "rotterdam"
+  ],
+  "ruw": [
+    "ruwais"
   ],
   "rze": [
     "rzeszów"
@@ -1162,12 +1453,12 @@
     "sakleshpur"
   ],
   "sal": [
+    "salem",
     "salzburg"
   ],
   "san": [
     "san-francisco",
     "san_diego",
-    "san_francisco",
     "san_jose",
     "san_juan",
     "sandomierz",
@@ -1202,6 +1493,9 @@
   "sav": [
     "savannah"
   ],
+  "sch": [
+    "schiedam"
+  ],
   "sea": [
     "seattle"
   ],
@@ -1211,12 +1505,10 @@
   "sev": [
     "seville"
   ],
-  "sha": [
-    "shanghai"
-  ],
   "shi": [
     "shillong",
-    "shimla"
+    "shimla",
+    "shivamogga"
   ],
   "sho": [
     "shoja"
@@ -1230,12 +1522,24 @@
   "sie": [
     "siem_reap"
   ],
+  "sik": [
+    "sikar"
+  ],
   "sin": [
     "singapore",
     "sintra"
   ],
+  "sir": [
+    "sir_bani_yas_island"
+  ],
+  "yas": [
+    "sir_bani_yas_island"
+  ],
   "sko": [
     "skopje"
+  ],
+  "sne": [
+    "sneek"
   ],
   "sof": [
     "sofia"
@@ -1250,13 +1554,15 @@
     "sopot"
   ],
   "spi": [
+    "spijkenisse",
     "spiti_valley"
   ],
   "spl": [
     "split"
   ],
   "sri": [
-    "srinagar"
+    "srinagar",
+    "sringeri"
   ],
   "sto": [
     "stockholm"
@@ -1269,6 +1575,9 @@
   ],
   "suw": [
     "suwałki"
+  ],
+  "swe": [
+    "sweihan"
   ],
   "syd": [
     "sydney"
@@ -1293,6 +1602,7 @@
     "tallinn"
   ],
   "tar": [
+    "tarif",
     "tarkarli",
     "tarnowskie_góry",
     "tarnów"
@@ -1309,6 +1619,10 @@
   "tez": [
     "tezu"
   ],
+  "tha": [
+    "thalassery",
+    "thanjavur"
+  ],
   "hag": [
     "the_hague"
   ],
@@ -1316,13 +1630,29 @@
     "the_hague",
     "thekkady"
   ],
+  "tho": [
+    "thoothukudi"
+  ],
+  "thr": [
+    "thrissur"
+  ],
+  "til": [
+    "tilburg"
+  ],
   "tir": [
     "tirana",
     "tirthan_valley",
-    "tirupati"
+    "tiruchirappalli",
+    "tirunelveli",
+    "tirupati",
+    "tiruvalla",
+    "tiruvannamalai"
   ],
   "tok": [
     "tokyo"
+  ],
+  "ton": [
+    "tonk"
   ],
   "tor": [
     "toronto",
@@ -1336,6 +1666,9 @@
   ],
   "tul": [
     "tulum"
+  ],
+  "tum": [
+    "tumakuru"
   ],
   "tur": [
     "turin"
@@ -1351,6 +1684,12 @@
   ],
   "ujj": [
     "ujjain"
+  ],
+  "quw": [
+    "umm_al_quwain"
+  ],
+  "umm": [
+    "umm_al_quwain"
   ],
   "utr": [
     "utrecht"
@@ -1368,8 +1707,15 @@
   "vat": [
     "vattakanal"
   ],
+  "vee": [
+    "veenendaal"
+  ],
+  "vel": [
+    "vellore"
+  ],
   "ven": [
-    "venice"
+    "venice",
+    "venlo"
   ],
   "ver": [
     "verona"
@@ -1381,16 +1727,30 @@
     "vienna",
     "vientiane"
   ],
+  "vij": [
+    "vijayapura",
+    "vijayawada"
+  ],
   "vil": [
     "vilnius"
   ],
   "vis": [
     "visakhapatnam"
   ],
+  "vla": [
+    "vlaardingen"
+  ],
+  "vli": [
+    "vlissingen"
+  ],
+  "vol": [
+    "volendam"
+  ],
   "wal": [
     "walong"
   ],
   "war": [
+    "warangal",
     "warsaw"
   ],
   "d.c": [
@@ -1435,6 +1795,9 @@
   "yup": [
     "yupia"
   ],
+  "zaa": [
+    "zaandam"
+  ],
   "zag": [
     "zagreb"
   ],
@@ -1445,20 +1808,33 @@
     "zamość"
   ],
   "zan": [
+    "zandvoort",
     "zanskar",
     "zanzibar"
+  ],
+  "zei": [
+    "zeist"
   ],
   "zer": [
     "zermatt"
   ],
+  "zie": [
+    "zierikzee"
+  ],
   "zir": [
     "ziro"
+  ],
+  "zoe": [
+    "zoetermeer"
   ],
   "zul": [
     "zuluk"
   ],
   "zur": [
     "zurich"
+  ],
+  "zwo": [
+    "zwolle"
   ],
   "łód": [
     "łódź"

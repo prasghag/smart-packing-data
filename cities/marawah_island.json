@@ -1,0 +1,168 @@
+{
+  "city_name": "Marawah Island",
+  "country": "United Arab Emirates",
+  "activities": [
+    {
+      "activity_name": "Marine Biosphere Coral Reef Snorkeling",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "snorkel_mask",
+        "fins",
+        "rash_guard"
+      ]
+    },
+    {
+      "activity_name": "Mangrove Eco-System Boat Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "binoculars",
+        "camera",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Neolithic Archaeological Site Tour",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sturdy_boots",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Coastal Seagrass Sea Turtle Spotting",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunglasses",
+        "polarized_lenses"
+      ]
+    },
+    {
+      "activity_name": "Island Beach Shellcombing",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "collection_bag",
+        "flip_flops"
+      ]
+    },
+    {
+      "activity_name": "Local Fisherman Traditional Lunch",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "casual_attire",
+        "hand_sanitizer"
+      ]
+    },
+    {
+      "activity_name": "Coastal Shorebird Photography",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera_tripod",
+        "telephoto_lens"
+      ]
+    },
+    {
+      "activity_name": "Island Heritage Exhibition View",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "notebook",
+        "pen"
+      ]
+    },
+    {
+      "activity_name": "Sandy Beach Sunset Relaxation",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "beach_towel",
+        "smartphone"
+      ]
+    },
+    {
+      "activity_name": "Kayaking Through Shallow Waters",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "dry_bag",
+        "change_of_clothes"
+      ]
+    }
+  ]
+}

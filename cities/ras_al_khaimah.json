@@ -1,0 +1,170 @@
+{
+  "city_name": "Ras Al Khaimah",
+  "country": "United Arab Emirates",
+  "activities": [
+    {
+      "activity_name": "Jais Flight Zipline",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 1,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "gopro_camera",
+        "sport_shoes",
+        "jacket"
+      ]
+    },
+    {
+      "activity_name": "Dhayah Fort Hike",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_boots",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Al Marjan Island Beach Lounging",
+      "category": "Relaxation",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "sunscreen",
+        "flip_flops"
+      ]
+    },
+    {
+      "activity_name": "Suwaidi Pearls Farm Tour",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hat",
+        "sunglasses",
+        "boat_shoes"
+      ]
+    },
+    {
+      "activity_name": "Jebel Jais Mountain Cycling",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cycling_helmet",
+        "gloves",
+        "water_bladder"
+      ]
+    },
+    {
+      "activity_name": "Manar Mall Shopping",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "wallet",
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Desert Dune Bashing",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "motion_sickness_pills",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Seafood Dinner at Al Moohit",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "casual_clothes",
+        "hand_wipes"
+      ]
+    },
+    {
+      "activity_name": "Jazirat Al Hamra Ghost Town Exploration",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 3,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sturdy_boots",
+        "flashlight"
+      ]
+    },
+    {
+      "activity_name": "Flamingo Beach Picnic",
+      "category": "Relaxation",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "picnic_mat",
+        "cooler_box"
+      ]
+    }
+  ]
+}

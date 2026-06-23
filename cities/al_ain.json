@@ -1,0 +1,167 @@
+{
+  "city_name": "Al Ain",
+  "country": "United Arab Emirates",
+  "activities": [
+    {
+      "activity_name": "Al Ain Oasis Walk",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Jebel Hafeet Mountain Drive",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "dashcam",
+        "jacket"
+      ]
+    },
+    {
+      "activity_name": "Al Jahili Fort Exploration",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Al Ain Zoo Safari",
+      "category": "Sightseeing",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "stroller",
+        "hat",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Green Mubazzarah Hot Springs",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "towel",
+        "extra_clothes"
+      ]
+    },
+    {
+      "activity_name": "Al Ain Palace Museum Visit",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Hili Archaeological Park Tour",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Al Qattara Arts Center Workshop",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sketchbook",
+        "pencils"
+      ]
+    },
+    {
+      "activity_name": "Local Camel Market Experience",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 3,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "closed_toe_shoes",
+        "hand_wipes"
+      ]
+    },
+    {
+      "activity_name": "Al Ain Mall Shopping",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "credit_card",
+        "shopping_bags"
+      ]
+    }
+  ]
+}

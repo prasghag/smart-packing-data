@@ -1,0 +1,167 @@
+{
+  "city_name": "Al Khatim",
+  "country": "United Arab Emirates",
+  "activities": [
+    {
+      "activity_name": "Al Khatim Desert Safari",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunscreen",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Arabian Nights Village Stay",
+      "category": "Culture",
+      "duration_minutes": 480,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "loose_clothing",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Dune Buggy Desert Racing",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "helmet",
+        "goggles",
+        "gloves"
+      ]
+    },
+    {
+      "activity_name": "Camel Trekking at Sunset",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "long_pants",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Henna Painting Workshop",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "wet_wipes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Traditional Oud Music Performance",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "clean_socks",
+        "light_jacket"
+      ]
+    },
+    {
+      "activity_name": "Bedouin Feast Under the Tents",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_pants",
+        "sanitizer"
+      ]
+    },
+    {
+      "activity_name": "Desert Oasis Walk",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "insect_repellent"
+      ]
+    },
+    {
+      "activity_name": "Sand Boarding on Golden Dunes",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sandboard",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Stargazing Session with Telescope",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "warm_sweater",
+        "flashlight"
+      ]
+    }
+  ]
+}

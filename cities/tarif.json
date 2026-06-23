@@ -1,0 +1,167 @@
+{
+  "city_name": "Tarif",
+  "country": "United Arab Emirates",
+  "activities": [
+    {
+      "activity_name": "Tarif Coastal Beach Relaxation",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "beach_towel"
+      ]
+    },
+    {
+      "activity_name": "Tarif Harbor Fishing Trip",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "fishing_gear",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Marine Bird Watching",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "binoculars",
+        "field_guide"
+      ]
+    },
+    {
+      "activity_name": "Traditional Coastal Fish Feast",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hand_sanitizer",
+        "casual_wear"
+      ]
+    },
+    {
+      "activity_name": "Tarif Old Fort Photo Walk",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sturdy_sneakers",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Coastal Highway Biking",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sports_shorts",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Tarif Souk Grocery Shopping",
+      "category": "Shopping",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "reusable_tote"
+      ]
+    },
+    {
+      "activity_name": "Beach Campfire Night",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "firewood",
+        "matches",
+        "jacket"
+      ]
+    },
+    {
+      "activity_name": "Sea Turtle Spotting Boat Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_dress",
+        "notebook"
+      ]
+    },
+    {
+      "activity_name": "Shoreline Sunset Meditating",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "lens_filters"
+      ]
+    }
+  ]
+}

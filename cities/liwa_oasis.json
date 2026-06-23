@@ -1,0 +1,170 @@
+{
+  "city_name": "Liwa Oasis",
+  "country": "United Arab Emirates",
+  "activities": [
+    {
+      "activity_name": "Moreeb Dune Climbing",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "desert_boots",
+        "goggles",
+        "scarf"
+      ]
+    },
+    {
+      "activity_name": "Liwa Date Festival Exploration",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "breathable_clothing"
+      ]
+    },
+    {
+      "activity_name": "Desert Star Gazing Camping",
+      "category": "Relaxation",
+      "duration_minutes": 480,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sleeping_bag",
+        "telescope",
+        "warm_layer"
+      ]
+    },
+    {
+      "activity_name": "Liwa Forts Historical Tour",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "gps_device",
+        "water_bottle",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Camel Trekking in Empty Quarter",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "loose_clothing",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Traditional Bedouin Dinner",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hand_wipes",
+        "comfortable_pants"
+      ]
+    },
+    {
+      "activity_name": "Desert Wildlife Photography",
+      "category": "Sightseeing",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "telephoto_lens",
+        "tripod"
+      ]
+    },
+    {
+      "activity_name": "Dune Buggy Racing",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "helmet",
+        "goggles",
+        "gloves"
+      ]
+    },
+    {
+      "activity_name": "Oasis Date Palm Walk",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "insect_repellent"
+      ]
+    },
+    {
+      "activity_name": "Sunset Over the Rub Al Khali",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sand_shuttle_mat"
+      ]
+    }
+  ]
+}

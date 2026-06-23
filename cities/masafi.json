@@ -1,0 +1,167 @@
+{
+  "city_name": "Masafi",
+  "country": "United Arab Emirates",
+  "activities": [
+    {
+      "activity_name": "Masafi Friday Market Shopping",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "shopping_bags"
+      ]
+    },
+    {
+      "activity_name": "Masafi Friday Market Fruit Tasting",
+      "category": "Food",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hand_wipes",
+        "sanitizer"
+      ]
+    },
+    {
+      "activity_name": "Hajar Mountain Hiking Trail",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_boots",
+        "hydration_pack"
+      ]
+    },
+    {
+      "activity_name": "Masafi Natural Spring Visit",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Local Honey Tasting",
+      "category": "Food",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "wet_wipes",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Masafi Fort Historical Tour",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "modest_clothing"
+      ]
+    },
+    {
+      "activity_name": "Mountain Landscape Sketching",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sketchpad",
+        "pencils"
+      ]
+    },
+    {
+      "activity_name": "Al Khalidiya Park Walk",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Mountain Canyoning Adventure",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "water_shoes",
+        "dry_bag",
+        "helmet"
+      ]
+    },
+    {
+      "activity_name": "Traditional Pottery Shopping",
+      "category": "Shopping",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "bubble_wrap",
+        "wallet"
+      ]
+    }
+  ]
+}

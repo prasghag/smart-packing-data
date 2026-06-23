@@ -1,0 +1,169 @@
+{
+  "city_name": "Sweihan",
+  "country": "United Arab Emirates",
+  "activities": [
+    {
+      "activity_name": "Naqab Dune Bashing",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "sand_goggles",
+        "motion_sickness_pills"
+      ]
+    },
+    {
+      "activity_name": "Desert Camel Farm Visit",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "closed_toe_shoes",
+        "hand_wipes"
+      ]
+    },
+    {
+      "activity_name": "Sweihan Desert Camping",
+      "category": "Relaxation",
+      "duration_minutes": 480,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sleeping_bag",
+        "warm_jacket",
+        "flashlight"
+      ]
+    },
+    {
+      "activity_name": "Star Gazing on Little Liwa Dunes",
+      "category": "Relaxation",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "fleece_blanket",
+        "camera_tripod"
+      ]
+    },
+    {
+      "activity_name": "Local Cafeteria Karak Tea Tasting",
+      "category": "Food",
+      "duration_minutes": 30,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "pocket_money",
+        "sanitizer"
+      ]
+    },
+    {
+      "activity_name": "Falcon Training Observation",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunscreen",
+        "sunglasses",
+        "telephoto_lens"
+      ]
+    },
+    {
+      "activity_name": "Sweihan Cycling Track Ride",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "cycling_helmet",
+        "water_bladder",
+        "biking_gloves"
+      ]
+    },
+    {
+      "activity_name": "Sunset Photography over Dunes",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "lens_cloth"
+      ]
+    },
+    {
+      "activity_name": "Traditional Mandi Dinner",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_pants",
+        "wet_wipes"
+      ]
+    },
+    {
+      "activity_name": "Local Heritage Souk Walk",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag"
+      ]
+    }
+  ]
+}

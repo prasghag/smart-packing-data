@@ -1,6 +1,6 @@
 {
-  "version": "2026-06-07T09:23:24",
-  "total": 643,
+  "version": "2026-06-23T17:22:32",
+  "total": 691,
   "cities": [
     {
       "key": "'s-hertogenbosch",
@@ -101,12 +101,191 @@
       "lon": null
     },
     {
+      "key": "ajman",
+      "name": "Ajman",
+      "file": "ajman.json",
+      "searchTokens": [
+        "ajm",
+        "ajman"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "ajmer",
       "name": "Ajmer",
       "file": "ajmer.json",
       "searchTokens": [
         "ajm",
         "ajmer"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "al_ain",
+      "name": "Al Ain",
+      "file": "al_ain.json",
+      "searchTokens": [
+        "ain",
+        "al",
+        "al ain"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "al_awir",
+      "name": "Al Awir",
+      "file": "al_awir.json",
+      "searchTokens": [
+        "al",
+        "al awir",
+        "awi",
+        "awir"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "al_batayeh",
+      "name": "Al Batayeh",
+      "file": "al_batayeh.json",
+      "searchTokens": [
+        "al",
+        "al batayeh",
+        "bat",
+        "batayeh"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "al_dhaid",
+      "name": "Al Dhaid",
+      "file": "al_dhaid.json",
+      "searchTokens": [
+        "al",
+        "al dhaid",
+        "dha",
+        "dhaid"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "al_hamriyah",
+      "name": "Al Hamriyah",
+      "file": "al_hamriyah.json",
+      "searchTokens": [
+        "al",
+        "al hamriyah",
+        "ham",
+        "hamriyah"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "al_khatim",
+      "name": "Al Khatim",
+      "file": "al_khatim.json",
+      "searchTokens": [
+        "al",
+        "al khatim",
+        "kha",
+        "khatim"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "al_khawaneej",
+      "name": "Al Khawaneej",
+      "file": "al_khawaneej.json",
+      "searchTokens": [
+        "al",
+        "al khawaneej",
+        "kha",
+        "khawaneej"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "al_lisaili",
+      "name": "Al Lisaili",
+      "file": "al_lisaili.json",
+      "searchTokens": [
+        "al",
+        "al lisaili",
+        "lis",
+        "lisaili"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "al_madam",
+      "name": "Al Madam",
+      "file": "al_madam.json",
+      "searchTokens": [
+        "al",
+        "al madam",
+        "mad",
+        "madam"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "al_mirfa",
+      "name": "Al Mirfa",
+      "file": "al_mirfa.json",
+      "searchTokens": [
+        "al",
+        "al mirfa",
+        "mir",
+        "mirfa"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "al_shamkha",
+      "name": "Al Shamkha",
+      "file": "al_shamkha.json",
+      "searchTokens": [
+        "al",
+        "al shamkha",
+        "sha",
+        "shamkha"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "al_sila",
+      "name": "Al Sila",
+      "file": "al_sila.json",
+      "searchTokens": [
+        "al",
+        "al sila",
+        "sil",
+        "sila"
       ],
       "popularity": 50,
       "lat": null,
@@ -120,6 +299,20 @@
         "al",
         "al ula",
         "ula"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "al_wathba",
+      "name": "Al Wathba",
+      "file": "al_wathba.json",
+      "searchTokens": [
+        "al",
+        "al wathba",
+        "wat",
+        "wathba"
       ],
       "popularity": 50,
       "lat": null,
@@ -599,6 +792,18 @@
       "lon": null
     },
     {
+      "key": "baniyas",
+      "name": "Baniyas",
+      "file": "baniyas.json",
+      "searchTokens": [
+        "ban",
+        "baniyas"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "banswara",
       "name": "Banswara",
       "file": "banswara.json",
@@ -869,6 +1074,18 @@
       "searchTokens": [
         "bid",
         "bidar"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "bidiyah",
+      "name": "Bidiyah",
+      "file": "bidiyah.json",
+      "searchTokens": [
+        "bid",
+        "bidiyah"
       ],
       "popularity": 50,
       "lat": null,
@@ -1688,6 +1905,18 @@
       "lon": null
     },
     {
+      "key": "dadna",
+      "name": "Dadna",
+      "file": "dadna.json",
+      "searchTokens": [
+        "dad",
+        "dadna"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "dakar",
       "name": "Dakar",
       "file": "dakar.json",
@@ -1820,6 +2049,21 @@
       "lon": null
     },
     {
+      "key": "delma_island",
+      "name": "Delma Island",
+      "file": "delma_island.json",
+      "searchTokens": [
+        "del",
+        "delma",
+        "delma island",
+        "isl",
+        "island"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "den_helder",
       "name": "Den Helder",
       "file": "den_helder.json",
@@ -1900,6 +2144,45 @@
       "searchTokens": [
         "dha",
         "dharmasthala"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "dibba",
+      "name": "Dibba",
+      "file": "dibba.json",
+      "searchTokens": [
+        "dib",
+        "dibba"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "dibba_al-hisn",
+      "name": "Dibba Al-Hisn",
+      "file": "dibba_al-hisn.json",
+      "searchTokens": [
+        "al-",
+        "al-hisn",
+        "dib",
+        "dibba",
+        "dibba al-hisn"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "digdaga",
+      "name": "Digdaga",
+      "file": "digdaga.json",
+      "searchTokens": [
+        "dig",
+        "digdaga"
       ],
       "popularity": 50,
       "lat": null,
@@ -2124,6 +2407,18 @@
       "lon": null
     },
     {
+      "key": "fujairah",
+      "name": "Fujairah",
+      "file": "fujairah.json",
+      "searchTokens": [
+        "fuj",
+        "fujairah"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "fukuoka",
       "name": "Fukuoka",
       "file": "fukuoka.json",
@@ -2238,6 +2533,30 @@
       "searchTokens": [
         "gen",
         "genoa"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "ghantoot",
+      "name": "Ghantoot",
+      "file": "ghantoot.json",
+      "searchTokens": [
+        "gha",
+        "ghantoot"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "ghayathi",
+      "name": "Ghayathi",
+      "file": "ghayathi.json",
+      "searchTokens": [
+        "gha",
+        "ghayathi"
       ],
       "popularity": 50,
       "lat": null,
@@ -2615,6 +2934,18 @@
       "searchTokens": [
         "has",
         "hassan"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "hatta",
+      "name": "Hatta",
+      "file": "hatta.json",
+      "searchTokens": [
+        "hat",
+        "hatta"
       ],
       "popularity": 50,
       "lat": null,
@@ -3056,6 +3387,35 @@
       "lon": null
     },
     {
+      "key": "jebel_ali",
+      "name": "Jebel Ali",
+      "file": "jebel_ali.json",
+      "searchTokens": [
+        "ali",
+        "jeb",
+        "jebel",
+        "jebel ali"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "jebel_dhanna",
+      "name": "Jebel Dhanna",
+      "file": "jebel_dhanna.json",
+      "searchTokens": [
+        "dha",
+        "dhanna",
+        "jeb",
+        "jebel",
+        "jebel dhanna"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "jeddah",
       "name": "Jeddah",
       "file": "jeddah.json",
@@ -3191,6 +3551,18 @@
       "searchTokens": [
         "kak",
         "kakinada"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "kalba",
+      "name": "Kalba",
+      "file": "kalba.json",
+      "searchTokens": [
+        "kal",
+        "kalba"
       ],
       "popularity": 50,
       "lat": null,
@@ -3497,6 +3869,21 @@
       "lon": null
     },
     {
+      "key": "khalifa_city",
+      "name": "Khalifa City",
+      "file": "khalifa_city.json",
+      "searchTokens": [
+        "cit",
+        "city",
+        "kha",
+        "khalifa",
+        "khalifa city"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "khammam",
       "name": "Khammam",
       "file": "khammam.json",
@@ -3521,6 +3908,18 @@
       "lon": null
     },
     {
+      "key": "khatt",
+      "name": "Khatt",
+      "file": "khatt.json",
+      "searchTokens": [
+        "kha",
+        "khatt"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "kheerganga",
       "name": "Kheerganga",
       "file": "kheerganga.json",
@@ -3539,6 +3938,21 @@
       "searchTokens": [
         "kho",
         "khonsa"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "khor_fakkan",
+      "name": "Khor Fakkan",
+      "file": "khor_fakkan.json",
+      "searchTokens": [
+        "fak",
+        "fakkan",
+        "kho",
+        "khor",
+        "khor fakkan"
       ],
       "popularity": 50,
       "lat": null,
@@ -3967,6 +4381,18 @@
       "lon": null
     },
     {
+      "key": "lahbab",
+      "name": "Lahbab",
+      "file": "lahbab.json",
+      "searchTokens": [
+        "lah",
+        "lahbab"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "langkawi",
       "name": "Langkawi",
       "file": "langkawi.json",
@@ -4106,6 +4532,21 @@
       "searchTokens": [
         "lis",
         "lisbon"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "liwa_oasis",
+      "name": "Liwa Oasis",
+      "file": "liwa_oasis.json",
+      "searchTokens": [
+        "liw",
+        "liwa",
+        "liwa oasis",
+        "oas",
+        "oasis"
       ],
       "popularity": 50,
       "lat": null,
@@ -4303,6 +4744,21 @@
       "lon": null
     },
     {
+      "key": "madinat_zayed",
+      "name": "Madinat Zayed",
+      "file": "madinat_zayed.json",
+      "searchTokens": [
+        "mad",
+        "madinat",
+        "madinat zayed",
+        "zay",
+        "zayed"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "madrid",
       "name": "Madrid",
       "file": "madrid.json",
@@ -4447,6 +4903,18 @@
       "lon": null
     },
     {
+      "key": "manama",
+      "name": "Manama",
+      "file": "manama.json",
+      "searchTokens": [
+        "man",
+        "manama"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "mandawa",
       "name": "Mandawa",
       "file": "mandawa.json",
@@ -4495,6 +4963,21 @@
       "lon": null
     },
     {
+      "key": "marawah_island",
+      "name": "Marawah Island",
+      "file": "marawah_island.json",
+      "searchTokens": [
+        "isl",
+        "island",
+        "mar",
+        "marawah",
+        "marawah island"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "marayoor",
       "name": "Marayoor",
       "file": "marayoor.json",
@@ -4525,6 +5008,30 @@
       "searchTokens": [
         "mar",
         "marseille"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "masafi",
+      "name": "Masafi",
+      "file": "masafi.json",
+      "searchTokens": [
+        "mas",
+        "masafi"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "masfout",
+      "name": "Masfout",
+      "file": "masfout.json",
+      "searchTokens": [
+        "mas",
+        "masfout"
       ],
       "popularity": 50,
       "lat": null,
@@ -4693,6 +5200,18 @@
       "searchTokens": [
         "mil",
         "milan"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "mirbah",
+      "name": "Mirbah",
+      "file": "mirbah.json",
+      "searchTokens": [
+        "mir",
+        "mirbah"
       ],
       "popularity": 50,
       "lat": null,
@@ -5793,6 +6312,18 @@
       "lon": null
     },
     {
+      "key": "qidfa",
+      "name": "Qidfa",
+      "file": "qidfa.json",
+      "searchTokens": [
+        "qid",
+        "qidfa"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "quebec_city",
       "name": "Quebec City",
       "file": "quebec_city.json",
@@ -5868,6 +6399,18 @@
       "lon": null
     },
     {
+      "key": "rams",
+      "name": "Rams",
+      "file": "rams.json",
+      "searchTokens": [
+        "ram",
+        "rams"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "rann_of_kutch",
       "name": "Rann Of Kutch",
       "file": "rann_of_kutch.json",
@@ -5890,6 +6433,21 @@
       "searchTokens": [
         "ran",
         "ranthambore"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "ras_al_khaimah",
+      "name": "Ras Al Khaimah",
+      "file": "ras_al_khaimah.json",
+      "searchTokens": [
+        "al",
+        "kha",
+        "khaimah",
+        "ras",
+        "ras al khaimah"
       ],
       "popularity": 50,
       "lat": null,
@@ -6037,6 +6595,18 @@
       "searchTokens": [
         "rot",
         "rotterdam"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "ruwais",
+      "name": "Ruwais",
+      "file": "ruwais.json",
+      "searchTokens": [
+        "ruw",
+        "ruwais"
       ],
       "popularity": 50,
       "lat": null,
@@ -6339,6 +6909,18 @@
       "lon": null
     },
     {
+      "key": "sharjah",
+      "name": "Sharjah",
+      "file": "sharjah.json",
+      "searchTokens": [
+        "sha",
+        "sharjah"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "shillong",
       "name": "Shillong",
       "file": "shillong.json",
@@ -6444,6 +7026,23 @@
       "searchTokens": [
         "sin",
         "sintra"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "sir_bani_yas_island",
+      "name": "Sir Bani Yas Island",
+      "file": "sir_bani_yas_island.json",
+      "searchTokens": [
+        "ban",
+        "bani",
+        "isl",
+        "island",
+        "sir",
+        "sir bani yas island",
+        "yas"
       ],
       "popularity": 50,
       "lat": null,
@@ -6633,6 +7232,18 @@
       "lon": null
     },
     {
+      "key": "sweihan",
+      "name": "Sweihan",
+      "file": "sweihan.json",
+      "searchTokens": [
+        "swe",
+        "sweihan"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
       "key": "sydney",
       "name": "Sydney",
       "file": "sydney.json",
@@ -6726,6 +7337,18 @@
       "searchTokens": [
         "tal",
         "tallinn"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "tarif",
+      "name": "Tarif",
+      "file": "tarif.json",
+      "searchTokens": [
+        "tar",
+        "tarif"
       ],
       "popularity": 50,
       "lat": null,
@@ -7142,6 +7765,21 @@
       "searchTokens": [
         "ujj",
         "ujjain"
+      ],
+      "popularity": 50,
+      "lat": null,
+      "lon": null
+    },
+    {
+      "key": "umm_al_quwain",
+      "name": "Umm Al Quwain",
+      "file": "umm_al_quwain.json",
+      "searchTokens": [
+        "al",
+        "quw",
+        "quwain",
+        "umm",
+        "umm al quwain"
       ],
       "popularity": 50,
       "lat": null,

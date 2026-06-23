@@ -1,0 +1,167 @@
+{
+  "city_name": "Qidfa",
+  "country": "United Arab Emirates",
+  "activities": [
+    {
+      "activity_name": "Qidfa Beach Walk",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sandals",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Qidfa Oasis Irrigation Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sun_hat",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Local Cafeteria Shawarma Tasting",
+      "category": "Food",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hand_sanitizer",
+        "small_change"
+      ]
+    },
+    {
+      "activity_name": "Coastal Road Cycling",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sports_shoes",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Historical Watchtower View",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Qidfa Public Park Picnic",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "picnic_mat",
+        "cooler_box"
+      ]
+    },
+    {
+      "activity_name": "Shoreline Surf Fishing",
+      "category": "Adventure",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "fishing_gear",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Qidfa Souk Grocery Shopping",
+      "category": "Shopping",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "reusable_bags"
+      ]
+    },
+    {
+      "activity_name": "Marine Sunset Photography",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "lens_filters"
+      ]
+    },
+    {
+      "activity_name": "Beachside Campfire Gathering",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "firewood",
+        "matches",
+        "jacket"
+      ]
+    }
+  ]
+}

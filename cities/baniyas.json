@@ -1,0 +1,166 @@
+{
+  "city_name": "Baniyas",
+  "country": "United Arab Emirates",
+  "activities": [
+    {
+      "activity_name": "Bwabat Al Sharq Mall Shopping",
+      "category": "Shopping",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "credit_card",
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Baniyas Public Park Walk",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Baniyas Sports Club Football Match",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "active_wear",
+        "team_jersey"
+      ]
+    },
+    {
+      "activity_name": "Traditional Machboos Dinner",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "casual_wear",
+        "sanitizer"
+      ]
+    },
+    {
+      "activity_name": "Baniyas Heritage Souk Tour",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "modest_clothing"
+      ]
+    },
+    {
+      "activity_name": "Local Cafeteria Falafel Tasting",
+      "category": "Food",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "wet_wipes",
+        "pocket_money"
+      ]
+    },
+    {
+      "activity_name": "Baniyas Equestrian Center Riding",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "long_pants",
+        "riding_boots"
+      ]
+    },
+    {
+      "activity_name": "Sunset Park Photography",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "lens_cloth"
+      ]
+    },
+    {
+      "activity_name": "Local Abaya and Perfume Shopping",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "wallet",
+        "reusable_bag"
+      ]
+    },
+    {
+      "activity_name": "Coffee and Dates at Local Majlis",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "clean_socks",
+        "hand_sanitizer"
+      ]
+    }
+  ]
+}

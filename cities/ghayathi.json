@@ -1,0 +1,168 @@
+{
+  "city_name": "Ghayathi",
+  "country": "United Arab Emirates",
+  "activities": [
+    {
+      "activity_name": "Western Desert Fringe Exploration",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "desert_boots",
+        "compass",
+        "water_jug"
+      ]
+    },
+    {
+      "activity_name": "Ghayathi Heritage Souk Tour",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "modest_clothing"
+      ]
+    },
+    {
+      "activity_name": "Local Bedouin Majlis Coffee Tasting",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hand_wipes",
+        "clean_socks"
+      ]
+    },
+    {
+      "activity_name": "Ghayathi Public Park Sunset View",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sunglasses",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Desert Falcon Training Viewing",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sun_hat",
+        "telephoto_lens"
+      ]
+    },
+    {
+      "activity_name": "Traditional Machboos Dinner",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "loose_pants",
+        "sanitizer"
+      ]
+    },
+    {
+      "activity_name": "Ghayathi Cooperative Shopping Spree",
+      "category": "Shopping",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "wallet",
+        "shopping_bags"
+      ]
+    },
+    {
+      "activity_name": "Dune Ridge Sand Boarding",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sandboard",
+        "sunscreen",
+        "goggles"
+      ]
+    },
+    {
+      "activity_name": "Desert Flora and Fauna Tracking",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "field_guide",
+        "sturdy_shoes"
+      ]
+    },
+    {
+      "activity_name": "Stargazing at Empty Desert Camp",
+      "category": "Relaxation",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "warm_sweater",
+        "headlamp"
+      ]
+    }
+  ]
+}

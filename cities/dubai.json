@@ -3,25 +3,25 @@
   "country": "United Arab Emirates",
   "activities": [
     {
-      "activity_name": "Visit Burj Khalifa At The Top Observation Deck",
+      "activity_name": "Burj Khalifa Observation Deck",
       "category": "Sightseeing",
-      "duration_minutes": 90,
+      "duration_minutes": 120,
       "scores": {
-        "budget": 3,
-        "relaxed": 3,
-        "adventure": 1,
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 2,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
         "camera",
-        "comfortable shoes"
+        "sunglasses"
       ]
     },
     {
-      "activity_name": "Desert Safari with Dune Bashing, Camel Ride & BBQ Dinner",
+      "activity_name": "Desert Conservation Reserve Safari",
       "category": "Adventure",
-      "duration_minutes": 360,
+      "duration_minutes": 240,
       "scores": {
         "budget": 3,
         "relaxed": 2,
@@ -30,144 +30,138 @@
         "balanced": 4
       },
       "packing_tags": [
-        "sunglasses",
-        "hat",
-        "light clothing",
-        "camera",
-        "closed-toe shoes"
+        "sunscreen",
+        "light_clothing",
+        "scarf"
       ]
     },
     {
-      "activity_name": "Shopping Extravaganza at The Dubai Mall",
+      "activity_name": "Dubai Mall Shopping",
       "category": "Shopping",
-      "duration_minutes": 240,
-      "scores": {
-        "budget": 5,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 5,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "comfortable shoes",
-        "credit card",
-        "shopping bag"
-      ]
-    },
-    {
-      "activity_name": "Explore Al Fahidi Historical Neighborhood & Dubai Museum",
-      "category": "Culture",
       "duration_minutes": 180,
       "scores": {
-        "budget": 2,
+        "budget": 1,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "credit_card"
+      ]
+    },
+    {
+      "activity_name": "Al Fahidi Historical Neighbourhood Tour",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
         "relaxed": 4,
         "adventure": 1,
         "family": 4,
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable shoes",
-        "camera",
-        "water bottle"
+        "modest_clothing",
+        "comfortable_shoes"
       ]
     },
     {
-      "activity_name": "Relaxation Day at Jumeirah Public Beach",
+      "activity_name": "Jumeirah Beach Relaxation",
       "category": "Relaxation",
       "duration_minutes": 180,
       "scores": {
-        "budget": 1,
+        "budget": 4,
         "relaxed": 5,
         "adventure": 2,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "swimsuit",
-        "sunscreen",
-        "towel",
-        "hat",
-        "sunglasses"
+        "swimwear",
+        "beach_towel",
+        "sun_lotion"
       ]
     },
     {
-      "activity_name": "Experience Traditional Emirati Cuisine",
+      "activity_name": "Traditional Emirati Dining at Al Khayma",
       "category": "Food",
       "duration_minutes": 90,
       "scores": {
         "budget": 3,
         "relaxed": 4,
-        "adventure": 2,
-        "family": 4,
+        "adventure": 1,
+        "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "comfortable attire",
-        "camera"
+        "casual_wear",
+        "hand_sanitizer"
       ]
     },
     {
-      "activity_name": "Watch The Dubai Fountain Show",
-      "category": "Sightseeing",
-      "duration_minutes": 30,
-      "scores": {
-        "budget": 1,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 5,
-        "balanced": 5
-      },
-      "packing_tags": [
-        "camera"
-      ]
-    },
-    {
-      "activity_name": "Skydiving over Palm Jumeirah with Skydive Dubai",
+      "activity_name": "Deep Dive Dubai Experience",
       "category": "Adventure",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 5,
-        "relaxed": 1,
-        "adventure": 5,
-        "family": 1,
-        "balanced": 2
-      },
-      "packing_tags": [
-        "comfortable athletic clothing",
-        "closed-toe shoes"
-      ]
-    },
-    {
-      "activity_name": "Indulge in a Luxury Spa Treatment",
-      "category": "Relaxation",
       "duration_minutes": 120,
       "scores": {
-        "budget": 4,
-        "relaxed": 5,
-        "adventure": 1,
-        "family": 1,
+        "budget": 1,
+        "relaxed": 3,
+        "adventure": 5,
+        "family": 3,
         "balanced": 3
       },
       "packing_tags": [
-        "comfortable clothing",
-        "swimsuit (for facilities)"
+        "swimwear",
+        "change_of_clothes"
       ]
     },
     {
-      "activity_name": "Dhow Cruise Dinner on Dubai Creek",
-      "category": "Food",
-      "duration_minutes": 120,
+      "activity_name": "Dubai Fountain Show",
+      "category": "Sightseeing",
+      "duration_minutes": 45,
       "scores": {
-        "budget": 3,
+        "budget": 5,
         "relaxed": 4,
-        "adventure": 2,
-        "family": 4,
+        "adventure": 1,
+        "family": 5,
         "balanced": 4
       },
       "packing_tags": [
         "camera",
-        "light jacket (evenings)",
-        "comfortable attire"
+        "smartphone"
+      ]
+    },
+    {
+      "activity_name": "Gold Souk Exploration",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "cash",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Etihad Museum Visit",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "notebook"
       ]
     }
   ]

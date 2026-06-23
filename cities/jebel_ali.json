@@ -1,0 +1,165 @@
+{
+  "city_name": "Jebel Ali",
+  "country": "United Arab Emirates",
+  "activities": [
+    {
+      "activity_name": "Jebel Ali Port Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Jebel Ali Shooting Club Session",
+      "category": "Adventure",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 2,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "ear_protection",
+        "closed_toe_shoes"
+      ]
+    },
+    {
+      "activity_name": "Ibn Battuta Mall Shopping",
+      "category": "Shopping",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "credit_card"
+      ]
+    },
+    {
+      "activity_name": "JA Jebel Ali Golf Resort Round",
+      "category": "Relaxation",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "golf_clubs",
+        "polo_shirt"
+      ]
+    },
+    {
+      "activity_name": "Jebel Ali Beach Picnic",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "picnic_mat",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Seafood Dinner at Jebel Ali Marina",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "smart_casual_wear",
+        "perfume"
+      ]
+    },
+    {
+      "activity_name": "Gurunanak Darbar Sikh Temple Visit",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "head_covering",
+        "modest_clothing"
+      ]
+    },
+    {
+      "activity_name": "Jebel Ali Church Complex Visit",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "respectful_clothing"
+      ]
+    },
+    {
+      "activity_name": "Go-Karting at Jebel Ali Circuit",
+      "category": "Adventure",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 3,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sneakers",
+        "active_wear"
+      ]
+    },
+    {
+      "activity_name": "Switch Bowling Match",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "socks",
+        "casual_wear"
+      ]
+    }
+  ]
+}

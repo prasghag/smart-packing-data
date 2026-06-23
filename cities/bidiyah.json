@@ -1,0 +1,167 @@
+{
+  "city_name": "Bidiyah",
+  "country": "United Arab Emirates",
+  "activities": [
+    {
+      "activity_name": "Al Badiyah Mosque Historic Tour",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "head_scarf",
+        "conservative_clothing"
+      ]
+    },
+    {
+      "activity_name": "Bidiyah Watchtower Hike",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Bidiyah Beach Snorkeling",
+      "category": "Adventure",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "snorkel_kit",
+        "sunscreen",
+        "rash_guard"
+      ]
+    },
+    {
+      "activity_name": "Local Beachside Seafood Dinner",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "casual_attire",
+        "wet_wipes"
+      ]
+    },
+    {
+      "activity_name": "Coastal Highway Cycling",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cycling_helmet",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Bidiyah Souk Souvenir Shopping",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "wallet"
+      ]
+    },
+    {
+      "activity_name": "Beachside Palm Grove Walk",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sun_hat",
+        "insect_repellent"
+      ]
+    },
+    {
+      "activity_name": "Traditional Emirati Luqaimat Tasting",
+      "category": "Food",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sanitizer",
+        "small_change"
+      ]
+    },
+    {
+      "activity_name": "Heritage Village Photo Walk",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_sneakers"
+      ]
+    },
+    {
+      "activity_name": "Oceanfront Sunset Meditating",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "yoga_mat",
+        "sunglasses"
+      ]
+    }
+  ]
+}

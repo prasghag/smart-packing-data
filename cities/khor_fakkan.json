@@ -1,0 +1,167 @@
+{
+  "city_name": "Khor Fakkan",
+  "country": "United Arab Emirates",
+  "activities": [
+    {
+      "activity_name": "Khor Fakkan Amphitheatre Visit",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "light_jacket"
+      ]
+    },
+    {
+      "activity_name": "Al Rabi Tower Hiking Trail",
+      "category": "Adventure",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_shoes",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Khor Fakkan Waterfall Viewing",
+      "category": "Sightseeing",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "smartphone",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Shees Park Stroll",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Khor Fakkan Beach Swimming",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "beach_towel"
+      ]
+    },
+    {
+      "activity_name": "Shark Island Snorkeling",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "snorkel_mask",
+        "fins",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Al Rafisah Dam Kayaking",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "waterproof_bag",
+        "life_jacket"
+      ]
+    },
+    {
+      "activity_name": "Seafood Lunch at Al hisn",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "casual_wear",
+        "sanitizer"
+      ]
+    },
+    {
+      "activity_name": "Hisn Khor Fakkan Museum Tour",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "notebook"
+      ]
+    },
+    {
+      "activity_name": "Souk Sharq Souvenirs Shopping",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "reusable_bag"
+      ]
+    }
+  ]
+}

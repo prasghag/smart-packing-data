@@ -1,0 +1,166 @@
+{
+  "city_name": "Al Hamriyah",
+  "country": "United Arab Emirates",
+  "activities": [
+    {
+      "activity_name": "Al Hamriyah Beach Picnic",
+      "category": "Relaxation",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "picnic_mat",
+        "cooler_box"
+      ]
+    },
+    {
+      "activity_name": "Hamriyah Cultural Center Tour",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_dress",
+        "notebook"
+      ]
+    },
+    {
+      "activity_name": "Al Hamriyah Park Jogging",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "running_shoes",
+        "fitness_tracker"
+      ]
+    },
+    {
+      "activity_name": "Coastal Jet Skiing",
+      "category": "Adventure",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "life_jacket"
+      ]
+    },
+    {
+      "activity_name": "Beachside Cafeteria Burger Dinner",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "wet_wipes",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Hamriyah Souk Abaya Shopping",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "credit_card",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Public Beach Shell Gathering",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "tote_bag",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Sea Bird Photography",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "telephoto_lens"
+      ]
+    },
+    {
+      "activity_name": "Marine Harbor Walk",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Beach Soccer Match",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "active_wear",
+        "water_bottle"
+      ]
+    }
+  ]
+}

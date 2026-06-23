@@ -1,0 +1,167 @@
+{
+  "city_name": "Masfout",
+  "country": "United Arab Emirates",
+  "activities": [
+    {
+      "activity_name": "Masfout Castle Hike",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hiking_boots",
+        "camera",
+        "hydration_pack"
+      ]
+    },
+    {
+      "activity_name": "Hajar Mountain Cycling Trails",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "mtb_helmet",
+        "riding_gloves"
+      ]
+    },
+    {
+      "activity_name": "Masfout Park Family Picnic",
+      "category": "Relaxation",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "picnic_blanket",
+        "soccer_ball"
+      ]
+    },
+    {
+      "activity_name": "Wadi Masfout Off-Road Exploration",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "tow_rope",
+        "tire_pressure_gauge"
+      ]
+    },
+    {
+      "activity_name": "Al Muzeireh Heritage Village Visit",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_dress",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Mountain Sunset Landscape Sketching",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sketchpad",
+        "charcoal_pencils"
+      ]
+    },
+    {
+      "activity_name": "Local Honey Farm Tasting",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "closed_shoes",
+        "hand_sanitizer"
+      ]
+    },
+    {
+      "activity_name": "Masfout Pottery Workshop",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "apron",
+        "wet_wipes"
+      ]
+    },
+    {
+      "activity_name": "Roadside Agriculture Souk Shopping",
+      "category": "Shopping",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "tote_bag"
+      ]
+    },
+    {
+      "activity_name": "Rocky Canyon Trail Walking",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sturdy_sneakers",
+        "water_bottle"
+      ]
+    }
+  ]
+}

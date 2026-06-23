@@ -1,0 +1,168 @@
+{
+  "city_name": "Umm Al Quwain",
+  "country": "United Arab Emirates",
+  "activities": [
+    {
+      "activity_name": "Dreamland Aqua Park Rides",
+      "category": "Adventure",
+      "duration_minutes": 300,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "towel",
+        "waterproof_wallet"
+      ]
+    },
+    {
+      "activity_name": "Umm Al Quwain Fort Tour",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Sinniyah Island Bird Watching",
+      "category": "Sightseeing",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "binoculars",
+        "telephoto_lens"
+      ]
+    },
+    {
+      "activity_name": "Kite Beach Center Kitesurfing",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "wetsuit",
+        "sunscreen",
+        "sunglasses_strap"
+      ]
+    },
+    {
+      "activity_name": "Mangrove Crabbing Tour",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "headlamp",
+        "water_boots"
+      ]
+    },
+    {
+      "activity_name": "Falaj Al Mualla Fort Visit",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "water_bottle",
+        "modest_dress"
+      ]
+    },
+    {
+      "activity_name": "UAQ Marine Club Sailing",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "life_vest",
+        "deck_shoes"
+      ]
+    },
+    {
+      "activity_name": "Local Cafeteria Shawarma Tasting",
+      "category": "Food",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hand_sanitizer",
+        "small_change"
+      ]
+    },
+    {
+      "activity_name": "Coastal Road Sunset Watching",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camp_chair",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Mall of UAQ Shopping",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "credit_card",
+        "comfortable_shoes"
+      ]
+    }
+  ]
+}

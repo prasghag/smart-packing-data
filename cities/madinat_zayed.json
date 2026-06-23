@@ -1,0 +1,167 @@
+{
+  "city_name": "Madinat Zayed",
+  "country": "United Arab Emirates",
+  "activities": [
+    {
+      "activity_name": "Al Dhafra Festival Camel Pageant",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "ghutra_scarf",
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Tilal Liwa Desert Dune Bashing",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "motion_pills",
+        "sand_goggles"
+      ]
+    },
+    {
+      "activity_name": "Madinat Zayed Gold Souk Tour",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "credit_card",
+        "comfortable_shoes"
+      ]
+    },
+    {
+      "activity_name": "Desert Oasis Falconry Show",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "heavy_gloves",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Madinat Zayed Public Park Walk",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sturdy_sneakers",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Traditional Camel Milk Tasting",
+      "category": "Food",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "wet_wipes",
+        "sanitizer"
+      ]
+    },
+    {
+      "activity_name": "Rub Al Khali Border Safari",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 2,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "satellite_phone",
+        "warm_jacket"
+      ]
+    },
+    {
+      "activity_name": "Al Dhafra Mall Shopping Spree",
+      "category": "Shopping",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "wallet",
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Desert Star Gazing Experience",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "laser_pointer",
+        "fleece_blanket"
+      ]
+    },
+    {
+      "activity_name": "Emirati Rice Feast at Local Kitchen",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_pants",
+        "hand_wipes"
+      ]
+    }
+  ]
+}

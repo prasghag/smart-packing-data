@@ -1,0 +1,169 @@
+{
+  "city_name": "Hatta",
+  "country": "United Arab Emirates",
+  "activities": [
+    {
+      "activity_name": "Hatta Dam Kayaking",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "life_jacket",
+        "dry_bag",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Hatta Mountain Bike Trail Riding",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "mtb_helmet",
+        "riding_gloves",
+        "hydration_pack"
+      ]
+    },
+    {
+      "activity_name": "Hatta Honey Bee Discovery Center",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "closed_shoes",
+        "protective_veil"
+      ]
+    },
+    {
+      "activity_name": "Hatta Heritage Village Tour",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Hatta Wadi Hub Archery",
+      "category": "Adventure",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "arm_guard",
+        "sneakers"
+      ]
+    },
+    {
+      "activity_name": "Hill Park Picnic",
+      "category": "Relaxation",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "picnic_basket",
+        "blanket"
+      ]
+    },
+    {
+      "activity_name": "Hatta Rock Pools Swimming",
+      "category": "Adventure",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "water_shoes",
+        "towels"
+      ]
+    },
+    {
+      "activity_name": "BBQ Dinner at Hatta Campsite",
+      "category": "Food",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "bbq_tongs",
+        "charcoal",
+        "flashlight"
+      ]
+    },
+    {
+      "activity_name": "Swan Lake Walk",
+      "category": "Sightseeing",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "bird_food",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Glamping Under the Stars",
+      "category": "Relaxation",
+      "duration_minutes": 480,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "warm_jacket",
+        "marshmallows"
+      ]
+    }
+  ]
+}

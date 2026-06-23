@@ -1,0 +1,167 @@
+{
+  "city_name": "Al Wathba",
+  "country": "United Arab Emirates",
+  "activities": [
+    {
+      "activity_name": "Al Wathba Wetland Reserve Bird Watching",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "binoculars",
+        "field_guide",
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Al Wathba Fossil Dunes Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Al Wathba Cycle Track Ride",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "cycling_helmet",
+        "water_bladder"
+      ]
+    },
+    {
+      "activity_name": "Camel Racing Track Morning",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "closed_toe_shoes"
+      ]
+    },
+    {
+      "activity_name": "Al Wathba Salt Lake Photography",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Traditional Emirati Breakfast",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hand_wipes",
+        "casual_attire"
+      ]
+    },
+    {
+      "activity_name": "Desert Camping under the Stars",
+      "category": "Relaxation",
+      "duration_minutes": 480,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sleeping_bag",
+        "warm_jacket"
+      ]
+    },
+    {
+      "activity_name": "Al Wathba Hill Park Stroll",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Heritage Festival Pavilion Visit",
+      "category": "Culture",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "cash"
+      ]
+    },
+    {
+      "activity_name": "Local Date and Souvenir Shopping",
+      "category": "Shopping",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "wallet",
+        "reusable_bags"
+      ]
+    }
+  ]
+}

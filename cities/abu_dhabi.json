@@ -3,7 +3,7 @@
   "country": "United Arab Emirates",
   "activities": [
     {
-      "activity_name": "Sheikh Zayed Grand Mosque",
+      "activity_name": "Sheikh Zayed Grand Mosque Visit",
       "category": "Culture",
       "duration_minutes": 120,
       "scores": {
@@ -11,162 +11,158 @@
         "relaxed": 4,
         "adventure": 1,
         "family": 5,
-        "balanced": 5
+        "balanced": 4
       },
       "packing_tags": [
-        "modest_clothing",
-        "sunglasses",
-        "camera"
+        "conservative_clothing",
+        "head_scarf"
       ]
     },
     {
-      "activity_name": "Louvre Abu Dhabi",
-      "category": "Culture",
+      "activity_name": "Louvre Abu Dhabi Tour",
+      "category": "Sightseeing",
       "duration_minutes": 180,
       "scores": {
         "budget": 3,
         "relaxed": 4,
         "adventure": 1,
         "family": 4,
-        "balanced": 5
-      },
-      "packing_tags": [
-        "indoor_footwear",
-        "camera",
-        "day_pack"
-      ]
-    },
-    {
-      "activity_name": "Ferrari World",
-      "category": "Adventure",
-      "duration_minutes": 360,
-      "scores": {
-        "budget": 1,
-        "relaxed": 2,
-        "adventure": 5,
-        "family": 5,
         "balanced": 4
       },
       "packing_tags": [
         "comfortable_shoes",
-        "activewear",
-        "advance_tickets"
+        "light_jacket"
       ]
     },
     {
-      "activity_name": "Emirates Palace Tour",
-      "category": "Sightseeing",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 4,
-        "relaxed": 5,
-        "adventure": 1,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "smart_casual",
-        "camera"
-      ]
-    },
-    {
-      "activity_name": "Corniche Beach",
-      "category": "Relaxation",
-      "duration_minutes": 180,
-      "scores": {
-        "budget": 4,
-        "relaxed": 5,
-        "adventure": 2,
-        "family": 5,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "swimwear",
-        "sunscreen",
-        "beach_towel"
-      ]
-    },
-    {
-      "activity_name": "Qasr Al Watan",
-      "category": "Sightseeing",
-      "duration_minutes": 120,
-      "scores": {
-        "budget": 3,
-        "relaxed": 4,
-        "adventure": 1,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "modest_clothing",
-        "camera"
-      ]
-    },
-    {
-      "activity_name": "Yas Marina Circuit",
+      "activity_name": "Yas Marina Circuit Karting",
       "category": "Adventure",
-      "duration_minutes": 120,
+      "duration_minutes": 60,
       "scores": {
         "budget": 2,
-        "relaxed": 2,
+        "relaxed": 1,
         "adventure": 5,
-        "family": 3,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "closed_toe_shoes",
-        "sunglasses",
-        "activewear"
-      ]
-    },
-    {
-      "activity_name": "Observation Deck at 300",
-      "category": "Sightseeing",
-      "duration_minutes": 90,
-      "scores": {
-        "budget": 3,
-        "relaxed": 5,
-        "adventure": 1,
-        "family": 4,
-        "balanced": 4
-      },
-      "packing_tags": [
-        "camera",
-        "smart_casual"
-      ]
-    },
-    {
-      "activity_name": "Abu Dhabi Mall",
-      "category": "Shopping",
-      "duration_minutes": 150,
-      "scores": {
-        "budget": 3,
-        "relaxed": 4,
-        "adventure": 1,
         "family": 4,
         "balanced": 3
       },
       "packing_tags": [
-        "credit_card",
-        "comfortable_shoes",
-        "reusable_bag"
+        "closed_toe_shoes",
+        "sportswear"
       ]
     },
     {
-      "activity_name": "Heritage Village",
-      "category": "Culture",
-      "duration_minutes": 90,
+      "activity_name": "Ferrari World Theme Park Rides",
+      "category": "Adventure",
+      "duration_minutes": 300,
       "scores": {
-        "budget": 5,
-        "relaxed": 4,
+        "budget": 2,
+        "relaxed": 1,
+        "adventure": 5,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_sneakers",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Saadiyat Beach Relaxation",
+      "category": "Relaxation",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
         "adventure": 2,
         "family": 5,
         "balanced": 4
       },
       "packing_tags": [
-        "sun_hat",
-        "walking_shoes",
+        "swimsuit",
+        "sunscreen_lotion",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Seafood Dinner at Mina Fish Market",
+      "category": "Food",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hand_wipes",
+        "casual_outfit"
+      ]
+    },
+    {
+      "activity_name": "Yas Mall Shopping Spree",
+      "category": "Shopping",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 3,
+        "relaxed": 3,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "credit_card",
+        "walking_shoes"
+      ]
+    },
+    {
+      "activity_name": "Qasr Al Watan Tour",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_dress",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Mangrove Kayaking Activity",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "waterproof_bag",
+        "change_of_clothes",
         "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Corniche Road Cycling",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "sports_shoes",
+        "water_bottle",
+        "sunglasses"
       ]
     }
   ]

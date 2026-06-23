@@ -1,0 +1,167 @@
+{
+  "city_name": "Al Sila",
+  "country": "United Arab Emirates",
+  "activities": [
+    {
+      "activity_name": "Sila Public Beach Relaxation",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "beach_towel"
+      ]
+    },
+    {
+      "activity_name": "Coastal Bird Watching",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "binoculars",
+        "field_guide"
+      ]
+    },
+    {
+      "activity_name": "Sila Harbor Fishing Experience",
+      "category": "Adventure",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "fishing_gear",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Archaeological Site Walk",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sturdy_sneakers",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Local Fish Curry Lunch",
+      "category": "Food",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hand_sanitizer",
+        "casual_wear"
+      ]
+    },
+    {
+      "activity_name": "Sila Marine Souk Shopping",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "reusable_tote"
+      ]
+    },
+    {
+      "activity_name": "Coastal Sunset Photography",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "lens_filters"
+      ]
+    },
+    {
+      "activity_name": "Beach Volleyball Match",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sports_shorts",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Heritage Center Exhibition View",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_dress",
+        "notebook"
+      ]
+    },
+    {
+      "activity_name": "Seaside Campfire Gathering",
+      "category": "Relaxation",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "firewood",
+        "matches",
+        "jacket"
+      ]
+    }
+  ]
+}

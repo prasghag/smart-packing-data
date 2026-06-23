@@ -1,0 +1,165 @@
+{
+  "city_name": "Ghantoot",
+  "country": "United Arab Emirates",
+  "activities": [
+    {
+      "activity_name": "Ghantoot Racing and Polo Club Match",
+      "category": "Culture",
+      "duration_minutes": 180,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "smart_casual_dress",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Ghantoot Marina Yacht Cruise",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "windbreaker"
+      ]
+    },
+    {
+      "activity_name": "Blue Marlin Ibiza UAE Party",
+      "category": "Relaxation",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 1,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 1,
+        "balanced": 2
+      },
+      "packing_tags": [
+        "resort_wear",
+        "perfume"
+      ]
+    },
+    {
+      "activity_name": "Ghantoot Beach Jet Skiing",
+      "category": "Adventure",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 3,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "life_jacket"
+      ]
+    },
+    {
+      "activity_name": "Golden Tulip Ghantoot Resort Spa",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "comfy_slippers",
+        "robe"
+      ]
+    },
+    {
+      "activity_name": "Mediterranean Dinner by the Marina",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "smart_casuals",
+        "perfume"
+      ]
+    },
+    {
+      "activity_name": "Coastal Water Skiing Experience",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 2,
+        "relaxed": 2,
+        "adventure": 5,
+        "family": 3,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "wetsuit",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Ghantoot Beach Volleyball",
+      "category": "Adventure",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "active_wear",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Marina Boardwalk Sunset Stroll",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Resort Souvenir Boutique Shopping",
+      "category": "Shopping",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 2,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "credit_card"
+      ]
+    }
+  ]
+}

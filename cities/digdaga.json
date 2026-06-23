@@ -1,0 +1,167 @@
+{
+  "city_name": "Digdaga",
+  "country": "United Arab Emirates",
+  "activities": [
+    {
+      "activity_name": "Digdaga Dairy Farm Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "camera",
+        "stroller"
+      ]
+    },
+    {
+      "activity_name": "Agricultural Greenhouses Walk",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sun_hat",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Local Farm Fresh Milk Tasting",
+      "category": "Food",
+      "duration_minutes": 45,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "hand_wipes",
+        "sanitizer"
+      ]
+    },
+    {
+      "activity_name": "Digdaga Heritage Center Visit",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "comfortable_shoes",
+        "modest_clothing"
+      ]
+    },
+    {
+      "activity_name": "Countryside Bicycle Riding",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sports_shoes",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Digdaga Souk Vegetable Shopping",
+      "category": "Shopping",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "reusable_bags"
+      ]
+    },
+    {
+      "activity_name": "Farmhouse Barbecue Dinner",
+      "category": "Food",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "grill_charcoal",
+        "portable_tongs"
+      ]
+    },
+    {
+      "activity_name": "Sunset Over Green Fields",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "yoga_mat",
+        "sunglasses"
+      ]
+    },
+    {
+      "activity_name": "Local Pottery Crafts Viewing",
+      "category": "Culture",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "clean_socks",
+        "sanitizer"
+      ]
+    },
+    {
+      "activity_name": "Rural Nature Walk",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "insect_repellent"
+      ]
+    }
+  ]
+}

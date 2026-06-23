@@ -1,0 +1,169 @@
+{
+  "city_name": "Dadna",
+  "country": "United Arab Emirates",
+  "activities": [
+    {
+      "activity_name": "Dadna Beach Camping",
+      "category": "Relaxation",
+      "duration_minutes": 480,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 3,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sleeping_bag",
+        "flashlight",
+        "tent"
+      ]
+    },
+    {
+      "activity_name": "Dadna Reef Snorkeling",
+      "category": "Adventure",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 4,
+        "family": 5,
+        "balanced": 5
+      },
+      "packing_tags": [
+        "snorkel_kit",
+        "sunscreen",
+        "rash_guard"
+      ]
+    },
+    {
+      "activity_name": "Beachfront BBQ Dinner",
+      "category": "Food",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "portable_grill",
+        "matches",
+        "charcoal"
+      ]
+    },
+    {
+      "activity_name": "Dadna Agricultural Farm Tour",
+      "category": "Sightseeing",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "walking_shoes",
+        "sun_hat"
+      ]
+    },
+    {
+      "activity_name": "Coastal Highway Biking",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 4,
+        "family": 3,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cycling_helmet",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Dadna Souk Fruit Shopping",
+      "category": "Shopping",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "wallet"
+      ]
+    },
+    {
+      "activity_name": "Marine Wildlife Spotting",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "binoculars",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Dadna Heritage House Visit",
+      "category": "Culture",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "camera",
+        "comfortable_sneakers"
+      ]
+    },
+    {
+      "activity_name": "Sea Shell Collecting",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "small_bucket",
+        "sunscreen"
+      ]
+    },
+    {
+      "activity_name": "Oceanfront Sunset Meditating",
+      "category": "Relaxation",
+      "duration_minutes": 60,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "yoga_mat",
+        "sunglasses"
+      ]
+    }
+  ]
+}

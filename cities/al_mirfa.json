@@ -1,0 +1,170 @@
+{
+  "city_name": "Al Mirfa",
+  "country": "United Arab Emirates",
+  "activities": [
+    {
+      "activity_name": "Al Mirfa Beach Watersports Festival",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 4,
+        "relaxed": 3,
+        "adventure": 5,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "swimwear",
+        "rash_guard",
+        "sun_lotion"
+      ]
+    },
+    {
+      "activity_name": "Mirfa Harbor Deep Sea Fishing",
+      "category": "Adventure",
+      "duration_minutes": 240,
+      "scores": {
+        "budget": 3,
+        "relaxed": 4,
+        "adventure": 4,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sea_sickness_tablets",
+        "wide_brim_hat"
+      ]
+    },
+    {
+      "activity_name": "Mirfa Public Beach Camping",
+      "category": "Relaxation",
+      "duration_minutes": 480,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "ground_mat",
+        "tent",
+        "sleeping_bag"
+      ]
+    },
+    {
+      "activity_name": "Al Mirfa Corniche Sunset Walk",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "sandals",
+        "camera"
+      ]
+    },
+    {
+      "activity_name": "Local Pier Crabbing Experience",
+      "category": "Adventure",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 3,
+        "adventure": 3,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "crab_nets",
+        "bucket",
+        "thick_gloves"
+      ]
+    },
+    {
+      "activity_name": "Catch and Cook Beach BBQ",
+      "category": "Food",
+      "duration_minutes": 150,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 2,
+        "family": 5,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "portable_grill",
+        "matches",
+        "spices"
+      ]
+    },
+    {
+      "activity_name": "Coastal Mangrove Bird Watching",
+      "category": "Sightseeing",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "binoculars",
+        "water_bottle"
+      ]
+    },
+    {
+      "activity_name": "Mirfa Souk Traditional Textile Shopping",
+      "category": "Shopping",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 4,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "cash",
+        "measuring_tape"
+      ]
+    },
+    {
+      "activity_name": "Al Dhafra Coast Heritage Tour",
+      "category": "Culture",
+      "duration_minutes": 120,
+      "scores": {
+        "budget": 5,
+        "relaxed": 4,
+        "adventure": 1,
+        "family": 4,
+        "balanced": 4
+      },
+      "packing_tags": [
+        "modest_clothing",
+        "notebook"
+      ]
+    },
+    {
+      "activity_name": "Mirfa Hotel Gym and Sauna",
+      "category": "Relaxation",
+      "duration_minutes": 90,
+      "scores": {
+        "budget": 3,
+        "relaxed": 5,
+        "adventure": 1,
+        "family": 2,
+        "balanced": 3
+      },
+      "packing_tags": [
+        "sports_kit",
+        "indoor_shoes"
+      ]
+    }
+  ]
+}
